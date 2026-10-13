@@ -51,8 +51,8 @@ w.DeckApp=function(el,o){
   const st=el.querySelector('.start'),upd=()=>{const s=[...el.querySelectorAll('.boxes input:checked')].map(i=>i.value),n=(el.querySelector('input[name=mixn]:checked')||{}).value||25;
    st.href=s.length?SS+'?mix='+s.join(',')+'&n='+n+'&from='+encodeURIComponent(self):'#';st.setAttribute('aria-disabled',s.length?'false':'true')};
   el.querySelector('.mix').addEventListener('change',upd);el.querySelectorAll('.tl').forEach(b=>b.onclick=()=>{el.querySelectorAll('.boxes input').forEach(i=>i.checked=b.dataset.all==='1');upd()});upd();
-  /* live sizes: read each deck file from Style Swipe and show its real pair count */
-  D.forEach(d=>fetch(SS+'decks/'+encodeURIComponent(d.id)+'.json').then(r=>r.ok?r.json():null).then(x=>{const n=x&&((x.pairs||x.cards||[]).length);if(!n)return;d.size=n;el.querySelectorAll('[data-size="'+d.id+'"]').forEach(e=>e.textContent=n+' pairs')}).catch(()=>{}));
+  /* live sizes: one sizes.json (deck_id -> pair count); decks.json size stays as fallback */
+  fetch(SS+'decks/sizes.json',{cache:'no-store'}).then(r=>r.ok?r.json():null).then(S=>{if(!S)return;D.forEach(d=>{const n=+S[d.id]||0;if(!n)return;d.size=n;el.querySelectorAll('[data-size="'+d.id+'"]').forEach(e=>e.textContent=n+' pairs')})}).catch(()=>{});
  }).catch(()=>{el.innerHTML='<p class="none">Decks not available.</p>'});
 };
 })(window);
