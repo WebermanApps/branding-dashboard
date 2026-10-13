@@ -1,13 +1,16 @@
 {
-  "type": "Morning Report",
+  "type": "Evening Report",
   "date": "2026-10-13",
-  "updated": "2026-10-13T15:00:00+07:00",
+  "updated": "2026-10-13T18:10:00+07:00",
   "today": [
-    "Work Decks: 5 Live (UpKeep 7, Prop 1, Construction 1, Scout 1, WellNest 1)",
-    "Personal Decks: 8 Live (Blueprint 3, Thai 2, Blog 1, Portfolio 1, Japan Cottage 1, Miles 1, Jokes 1, Jane Amex 2)",
-    "Dashboard: Style Guide Shared, Share Button Added"
+    "Built and published 16 decks: today's Daily Deck, Dashboard 1 and 2, five work decks (UpKeep 7, Prop, Construction, Scout, WellNest), eight personal decks (Blueprint 3, Thai 2, Blog, Portfolio, Japan Cottage, Miles, Jokes, Jane Amex 2), and the Upkeep Stay & Gift Deck.",
+    "Picks received from UpKeep 7 (35 of 50) and Dashboard 1 (37 of 50), which shaped the Stay & Gift Deck and Dashboard 2.",
+    "Wrote the agent dashboard style guide and drew 18 agent icons for every dashboard.",
+    "Style Swipe now has a Submit button that sends results straight to me, a Back link, and pull-down-to-refresh; this dashboard got the Apps Home link, the Decisions dropdown, and big-screen sizing."
   ],
   "tomorrow": [
-    "Next Decks: Built As Soon As Results Are Submitted"
+    "A fresh Daily Deck goes live around 4:25 AM, and the Morning Report replaces this one before 5:00 AM.",
+    "20 decks are still waiting on you, with the Upkeep Stay & Gift Deck first in line.",
+    "As soon as you submit any deck, I build the next one on that topic and pass anything that affects other agents straight to them."
   ]
 }
