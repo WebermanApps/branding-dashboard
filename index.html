@@ -86,7 +86,7 @@ details summary{cursor:pointer;min-height:44px;display:flex;align-items:center;f
 @media(min-width:3200px){body{font-size:22px}}
 details.alert summary{gap:8px;color:#7a5c00;list-style:none}details.alert summary::-webkit-details-marker{display:none}details.alert summary::after{content:"";width:8px;height:8px;border-right:2px solid currentColor;border-bottom:2px solid currentColor;transform:rotate(45deg);margin-left:6px}details.alert[open] summary::after{transform:rotate(-135deg)}details.alert summary svg{color:var(--s)}
 @media(prefers-reduced-motion:reduce){*{transition:none!important}}
-</style><script src="ptr.js?v=3" defer></script>
+.top3{margin:4px 0 12px;padding-left:22px}.top3 li{margin:4px 0}.needs{margin-top:10px}.needs summary{cursor:pointer;min-height:44px;display:flex;align-items:center;font-weight:600}</style><script src="ptr.js?v=4" defer></script>
 </head><body>
 <svg width="0" height="0" style="position:absolute"><defs>
 <symbol id="i-share" viewBox="0 0 24 24"><path d="M12 3v12M7 8l5-5 5 5M5 13v6a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2v-6"/></symbol>
@@ -170,7 +170,7 @@ document.getElementById('tiles').innerHTML=D.filter(d=>d[3]=='wait').slice(0,6).
 const esc=x=>String(x).replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
 fetch('report.json',{cache:'no-store'}).then(r=>r.json()).then(r=>{const ul=a=>'<ul>'+(a||[]).map(x=>'<li>'+esc(x)+'</li>').join('')+'</ul>';
 const d=new Date(r.updated||r.date);const ds=isNaN(d)?esc(r.date):d.toLocaleDateString('en-US',{month:'short',day:'numeric',year:'numeric',timeZone:'Asia/Bangkok'});
-document.getElementById('report').innerHTML=`<h3>${esc(r.type||'Report')} <span class="upd">Updated ${ds}</span></h3><div class="rgrid"><div><div class="k">Worked On Today</div>${ul(r.today)}</div><div><div class="k">Expect Tomorrow</div>${ul(r.tomorrow)}</div></div>`;}).catch(()=>{document.getElementById('report').innerHTML='<h3>Report</h3><p style="margin:0;color:#525252">Report not available.</p>'});
+document.getElementById('report').innerHTML=`<h3>${esc(r.type||'Report')} <span class="upd">Updated ${ds}</span></h3>${r.top3?`<div class="k">Ready For You Now</div><ol class="top3">${r.top3.map(x=>'<li>'+esc(x)+'</li>').join('')}</ol>`:''}<div class="rgrid"><div><div class="k">${r.type==='Fresh Start'?'Decided And Done':'Worked On Today'}</div>${ul(r.today)}</div><div><div class="k">Expect Tomorrow</div>${ul(r.tomorrow)}</div></div>${r.needs&&r.needs.length?`<details class="needs"><summary>What I Need From You (${r.needs.length})</summary>${ul(r.needs)}</details>`:''}`;}).catch(()=>{document.getElementById('report').innerHTML='<h3>Report</h3><p style="margin:0;color:#525252">Report not available.</p>'});
 document.getElementById('share').onclick=async()=>{const d={title:'Branding Command Center',url:location.href};try{if(navigator.share)await navigator.share(d);else{await navigator.clipboard.writeText(location.href);t()}}catch(e){}};
 function t(){const e=document.getElementById('toast');e.classList.add('on');setTimeout(()=>e.classList.remove('on'),1600)}
 </script></body></html>

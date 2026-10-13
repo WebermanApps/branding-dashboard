@@ -1,17 +1,23 @@
 {
-  "type": "Evening Report",
+  "type": "Fresh Start",
   "date": "2026-10-13",
-  "updated": "2026-10-13T19:08:07+07:00",
+  "updated": "2026-10-13T19:40:00+07:00",
+  "top3": [
+    "Flat Fee & Lagoon Deck (newest): 50 pairs built from your Oct 13 daily picks (Up Keep, blog topics and style, lagoon color, Home Guide).",
+    "Upkeep Stay & Gift Deck: retests, gift, one-time lawn and the retention offer, built from UpKeep 7.",
+    "18 more decks waiting on you (20 in all), from Prop 1 to Video V.2. Tap Submit at the end of any deck and the results come straight to me."
+  ],
   "today": [
-    "Built and published 16 decks: today's Daily Deck, Dashboard 1 and 2, five work decks (UpKeep 7, Prop, Construction, Scout, WellNest), eight personal decks (Blueprint 3, Thai 2, Blog, Portfolio, Japan Cottage, Miles, Jokes, Jane Amex 2), and the Upkeep Stay & Gift Deck.",
-    "Picks received from UpKeep 7 (35 of 50) and Dashboard 1 (37 of 50), which shaped the Stay & Gift Deck and Dashboard 2.",
-    "Wrote the agent dashboard style guide and drew 18 agent icons for every dashboard.",
-    "Style Swipe now has a Submit button that sends results straight to me, a Back link, and pull-down-to-refresh; this dashboard got the Apps Home link, the Decisions dropdown, and big-screen sizing.",
-    "Daily Deck Oct 13 results in (32 of 50): picks sent to UpKeep, Blog and Construction (Home Guide picks wait on your OK before publishing). Flat Fee & Lagoon Deck is live, and Style Swipe card buttons now use Pass / Hold / Love / Keep capsule pills."
+    "Decided: Daily Deck Oct 13 (32 of 50) picks went to UpKeep, Blog and Construction. UpKeep 7 (35 of 50) shaped the Stay & Gift Deck. Dashboard 1 (37 of 50) became the dashboard style guide.",
+    "Style Swipe: drawn icons replace the emoji on the card buttons (Love heart included). Submit, Back link and pull-down-to-refresh are rechecked on phone and laptop."
   ],
   "tomorrow": [
     "A fresh Daily Deck goes live around 4:25 AM, and the Morning Report replaces this one before 5:00 AM.",
-    "20 decks are still waiting on you, with the new Flat Fee & Lagoon Deck first, then the Upkeep Stay & Gift Deck.",
     "As soon as you submit any deck, I build the next one on that topic and pass anything that affects other agents straight to them."
+  ],
+  "needs": [
+    "Play any waiting deck, starting with Flat Fee & Lagoon, and tap Submit at the end.",
+    "Your OK before Construction publishes the Home Guide picks (customer-facing, staged only).",
+    "Still open from Oct 13: I vs We, and heading case for blog posts."
   ]
 }
