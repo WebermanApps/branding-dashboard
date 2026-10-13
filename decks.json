@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-13T22:20:00+07:00",
+ "updated": "2026-10-13T22:57:00+07:00",
  "decks": [
   {
    "id": "wellnest-brand",
@@ -182,6 +182,17 @@
    "order": 19,
    "cat": "jane-amex",
    "size": 25
+  },
+  {
+   "id": "dashboard-layout-deck",
+   "name": "Dashboard Layout Deck",
+   "about": "100 layout ideas for every agent dashboard; results go to Coach",
+   "status": "wait",
+   "order": 19,
+   "cat": "dashboards",
+   "size": 100,
+   "owner": "Coach",
+   "url": "https://webermanapps.github.io/dashboard-layout-deck-9l1e5q/"
   },
   {
    "id": "dashboard-2",

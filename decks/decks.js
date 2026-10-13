@@ -28,14 +28,14 @@ function bankOf(B,s){if(!B)return 0;let v=B[s];if(v==null&&B.banks)v=Array.isArr
  if(typeof v==='number')return v;if(v&&typeof v==='object')return +(v.count??v.n??v.size??v.total??(Array.isArray(v.pairs)?v.pairs.length:0))||0;return 0}
 w.DeckApp=function(el,o){
  if(!document.getElementById('dk-css')){const s=document.createElement('style');s.id='dk-css';s.textContent=CSS;document.head.appendChild(s)}
- const self=o.self||location.href.split(/[?#]/)[0],link=id=>SS+'?date='+encodeURIComponent(id)+'&from='+encodeURIComponent(self);
+ const self=o.self||location.href.split(/[?#]/)[0],link=id=>SS+'?date='+encodeURIComponent(id)+'&from='+encodeURIComponent(self),href=d=>d.url||link(d.id);
  const date=ts=>new Date(ts).toLocaleDateString('en-US',{month:'short',day:'numeric',timeZone:'Asia/Bangkok'});
  el.classList.add('dk');el.innerHTML='<p class="none">Loading decks…</p>';
  Promise.all([fetch(o.base+'decks.json',{cache:'no-store'}).then(r=>r.json()),fetch(o.base+'requests.json',{cache:'no-store'}).then(r=>r.json()).catch(()=>({requests:[]})),fetch(BANKS,{cache:'no-store'}).then(r=>r.ok?r.json():null).catch(()=>null)]).then(([J,RQ,B])=>{
   if(o.onData)try{o.onData(J)}catch(_){}
   const C=J.categories,D=J.decks,W=D.filter(d=>d.status==='wait');
-  const wc=d=>`<a class="card mw-hover" style="--c:#D4A017" href="${link(d.id)}">${IC.cards}<div><div class="nm">${esc(d.name)}</div><div class="sub">${esc(d.about)}</div><div class="meta" data-size="${esc(d.id)}">${d.size?d.size+" pairs":""}</div></div></a>`;
-  const fc=d=>`<a class="card mw-hover" style="--c:#0B6E4F" href="${link(d.id)}">${IC.check}<div><div class="nm">${esc(d.name)}</div><div class="meta">Results In · ${d.answered!=null?`${d.answered}/${d.total||d.size||"?"} answered`:'count not recorded'} · <span data-size="${esc(d.id)}">${d.size?d.size+' pairs':''}</span>${d.via==='submit'?` · Sent with Submit ${date(d.submitted)}`:''}</div></div></a>`;
+  const wc=d=>`<a class="card mw-hover" style="--c:#D4A017" href="${href(d)}">${IC.cards}<div><div class="nm">${esc(d.name)}</div><div class="sub">${esc(d.about)}</div><div class="meta" data-size="${esc(d.id)}">${d.size?d.size+" pairs":""}</div></div></a>`;
+  const fc=d=>`<a class="card mw-hover" style="--c:#0B6E4F" href="${href(d)}">${IC.check}<div><div class="nm">${esc(d.name)}</div><div class="meta">Results In · ${d.answered!=null?`${d.answered}/${d.total||d.size||"?"} answered`:'count not recorded'} · <span data-size="${esc(d.id)}">${d.size?d.size+' pairs':''}</span>${d.via==='submit'?` · Sent with Submit ${date(d.submitted)}`:''}</div></div></a>`;
   const mix=`<div class="mix"><h3>${IC.mix}Mixed Deck</h3><div class="sub" style="margin-top:4px">Pick categories and a size, then start one deck that mixes them.</div>
    <div class="boxes">${C.map(c=>`<label><input type="checkbox" value="${c.slug}" checked>${esc(c.name)}</label>`).join('')}</div>
    <div class="row"><div class="size" role="radiogroup" aria-label="Deck size"><label><input type="radio" name="mixn" value="25" checked>25 Pairs</label><label><input type="radio" name="mixn" value="50">50 Pairs</label></div>
@@ -51,8 +51,8 @@ w.DeckApp=function(el,o){
   const st=el.querySelector('.start'),upd=()=>{const s=[...el.querySelectorAll('.boxes input:checked')].map(i=>i.value),n=(el.querySelector('input[name=mixn]:checked')||{}).value||25;
    st.href=s.length?SS+'?mix='+s.join(',')+'&n='+n+'&from='+encodeURIComponent(self):'#';st.setAttribute('aria-disabled',s.length?'false':'true')};
   el.querySelector('.mix').addEventListener('change',upd);el.querySelectorAll('.tl').forEach(b=>b.onclick=()=>{el.querySelectorAll('.boxes input').forEach(i=>i.checked=b.dataset.all==='1');upd()});upd();
-  /* live sizes: one sizes.json (deck_id -> pair count); decks.json size stays as fallback */
-  fetch(SS+'decks/sizes.json',{cache:'no-store'}).then(r=>r.ok?r.json():null).then(S=>{if(!S)return;D.forEach(d=>{const n=+S[d.id]||0;if(!n)return;d.size=n;el.querySelectorAll('[data-size="'+d.id+'"]').forEach(e=>e.textContent=n+' pairs')})}).catch(()=>{});
+  /* live sizes: one sizes.json (deck_id -> pair count); decks.json size stays as fallback; external url decks keep their size */
+  fetch(SS+'decks/sizes.json',{cache:'no-store'}).then(r=>r.ok?r.json():null).then(S=>{if(!S)return;D.forEach(d=>{if(d.url)return;const n=+S[d.id]||0;if(!n)return;d.size=n;el.querySelectorAll('[data-size="'+d.id+'"]').forEach(e=>e.textContent=n+' pairs')})}).catch(()=>{});
  }).catch(()=>{el.innerHTML='<p class="none">Decks not available.</p>'});
 };
 })(window);
