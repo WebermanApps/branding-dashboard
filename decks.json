@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-13T23:30:00+07:00",
+ "updated": "2026-10-13T23:50:00+07:00",
  "decks": [
   {
    "id": "wellnest-brand",
@@ -24,7 +24,7 @@
   {
    "id": "flat-fee-and-lagoon",
    "name": "Flat Fee & Lagoon Deck",
-   "about": "Newest daily: blog follow-ups, lagoon color, Up Keep, Home Guide",
+   "about": "Newest daily: blog follow-ups, lagoon color, UpKeep, Home Guide",
    "status": "wait",
    "order": 2,
    "cat": "variety",
@@ -149,7 +149,7 @@
   },
   {
    "id": "upkeep-6",
-   "name": "Up Keep 6",
+   "name": "UpKeep 6",
    "about": "50 pairs from upkeep-5 picks",
    "status": "wait",
    "order": 16,
@@ -187,12 +187,14 @@
    "id": "dashboard-layout-deck",
    "name": "Dashboard Layout Deck",
    "about": "100 layout ideas for every agent dashboard; results go to Coach",
-   "status": "wait",
+   "status": "done",
    "order": 19,
    "cat": "dashboards",
    "size": 100,
    "owner": "Coach",
-   "url": "https://webermanapps.github.io/dashboard-layout-deck-9l1e5q/"
+   "url": "https://webermanapps.github.io/dashboard-layout-deck-9l1e5q/",
+   "answered": 12,
+   "submitted": "2026-10-13T23:34:00+07:00"
   },
   {
    "id": "dashboard-2",
@@ -249,7 +251,7 @@
   },
   {
    "id": "upkeep-5",
-   "name": "Up Keep 5",
+   "name": "UpKeep 5",
    "about": "White-base follow-ups",
    "status": "done",
    "order": 25,
@@ -259,7 +261,7 @@
   },
   {
    "id": "upkeep-4",
-   "name": "Up Keep 4",
+   "name": "UpKeep 4",
    "about": "45 of 50 answered, white won",
    "status": "done",
    "order": 26,
@@ -270,7 +272,7 @@
   },
   {
    "id": "upkeep-3",
-   "name": "Up Keep 3",
+   "name": "UpKeep 3",
    "about": "32 of 50 answered",
    "status": "done",
    "order": 27,
@@ -281,7 +283,7 @@
   },
   {
    "id": "upkeep-2",
-   "name": "Up Keep 2",
+   "name": "UpKeep 2",
    "about": "Top tags only",
    "status": "done",
    "order": 28,
@@ -291,7 +293,7 @@
   },
   {
    "id": "upkeep-1",
-   "name": "Up Keep 1",
+   "name": "UpKeep 1",
    "about": "Top tags only",
    "status": "done",
    "order": 29,
@@ -326,7 +328,7 @@
  "categories": [
   {
    "slug": "upkeep",
-   "name": "Upkeep"
+   "name": "UpKeep"
   },
   {
    "slug": "prop",

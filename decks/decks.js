@@ -7,7 +7,7 @@ const IC={cards:sv('<rect x="4" y="6" width="12" height="15" rx="2"/><path d="M8
 const CSS=`.dk *{box-sizing:border-box}.dk{font-family:Hind,system-ui,sans-serif;color:#0a0a0a}
 .dk h2{font:700 28px/1.1 Khand,sans-serif;margin:8px 0 12px;display:flex;align-items:center;gap:10px;flex-wrap:wrap}
 .dk h3{font:700 22px/1.1 Khand,sans-serif;margin:0;display:flex;align-items:center;gap:8px;flex-wrap:wrap}
-.dk .bub{font:600 13px Hind,sans-serif;background:#f5f5f5;border-radius:999px;padding:2px 10px}.dk .bank{font:700 13px Khand,sans-serif;letter-spacing:.06em;text-transform:uppercase;border:1.5px solid #05668D;color:#05668D;padding:1px 8px}
+.dk .bub{font:600 13px Hind,sans-serif;background:#fbf3dc;color:#7a5c00;min-width:0;height:auto;line-height:1.5;border-radius:999px;padding:2px 10px}.dk .bank{font:700 13px Khand,sans-serif;letter-spacing:.06em;text-transform:uppercase;border:1.5px solid #05668D;color:#05668D;padding:1px 8px}
 .dk .cats{display:grid;grid-template-columns:repeat(auto-fill,minmax(330px,1fr));gap:14px}
 .dk .cat{min-width:0}
 .dk .k{font:700 12px Khand,sans-serif;letter-spacing:.1em;text-transform:uppercase;color:#737373;margin:12px 0 6px}
@@ -29,7 +29,12 @@ const CSS=`.dk *{box-sizing:border-box}.dk{font-family:Hind,system-ui,sans-serif
 .dk details.fold>summary::-webkit-details-marker{display:none}.dk details.fold>summary::after{content:"";width:9px;height:9px;border-right:2.5px solid #05668D;border-bottom:2.5px solid #05668D;transform:rotate(45deg);margin-left:auto}
 .dk details.fold[open]>summary::after{transform:rotate(-135deg)}.dk details.fold .in{padding:0 14px 16px}.dk .cats{align-items:start}
 .dk .tlinks{display:flex;flex-direction:column}.dk .tlinks a,.dk .tlinks div.tx{display:flex;gap:8px;align-items:flex-start;min-height:44px;padding:8px 0;border-top:1px solid #f0f0f0;color:#05668D;text-decoration:underline;text-underline-offset:3px}.dk .tlinks>:first-child{border-top:0}
-.dk .tlinks .sub{text-decoration:none}`;
+.dk .tlinks .sub{text-decoration:none}
+.dk .card{padding:8px 10px;margin:0 0 6px}.dk .k{margin:8px 0 4px}.dk h2{margin:4px 0 8px}.dk .mix{padding:12px;margin:0 0 10px}.dk .cats{gap:10px}
+.dk .sub.cl{display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}.dk .sub.cl.x{display:block}
+.dk .dt{margin-left:auto;flex:none;font-size:13px;color:#737373;white-space:nowrap;padding-left:8px}
+.dk .more{display:none}.dk .seeall{min-height:44px;border:0;background:none;color:#05668D;font:600 15px Hind,sans-serif;text-decoration:underline;cursor:pointer;padding:0}
+.dk .list.all .more{display:flex}`;
 function bankOf(B,s){if(!B)return 0;let v=B[s];if(v==null&&B.banks)v=Array.isArray(B.banks)?B.banks.find(x=>x&&(x.slug===s||x.id===s||x.category===s)):B.banks[s];
  if(v==null&&Array.isArray(B))v=B.find(x=>x&&(x.slug===s||x.id===s||x.category===s));
  if(typeof v==='number')return v;if(v&&typeof v==='object')return +(v.count??v.n??v.size??v.total??(Array.isArray(v.pairs)?v.pairs.length:0))||0;return 0}
@@ -41,25 +46,28 @@ w.DeckApp=function(el,o){
  Promise.all([fetch(o.base+'decks.json',{cache:'no-store'}).then(r=>r.json()),fetch(o.base+'requests.json',{cache:'no-store'}).then(r=>r.json()).catch(()=>({requests:[]})),fetch(BANKS,{cache:'no-store'}).then(r=>r.ok?r.json():null).catch(()=>null)]).then(([J,RQ,B])=>{
   if(o.onData)try{o.onData(J)}catch(_){}
   const C=J.categories,D=J.decks,W=D.filter(d=>d.status==='wait');
-  const wc=d=>`<a class="card mw-hover" style="--c:#D4A017" href="${href(d)}">${IC.cards}<div><div class="nm">${esc(d.name)}</div><div class="sub">${esc(d.about)}</div><div class="meta" data-size="${esc(d.id)}">${d.size?d.size+" pairs":""}</div></div></a>`;
-  const fc=d=>`<a class="card mw-hover" style="--c:#0B6E4F" href="${href(d)}">${IC.check}<div><div class="nm">${esc(d.name)}</div><div class="meta">Results In · ${d.answered!=null?`${d.answered}/${d.total||d.size||"?"} answered`:'count not recorded'} · <span data-size="${esc(d.id)}">${d.size?d.size+' pairs':''}</span>${d.via==='submit'?` · Sent with Submit ${date(d.submitted)}`:''}</div></div></a>`;
+  const wc=d=>`<a class="card mw-hover" style="--c:#D4A017" href="${href(d)}">${IC.cards}<div><div class="nm">${esc(d.name)}</div><div class="sub cl">${esc(d.about)}</div><div class="meta" data-size="${esc(d.id)}">${d.size?d.size+" pairs":""}</div></div></a>`;
+  const fc=d=>`<a class="card mw-hover" style="--c:#0B6E4F" href="${href(d)}">${IC.check}<div><div class="nm">${esc(d.name)}</div><div class="meta">Results In · ${d.answered!=null?`${d.answered}/${d.total||d.size||"?"} answered`:'count not recorded'} · <span data-size="${esc(d.id)}">${d.size?d.size+' pairs':''}</span>${d.via==='submit'?' · Sent with Submit':''}</div></div>${d.submitted?`<span class="dt">${date(d.submitted)}</span>`:''}</a>`;
   const mix=`<div class="mix"><h3>${IC.mix}Mixed Deck</h3><div class="sub" style="margin-top:4px">Pick categories and a size, then start one deck that mixes them.</div>
    <div class="boxes">${C.map(c=>`<label><input type="checkbox" value="${c.slug}" checked>${esc(c.name)}</label>`).join('')}</div>
    <div class="row"><div class="size" role="radiogroup" aria-label="Deck size"><label><input type="radio" name="mixn" value="25" checked>25 Pairs</label><label><input type="radio" name="mixn" value="50">50 Pairs</label></div>
    <button type="button" class="tl" data-all="1">Select All</button><button type="button" class="tl" data-all="0">Clear</button>
    <a class="start mw-hover" href="#">${IC.play}Start</a></div></div>`;
+  const five=(a,f,none)=>a.length?`<div class="list">${a.map((d,i)=>f(d).replace(/^<a class="card/,i>4?'<a class="more card':'<a class="card')).join('')}${a.length>5?`<button type="button" class="seeall">See All ${a.length}</button>`:''}</div>`:none;
   const cats=C.map(c=>{const w=D.filter(d=>d.cat===c.slug&&d.status==='wait').sort((a,b)=>a.order-b.order),f=D.filter(d=>d.cat===c.slug&&d.status==='done').sort((a,b)=>a.order-b.order);
    return `<details class="fold cat" data-cat="${c.slug}"><summary><h3>${esc(c.name)} <span class="bub">${w.length} Waiting</span><span class="bank">Bank: ${bankOf(B,c.slug)}/100</span></h3></summary><div class="in">
-   <div class="k">Waiting On You</div>${w.map(wc).join('')||'<div class="none">Nothing waiting.</div>'}
-   <div class="k">Finished</div>${f.map(fc).join('')||'<div class="none">None yet.</div>'}</div></details>`}).join('');
-  const R=(RQ.requests||[]).filter(r=>r.status!=='Done');
+   <div class="k">Waiting On You</div>${five(w,wc,'<div class="none">Nothing waiting.</div>')}
+   <div class="k">Finished</div>${five(f,fc,'<div class="none">None yet.</div>')}</div></details>`}).join('');
+    const R=(RQ.requests||[]).filter(r=>r.status!=='Done');
   const req=R.map(r=>`<${r.deck?`a href="${link(r.deck)}"`:'div class="tx"'}>${IC.inbox}<div><b>${esc(r.title)}</b><div class="sub">${esc(r.detail)} · From ${esc(r.from)} · ${esc(r.status)}</div></div></${r.deck?'a':'div'}>`).join('')||'<div class="none">No open requests.</div>';
   el.innerHTML=`<h2 class="bigt">Deck Building <span class="bub">${W.length} Waiting</span></h2><p class="bigsub">Start a mixed deck, or open a category to see its decks.</p>${mix}<div class="cats">${cats}</div><details class="fold" style="margin-top:16px"><summary><h3>Requests From Agents <span class="bub">${R.length}</span></h3></summary><div class="in tlinks">${req}</div></details>`;
   const st=el.querySelector('.start'),upd=()=>{const s=[...el.querySelectorAll('.boxes input:checked')].map(i=>i.value),n=(el.querySelector('input[name=mixn]:checked')||{}).value||25;
    st.href=s.length?SS+'?mix='+s.join(',')+'&n='+n+'&from='+encodeURIComponent(self):'#';st.setAttribute('aria-disabled',s.length?'false':'true')};
+  el.querySelectorAll('.seeall').forEach(b=>b.onclick=()=>{const l=b.parentNode,on=l.classList.toggle('all');b.textContent=on?'Show Less':'See All '+l.querySelectorAll('.card').length});
+  el.querySelectorAll('.sub.cl').forEach(e=>e.addEventListener('click',ev=>{if(e.scrollHeight>e.clientHeight+2&&!e.classList.contains('x')){ev.preventDefault();e.classList.add('x')}}));
   el.querySelector('.mix').addEventListener('change',upd);el.querySelectorAll('.tl').forEach(b=>b.onclick=()=>{el.querySelectorAll('.boxes input').forEach(i=>i.checked=b.dataset.all==='1');upd()});upd();
   /* live sizes: one sizes.json (deck_id -> pair count); decks.json size stays as fallback; external url decks keep their size */
   fetch(SS+'decks/sizes.json',{cache:'no-store'}).then(r=>r.ok?r.json():null).then(S=>{if(!S)return;D.forEach(d=>{if(d.url)return;const n=+S[d.id]||0;if(!n)return;d.size=n;el.querySelectorAll('[data-size="'+d.id+'"]').forEach(e=>e.textContent=n+' pairs')})}).catch(()=>{});
- }).catch(()=>{el.innerHTML='<p class="none">Decks not available.</p>'});
+ }).catch(e=>{console.warn('deck render',e);el.innerHTML='<p class="none">Decks not available.</p>'});
 };
 })(window);
