@@ -87,7 +87,28 @@ details summary{cursor:pointer;min-height:44px;display:flex;align-items:center;f
 details.alert summary{gap:8px;color:#7a5c00;list-style:none}details.alert summary::-webkit-details-marker{display:none}details.alert summary::after{content:"";width:8px;height:8px;border-right:2px solid currentColor;border-bottom:2px solid currentColor;transform:rotate(45deg);margin-left:6px}details.alert[open] summary::after{transform:rotate(-135deg)}details.alert summary svg{color:var(--s)}
 @media(prefers-reduced-motion:reduce){*{transition:none!important}}
 .deckbuild{display:flex;align-items:center;gap:10px;flex-wrap:wrap;margin:16px 0 0;padding:14px 16px;min-height:56px;border:2px solid var(--b);color:var(--b);text-decoration:none;font:700 20px/1.1 Khand,Hind,sans-serif;letter-spacing:.04em}.deckbuild .ic{width:24px;height:24px}.deckbuild small{font:400 14px Hind,sans-serif;color:#525252;letter-spacing:0}
-.top3{margin:4px 0 12px;padding-left:22px}.top3 li{margin:4px 0}.needs{margin-top:10px}.needs summary{cursor:pointer;min-height:44px;display:flex;align-items:center;font-weight:600}</style><script src="ptr.js?v=4" defer></script><script src="decks/decks.js?v=4"></script><script src="decks/decks.js?v=4"></script>
+.top3{margin:4px 0 12px;padding-left:22px}.top3 li{margin:4px 0}.needs{margin-top:10px}.needs summary{cursor:pointer;min-height:44px;display:flex;align-items:center;font-weight:600}
+/* Oct 13 2026 mix-dashboards picks */
+.rep{border-left:5px solid var(--b)}
+.rep .bt{font:700 clamp(32px,6vw,48px)/1 var(--mw-font-heading);margin:0 0 8px;display:flex;align-items:center;gap:10px;flex-wrap:wrap}
+.rep details.fo{border-top:1px solid #E5E0D8}.rep details.fo>summary{list-style:none;cursor:pointer;min-height:48px;display:flex;align-items:center;gap:8px;font:600 13px/1 var(--mw-font-body);letter-spacing:.12em;text-transform:uppercase;color:#0a0a0a}
+.rep details.fo>summary::-webkit-details-marker{display:none}.rep details.fo>summary::after{content:"";width:8px;height:8px;border-right:2.5px solid var(--b);border-bottom:2.5px solid var(--b);transform:rotate(45deg);margin-left:auto}.rep details.fo[open]>summary::after{transform:rotate(-135deg)}
+.rep details.fo>div{padding:0 0 14px}
+ol.num{list-style:none;margin:0;padding:0;counter-reset:n}ol.num li{counter-increment:n;display:flex;gap:12px;align-items:flex-start;padding:8px 0;border-top:1px solid #f0f0f0}ol.num li:first-child{border-top:0}
+ol.num li::before{content:counter(n);flex:none;width:28px;height:28px;border-radius:50%;background:color-mix(in srgb,var(--nc,var(--s)) 18%,#fff);color:#0a0a0a;font:700 15px/28px var(--mw-font-heading);text-align:center}
+.atiles{display:grid;grid-template-columns:repeat(4,1fr);gap:10px;margin:6px 0 12px}
+.atiles a{display:flex;flex-direction:column;align-items:center;gap:6px;padding:12px 6px;border:1px solid #E5E0D8;border-radius:12px;color:#0a0a0a;text-decoration:none;font:600 15px/1.1 var(--mw-font-heading);text-align:center;min-height:44px}
+.atiles a span{width:40px;height:40px;border-radius:10px;display:flex;align-items:center;justify-content:center;background:color-mix(in srgb,var(--b) 14%,#fff);color:var(--b)}
+.owecard{padding:0!important;overflow:hidden}.owecard .band{background:var(--s);padding:14px 18px}
+.owecard .tbox{background:#fff8e6;border-left:4px solid #0a0a0a;padding:10px 14px}
+.owecard .tbox .cap{font:600 12px/1 var(--mw-font-body);letter-spacing:.16em;text-transform:uppercase;color:#0a0a0a}
+.owecard .tbox h2{margin:6px 0 0;font-size:26px}.owecard .body{padding:6px 18px 16px}
+.tabs{display:none}
+@media(max-width:860px){.atiles{grid-template-columns:repeat(2,1fr)}
+.tabs{display:flex;position:fixed;left:0;right:0;bottom:0;z-index:20;background:#fff;border-top:3px solid var(--b);padding-bottom:env(safe-area-inset-bottom)}
+.tabs a{flex:1;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:2px;min-height:56px;color:var(--b);text-decoration:none;font:600 11px/1 var(--mw-font-body);letter-spacing:.1em;text-transform:uppercase}
+body{padding-bottom:64px}}
+</style><script src="ptr.js?v=4" defer></script><script src="decks/decks.js?v=5"></script>
 </head><body>
 <svg width="0" height="0" style="position:absolute"><defs>
 <symbol id="i-share" viewBox="0 0 24 24"><path d="M12 3v12M7 8l5-5 5 5M5 13v6a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2v-6"/></symbol>
@@ -117,18 +138,18 @@ details.alert summary{gap:8px;color:#7a5c00;list-style:none}details.alert summar
 <div class="stat" style="--c:var(--t)"><b>1</b><span>Style Guide Written</span></div>
 </div></section>
 <div class="grid g2"><div style="display:contents">
-<section class="card" style="--c:var(--s)"><h2><span class="bar"></span>Decisions You Owe</h2><details class="alert"><summary><svg class="ic"><use href="#i-clock"/></svg>3 Waiting On You</summary><ul class="list owe">
+<section class="card owecard" id="owe" style="--c:#0a0a0a"><div class="band"><div class="tbox"><div class="cap">Waiting On Max</div><h2><span class="bar"></span>Decisions You Owe</h2></div></div><div class="body"><details class="alert"><summary><svg class="ic"><use href="#i-clock"/></svg>3 Waiting On You</summary><ul class="list owe">
 <li><svg class="ic"><use href="#i-clock"/></svg><div>Swipe and share results for <b>Flat Fee &amp; Lagoon</b>, <b>upkeep-6</b>, <b>blueprint-2</b>, <b>thai-1</b>, <b>jane-amex-1</b>, <b>dashboard-2</b> and <b>video-v2</b>.</div></li>
 <li><svg class="ic"><use href="#i-clock"/></svg><div>Send upkeep-1 and upkeep-2 per-pair picks, or keep using top tags only?</div></li>
 <li><svg class="ic"><use href="#i-clock"/></svg><div>Headings: keep Title Case, or match the site's sentence case?</div></li>
-</ul></details></section>
+</ul></details></div></section>
 <section class="card" style="--c:var(--t)"><h2><span class="bar"></span>Accent Colors</h2><div class="sw">
 <div class="chip" style="--c:#C1502E"><div></div><p><b>Terracotta</b>#C1502E</p></div>
 <div class="chip" style="--c:#05668D"><div></div><p><b>Lagoon Blue</b>#05668D</p></div>
 <div class="chip" style="--c:#0B6E4F"><div></div><p><b>Jungle Green</b>#0B6E4F</p></div>
 <div class="chip" style="--c:#D4A017"><div></div><p><b>Saffron</b>#D4A017</p></div>
 </div><p style="font-size:13px;color:#737373;margin:12px 0 0">Small pops only. Base stays white, #0A0A0A text, #E5E5E5 rules.</p></section>
-<section class="card" style="--c:var(--g)"><h2><span class="bar"></span>Brand Files</h2>
+<section class="card" id="files" style="--c:var(--g)"><h2><span class="bar"></span>Brand Files</h2>
 <div class="path"><svg class="ic"><use href="#i-book"/></svg><div><b>Brand Guide</b><code>/workspace/ops/brand/maxweberman-brand.md</code></div></div>
 <div class="path"><svg class="ic"><use href="#i-cards"/></svg><div><b>Dashboard Style Guide</b><code>/workspace/ops/brand/dashboard-style.md</code></div></div>
 <div class="path"><svg class="ic"><use href="#i-folder"/></svg><div><b>Brand Tokens</b><code>/workspace/ops/brand/brand-tokens.css</code></div></div>
@@ -145,6 +166,7 @@ if(navigator.share){try{await navigator.share({title:t,url:u});return}catch(e){i
 if(/iPhone|iPad|Android/i.test(navigator.userAgent)){location.href='sms:?&body='+encodeURIComponent(t+' '+u);return}
 try{await navigator.clipboard.writeText(u);m.textContent='Link copied'}catch(e){prompt('Copy link',u)}};</script>
 <footer><div class="wrap"><b>Built by Max Weberman</b><span>Branding Agent Dashboard · Light Mode</span></div></footer>
+<nav class="tabs" aria-label="Sections"><a href="https://webermanapps.github.io/a-2sipntzsp385oxy3/"><svg class="ic"><use href="#i-house"/></svg>Apps</a><a href="decks/"><svg class="ic"><use href="#i-cards"/></svg>Decks</a><a href="#report"><svg class="ic"><use href="#i-clock"/></svg>Report</a><a href="#owe"><svg class="ic"><use href="#i-check"/></svg>Owed</a></nav>
 <div class="toast" id="toast">Link Copied</div>
 <script>
 const esc=x=>String(x).replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
@@ -154,7 +176,10 @@ const row=([id,n,s,st])=>`<li><a class="row" href="${B}${id}" target="_blank" re
 DeckApp(document.getElementById('deckApp'),{onData:J=>{const n=f=>J.decks.filter(f).length;stLive.textContent=n(()=>1);stWait.textContent=n(d=>d.status==='wait');stDone.textContent=n(d=>d.status==='done')},base:'',self:'https://webermanapps.github.io/branding-djqmb410/'});
 fetch('report.json',{cache:'no-store'}).then(r=>r.json()).then(r=>{const ul=a=>'<ul>'+(a||[]).map(x=>'<li>'+esc(x)+'</li>').join('')+'</ul>';
 const d=new Date(r.updated||r.date);const ds=isNaN(d)?esc(r.date):d.toLocaleDateString('en-US',{month:'short',day:'numeric',year:'numeric',timeZone:'Asia/Bangkok'});
-document.getElementById('report').innerHTML=`<h3>${esc(r.type||'Report')} <span class="upd">Updated ${ds}</span></h3>${r.top3?`<div class="k">Ready For You Now</div><ol class="top3">${r.top3.map(x=>'<li>'+esc(x)+'</li>').join('')}</ol>`:''}<div class="rgrid"><div><div class="k">${r.type==='Fresh Start'?'Decided And Done':'Worked On Today'}</div>${ul(r.today)}</div><div><div class="k">Expect Tomorrow</div>${ul(r.tomorrow)}</div></div>${r.needs&&r.needs.length?`<details class="needs"><summary>What I Need From You (${r.needs.length})</summary>${ul(r.needs)}</details>`:''}`;}).catch(()=>{document.getElementById('report').innerHTML='<h3>Report</h3><p style="margin:0;color:#525252">Report not available.</p>'});
+const ol=(a,c)=>'<ol class="num" style="--nc:'+c+'">'+(a||[]).map(x=>'<li><span>'+esc(x)+'</span></li>').join('')+'</ol>';
+const fo=(t,b,o)=>`<details class="fo"${o?' open':''}><summary>${t}</summary><div>${b}</div></details>`;
+const tiles=`<div class="atiles"><a href="decks/"><span><svg class="ic"><use href="#i-cards"/></svg></span>Decks</a><a href="#deckApp"><span><svg class="ic"><use href="#i-check"/></svg></span>Results</a><a href="#owe"><span><svg class="ic"><use href="#i-clock"/></svg></span>Owed</a><a href="#files"><span><svg class="ic"><use href="#i-book"/></svg></span>Brand Files</a></div>`;
+document.getElementById('report').innerHTML=`<h3 class="bt">${esc(r.type||'Report')} <span class="upd">Updated ${ds}</span></h3>${tiles}${r.top3?fo('Ready For You Now',ol(r.top3,'var(--s)'),0):''}${fo(r.type==='Fresh Start'?'Decided And Done':'Worked On Today',ol(r.today,'var(--s)'),0)}${fo('Expect Tomorrow',ol(r.tomorrow,'var(--s)'),0)}${r.needs&&r.needs.length?fo('What I Need From You ('+r.needs.length+')',ol(r.needs,'var(--s)'),0):''}`;}).catch(()=>{document.getElementById('report').innerHTML='<h3>Report</h3><p style="margin:0;color:#525252">Report not available.</p>'});
 document.getElementById('share').onclick=async()=>{const d={title:'Branding Command Center',url:location.href};try{if(navigator.share)await navigator.share(d);else{await navigator.clipboard.writeText(location.href);t()}}catch(e){}};
 function t(){const e=document.getElementById('toast');e.classList.add('on');setTimeout(()=>e.classList.remove('on'),1600)}
 </script></body></html>

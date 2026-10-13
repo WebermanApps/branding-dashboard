@@ -9,7 +9,7 @@ const CSS=`.dk *{box-sizing:border-box}.dk{font-family:Hind,system-ui,sans-serif
 .dk h3{font:700 22px/1.1 Khand,sans-serif;margin:0;display:flex;align-items:center;gap:8px;flex-wrap:wrap}
 .dk .bub{font:600 13px Hind,sans-serif;background:#f5f5f5;border-radius:999px;padding:2px 10px}.dk .bank{font:700 13px Khand,sans-serif;letter-spacing:.06em;text-transform:uppercase;border:1.5px solid #05668D;color:#05668D;padding:1px 8px}
 .dk .cats{display:grid;grid-template-columns:repeat(auto-fill,minmax(330px,1fr));gap:14px}
-.dk .cat{border:1px solid #e5e5e5;padding:14px;background:#fff;min-width:0}
+.dk .cat{min-width:0}
 .dk .k{font:700 12px Khand,sans-serif;letter-spacing:.1em;text-transform:uppercase;color:#737373;margin:12px 0 6px}
 .dk .card{display:flex;gap:10px;align-items:flex-start;border:1px solid #e5e5e5;border-left:4px solid var(--c);padding:10px 12px;color:inherit;text-decoration:none;background:#fff;margin:0 0 8px;min-width:0}
 .dk .card>div{min-width:0;flex:1}.dk .nm{font:700 18px/1.15 Khand,sans-serif}.dk .sub{font-size:14px;color:#525252}.dk .meta{font-size:13px;color:#737373;margin-top:2px}
@@ -22,7 +22,14 @@ const CSS=`.dk *{box-sizing:border-box}.dk{font-family:Hind,system-ui,sans-serif
 .dk .start[aria-disabled=true]{opacity:.5;pointer-events:none}.dk .tl{font:600 14px Hind,sans-serif;background:none;border:0;color:#05668D;text-decoration:underline;cursor:pointer;min-height:44px}
 .dk .mw-hover{transition:transform 180ms ease-out,box-shadow 180ms ease-out}.dk .mw-hover:hover,.dk .mw-hover:focus-visible{transform:translateY(-1px) scale(1.02);box-shadow:0 6px 18px rgba(10,10,10,.12)}
 @media(hover:none){.dk .mw-hover:hover{transform:none;box-shadow:none}}@media(prefers-reduced-motion:reduce){.dk .mw-hover{transition:none}}
-@media(max-width:480px){.dk .cats{grid-template-columns:1fr}}`;
+@media(max-width:480px){.dk .cats{grid-template-columns:1fr}}
+.dk .bigt{font:700 clamp(40px,7vw,64px)/1 Khand,sans-serif;margin:8px 0 4px;text-align:left;display:flex;align-items:baseline;gap:12px;flex-wrap:wrap}.dk .bigt .bub{font-size:14px}
+.dk .bigsub{color:#525252;margin:0 0 16px;font-size:15px}
+.dk details.fold{border:1px solid #e5e5e5;background:#fff;min-width:0}.dk details.fold>summary{list-style:none;cursor:pointer;min-height:56px;display:flex;align-items:center;gap:8px;padding:10px 14px;flex-wrap:wrap}
+.dk details.fold>summary::-webkit-details-marker{display:none}.dk details.fold>summary::after{content:"";width:9px;height:9px;border-right:2.5px solid #05668D;border-bottom:2.5px solid #05668D;transform:rotate(45deg);margin-left:auto}
+.dk details.fold[open]>summary::after{transform:rotate(-135deg)}.dk details.fold .in{padding:0 14px 16px}.dk .cats{align-items:start}
+.dk .tlinks{display:flex;flex-direction:column}.dk .tlinks a,.dk .tlinks div.tx{display:flex;gap:8px;align-items:flex-start;min-height:44px;padding:8px 0;border-top:1px solid #f0f0f0;color:#05668D;text-decoration:underline;text-underline-offset:3px}.dk .tlinks>:first-child{border-top:0}
+.dk .tlinks .sub{text-decoration:none}`;
 function bankOf(B,s){if(!B)return 0;let v=B[s];if(v==null&&B.banks)v=Array.isArray(B.banks)?B.banks.find(x=>x&&(x.slug===s||x.id===s||x.category===s)):B.banks[s];
  if(v==null&&Array.isArray(B))v=B.find(x=>x&&(x.slug===s||x.id===s||x.category===s));
  if(typeof v==='number')return v;if(v&&typeof v==='object')return +(v.count??v.n??v.size??v.total??(Array.isArray(v.pairs)?v.pairs.length:0))||0;return 0}
@@ -42,12 +49,12 @@ w.DeckApp=function(el,o){
    <button type="button" class="tl" data-all="1">Select All</button><button type="button" class="tl" data-all="0">Clear</button>
    <a class="start mw-hover" href="#">${IC.play}Start</a></div></div>`;
   const cats=C.map(c=>{const w=D.filter(d=>d.cat===c.slug&&d.status==='wait').sort((a,b)=>a.order-b.order),f=D.filter(d=>d.cat===c.slug&&d.status==='done').sort((a,b)=>a.order-b.order);
-   return `<section class="cat" data-cat="${c.slug}"><h3>${esc(c.name)} <span class="bub">${w.length} Waiting</span><span class="bank">Bank: ${bankOf(B,c.slug)}/100</span></h3>
+   return `<details class="fold cat" data-cat="${c.slug}"><summary><h3>${esc(c.name)} <span class="bub">${w.length} Waiting</span><span class="bank">Bank: ${bankOf(B,c.slug)}/100</span></h3></summary><div class="in">
    <div class="k">Waiting On You</div>${w.map(wc).join('')||'<div class="none">Nothing waiting.</div>'}
-   <div class="k">Finished</div>${f.map(fc).join('')||'<div class="none">None yet.</div>'}</section>`}).join('');
+   <div class="k">Finished</div>${f.map(fc).join('')||'<div class="none">None yet.</div>'}</div></details>`}).join('');
   const R=(RQ.requests||[]).filter(r=>r.status!=='Done');
-  const req=R.map(r=>`<${r.deck?`a href="${link(r.deck)}"`:'div'} class="card mw-hover" style="--c:#05668D">${IC.inbox}<div><div class="nm">${esc(r.title)}</div><div class="sub">${esc(r.detail)}</div><div class="meta">From ${esc(r.from)} · ${esc(r.status)}</div></div></${r.deck?'a':'div'}>`).join('')||'<div class="none">No open requests.</div>';
-  el.innerHTML=`<h2>Deck Building <span class="bub">${W.length} Waiting</span></h2>${mix}<div class="cats">${cats}</div><h2 style="margin-top:22px">Requests From Agents <span class="bub">${R.length}</span></h2><div class="cats"><div>${req}</div></div>`;
+  const req=R.map(r=>`<${r.deck?`a href="${link(r.deck)}"`:'div class="tx"'}>${IC.inbox}<div><b>${esc(r.title)}</b><div class="sub">${esc(r.detail)} · From ${esc(r.from)} · ${esc(r.status)}</div></div></${r.deck?'a':'div'}>`).join('')||'<div class="none">No open requests.</div>';
+  el.innerHTML=`<h2 class="bigt">Deck Building <span class="bub">${W.length} Waiting</span></h2><p class="bigsub">Start a mixed deck, or open a category to see its decks.</p>${mix}<div class="cats">${cats}</div><details class="fold" style="margin-top:16px"><summary><h3>Requests From Agents <span class="bub">${R.length}</span></h3></summary><div class="in tlinks">${req}</div></details>`;
   const st=el.querySelector('.start'),upd=()=>{const s=[...el.querySelectorAll('.boxes input:checked')].map(i=>i.value),n=(el.querySelector('input[name=mixn]:checked')||{}).value||25;
    st.href=s.length?SS+'?mix='+s.join(',')+'&n='+n+'&from='+encodeURIComponent(self):'#';st.setAttribute('aria-disabled',s.length?'false':'true')};
   el.querySelector('.mix').addEventListener('change',upd);el.querySelectorAll('.tl').forEach(b=>b.onclick=()=>{el.querySelectorAll('.boxes input').forEach(i=>i.checked=b.dataset.all==='1');upd()});upd();

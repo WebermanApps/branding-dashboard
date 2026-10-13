@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-13T22:57:00+07:00",
+ "updated": "2026-10-13T23:30:00+07:00",
  "decks": [
   {
    "id": "wellnest-brand",
@@ -308,6 +308,19 @@
    "cat": "blueprint",
    "size": 50,
    "total": 50
+  },
+  {
+   "id": "mix-dashboards-2026-10-13",
+   "name": "Mixed Deck: Agent Dashboards",
+   "about": "Results in: 19 of 25 answered, 6 skips back in the bank; picks in the dashboard style guide",
+   "status": "done",
+   "order": 99,
+   "answered": 19,
+   "total": 25,
+   "submitted": 1791907088000,
+   "via": "submit",
+   "cat": "dashboards",
+   "size": 25
   }
  ],
  "categories": [
