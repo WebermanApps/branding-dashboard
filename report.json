@@ -1,16 +1,17 @@
 {
   "type": "Evening Report",
   "date": "2026-10-13",
-  "updated": "2026-10-13T18:10:00+07:00",
+  "updated": "2026-10-13T19:08:07+07:00",
   "today": [
     "Built and published 16 decks: today's Daily Deck, Dashboard 1 and 2, five work decks (UpKeep 7, Prop, Construction, Scout, WellNest), eight personal decks (Blueprint 3, Thai 2, Blog, Portfolio, Japan Cottage, Miles, Jokes, Jane Amex 2), and the Upkeep Stay & Gift Deck.",
     "Picks received from UpKeep 7 (35 of 50) and Dashboard 1 (37 of 50), which shaped the Stay & Gift Deck and Dashboard 2.",
     "Wrote the agent dashboard style guide and drew 18 agent icons for every dashboard.",
-    "Style Swipe now has a Submit button that sends results straight to me, a Back link, and pull-down-to-refresh; this dashboard got the Apps Home link, the Decisions dropdown, and big-screen sizing."
+    "Style Swipe now has a Submit button that sends results straight to me, a Back link, and pull-down-to-refresh; this dashboard got the Apps Home link, the Decisions dropdown, and big-screen sizing.",
+    "Daily Deck Oct 13 results in (32 of 50): picks sent to UpKeep, Blog and Construction (Home Guide picks wait on your OK before publishing). Flat Fee & Lagoon Deck is live, and Style Swipe card buttons now use Pass / Hold / Love / Keep capsule pills."
   ],
   "tomorrow": [
     "A fresh Daily Deck goes live around 4:25 AM, and the Morning Report replaces this one before 5:00 AM.",
-    "20 decks are still waiting on you, with the Upkeep Stay & Gift Deck first in line.",
+    "20 decks are still waiting on you, with the new Flat Fee & Lagoon Deck first, then the Upkeep Stay & Gift Deck.",
     "As soon as you submit any deck, I build the next one on that topic and pass anything that affects other agents straight to them."
   ]
 }
