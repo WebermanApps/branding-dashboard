@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-13T23:50:00+07:00",
+ "updated": "2026-10-13T23:45:01+07:00",
  "decks": [
   {
    "id": "wellnest-brand",
@@ -186,15 +186,26 @@
   {
    "id": "dashboard-layout-deck",
    "name": "Dashboard Layout Deck",
-   "about": "100 layout ideas for every agent dashboard; results go to Coach",
+   "about": "Results in: 15 of 100 answered; layout ideas for every agent dashboard; results go to Coach",
    "status": "done",
    "order": 19,
    "cat": "dashboards",
    "size": 100,
    "owner": "Coach",
    "url": "https://webermanapps.github.io/dashboard-layout-deck-9l1e5q/",
-   "answered": 12,
+   "answered": 15,
    "submitted": "2026-10-13T23:34:00+07:00"
+  },
+  {
+   "id": "dashboard-layout-deck-2",
+   "name": "Dashboard Layout Deck 2",
+   "about": "Layout follow-ups for every agent dashboard; results go to Coach",
+   "status": "wait",
+   "order": 19,
+   "cat": "dashboards",
+   "size": 25,
+   "owner": "Coach",
+   "url": "https://webermanapps.github.io/dashboard-layout-deck-2-ujbr8f/"
   },
   {
    "id": "dashboard-2",
