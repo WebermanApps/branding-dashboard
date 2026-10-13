@@ -83,6 +83,7 @@ details summary{cursor:pointer;min-height:44px;display:flex;align-items:center;f
 .share button{font-size:21px;padding:14px 24px}.share svg{width:20px;height:20px}svg.ic{width:22px;height:22px}.logos figure{height:120px}.logos img{max-height:92px}a.row{min-height:64px}.top{height:80px}}
 @media(min-width:2000px){.wrap{padding:0 7.5vw}}
 @media(min-width:3200px){body{font-size:22px}}
+details.alert summary{gap:8px;color:#7a5c00;list-style:none}details.alert summary::-webkit-details-marker{display:none}details.alert summary::after{content:"";width:8px;height:8px;border-right:2px solid currentColor;border-bottom:2px solid currentColor;transform:rotate(45deg);margin-left:6px}details.alert[open] summary::after{transform:rotate(-135deg)}details.alert summary svg{color:var(--s)}
 @media(prefers-reduced-motion:reduce){*{transition:none!important}}
 </style></head><body>
 <svg width="0" height="0" style="position:absolute"><defs>
@@ -110,11 +111,11 @@ details summary{cursor:pointer;min-height:44px;display:flex;align-items:center;f
 <div class="stat" style="--c:var(--t)"><b>1</b><span>Style Guide Written</span></div>
 </div></section>
 <div class="grid g2"><div style="display:contents">
-<section class="card" style="--c:var(--s)"><h2><span class="bar"></span>Decisions You Owe</h2><ul class="list owe">
+<section class="card" style="--c:var(--s)"><h2><span class="bar"></span>Decisions You Owe</h2><details class="alert"><summary><svg class="ic"><use href="#i-clock"/></svg>3 Waiting On You</summary><ul class="list owe">
 <li><svg class="ic"><use href="#i-clock"/></svg><div>Swipe and share results for <b>2026-10-13</b>, <b>upkeep-6</b>, <b>blueprint-2</b>, <b>thai-1</b>, <b>jane-amex-1</b>, <b>dashboard-2</b> and <b>video-v2</b>.</div></li>
 <li><svg class="ic"><use href="#i-clock"/></svg><div>Send upkeep-1 and upkeep-2 per-pair picks, or keep using top tags only?</div></li>
 <li><svg class="ic"><use href="#i-clock"/></svg><div>Headings: keep Title Case, or match the site's sentence case?</div></li>
-</ul></section>
+</ul></details></section>
 <section class="card" style="--c:var(--t)"><h2><span class="bar"></span>Accent Colors</h2><div class="sw">
 <div class="chip" style="--c:#C1502E"><div></div><p><b>Terracotta</b>#C1502E</p></div>
 <div class="chip" style="--c:#05668D"><div></div><p><b>Lagoon Blue</b>#05668D</p></div>
