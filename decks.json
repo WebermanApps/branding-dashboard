@@ -1,12 +1,22 @@
 {
- "updated": "2026-10-13T20:05:00+07:00",
+ "updated": "2026-10-13T22:20:00+07:00",
  "decks": [
+  {
+   "id": "wellnest-brand-and-product",
+   "name": "WellNest Brand & Product Deck",
+   "about": "Featured: colors, fonts, logos, voice, signage, packaging, products, services",
+   "status": "wait",
+   "order": 0,
+   "cat": "wellnest",
+   "size": 25,
+   "featured": true
+  },
   {
    "id": "flat-fee-and-lagoon",
    "name": "Flat Fee & Lagoon Deck",
    "about": "Newest daily: blog follow-ups, lagoon color, Up Keep, Home Guide",
    "status": "wait",
-   "order": 0,
+   "order": 1,
    "cat": "variety",
    "size": 25
   },
@@ -15,7 +25,7 @@
    "name": "Upkeep Stay & Gift",
    "about": "From upkeep-7 picks: retests, gift, one-time lawn, retention offer",
    "status": "wait",
-   "order": 1,
+   "order": 2,
    "cat": "upkeep",
    "size": 25
   },
@@ -24,7 +34,7 @@
    "name": "Prop 1",
    "about": "Property carousel, receipts, walkthrough, requests",
    "status": "wait",
-   "order": 2,
+   "order": 3,
    "cat": "prop",
    "size": 25
   },
@@ -33,7 +43,7 @@
    "name": "Construction 1",
    "about": "Warranty status, finishes, site walk, home guide",
    "status": "wait",
-   "order": 3,
+   "order": 4,
    "cat": "construction",
    "size": 25
   },
@@ -42,7 +52,7 @@
    "name": "Scout 1",
    "about": "Thumbnails, titles, post package, channel look",
    "status": "wait",
-   "order": 4,
+   "order": 5,
    "cat": "scout",
    "size": 25
   },
@@ -51,7 +61,7 @@
    "name": "WellNest 1",
    "about": "Logo, colors, coming soon page, booking",
    "status": "wait",
-   "order": 5,
+   "order": 6,
    "cat": "wellnest",
    "size": 25
   },
@@ -60,7 +70,7 @@
    "name": "Blueprint 3",
    "about": "Counters, cabinets, floors, room tour, energy, water",
    "status": "wait",
-   "order": 6,
+   "order": 7,
    "cat": "blueprint",
    "size": 25
   },
@@ -69,7 +79,7 @@
    "name": "Thai 2",
    "about": "Quiz answers, daily tip, known words, audio, home",
    "status": "wait",
-   "order": 7,
+   "order": 8,
    "cat": "thai",
    "size": 25
   },
@@ -78,7 +88,7 @@
    "name": "Blog 1",
    "about": "Article headers, post list, topics, draft review",
    "status": "wait",
-   "order": 8,
+   "order": 9,
    "cat": "blog",
    "size": 25
   },
@@ -87,7 +97,7 @@
    "name": "Portfolio 1",
    "about": "Lane status, charts, tax steps, uploads (example data)",
    "status": "wait",
-   "order": 9,
+   "order": 10,
    "cat": "portfolio",
    "size": 25
   },
@@ -96,7 +106,7 @@
    "name": "Japan Cottage 1",
    "about": "Listing cards, votes, areas, alerts, exterior color",
    "status": "wait",
-   "order": 10,
+   "order": 11,
    "cat": "japan-cottage",
    "size": 25
   },
@@ -105,7 +115,7 @@
    "name": "Miles 1",
    "about": "Points, bonuses, card wallet, transfers (example data)",
    "status": "wait",
-   "order": 11,
+   "order": 12,
    "cat": "miles",
    "size": 25
   },
@@ -114,7 +124,7 @@
    "name": "Jokes 1",
    "about": "Set list, bit card, tags, timer, bit library",
    "status": "wait",
-   "order": 12,
+   "order": 13,
    "cat": "jokes",
    "size": 25
   },
@@ -123,7 +133,7 @@
    "name": "Jane Amex 2",
    "about": "Offer list, detail, save, ends soon, help (example offers)",
    "status": "wait",
-   "order": 13,
+   "order": 14,
    "cat": "jane-amex",
    "size": 25
   },
@@ -132,7 +142,7 @@
    "name": "Up Keep 6",
    "about": "50 pairs from upkeep-5 picks",
    "status": "wait",
-   "order": 14,
+   "order": 15,
    "cat": "upkeep",
    "size": 25
   },
@@ -141,7 +151,7 @@
    "name": "Blueprint 2",
    "about": "50 pairs from blueprint-1 results",
    "status": "wait",
-   "order": 15,
+   "order": 16,
    "cat": "blueprint",
    "size": 25
   },
@@ -150,7 +160,7 @@
    "name": "Thai 1",
    "about": "Thai vocab quiz style",
    "status": "wait",
-   "order": 16,
+   "order": 17,
    "cat": "thai",
    "size": 25
   },
@@ -159,7 +169,7 @@
    "name": "Jane Amex 1",
    "about": "Amex deck for Jane",
    "status": "wait",
-   "order": 17,
+   "order": 18,
    "cat": "jane-amex",
    "size": 25
   },
@@ -168,7 +178,7 @@
    "name": "Dashboard 2",
    "about": "Tests the open dashboard style choices",
    "status": "wait",
-   "order": 18,
+   "order": 19,
    "cat": "dashboards",
    "size": 25
   },
@@ -177,7 +187,7 @@
    "name": "Video V.2",
    "about": "26 pairs for the explainer video",
    "status": "wait",
-   "order": 19,
+   "order": 20,
    "cat": "variety",
    "size": 25
   },
@@ -186,7 +196,7 @@
    "name": "Daily Deck Oct 13",
    "about": "Results in: 32 of 50 answered, picks sent to UpKeep, Blog, Construction",
    "status": "done",
-   "order": 20,
+   "order": 21,
    "answered": 32,
    "total": 50,
    "submitted": 1791892389000,
@@ -199,7 +209,7 @@
    "name": "UpKeep 7",
    "about": "Results in: 35 of 50 answered, picks written",
    "status": "done",
-   "order": 21,
+   "order": 22,
    "answered": 35,
    "total": 50,
    "cat": "upkeep",
@@ -210,7 +220,7 @@
    "name": "Dashboard 1",
    "about": "37 of 50 answered, style guide written",
    "status": "done",
-   "order": 22,
+   "order": 23,
    "answered": 37,
    "total": 50,
    "cat": "dashboards",
@@ -221,7 +231,7 @@
    "name": "Up Keep 5",
    "about": "White-base follow-ups",
    "status": "done",
-   "order": 23,
+   "order": 24,
    "cat": "upkeep",
    "size": 25,
    "total": 50
@@ -231,7 +241,7 @@
    "name": "Up Keep 4",
    "about": "45 of 50 answered, white won",
    "status": "done",
-   "order": 24,
+   "order": 25,
    "answered": 45,
    "total": 50,
    "cat": "upkeep",
@@ -242,7 +252,7 @@
    "name": "Up Keep 3",
    "about": "32 of 50 answered",
    "status": "done",
-   "order": 25,
+   "order": 26,
    "answered": 32,
    "total": 50,
    "cat": "upkeep",
@@ -253,7 +263,7 @@
    "name": "Up Keep 2",
    "about": "Top tags only",
    "status": "done",
-   "order": 26,
+   "order": 27,
    "cat": "upkeep",
    "size": 25,
    "total": 50
@@ -263,7 +273,7 @@
    "name": "Up Keep 1",
    "about": "Top tags only",
    "status": "done",
-   "order": 27,
+   "order": 28,
    "cat": "upkeep",
    "size": 25,
    "total": 50
@@ -273,7 +283,7 @@
    "name": "Blueprint 1",
    "about": "Weberman Residence decisions",
    "status": "done",
-   "order": 28,
+   "order": 29,
    "cat": "blueprint",
    "size": 50,
    "total": 50
