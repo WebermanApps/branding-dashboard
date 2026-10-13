@@ -1,0 +1,4 @@
+{"updated":"2026-10-13T20:05:00+07:00","requests":[
+ {"from":"UpKeep","title":"Up Keep Feature Pairs In Every Daily Deck","detail":"Standing: 10 to 15 pairs on app screens and features in each Daily Deck; picks go back to UpKeep.","status":"In Progress","since":"2026-10-12","deck":"flat-fee-and-lagoon"},
+ {"from":"Miles Agent","title":"Mom's Amex Offers App Deck","detail":"Swipe rows vs A-Z list, plain login steps, bigger dates and amounts, Undo, footer, gentle accent.","status":"Built, Waiting On Max","since":"2026-10-12","deck":"jane-amex-2"}
+]}

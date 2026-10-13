@@ -1,0 +1,220 @@
+{
+ "updated": "2026-10-13T20:05:00+07:00",
+ "decks": [
+  {
+   "id": "flat-fee-and-lagoon",
+   "name": "Flat Fee & Lagoon Deck",
+   "about": "Newest daily: blog follow-ups, lagoon color, Up Keep, Home Guide",
+   "status": "wait",
+   "order": 0
+  },
+  {
+   "id": "upkeep-stay-and-gift",
+   "name": "Upkeep Stay & Gift",
+   "about": "From upkeep-7 picks: retests, gift, one-time lawn, retention offer",
+   "status": "wait",
+   "order": 1
+  },
+  {
+   "id": "prop-1",
+   "name": "Prop 1",
+   "about": "Property carousel, receipts, walkthrough, requests",
+   "status": "wait",
+   "order": 2
+  },
+  {
+   "id": "construction-1",
+   "name": "Construction 1",
+   "about": "Warranty status, finishes, site walk, home guide",
+   "status": "wait",
+   "order": 3
+  },
+  {
+   "id": "scout-1",
+   "name": "Scout 1",
+   "about": "Thumbnails, titles, post package, channel look",
+   "status": "wait",
+   "order": 4
+  },
+  {
+   "id": "wellnest-1",
+   "name": "WellNest 1",
+   "about": "Logo, colors, coming soon page, booking",
+   "status": "wait",
+   "order": 5
+  },
+  {
+   "id": "blueprint-3",
+   "name": "Blueprint 3",
+   "about": "Counters, cabinets, floors, room tour, energy, water",
+   "status": "wait",
+   "order": 6
+  },
+  {
+   "id": "thai-2",
+   "name": "Thai 2",
+   "about": "Quiz answers, daily tip, known words, audio, home",
+   "status": "wait",
+   "order": 7
+  },
+  {
+   "id": "blog-1",
+   "name": "Blog 1",
+   "about": "Article headers, post list, topics, draft review",
+   "status": "wait",
+   "order": 8
+  },
+  {
+   "id": "portfolio-1",
+   "name": "Portfolio 1",
+   "about": "Lane status, charts, tax steps, uploads (example data)",
+   "status": "wait",
+   "order": 9
+  },
+  {
+   "id": "japan-cottage-1",
+   "name": "Japan Cottage 1",
+   "about": "Listing cards, votes, areas, alerts, exterior color",
+   "status": "wait",
+   "order": 10
+  },
+  {
+   "id": "miles-1",
+   "name": "Miles 1",
+   "about": "Points, bonuses, card wallet, transfers (example data)",
+   "status": "wait",
+   "order": 11
+  },
+  {
+   "id": "jokes-1",
+   "name": "Jokes 1",
+   "about": "Set list, bit card, tags, timer, bit library",
+   "status": "wait",
+   "order": 12
+  },
+  {
+   "id": "jane-amex-2",
+   "name": "Jane Amex 2",
+   "about": "Offer list, detail, save, ends soon, help (example offers)",
+   "status": "wait",
+   "order": 13
+  },
+  {
+   "id": "upkeep-6",
+   "name": "Up Keep 6",
+   "about": "50 pairs from upkeep-5 picks",
+   "status": "wait",
+   "order": 14
+  },
+  {
+   "id": "blueprint-2",
+   "name": "Blueprint 2",
+   "about": "50 pairs from blueprint-1 results",
+   "status": "wait",
+   "order": 15
+  },
+  {
+   "id": "thai-1",
+   "name": "Thai 1",
+   "about": "Thai vocab quiz style",
+   "status": "wait",
+   "order": 16
+  },
+  {
+   "id": "jane-amex-1",
+   "name": "Jane Amex 1",
+   "about": "Amex deck for Jane",
+   "status": "wait",
+   "order": 17
+  },
+  {
+   "id": "dashboard-2",
+   "name": "Dashboard 2",
+   "about": "Tests the open dashboard style choices",
+   "status": "wait",
+   "order": 18
+  },
+  {
+   "id": "video-v2",
+   "name": "Video V.2",
+   "about": "26 pairs for the explainer video",
+   "status": "wait",
+   "order": 19
+  },
+  {
+   "id": "2026-10-13",
+   "name": "Daily Deck Oct 13",
+   "about": "Results in: 32 of 50 answered, picks sent to UpKeep, Blog, Construction",
+   "status": "done",
+   "order": 20,
+   "answered": 32,
+   "total": 50,
+   "submitted": 1791892389000,
+   "via": "submit"
+  },
+  {
+   "id": "upkeep-7",
+   "name": "UpKeep 7",
+   "about": "Results in: 35 of 50 answered, picks written",
+   "status": "done",
+   "order": 21,
+   "answered": 35,
+   "total": 50
+  },
+  {
+   "id": "dashboard-1",
+   "name": "Dashboard 1",
+   "about": "37 of 50 answered, style guide written",
+   "status": "done",
+   "order": 22,
+   "answered": 37,
+   "total": 50
+  },
+  {
+   "id": "upkeep-5",
+   "name": "Up Keep 5",
+   "about": "White-base follow-ups",
+   "status": "done",
+   "order": 23
+  },
+  {
+   "id": "upkeep-4",
+   "name": "Up Keep 4",
+   "about": "45 of 50 answered, white won",
+   "status": "done",
+   "order": 24,
+   "answered": 45,
+   "total": 50
+  },
+  {
+   "id": "upkeep-3",
+   "name": "Up Keep 3",
+   "about": "32 of 50 answered",
+   "status": "done",
+   "order": 25,
+   "answered": 32,
+   "total": 50
+  },
+  {
+   "id": "upkeep-2",
+   "name": "Up Keep 2",
+   "about": "Top tags only",
+   "status": "done",
+   "order": 26
+  },
+  {
+   "id": "upkeep-1",
+   "name": "Up Keep 1",
+   "about": "Top tags only",
+   "status": "done",
+   "order": 27
+  },
+  {
+   "id": "blueprint-1",
+   "name": "Blueprint 1",
+   "about": "Weberman Residence decisions",
+   "status": "done",
+   "order": 28
+  }
+ ]
+}
