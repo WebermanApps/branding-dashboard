@@ -1,0 +1,151 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="color-scheme" content="light">
+<title>Branding Agent Command Center</title>
+<link rel="preconnect" href="https://fonts.googleapis.com"><link href="https://fonts.googleapis.com/css2?family=Khand:wght@500;600;700&family=Hind:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="brand-tokens.css">
+<style>
+*{box-sizing:border-box}html{background:#fff}body{margin:0;background:#fff;color:#0a0a0a;font:16px/1.55 var(--mw-font-body);-webkit-font-smoothing:antialiased}
+:root{--t:#C1502E;--b:#05668D;--g:#0B6E4F;--s:#D4A017}
+.wrap{max-width:1180px;margin:0 auto;padding:0 20px}
+header{border-bottom:1px solid #e5e5e5}
+.top{display:flex;align-items:center;justify-content:space-between;height:64px}
+.wm{font:700 22px/1 var(--mw-font-heading);letter-spacing:.06em}
+.wm i{display:inline-block;width:8px;height:8px;background:var(--t);margin-left:6px;vertical-align:middle}
+.btn{display:inline-flex;align-items:center;gap:8px;min-height:44px;padding:0 18px;border:2px solid #171717;background:transparent;color:#171717;font:600 13px/1 var(--mw-font-body);letter-spacing:.1em;text-transform:uppercase;cursor:pointer;text-decoration:none}
+.btn:hover{background:#171717;color:#fafafa}
+svg.ic{width:18px;height:18px;stroke:currentColor;fill:none;stroke-width:1.8;stroke-linecap:round;stroke-linejoin:round;flex:none}
+.hero{padding:24px 0 24px}
+.eyebrow{font:600 12px/1 var(--mw-font-body);letter-spacing:.14em;text-transform:uppercase;color:#737373}
+h1{font:700 clamp(40px,8vw,72px)/1.02 var(--mw-font-heading);letter-spacing:-.01em;margin:10px 0 12px}
+h2{font:700 28px/1.1 var(--mw-font-heading);margin:0 0 14px;display:flex;align-items:center;gap:10px}
+h2 .bar{width:4px;height:22px;background:var(--c,#171717);border-radius:2px}
+.lead{color:#404040;max-width:640px;margin:0}
+.stats{display:grid;grid-template-columns:repeat(4,1fr);gap:12px;margin-top:24px}
+.stat{border:1px solid #e5e5e5;border-radius:14px;padding:14px 16px;border-top:3px solid var(--c)}
+.stat b{display:block;font:700 34px/1 var(--mw-font-heading)}.stat span{font-size:13px;color:#737373}
+.grid{display:grid;grid-template-columns:1.25fr 1fr;gap:20px;padding:20px 0 40px}
+.card{border:1px solid #e5e5e5;border-radius:16px;padding:22px;background:#fff;box-shadow:0 1px 2px rgba(10,10,10,.04);margin-bottom:20px}
+ul.list{list-style:none;margin:0;padding:0}
+ul.list li{border-top:1px solid #f0f0f0}ul.list li:first-child{border-top:0}
+a.row{display:flex;align-items:center;gap:12px;min-height:52px;padding:8px 6px;color:inherit;text-decoration:none;border-radius:10px}
+a.row:hover{background:#f5f5f5}a.row:hover .arr{transform:translateX(3px)}
+.arr{transition:transform .18s ease-out;color:#737373}
+.row .nm{font:600 20px/1.1 var(--mw-font-heading)}.row .sub{font-size:13px;color:#737373;line-height:1.3}
+.tag{font:600 11px/1 var(--mw-font-body);letter-spacing:.08em;text-transform:uppercase;padding:6px 8px;border-radius:999px;white-space:nowrap}
+.wait{background:#fbf3dc;color:#7a5c00}.done{background:#e3f1ec;color:var(--g)}.draft{background:#f5f5f5;color:#525252}
+.dot{width:10px;height:10px;border-radius:50%;background:var(--c);flex:none}
+.sw{display:grid;grid-template-columns:repeat(2,1fr);gap:12px}
+.chip{border:1px solid #e5e5e5;border-radius:12px;overflow:hidden}.chip div{height:56px;background:var(--c)}
+.chip p{margin:0;padding:8px 10px;font-size:13px}.chip b{font:600 17px var(--mw-font-heading);display:block}
+.logos{display:grid;grid-template-columns:repeat(3,1fr);gap:10px}
+.logos figure{margin:0;border:1px solid #e5e5e5;border-radius:12px;height:92px;display:flex;align-items:center;justify-content:center;padding:10px;background:#fafafa}
+.logos img{max-width:100%;max-height:70px}
+code{font:13px/1.4 ui-monospace,Menlo,monospace;background:#f5f5f5;padding:3px 6px;border-radius:6px;word-break:break-all}
+.path{display:flex;gap:10px;align-items:flex-start;padding:10px 0;border-top:1px solid #f0f0f0}.path:first-of-type{border-top:0}
+.path b{font:600 17px var(--mw-font-heading);display:block}
+.owe li{display:flex;gap:10px;padding:10px 0;border-top:1px solid #f0f0f0;align-items:flex-start}.owe li:first-child{border-top:0}
+.owe svg{color:var(--s);margin-top:3px}
+.mw-hover:hover{transform:translateY(-1px) scale(1.02)}
+footer{border-top:1px solid #e5e5e5;background:#fafafa;padding:26px 0;font-size:14px;color:#525252}
+footer .wrap{display:flex;justify-content:space-between;gap:12px;flex-wrap:wrap}footer b{font-family:var(--mw-font-heading);font-size:18px;color:#0a0a0a;letter-spacing:.04em}
+.toast{position:fixed;left:50%;bottom:24px;transform:translateX(-50%);background:#fff;border:1px solid #e5e5e5;box-shadow:0 8px 24px rgba(0,0,0,.12);padding:10px 16px;border-radius:10px;opacity:0;transition:opacity .2s}.toast.on{opacity:1}
+
+
+.wrap{max-width:1440px}
+header{background:var(--b);border-bottom:0;color:#fff}
+.wm{display:flex;align-items:center;gap:10px;color:#fff}.wm i{display:none}
+.mark{width:36px;height:36px;border-radius:50%;background:#fff;color:var(--b);display:flex;align-items:center;justify-content:center;font:700 20px/1 var(--mw-font-heading)}
+.icbtn{width:44px;height:44px;display:flex;align-items:center;justify-content:center;border:0;background:rgba(255,255,255,.15);color:#fff;border-radius:10px;cursor:pointer}
+.icbtn:focus-visible,a:focus-visible{outline:3px solid var(--s);outline-offset:2px}
+.rep{border:1px solid #E5E0D8;border-left:5px solid var(--t);border-radius:12px;padding:14px 18px;margin-top:20px;background:#fff}
+.rep h3{margin:0 0 6px;font:700 20px/1.1 var(--mw-font-heading);display:flex;gap:10px;align-items:center;flex-wrap:wrap}
+.rep .k{font:600 12px/1 var(--mw-font-body);letter-spacing:.1em;text-transform:uppercase;color:#525252;margin:8px 0 4px}
+.rep ul{margin:0;padding-left:18px}.rep li{margin:2px 0}
+.rgrid{display:grid;grid-template-columns:1fr 1fr;gap:4px 28px}
+.upd{display:inline-flex;align-items:center;gap:6px;background:#e3f1ec;color:var(--g);font:600 12px/1 var(--mw-font-body);padding:6px 10px;border-radius:999px}
+.bub{display:inline-flex;min-width:22px;height:22px;padding:0 6px;border-radius:11px;background:#E04E1B;color:#fff;font:600 12px/22px var(--mw-font-body);justify-content:center}
+.grid{grid-template-columns:1.3fr 1fr}
+.tiles{display:grid;grid-template-columns:repeat(3,1fr);gap:10px}
+.tile{display:flex;flex-direction:column;align-items:center;gap:8px;padding:14px 6px;border:1px solid #E5E0D8;border-radius:12px;color:inherit;text-decoration:none;font:600 15px/1.1 var(--mw-font-heading);text-align:center;min-height:44px}
+.tile span.sq{width:44px;height:44px;border-radius:10px;display:flex;align-items:center;justify-content:center;background:color-mix(in srgb,var(--c) 14%,#fff);color:var(--c)}
+.tile svg.ic{stroke-width:2.4;width:22px;height:22px}
+details summary{cursor:pointer;min-height:44px;display:flex;align-items:center;font-weight:600;color:var(--b)}
+
+@media(max-width:860px){.rgrid{grid-template-columns:1fr}.grid{grid-template-columns:1fr}}
+@media(min-width:2000px){body{font-size:18px}.wrap{max-width:1760px}}
+
+@media(max-width:860px){.grid{gap:0}.stats{grid-template-columns:repeat(2,1fr)}.hero{padding:28px 0 8px}.card{padding:18px}.btn span.l{display:none}}
+@media(prefers-reduced-motion:reduce){*{transition:none!important}}
+</style></head><body>
+<svg width="0" height="0" style="position:absolute"><defs>
+<symbol id="i-share" viewBox="0 0 24 24"><path d="M12 3v12M7 8l5-5 5 5M5 13v6a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2v-6"/></symbol>
+<symbol id="i-arrow" viewBox="0 0 24 24"><path d="M7 17 17 7M9 7h8v8"/></symbol>
+<symbol id="i-cards" viewBox="0 0 24 24"><rect x="4" y="6" width="12" height="15" rx="2"/><path d="M8 3h10a2 2 0 0 1 2 2v12"/></symbol>
+<symbol id="i-clock" viewBox="0 0 24 24"><circle cx="12" cy="12" r="9"/><path d="M12 7v5l3 2"/></symbol>
+<symbol id="i-book" viewBox="0 0 24 24"><path d="M4 5a2 2 0 0 1 2-2h13v16H6a2 2 0 0 0-2 2z"/><path d="M4 21V5"/></symbol>
+<symbol id="i-folder" viewBox="0 0 24 24"><path d="M3 7a2 2 0 0 1 2-2h4l2 2h8a2 2 0 0 1 2 2v8a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"/></symbol>
+<symbol id="i-check" viewBox="0 0 24 24"><path d="m5 12 4 4 10-10"/></symbol>
+<symbol id="i-house" viewBox="0 0 24 24"><path d="M3 11 12 4l9 7M6 10v10h12V10"/></symbol>
+</defs></svg>
+<header><div class="wrap top"><div class="wm"><span class="mark">B</span>Branding Agent</div>
+<button class="icbtn" id="share" aria-label="Share"><svg class="ic"><use href="#i-share"/></svg></button></div></header>
+<main class="wrap">
+<section class="rep" id="report" aria-live="polite"><h3>Report</h3></section>
+<section class="hero">
+<h1>Branding Command Center</h1>
+<p class="lead">Style Swipe decks, picks waiting on you, and the brand files every agent builds from. <a href="https://webermanapps.github.io/a-2sipntzsp385oxy3/" style="color:var(--b)">Back To Apps Home</a></p>
+<div class="stats">
+<div class="stat" style="--c:var(--b)"><b>14</b><span>Live Decks</span></div>
+<div class="stat" style="--c:var(--s)"><b>7</b><span>Waiting On Your Results</span></div>
+<div class="stat" style="--c:var(--g)"><b>7</b><span>Decks With Results In</span></div>
+<div class="stat" style="--c:var(--t)"><b>1</b><span>Style Guide Written</span></div>
+</div></section>
+<div class="grid"><div>
+<section class="card" style="--c:var(--b)"><h2><span class="bar"></span>Style Swipe Decks <span class="bub">7</span></h2><div class="tiles" id="tiles" style="margin-bottom:14px"></div><ul class="list" id="decks"></ul><details><summary>Show All Results In (7)</summary><ul class="list" id="donel"></ul></details></section>
+</div><div>
+<section class="card" style="--c:var(--s)"><h2><span class="bar"></span>Decisions You Owe</h2><ul class="list owe">
+<li><svg class="ic"><use href="#i-clock"/></svg><div>Swipe and share results for <b>2026-10-13</b>, <b>upkeep-6</b>, <b>blueprint-2</b>, <b>thai-1</b>, <b>jane-amex-1</b>, <b>dashboard-2</b> and <b>video-v2</b>.</div></li>
+<li><svg class="ic"><use href="#i-clock"/></svg><div>Send upkeep-1 and upkeep-2 per-pair picks, or keep using top tags only?</div></li>
+<li><svg class="ic"><use href="#i-clock"/></svg><div>Headings: keep Title Case, or match the site's sentence case?</div></li>
+</ul></section>
+<section class="card" style="--c:var(--t)"><h2><span class="bar"></span>Accent Colors</h2><div class="sw">
+<div class="chip" style="--c:#C1502E"><div></div><p><b>Terracotta</b>#C1502E</p></div>
+<div class="chip" style="--c:#05668D"><div></div><p><b>Lagoon Blue</b>#05668D</p></div>
+<div class="chip" style="--c:#0B6E4F"><div></div><p><b>Jungle Green</b>#0B6E4F</p></div>
+<div class="chip" style="--c:#D4A017"><div></div><p><b>Saffron</b>#D4A017</p></div>
+</div><p style="font-size:13px;color:#737373;margin:12px 0 0">Small pops only. Base stays white, #0A0A0A text, #E5E5E5 rules.</p></section>
+<section class="card" style="--c:var(--g)"><h2><span class="bar"></span>Brand Files</h2>
+<div class="path"><svg class="ic"><use href="#i-book"/></svg><div><b>Brand Guide</b><code>/workspace/ops/brand/maxweberman-brand.md</code></div></div>
+<div class="path"><svg class="ic"><use href="#i-cards"/></svg><div><b>Dashboard Style Guide</b><code>/workspace/ops/brand/dashboard-style.md</code></div></div>
+<div class="path"><svg class="ic"><use href="#i-folder"/></svg><div><b>Brand Tokens</b><code>/workspace/ops/brand/brand-tokens.css</code></div></div>
+<div class="path"><svg class="ic"><use href="#i-house"/></svg><div><b>Up Keep Brand Assets</b><code>/workspace/brand/smart-upkeep/</code><div style="font-size:13px;color:#737373">76 logo SVGs, contact sheet, polo mockups</div></div></div>
+</section>
+<section class="card"><h2><span class="bar" style="background:var(--b)"></span>Up Keep Marks</h2><div class="logos">
+<figure><img src="assets/up_lock_side.svg" alt="Lockup side"></figure><figure><img src="assets/up_icon_solid.svg" alt="Icon solid"></figure><figure><img src="assets/up_teal.svg" alt="Teal"></figure>
+<figure><img src="assets/up_van_inline.svg" alt="Van inline"></figure><figure><img src="assets/up_terra.svg" alt="Terra"></figure><figure><img src="assets/new_su_lockup.svg" alt="Lockup"></figure>
+</div></section>
+</div></div></main>
+<footer><div class="wrap"><b>Built by Max Weberman</b><span>Branding Agent Dashboard · Light Mode</span></div></footer>
+<div class="toast" id="toast">Link Copied</div>
+<script>
+const B='https://webermanapps.github.io/style-swipe/?date=';
+const D=[["2026-10-13","Daily Deck, Latest","50 pairs: blog topics, writing, color, Up Keep","wait"],
+["upkeep-6","Up Keep 6","50 pairs from upkeep-5 picks","wait"],["blueprint-2","Blueprint 2","50 pairs from blueprint-1 results","wait"],
+["thai-1","Thai 1","Thai vocab quiz style","wait"],["jane-amex-1","Jane Amex 1","Amex deck for Jane","wait"],
+["dashboard-2","Dashboard 2","Tests the open dashboard style choices","wait"],["video-v2","Video V.2","26 pairs for the explainer video","wait"],
+["dashboard-1","Dashboard 1","37 of 50 answered, style guide written","done"],["upkeep-5","Up Keep 5","White-base follow-ups","done"],
+["upkeep-4","Up Keep 4","45 of 50 answered, white won","done"],["upkeep-3","Up Keep 3","32 of 50 answered","done"],
+["upkeep-2","Up Keep 2","Top tags only","done"],["upkeep-1","Up Keep 1","Top tags only","done"],
+["blueprint-1","Blueprint 1","Weberman Residence decisions","done"]];
+const L={wait:"Waiting On You",done:"Results In"},C={wait:"var(--s)",done:"var(--g)"};
+const row=([id,n,s,st])=>`<li><a class="row" href="${B}${id}" target="_blank" rel="noopener"><span class="dot" style="--c:${C[st]}"></span><div><div class="nm">${n}</div><div class="sub">${s}</div></div><span class="tag ${st}" style="margin-left:auto">${L[st]}</span><svg class="ic arr"><use href="#i-arrow"/></svg></a></li>`;
+document.getElementById('decks').innerHTML=D.filter(d=>d[3]=='wait').map(row).join('');
+document.getElementById('donel').innerHTML=D.filter(d=>d[3]=='done').map(row).join('');
+const TC=["var(--t)","var(--b)","var(--g)","var(--s)"];
+document.getElementById('tiles').innerHTML=D.filter(d=>d[3]=='wait').slice(0,6).map((d,k)=>`<a class="tile mw-hover" href="${B}${d[0]}" target="_blank" rel="noopener" style="--c:${TC[k%4]}"><span class="sq"><svg class="ic"><use href="#i-cards"/></svg></span>${d[1]}</a>`).join('');
+const esc=x=>String(x).replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+fetch('report.json',{cache:'no-store'}).then(r=>r.json()).then(r=>{const ul=a=>'<ul>'+(a||[]).map(x=>'<li>'+esc(x)+'</li>').join('')+'</ul>';
+const d=new Date(r.updated||r.date);const ds=isNaN(d)?esc(r.date):d.toLocaleDateString('en-US',{month:'short',day:'numeric',year:'numeric',timeZone:'Asia/Bangkok'});
+document.getElementById('report').innerHTML=`<h3>${esc(r.type||'Report')} <span class="upd">Updated ${ds}</span></h3><div class="rgrid"><div><div class="k">Worked On Today</div>${ul(r.today)}</div><div><div class="k">Expect Tomorrow</div>${ul(r.tomorrow)}</div></div>`;}).catch(()=>{document.getElementById('report').innerHTML='<h3>Report</h3><p style="margin:0;color:#525252">Report not available.</p>'});
+document.getElementById('share').onclick=async()=>{const d={title:'Branding Command Center',url:location.href};try{if(navigator.share)await navigator.share(d);else{await navigator.clipboard.writeText(location.href);t()}}catch(e){}};
+function t(){const e=document.getElementById('toast');e.classList.add('on');setTimeout(()=>e.classList.remove('on'),1600)}
+</script></body></html>
