@@ -55,6 +55,7 @@ footer .wrap{display:flex;justify-content:space-between;gap:12px;flex-wrap:wrap}
 header{background:var(--b);border-bottom:0;color:#fff}
 .wm{display:flex;align-items:center;gap:10px;color:#fff}.wm i{display:none}
 .mark{width:36px;height:36px;border-radius:50%;background:#fff;color:var(--b);display:flex;align-items:center;justify-content:center;font:700 20px/1 var(--mw-font-heading)}
+.backhome{display:inline-flex;align-items:center;gap:6px;min-height:44px;min-width:44px;padding:0 12px;color:#fff;text-decoration:none;font:700 15px/1 Khand,Hind,sans-serif;letter-spacing:.08em;text-transform:uppercase;border:2px solid rgba(255,255,255,.6)}
 .icbtn{width:44px;height:44px;display:flex;align-items:center;justify-content:center;border:0;background:rgba(255,255,255,.15);color:#fff;border-radius:10px;cursor:pointer}
 .icbtn:focus-visible,a:focus-visible{outline:3px solid var(--s);outline-offset:2px}
 .rep{border:1px solid #E5E0D8;border-left:5px solid var(--t);border-radius:12px;padding:14px 18px;margin-top:20px;background:#fff}
@@ -96,14 +97,14 @@ details.alert summary{gap:8px;color:#7a5c00;list-style:none}details.alert summar
 <symbol id="i-check" viewBox="0 0 24 24"><path d="m5 12 4 4 10-10"/></symbol>
 <symbol id="i-house" viewBox="0 0 24 24"><path d="M3 11 12 4l9 7M6 10v10h12V10"/></symbol>
 </defs></svg>
-<header><div class="wrap top"><div class="wm"><span class="mark">B</span>Branding Agent</div>
+<header><div class="wrap top"><div style="display:flex;align-items:center;gap:10px"><a class="backhome mw-hover" href="https://webermanapps.github.io/a-2sipntzsp385oxy3/" aria-label="Back To Apps Home"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M19 12H5M11 6l-6 6 6 6"/></svg><span>Apps Home</span></a><div class="wm"><span class="mark">B</span>Branding Agent</div></div>
 <button class="icbtn" id="share" aria-label="Share"><svg class="ic"><use href="#i-share"/></svg></button></div></header>
 <main class="wrap">
 <section class="card" id="decksTop" style="--c:var(--b);margin:16px 0"><h2><span class="bar"></span>Style Swipe Decks <span class="bub">20</span></h2><div class="tiles" id="tiles" style="margin-bottom:14px"></div><ul class="list" id="decks"></ul><details><summary>Show All Results In (7)</summary><ul class="list" id="donel"></ul></details></section>
 <section class="rep" id="report" aria-live="polite"><h3>Report</h3></section>
 <section class="hero">
 <h1>Branding Command Center</h1>
-<p class="lead">Style Swipe decks, picks waiting on you, and the brand files every agent builds from. <a href="https://webermanapps.github.io/a-2sipntzsp385oxy3/" style="color:var(--b)">Back To Apps Home</a></p>
+<p class="lead">Style Swipe decks, picks waiting on you, and the brand files every agent builds from.</p>
 <div class="stats">
 <div class="stat" style="--c:var(--b)"><b>27</b><span>Live Decks</span></div>
 <div class="stat" style="--c:var(--s)"><b>20</b><span>Waiting On Your Results</span></div>
@@ -141,7 +142,7 @@ try{await navigator.clipboard.writeText(u);m.textContent='Link copied'}catch(e){
 <footer><div class="wrap"><b>Built by Max Weberman</b><span>Branding Agent Dashboard · Light Mode</span></div></footer>
 <div class="toast" id="toast">Link Copied</div>
 <script>
-const B='https://webermanapps.github.io/style-swipe/?date=';
+const B='https://webermanapps.github.io/style-swipe/?from='+encodeURIComponent('https://webermanapps.github.io/branding-djqmb410/')+'&date=';
 const D=[["2026-10-13","Daily Deck, Latest","50 pairs: blog topics, writing, color, Up Keep","wait"],
 ["upkeep-stay-and-gift","Upkeep Stay &amp; Gift","From upkeep-7 picks: retests, gift, one-time lawn, retention offer","wait"],
 ["prop-1","Prop 1","Property carousel, receipts, walkthrough, requests","wait"],
