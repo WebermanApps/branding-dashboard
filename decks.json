@@ -8,7 +8,7 @@
    "status": "wait",
    "order": 0,
    "cat": "variety",
-   "size": 50
+   "size": 25
   },
   {
    "id": "upkeep-stay-and-gift",
@@ -17,7 +17,7 @@
    "status": "wait",
    "order": 1,
    "cat": "upkeep",
-   "size": 50
+   "size": 25
   },
   {
    "id": "prop-1",
@@ -26,7 +26,7 @@
    "status": "wait",
    "order": 2,
    "cat": "prop",
-   "size": 50
+   "size": 25
   },
   {
    "id": "construction-1",
@@ -35,7 +35,7 @@
    "status": "wait",
    "order": 3,
    "cat": "construction",
-   "size": 50
+   "size": 25
   },
   {
    "id": "scout-1",
@@ -44,7 +44,7 @@
    "status": "wait",
    "order": 4,
    "cat": "scout",
-   "size": 50
+   "size": 25
   },
   {
    "id": "wellnest-1",
@@ -53,7 +53,7 @@
    "status": "wait",
    "order": 5,
    "cat": "wellnest",
-   "size": 50
+   "size": 25
   },
   {
    "id": "blueprint-3",
@@ -62,7 +62,7 @@
    "status": "wait",
    "order": 6,
    "cat": "blueprint",
-   "size": 50
+   "size": 25
   },
   {
    "id": "thai-2",
@@ -71,7 +71,7 @@
    "status": "wait",
    "order": 7,
    "cat": "thai",
-   "size": 50
+   "size": 25
   },
   {
    "id": "blog-1",
@@ -80,7 +80,7 @@
    "status": "wait",
    "order": 8,
    "cat": "blog",
-   "size": 50
+   "size": 25
   },
   {
    "id": "portfolio-1",
@@ -89,7 +89,7 @@
    "status": "wait",
    "order": 9,
    "cat": "portfolio",
-   "size": 50
+   "size": 25
   },
   {
    "id": "japan-cottage-1",
@@ -98,7 +98,7 @@
    "status": "wait",
    "order": 10,
    "cat": "japan-cottage",
-   "size": 50
+   "size": 25
   },
   {
    "id": "miles-1",
@@ -107,7 +107,7 @@
    "status": "wait",
    "order": 11,
    "cat": "miles",
-   "size": 50
+   "size": 25
   },
   {
    "id": "jokes-1",
@@ -116,7 +116,7 @@
    "status": "wait",
    "order": 12,
    "cat": "jokes",
-   "size": 50
+   "size": 25
   },
   {
    "id": "jane-amex-2",
@@ -125,7 +125,7 @@
    "status": "wait",
    "order": 13,
    "cat": "jane-amex",
-   "size": 50
+   "size": 25
   },
   {
    "id": "upkeep-6",
@@ -134,7 +134,7 @@
    "status": "wait",
    "order": 14,
    "cat": "upkeep",
-   "size": 50
+   "size": 25
   },
   {
    "id": "blueprint-2",
@@ -143,7 +143,7 @@
    "status": "wait",
    "order": 15,
    "cat": "blueprint",
-   "size": 50
+   "size": 25
   },
   {
    "id": "thai-1",
@@ -152,7 +152,7 @@
    "status": "wait",
    "order": 16,
    "cat": "thai",
-   "size": 50
+   "size": 25
   },
   {
    "id": "jane-amex-1",
@@ -161,7 +161,7 @@
    "status": "wait",
    "order": 17,
    "cat": "jane-amex",
-   "size": 50
+   "size": 25
   },
   {
    "id": "dashboard-2",
@@ -170,7 +170,7 @@
    "status": "wait",
    "order": 18,
    "cat": "dashboards",
-   "size": 50
+   "size": 25
   },
   {
    "id": "video-v2",
@@ -179,7 +179,7 @@
    "status": "wait",
    "order": 19,
    "cat": "variety",
-   "size": 26
+   "size": 25
   },
   {
    "id": "2026-10-13",
@@ -223,7 +223,7 @@
    "status": "done",
    "order": 23,
    "cat": "upkeep",
-   "size": 50,
+   "size": 25,
    "total": 50
   },
   {
@@ -255,7 +255,7 @@
    "status": "done",
    "order": 26,
    "cat": "upkeep",
-   "size": 50,
+   "size": 25,
    "total": 50
   },
   {
@@ -265,7 +265,7 @@
    "status": "done",
    "order": 27,
    "cat": "upkeep",
-   "size": 50,
+   "size": 25,
    "total": 50
   },
   {

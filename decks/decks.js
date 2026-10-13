@@ -32,9 +32,10 @@ w.DeckApp=function(el,o){
  const date=ts=>new Date(ts).toLocaleDateString('en-US',{month:'short',day:'numeric',timeZone:'Asia/Bangkok'});
  el.classList.add('dk');el.innerHTML='<p class="none">Loading decks…</p>';
  Promise.all([fetch(o.base+'decks.json',{cache:'no-store'}).then(r=>r.json()),fetch(o.base+'requests.json',{cache:'no-store'}).then(r=>r.json()).catch(()=>({requests:[]})),fetch(BANKS,{cache:'no-store'}).then(r=>r.ok?r.json():null).catch(()=>null)]).then(([J,RQ,B])=>{
+  if(o.onData)try{o.onData(J)}catch(_){}
   const C=J.categories,D=J.decks,W=D.filter(d=>d.status==='wait');
-  const wc=d=>`<a class="card mw-hover" style="--c:#D4A017" href="${link(d.id)}">${IC.cards}<div><div class="nm">${esc(d.name)}</div><div class="sub">${esc(d.about)}</div>${d.size?`<div class="meta">${d.size} pairs</div>`:""}</div></a>`;
-  const fc=d=>`<a class="card mw-hover" style="--c:#0B6E4F" href="${link(d.id)}">${IC.check}<div><div class="nm">${esc(d.name)}</div><div class="meta">Results In · ${d.answered!=null?`${d.answered}/${d.total||d.size||"?"} answered`:'count not recorded'}${d.via==='submit'?` · Sent with Submit ${date(d.submitted)}`:''}</div></div></a>`;
+  const wc=d=>`<a class="card mw-hover" style="--c:#D4A017" href="${link(d.id)}">${IC.cards}<div><div class="nm">${esc(d.name)}</div><div class="sub">${esc(d.about)}</div><div class="meta" data-size="${esc(d.id)}">${d.size?d.size+" pairs":""}</div></div></a>`;
+  const fc=d=>`<a class="card mw-hover" style="--c:#0B6E4F" href="${link(d.id)}">${IC.check}<div><div class="nm">${esc(d.name)}</div><div class="meta">Results In · ${d.answered!=null?`${d.answered}/${d.total||d.size||"?"} answered`:'count not recorded'} · <span data-size="${esc(d.id)}">${d.size?d.size+' pairs':''}</span>${d.via==='submit'?` · Sent with Submit ${date(d.submitted)}`:''}</div></div></a>`;
   const mix=`<div class="mix"><h3>${IC.mix}Mixed Deck</h3><div class="sub" style="margin-top:4px">Pick categories and a size, then start one deck that mixes them.</div>
    <div class="boxes">${C.map(c=>`<label><input type="checkbox" value="${c.slug}" checked>${esc(c.name)}</label>`).join('')}</div>
    <div class="row"><div class="size" role="radiogroup" aria-label="Deck size"><label><input type="radio" name="mixn" value="25" checked>25 Pairs</label><label><input type="radio" name="mixn" value="50">50 Pairs</label></div>
@@ -50,6 +51,8 @@ w.DeckApp=function(el,o){
   const st=el.querySelector('.start'),upd=()=>{const s=[...el.querySelectorAll('.boxes input:checked')].map(i=>i.value),n=(el.querySelector('input[name=mixn]:checked')||{}).value||25;
    st.href=s.length?SS+'?mix='+s.join(',')+'&n='+n+'&from='+encodeURIComponent(self):'#';st.setAttribute('aria-disabled',s.length?'false':'true')};
   el.querySelector('.mix').addEventListener('change',upd);el.querySelectorAll('.tl').forEach(b=>b.onclick=()=>{el.querySelectorAll('.boxes input').forEach(i=>i.checked=b.dataset.all==='1');upd()});upd();
+  /* live sizes: read each deck file from Style Swipe and show its real pair count */
+  D.forEach(d=>fetch(SS+'decks/'+encodeURIComponent(d.id)+'.json').then(r=>r.ok?r.json():null).then(x=>{const n=x&&((x.pairs||x.cards||[]).length);if(!n)return;d.size=n;el.querySelectorAll('[data-size="'+d.id+'"]').forEach(e=>e.textContent=n+' pairs')}).catch(()=>{}));
  }).catch(()=>{el.innerHTML='<p class="none">Decks not available.</p>'});
 };
 })(window);

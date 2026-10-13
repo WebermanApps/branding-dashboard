@@ -87,7 +87,7 @@ details summary{cursor:pointer;min-height:44px;display:flex;align-items:center;f
 details.alert summary{gap:8px;color:#7a5c00;list-style:none}details.alert summary::-webkit-details-marker{display:none}details.alert summary::after{content:"";width:8px;height:8px;border-right:2px solid currentColor;border-bottom:2px solid currentColor;transform:rotate(45deg);margin-left:6px}details.alert[open] summary::after{transform:rotate(-135deg)}details.alert summary svg{color:var(--s)}
 @media(prefers-reduced-motion:reduce){*{transition:none!important}}
 .deckbuild{display:flex;align-items:center;gap:10px;flex-wrap:wrap;margin:16px 0 0;padding:14px 16px;min-height:56px;border:2px solid var(--b);color:var(--b);text-decoration:none;font:700 20px/1.1 Khand,Hind,sans-serif;letter-spacing:.04em}.deckbuild .ic{width:24px;height:24px}.deckbuild small{font:400 14px Hind,sans-serif;color:#525252;letter-spacing:0}
-.top3{margin:4px 0 12px;padding-left:22px}.top3 li{margin:4px 0}.needs{margin-top:10px}.needs summary{cursor:pointer;min-height:44px;display:flex;align-items:center;font-weight:600}</style><script src="ptr.js?v=4" defer></script><script src="decks/decks.js?v=1"></script><script src="decks/decks.js?v=1"></script>
+.top3{margin:4px 0 12px;padding-left:22px}.top3 li{margin:4px 0}.needs{margin-top:10px}.needs summary{cursor:pointer;min-height:44px;display:flex;align-items:center;font-weight:600}</style><script src="ptr.js?v=4" defer></script><script src="decks/decks.js?v=2"></script><script src="decks/decks.js?v=2"></script>
 </head><body>
 <svg width="0" height="0" style="position:absolute"><defs>
 <symbol id="i-share" viewBox="0 0 24 24"><path d="M12 3v12M7 8l5-5 5 5M5 13v6a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2v-6"/></symbol>
@@ -110,9 +110,9 @@ details.alert summary{gap:8px;color:#7a5c00;list-style:none}details.alert summar
 <h1>Branding Command Center</h1>
 <p class="lead">Style Swipe decks, picks waiting on you, and the brand files every agent builds from.</p>
 <div class="stats">
-<div class="stat" style="--c:var(--b)"><b>28</b><span>Live Decks</span></div>
-<div class="stat" style="--c:var(--s)"><b>20</b><span>Waiting On Your Results</span></div>
-<div class="stat" style="--c:var(--g)"><b>8</b><span>Decks With Results In</span></div>
+<div class="stat" style="--c:var(--b)"><b id="stLive">28</b><span>Live Decks</span></div>
+<div class="stat" style="--c:var(--s)"><b id="stWait">20</b><span>Waiting On Your Results</span></div>
+<div class="stat" style="--c:var(--g)"><b id="stDone">8</b><span>Decks With Results In</span></div>
 <div class="stat" style="--c:var(--t)"><b>1</b><span>Style Guide Written</span></div>
 </div></section>
 <div class="grid g2"><div style="display:contents">
@@ -150,7 +150,7 @@ const esc=x=>String(x).replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;',
 const B='https://webermanapps.github.io/style-swipe/?from='+encodeURIComponent('https://webermanapps.github.io/branding-djqmb410/')+'&date=';
 const L={wait:"Waiting On You",done:"Results In"},C={wait:"var(--s)",done:"var(--g)"};
 const row=([id,n,s,st])=>`<li><a class="row" href="${B}${id}" target="_blank" rel="noopener"><span class="dot" style="--c:${C[st]}"></span><div><div class="nm">${n}</div><div class="sub">${s}</div></div><span class="tag ${st}" style="margin-left:auto">${L[st]}</span><svg class="ic arr"><use href="#i-arrow"/></svg></a></li>`;
-DeckApp(document.getElementById('deckApp'),{base:'',self:'https://webermanapps.github.io/branding-djqmb410/'});
+DeckApp(document.getElementById('deckApp'),{onData:J=>{const n=f=>J.decks.filter(f).length;stLive.textContent=n(()=>1);stWait.textContent=n(d=>d.status==='wait');stDone.textContent=n(d=>d.status==='done')},base:'',self:'https://webermanapps.github.io/branding-djqmb410/'});
 fetch('report.json',{cache:'no-store'}).then(r=>r.json()).then(r=>{const ul=a=>'<ul>'+(a||[]).map(x=>'<li>'+esc(x)+'</li>').join('')+'</ul>';
 const d=new Date(r.updated||r.date);const ds=isNaN(d)?esc(r.date):d.toLocaleDateString('en-US',{month:'short',day:'numeric',year:'numeric',timeZone:'Asia/Bangkok'});
 document.getElementById('report').innerHTML=`<h3>${esc(r.type||'Report')} <span class="upd">Updated ${ds}</span></h3>${r.top3?`<div class="k">Ready For You Now</div><ol class="top3">${r.top3.map(x=>'<li>'+esc(x)+'</li>').join('')}</ol>`:''}<div class="rgrid"><div><div class="k">${r.type==='Fresh Start'?'Decided And Done':'Worked On Today'}</div>${ul(r.today)}</div><div><div class="k">Expect Tomorrow</div>${ul(r.tomorrow)}</div></div>${r.needs&&r.needs.length?`<details class="needs"><summary>What I Need From You (${r.needs.length})</summary>${ul(r.needs)}</details>`:''}`;}).catch(()=>{document.getElementById('report').innerHTML='<h3>Report</h3><p style="margin:0;color:#525252">Report not available.</p>'});
