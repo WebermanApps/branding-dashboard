@@ -45,6 +45,7 @@ code{font:13px/1.4 ui-monospace,Menlo,monospace;background:#f5f5f5;padding:3px 6
 .owe li{display:flex;gap:10px;padding:10px 0;border-top:1px solid #f0f0f0;align-items:flex-start}.owe li:first-child{border-top:0}
 .owe svg{color:var(--s);margin-top:3px}
 .mw-hover:hover{transform:translateY(-1px) scale(1.02)}
+.share{display:flex;justify-content:center;margin:8px 0 28px}.share button{display:inline-flex;align-items:center;gap:8px;background:#fff;color:#0a0a0a;border:1px solid #e5e5e5;border-left:3px solid var(--b);border-radius:10px;padding:10px 18px;font:600 16px var(--mw-font-heading);letter-spacing:.04em;cursor:pointer;transition:transform .15s}.share svg{width:16px;height:16px;stroke:var(--b);fill:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round}.share small{font:13px "Hind",sans-serif;color:#737373}
 footer{border-top:1px solid #e5e5e5;background:#fafafa;padding:26px 0;font-size:14px;color:#525252}
 footer .wrap{display:flex;justify-content:space-between;gap:12px;flex-wrap:wrap}footer b{font-family:var(--mw-font-heading);font-size:18px;color:#0a0a0a;letter-spacing:.04em}
 .toast{position:fixed;left:50%;bottom:24px;transform:translateX(-50%);background:#fff;border:1px solid #e5e5e5;box-shadow:0 8px 24px rgba(0,0,0,.12);padding:10px 16px;border-radius:10px;opacity:0;transition:opacity .2s}.toast.on{opacity:1}
@@ -124,6 +125,11 @@ details summary{cursor:pointer;min-height:44px;display:flex;align-items:center;f
 <figure><img src="assets/up_van_inline.svg" alt="Van inline"></figure><figure><img src="assets/up_terra.svg" alt="Terra"></figure><figure><img src="assets/new_su_lockup.svg" alt="Lockup"></figure>
 </div></section>
 </div></div></main>
+<div class="share"><button type="button" id="shareBtn" class="mw-hover"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="18" cy="5" r="3"/><circle cx="6" cy="12" r="3"/><circle cx="18" cy="19" r="3"/><path d="M8.6 13.5l6.8 4M15.4 6.5l-6.8 4"/></svg>Share <small id="shareMsg"></small></button></div>
+<script>document.getElementById('shareBtn').onclick=async()=>{const u=location.href.split('#')[0],t=document.title,m=document.getElementById('shareMsg');
+if(navigator.share){try{await navigator.share({title:t,url:u});return}catch(e){if(e.name==='AbortError')return}}
+if(/iPhone|iPad|Android/i.test(navigator.userAgent)){location.href='sms:?&body='+encodeURIComponent(t+' '+u);return}
+try{await navigator.clipboard.writeText(u);m.textContent='Link copied'}catch(e){prompt('Copy link',u)}};</script>
 <footer><div class="wrap"><b>Built by Max Weberman</b><span>Branding Agent Dashboard · Light Mode</span></div></footer>
 <div class="toast" id="toast">Link Copied</div>
 <script>
