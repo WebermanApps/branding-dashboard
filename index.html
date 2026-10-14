@@ -153,7 +153,6 @@ details.fold{margin:16px 0;border:1px solid #e5e5e5;border-left:3px solid var(--
 </ul></details></div></section>
 
 
-<section data-routines="routines.json" id="routines"></section><script src="https://webermanapps.github.io/style-swipe/kit/routines-section.js?v=2" defer></script>
 <details class="fold" id="brandFold"><summary>Brand Colors, Files And Marks<small>Accent colors, brand file paths, UpKeep logos</small></summary><div class="grid g2"><div style="display:contents">
 <section class="card" style="--c:var(--t)"><h2><span class="bar"></span>Accent Colors</h2><div class="sw">
 <div class="chip" style="--c:#C1502E"><div></div><p><b>Terracotta</b>#C1502E</p></div>
@@ -172,7 +171,8 @@ details.fold{margin:16px 0;border:1px solid #e5e5e5;border-left:3px solid var(--
 <figure><img src="assets/up_lock_side.svg" alt="Lockup side"></figure><figure><img src="assets/up_icon_solid.svg" alt="Icon solid"></figure><figure><img src="assets/up_teal.svg" alt="Teal"></figure>
 <figure><img src="assets/up_van_inline.svg" alt="Van inline"></figure><figure><img src="assets/up_terra.svg" alt="Terra"></figure><figure><img src="assets/new_su_lockup.svg" alt="Lockup"></figure>
 </div></section>
-</div></div></details></main>
+</div></div></details>
+<section data-routines="routines.json" id="routines"></section><script src="https://webermanapps.github.io/style-swipe/kit/routines-section.js?v=3" defer></script></main>
 
 <footer><div class="wrap"><b>Built by Max Weberman</b><span>Branding Agent Dashboard · Light Mode</span></div></footer>
 <div class="toast" id="toast">Link Copied</div>
@@ -182,7 +182,7 @@ const B='https://webermanapps.github.io/style-swipe/?from='+encodeURIComponent('
 const L={wait:"Waiting On You",done:"Results In"},C={wait:"var(--s)",done:"var(--g)"};
 const row=([id,n,s,st])=>`<li><a class="row" href="${B}${id}" target="_blank" rel="noopener"><span class="dot" style="--c:${C[st]}"></span><div><div class="nm">${n}</div><div class="sub">${s}</div></div><span class="tag ${st}" style="margin-left:auto">${L[st]}</span><svg class="ic arr"><use href="#i-arrow"/></svg></a></li>`;
 /* deck list + deck stats moved to Deck Building page only (R66 placement, Max Oct 14 19:43 ICT) */
-fetch('report.json',{cache:'no-store'}).then(r=>r.json()).then(r=>{const ul=a=>'<ul>'+(a||[]).map(x=>'<li>'+esc(x)+'</li>').join('')+'</ul>';
+fetch('report.json',{cache:'no-store'}).then(r=>r.json()).then(r=>{if(!/morning/i.test((r.type||'')+' '+(r.report_type||''))){const e=document.getElementById('report');if(e)e.remove();hdrUpd.textContent='Updated '+new Date(r.updated||Date.now()).toLocaleDateString('en-US',{month:'short',day:'numeric',year:'numeric',timeZone:'Asia/Bangkok'});return}/* Morning Report only (Max 20:05 ICT, Evening Report retired) */const ul=a=>'<ul>'+(a||[]).map(x=>'<li>'+esc(x)+'</li>').join('')+'</ul>';
 const d=new Date(r.updated||r.date);const ds=isNaN(d)?esc(r.date):d.toLocaleDateString('en-US',{month:'short',day:'numeric',year:'numeric',timeZone:'Asia/Bangkok'});
 const ol=(a,c)=>'<ol class="num" style="--nc:'+c+'">'+(a||[]).map(x=>'<li><span>'+esc(x)+'</span></li>').join('')+'</ol>';
 const fo=(t,b,o)=>`<details class="fo"${o?' open':''}><summary>${t}</summary><div>${b}</div></details>`;

@@ -12,8 +12,9 @@
    "name": "Dashboard Evening Report",
    "group": "Reports",
    "schedule_plain": "Daily At 6:02 PM ICT",
-   "status": "on",
-   "last_run": "Oct 13, 6:07 PM"
+   "status": "paused",
+   "last_run": "Oct 13, 6:07 PM",
+   "note": "Retired by Max, Oct 14 2026 20:05 ICT: only the Morning Report (by 5:00 ICT) remains."
   },
   {
    "name": "Daily Style Swipe Deck",
