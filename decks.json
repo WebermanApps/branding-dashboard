@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-14T14:50:06+07:00",
+ "updated": "2026-10-14T17:26:54+07:00",
  "decks": [
   {
    "id": "org-chart",
@@ -11,6 +11,21 @@
    "size": 20,
    "featured": false,
    "url": "https://webermanapps.github.io/style-swipe/org-chart-b4xp08/"
+  },
+  {
+   "id": "mix-multi-2026-10-14",
+   "name": "Mixed Deck: Up Keep + Portfolio + WellNest + Variety + Prop + Construction + Scout + Blueprint + Thai + Blog + Japan Cottage + Miles + Jokes + Jane Amex",
+   "about": "Results In: 8 of 10 answered (2 skips), sent Oct 14; picks to Miles, WellNest, Blueprint, Jane Amex, Construction, Blog, Scout, Jokes",
+   "status": "done",
+   "order": 0,
+   "cat": "variety",
+   "size": 10,
+   "featured": false,
+   "url": "https://webermanapps.github.io/style-swipe/?mix=upkeep,portfolio,wellnest,variety,prop,construction,scout,blueprint,thai,blog,japan-cottage,miles,jokes,jane-amex&n=10",
+   "answered": 8,
+   "total": 10,
+   "submitted": 1791973238000,
+   "via": "submit"
   },
   {
    "id": "agent-dashboards-more",
