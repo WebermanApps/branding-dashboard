@@ -1,0 +1,46 @@
+{
+ "agent": "branding",
+ "decks": [
+  {
+   "id": "agent-dashboards-more",
+   "name": "Agent Dashboards Deck Two",
+   "url": "https://webermanapps.github.io/style-swipe/agent-dashboards-more-yzbanp/",
+   "total": 20,
+   "topic": "dashboards",
+   "blurb": "Board layouts for each agent, 20 cards"
+  },
+  {
+   "id": "deck-board-2",
+   "name": "Deck Board Details",
+   "url": "https://webermanapps.github.io/style-swipe/deck-board-details-vren53/",
+   "total": 20,
+   "topic": "dashboards",
+   "blurb": "Deck Building board details, 20 cards"
+  },
+  {
+   "id": "dashboards-ready-1",
+   "name": "Feed And Report Bars Deck",
+   "url": "https://webermanapps.github.io/style-swipe/dashboards-ready-1-j8ipxh/",
+   "total": 20,
+   "topic": "dashboards",
+   "blurb": "Feed cards and report bar styles, 20 cards"
+  },
+  {
+   "id": "dashboards-ready-2",
+   "name": "Layout And Decisions Deck",
+   "url": "https://webermanapps.github.io/style-swipe/dashboards-ready-2-jmospn/",
+   "total": 20,
+   "topic": "dashboards",
+   "blurb": "Board layout, decision cards, deck rows, 20 cards"
+  },
+  {
+   "id": "variety-ready-1",
+   "name": "Swipe Controls And Feed Deck",
+   "url": "https://webermanapps.github.io/style-swipe/variety-ready-1-mqzukt/",
+   "total": 20,
+   "topic": "variety",
+   "blurb": "Swipe buttons, feed cards, 20 cards"
+  }
+ ],
+ "updated": "2026-10-14T19:31:50+07:00"
+}

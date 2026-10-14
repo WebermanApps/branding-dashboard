@@ -2,6 +2,45 @@
  "updated": "2026-10-14T18:05:56+07:00",
  "decks": [
   {
+   "id": "variety-ready-1",
+   "name": "Swipe Controls And Feed Deck",
+   "about": "Ready Deck Shelf (R66): Swipe buttons, feed cards, 20 cards",
+   "status": "wait",
+   "order": 0,
+   "cat": "dashboards",
+   "size": 20,
+   "featured": false,
+   "url": "https://webermanapps.github.io/style-swipe/variety-ready-1-mqzukt/",
+   "answered": 0,
+   "total": 20
+  },
+  {
+   "id": "dashboards-ready-2",
+   "name": "Layout And Decisions Deck",
+   "about": "Ready Deck Shelf (R66): Board layout, decision cards, deck rows, 20 cards",
+   "status": "wait",
+   "order": 0,
+   "cat": "dashboards",
+   "size": 20,
+   "featured": false,
+   "url": "https://webermanapps.github.io/style-swipe/dashboards-ready-2-jmospn/",
+   "answered": 0,
+   "total": 20
+  },
+  {
+   "id": "dashboards-ready-1",
+   "name": "Feed And Report Bars Deck",
+   "about": "Ready Deck Shelf (R66): Feed cards and report bar styles, 20 cards",
+   "status": "wait",
+   "order": 0,
+   "cat": "dashboards",
+   "size": 20,
+   "featured": false,
+   "url": "https://webermanapps.github.io/style-swipe/dashboards-ready-1-j8ipxh/",
+   "answered": 0,
+   "total": 20
+  },
+  {
    "id": "org-chart",
    "name": "Org Chart Deck",
    "about": "Results In: 14 of 20 answered (6 skips), sent Oct 14; picks to Grok Bot for the Apps Home org chart",
