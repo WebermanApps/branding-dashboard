@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-14T15:11:25+07:00",
+ "updated": "2026-10-14T15:24:55+07:00",
  "tz": "Asia/Bangkok",
  "today": "2026-10-14",
- "count": 7,
+ "count": 8,
  "partial": 0,
  "decks": [
   {
@@ -46,6 +46,12 @@
    "name": "Agent Dashboards Deck",
    "agent": "branding",
    "partial": false
+  },
+  {
+   "deck": "org-chart",
+   "name": "Org Chart Deck",
+   "agent": "grok-bot",
+   "partial": false
   }
  ],
  "week": [
@@ -75,7 +81,7 @@
   },
   {
    "date": "2026-10-14",
-   "count": 7
+   "count": 8
   }
  ]
 }
