@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-14T14:05:02+07:00",
+ "updated": "2026-10-14T14:16:12+07:00",
  "tz": "Asia/Bangkok",
  "today": "2026-10-14",
- "count": 6,
+ "count": 7,
  "partial": 0,
  "decks": [
   {
@@ -40,6 +40,12 @@
    "name": "Info Gather Deck",
    "agent": "upkeep",
    "partial": false
+  },
+  {
+   "deck": "agent-dashboards",
+   "name": "Agent Dashboards Deck",
+   "agent": "branding",
+   "partial": false
   }
  ],
  "week": [
@@ -69,7 +75,7 @@
   },
   {
    "date": "2026-10-14",
-   "count": 6
+   "count": 7
   }
  ]
 }
