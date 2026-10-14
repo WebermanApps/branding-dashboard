@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-14T12:47:13+07:00",
+ "updated": "2026-10-14T12:50:16+07:00",
  "decks": [
   {
    "id": "wellnest-brand-look-1",
@@ -24,6 +24,39 @@
    "url": "https://webermanapps.github.io/style-swipe/wellnest-brand-avatar-icons-25nhaw/"
   },
   {
+   "id": "wellnest-brand-look-3",
+   "name": "Brand Look: Type & Page Details",
+   "about": "WellNest series, Brand Look deck 3 of 5 (20 pairs). Submit goes to WellNest",
+   "status": "wait",
+   "order": 0,
+   "cat": "wellnest",
+   "size": 20,
+   "featured": false,
+   "url": "https://webermanapps.github.io/style-swipe/wellnest-brand-type-details-7mlt7m/"
+  },
+  {
+   "id": "wellnest-brand-look-4",
+   "name": "Brand Look: Photo Style",
+   "about": "WellNest series, Brand Look deck 4 of 5 (20 pairs). Submit goes to WellNest",
+   "status": "wait",
+   "order": 0,
+   "cat": "wellnest",
+   "size": 20,
+   "featured": false,
+   "url": "https://webermanapps.github.io/style-swipe/wellnest-brand-photo-style-je8ha0/"
+  },
+  {
+   "id": "wellnest-brand-look-5",
+   "name": "Brand Look: Packaging Look",
+   "about": "WellNest series, Brand Look deck 5 of 5 (20 pairs). Submit goes to WellNest",
+   "status": "wait",
+   "order": 0,
+   "cat": "wellnest",
+   "size": 20,
+   "featured": false,
+   "url": "https://webermanapps.github.io/style-swipe/wellnest-brand-packaging-look-gb09u7/"
+  },
+  {
    "id": "wellnest-voice-story-1",
    "name": "Voice: Taglines & Tone",
    "about": "WellNest series, Voice & Story deck 1 of 5 (20 pairs). Submit goes to WellNest",
@@ -44,6 +77,39 @@
    "size": 20,
    "featured": false,
    "url": "https://webermanapps.github.io/style-swipe/wellnest-voice-family-story-lxc8bn/"
+  },
+  {
+   "id": "wellnest-voice-story-3",
+   "name": "Voice: Captions & Social Lines",
+   "about": "WellNest series, Voice & Story deck 3 of 5 (20 pairs). Submit goes to WellNest",
+   "status": "wait",
+   "order": 0,
+   "cat": "wellnest",
+   "size": 20,
+   "featured": false,
+   "url": "https://webermanapps.github.io/style-swipe/wellnest-voice-captions-zjziif/"
+  },
+  {
+   "id": "wellnest-voice-story-4",
+   "name": "Voice: Thai And English",
+   "about": "WellNest series, Voice & Story deck 4 of 5 (20 pairs). Submit goes to WellNest",
+   "status": "wait",
+   "order": 0,
+   "cat": "wellnest",
+   "size": 20,
+   "featured": false,
+   "url": "https://webermanapps.github.io/style-swipe/wellnest-voice-thai-english-u6gx25/"
+  },
+  {
+   "id": "wellnest-voice-story-5",
+   "name": "Voice: Signs & Guest Words",
+   "about": "WellNest series, Voice & Story deck 5 of 5 (20 pairs). Submit goes to WellNest",
+   "status": "wait",
+   "order": 0,
+   "cat": "wellnest",
+   "size": 20,
+   "featured": false,
+   "url": "https://webermanapps.github.io/style-swipe/wellnest-voice-signs-guest-apw8td/"
   },
   {
    "id": "wellnest-experiences-tours-1",
@@ -68,6 +134,39 @@
    "url": "https://webermanapps.github.io/style-swipe/wellnest-exp-sauna-therapies-tcsr1y/"
   },
   {
+   "id": "wellnest-experiences-tours-3",
+   "name": "Experiences: Tea & Harvest Days",
+   "about": "WellNest series, Experiences & Tours deck 3 of 5 (20 pairs). Submit goes to WellNest",
+   "status": "wait",
+   "order": 0,
+   "cat": "wellnest",
+   "size": 20,
+   "featured": false,
+   "url": "https://webermanapps.github.io/style-swipe/wellnest-exp-tea-harvest-ssznjj/"
+  },
+  {
+   "id": "wellnest-experiences-tours-4",
+   "name": "Experiences: Cowork & Events",
+   "about": "WellNest series, Experiences & Tours deck 4 of 5 (20 pairs). Submit goes to WellNest",
+   "status": "wait",
+   "order": 0,
+   "cat": "wellnest",
+   "size": 20,
+   "featured": false,
+   "url": "https://webermanapps.github.io/style-swipe/wellnest-exp-cowork-events-h3mipw/"
+  },
+  {
+   "id": "wellnest-experiences-tours-5",
+   "name": "Experiences: Stays & Retreats",
+   "about": "WellNest series, Experiences & Tours deck 5 of 5 (20 pairs). Submit goes to WellNest",
+   "status": "wait",
+   "order": 0,
+   "cat": "wellnest",
+   "size": 20,
+   "featured": false,
+   "url": "https://webermanapps.github.io/style-swipe/wellnest-exp-stays-retreats-1meym4/"
+  },
+  {
    "id": "wellnest-products-tea-1",
    "name": "Products: Roselle & The Tea Line",
    "about": "WellNest series, Products & Tea deck 1 of 5 (20 pairs). Submit goes to WellNest",
@@ -90,9 +189,42 @@
    "url": "https://webermanapps.github.io/style-swipe/wellnest-products-new-ideas-8009kz/"
   },
   {
+   "id": "wellnest-products-tea-3",
+   "name": "Products: Formats & Pricing Feel",
+   "about": "WellNest series, Products & Tea deck 3 of 5 (20 pairs). Submit goes to WellNest",
+   "status": "wait",
+   "order": 0,
+   "cat": "wellnest",
+   "size": 20,
+   "featured": false,
+   "url": "https://webermanapps.github.io/style-swipe/wellnest-products-formats-pricing-kacrjy/"
+  },
+  {
+   "id": "wellnest-products-tea-4",
+   "name": "Products: Stockists & Selling",
+   "about": "WellNest series, Products & Tea deck 4 of 5 (20 pairs). Submit goes to WellNest",
+   "status": "wait",
+   "order": 0,
+   "cat": "wellnest",
+   "size": 20,
+   "featured": false,
+   "url": "https://webermanapps.github.io/style-swipe/wellnest-products-stockists-uhbfq9/"
+  },
+  {
+   "id": "wellnest-products-tea-5",
+   "name": "Products: Merch & Gifts",
+   "about": "WellNest series, Products & Tea deck 5 of 5 (20 pairs). Submit goes to WellNest",
+   "status": "wait",
+   "order": 0,
+   "cat": "wellnest",
+   "size": 20,
+   "featured": false,
+   "url": "https://webermanapps.github.io/style-swipe/wellnest-products-merch-gifts-8j4ucu/"
+  },
+  {
    "id": "wellnest-dashboard-online-1",
    "name": "Dashboard: WellNest Dashboard Look",
-   "about": "WellNest series, Dashboard & Online deck 1 of 5 (20 pairs). Submit goes to WellNest",
+   "about": "WellNest series, Dashboard & Online deck 1 of 5 (24 pairs). Submit goes to WellNest",
    "status": "wait",
    "order": 0,
    "cat": "wellnest",
@@ -110,6 +242,39 @@
    "size": 20,
    "featured": false,
    "url": "https://webermanapps.github.io/style-swipe/wellnest-dash-layout-details-1t686k/"
+  },
+  {
+   "id": "wellnest-dashboard-online-3",
+   "name": "Online: Instagram Look",
+   "about": "WellNest series, Dashboard & Online deck 3 of 5 (20 pairs). Submit goes to WellNest",
+   "status": "wait",
+   "order": 0,
+   "cat": "wellnest",
+   "size": 20,
+   "featured": false,
+   "url": "https://webermanapps.github.io/style-swipe/wellnest-online-instagram-u06orm/"
+  },
+  {
+   "id": "wellnest-dashboard-online-4",
+   "name": "Online: Website Home",
+   "about": "WellNest series, Dashboard & Online deck 4 of 5 (20 pairs). Submit goes to WellNest",
+   "status": "wait",
+   "order": 0,
+   "cat": "wellnest",
+   "size": 20,
+   "featured": false,
+   "url": "https://webermanapps.github.io/style-swipe/wellnest-online-website-jer44v/"
+  },
+  {
+   "id": "wellnest-dashboard-online-5",
+   "name": "Online: Early Growth Moves",
+   "about": "WellNest series, Dashboard & Online deck 5 of 5 (20 pairs). Submit goes to WellNest",
+   "status": "wait",
+   "order": 0,
+   "cat": "wellnest",
+   "size": 20,
+   "featured": false,
+   "url": "https://webermanapps.github.io/style-swipe/wellnest-online-growth-ofhxtf/"
   },
   {
    "id": "deck-board",
