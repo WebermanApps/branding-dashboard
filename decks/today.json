@@ -1,88 +1,11 @@
 {
- "updated": "2026-10-14T20:05:20+07:00",
+ "updated": "2026-10-15T01:59:56+07:00",
  "tz": "Asia/Bangkok",
- "today": "2026-10-14",
- "count": 12,
+ "today": "2026-10-15",
+ "count": 0,
  "partial": 0,
- "decks": [
-  {
-   "deck": "wellnest-brand",
-   "name": "WellNest Brand Deck",
-   "agent": "wellnest",
-   "partial": false
-  },
-  {
-   "deck": "upkeep-board",
-   "name": "UpKeep Board Deck",
-   "agent": "upkeep",
-   "partial": false
-  },
-  {
-   "deck": "folio-dashboard",
-   "name": "Folio Dashboard Deck",
-   "agent": "portfolio",
-   "partial": false
-  },
-  {
-   "deck": "deck-board",
-   "name": "Deck Board Deck",
-   "agent": "branding",
-   "partial": false
-  },
-  {
-   "deck": "rulebook-clash",
-   "name": "Rulebook Clash Deck",
-   "agent": "branding",
-   "partial": false
-  },
-  {
-   "deck": "info-gather",
-   "name": "Info Gather Deck",
-   "agent": "upkeep",
-   "partial": false
-  },
-  {
-   "deck": "agent-dashboards",
-   "name": "Agent Dashboards Deck",
-   "agent": "branding",
-   "partial": false
-  },
-  {
-   "deck": "org-chart",
-   "name": "Org Chart Deck",
-   "agent": "grok-bot",
-   "partial": false
-  },
-  {
-   "deck": "mix-mix-upkeep-portfolio-wellnest-variety-prop-construction-scout-blueprint-thai-blog-japan-cottage-miles-jokes-jane-amex-2026-10-14",
-   "name": "mix-mix-upkeep-portfolio-wellnest-variety-prop-construction-scout-blueprint-thai-blog-japan-cottage-miles-jokes-jane-amex-2026-10-14",
-   "agent": "branding",
-   "partial": false
-  },
-  {
-   "deck": "deck-request",
-   "name": "deck-request",
-   "agent": "upkeep",
-   "partial": false
-  },
-  {
-   "deck": "up-next-deck",
-   "name": "Up Next Deck",
-   "agent": "branding",
-   "partial": false
-  },
-  {
-   "deck": "questions-center",
-   "name": "Questions Center Deck",
-   "agent": "grok-bot",
-   "partial": false
-  }
- ],
+ "decks": [],
  "week": [
-  {
-   "date": "2026-10-08",
-   "count": 0
-  },
   {
    "date": "2026-10-09",
    "count": 0
@@ -106,6 +29,10 @@
   {
    "date": "2026-10-14",
    "count": 12
+  },
+  {
+   "date": "2026-10-15",
+   "count": 0
   }
  ]
 }
