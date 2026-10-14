@@ -1,0 +1,7 @@
+{"updated":"2026-10-14 14:11 ICT","routines":[
+{"name":"Dashboard Morning Report","group":"Reports","schedule_plain":"Daily At 4:47 AM ICT","status":"on","last_run":"Today 4:51 AM"},
+{"name":"Dashboard Evening Report","group":"Reports","schedule_plain":"Daily At 6:02 PM ICT","status":"on","last_run":"Oct 13, 6:07 PM"},
+{"name":"Daily Style Swipe Deck","group":"Daily","schedule_plain":"Daily At 4:23 AM ICT","status":"on","last_run":"Today 4:25 AM"},
+{"name":"Style Swipe Submissions","group":"Event/Listener","schedule_plain":"Every 10 Minutes","status":"on","last_run":"Today 2:03 PM"},
+{"name":"Decks Finished Today Tracker","group":"Event/Listener","schedule_plain":"Every 10 Minutes","status":"on","last_run":"Today 2:03 PM"},
+{"name":"Deck Bank Refill","group":"Event/Listener","schedule_plain":"Every 3 Hours At :17 ICT","status":"on","last_run":"Today 12:26 PM"}]}
