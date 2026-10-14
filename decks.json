@@ -1,6 +1,17 @@
 {
- "updated": "2026-10-14T14:20:00+07:00",
+ "updated": "2026-10-14T14:50:06+07:00",
  "decks": [
+  {
+   "id": "org-chart",
+   "name": "Org Chart Deck",
+   "about": "How the team org chart should look: Work/Personal/AIR groups, who reports to Grok Bot, tree vs cards vs tiles, place on Apps Home, naming, merges, paused agents",
+   "status": "wait",
+   "order": 0,
+   "cat": "dashboards",
+   "size": 20,
+   "featured": false,
+   "url": "https://webermanapps.github.io/style-swipe/org-chart-b4xp08/"
+  },
   {
    "id": "agent-dashboards-more",
    "name": "Agent Dashboards Deck Two",
