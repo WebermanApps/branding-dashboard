@@ -1,6 +1,17 @@
 {
- "updated": "2026-10-14T13:28:37+07:00",
+ "updated": "2026-10-14T13:32:10+07:00",
  "decks": [
+  {
+   "id": "deck-board-2",
+   "name": "Deck Board Details",
+   "about": "Follow-up to the Deck Board Deck: featured card, Mixed Deck chips, category chips, progress ring, partial and Resume, rows, My Apps, Finished Today tracker, big monitor grid (20 pairs, 1 carried)",
+   "status": "wait",
+   "order": 0,
+   "cat": "dashboards",
+   "size": 20,
+   "featured": false,
+   "url": "https://webermanapps.github.io/style-swipe/deck-board-details-vren53/"
+  },
   {
    "id": "rulebook-clash",
    "name": "Rulebook Clash Deck",

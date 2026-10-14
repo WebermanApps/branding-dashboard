@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-14T13:27:55+07:00",
+ "updated": "2026-10-14T13:32:10+07:00",
  "tz": "Asia/Bangkok",
  "today": "2026-10-14",
- "count": 4,
+ "count": 5,
  "partial": 0,
  "decks": [
   {
@@ -26,6 +26,12 @@
   {
    "deck": "deck-board",
    "name": "Deck Board Deck",
+   "agent": "branding",
+   "partial": false
+  },
+  {
+   "deck": "rulebook-clash",
+   "name": "Rulebook Clash Deck",
    "agent": "branding",
    "partial": false
   }
@@ -57,7 +63,7 @@
   },
   {
    "date": "2026-10-14",
-   "count": 4
+   "count": 5
   }
  ]
 }

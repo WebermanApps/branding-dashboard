@@ -78,7 +78,7 @@ w.DeckApp=function(el,o){
   const apps=o.apps?`<nav class="apps" aria-label="My Apps">${o.apps.map((x,i)=>`<a class="mw-hover" style="--c:${PAL[i%4]}" href="${x.href}"><span>${IC[x.ic]||IC.cards}</span>${esc(x.name)}</a>`).join('')}</nav>`:'';
   const mix=`<div class="mix"><h3>${IC.mix}Mixed Deck</h3><div class="sub" style="margin-top:4px">Pick categories and a size, then start one deck that mixes them.</div>
    <div class="boxes">${CO.map(c=>`<label style="--c:${col[c.slug]}"><input type="checkbox" value="${c.slug}" checked>${esc(c.name)}</label>`).join('')}</div>
-   <div class="row"><div class="size" role="radiogroup" aria-label="Deck size"><label><input type="radio" name="mixn" value="25" checked>25 Pairs</label><label><input type="radio" name="mixn" value="50">50 Pairs</label></div>
+   <div class="row"><div class="size" role="radiogroup" aria-label="Deck size"><label><input type="radio" name="mixn" value="10">10 Pairs</label><label><input type="radio" name="mixn" value="20" checked>20 Pairs</label></div>
    <button type="button" class="tl" data-all="1">Select All</button><button type="button" class="tl" data-all="0">Clear</button>
    <a class="start mw-hover" href="#">${IC.play}Start</a></div></div>`;
   const five=(a,f,none)=>a.length?`<div class="list">${a.map((d,i)=>f(d).replace(/^<a class="card/,i>4?'<a class="more card':'<a class="card')).join('')}${a.length>5?`<button type="button" class="seeall">See All ${a.length}</button>`:''}</div>`:none;
@@ -89,7 +89,7 @@ w.DeckApp=function(el,o){
     const R=(RQ.requests||[]).filter(r=>r.status!=='Done');
   const req=R.map(r=>`<${r.deck?`a href="${link(r.deck)}"`:'div class="tx"'}>${IC.inbox}<div><b>${esc(r.title)}</b><div class="sub">${esc(r.detail)} · From ${esc(r.from)} · ${esc(r.status)}</div></div></${r.deck?'a':'div'}>`).join('')||'<div class="none">No open requests.</div>';
   el.innerHTML=`<h2 class="bigt">Deck Building <span class="bub">${W.length} Waiting</span></h2><p class="bigsub">Newest activity first. Start a mixed deck or open any deck.</p><div class="today" id="dkToday" hidden></div>${feat}${apps}${mix}<div class="cats">${cats}</div><details class="fold" style="margin-top:16px"><summary><h3>Requests From Agents <span class="bub">${R.length}</span></h3></summary><div class="in tlinks">${req}</div></details>`;
-  const st=el.querySelector('.start'),upd=()=>{const s=[...el.querySelectorAll('.boxes input:checked')].map(i=>i.value),n=(el.querySelector('input[name=mixn]:checked')||{}).value||25;
+  const st=el.querySelector('.start'),upd=()=>{const s=[...el.querySelectorAll('.boxes input:checked')].map(i=>i.value),n=(el.querySelector('input[name=mixn]:checked')||{}).value||20;
    st.href=s.length?SS+'?mix='+s.join(',')+'&n='+n+'&from='+encodeURIComponent(self):'#';st.setAttribute('aria-disabled',s.length?'false':'true')};
   el.querySelectorAll('.seeall').forEach(b=>b.onclick=()=>{const l=b.parentNode,on=l.classList.toggle('all');b.textContent=on?'Show Less':'See All '+l.querySelectorAll('.card').length});
   el.querySelectorAll('.sub.cl').forEach(e=>e.addEventListener('click',ev=>{if(e.scrollHeight>e.clientHeight+2&&!e.classList.contains('x')){ev.preventDefault();e.classList.add('x')}}));
