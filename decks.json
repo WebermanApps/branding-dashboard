@@ -2,6 +2,17 @@
  "updated": "2026-10-14T13:32:59+07:00",
  "decks": [
   {
+   "id": "info-gather",
+   "name": "Info Gather Deck",
+   "about": "Stage 4 of the funnel: the Get Started intake. Question order and wording, tiles and illustrations, progress, tags, questions to add or cut, Snap-a-Photo, service teasers, transitions, resume and Your Price Is Ready (20 pairs). Submit goes to UpKeep",
+   "status": "wait",
+   "order": 0,
+   "cat": "upkeep",
+   "size": 20,
+   "featured": false,
+   "url": "https://webermanapps.github.io/style-swipe/info-gather-c8smzt/"
+  },
+  {
    "id": "rulebook-tiebreak",
    "name": "Rulebook Tiebreak Deck",
    "about": "Follow-up to Rulebook Clash: pure white vs cream (skipped last time), accents asked again, how far the Share icon, spaced caps and tab bar reach, and the open dashboard tiebreaks (12 pairs)",
