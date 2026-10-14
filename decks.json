@@ -1,6 +1,17 @@
 {
- "updated": "2026-10-14T10:05:00+07:00",
+ "updated": "2026-10-14T12:31:49+07:00",
  "decks": [
+  {
+   "id": "folio-dashboard",
+   "name": "Folio Dashboard Deck",
+   "about": "How Portfolio's dashboard looks: header, reports, tiles and unlock, urgent dropdown, charts, type, colour, layouts (20 pairs, no figures). Submit goes to Portfolio",
+   "status": "wait",
+   "order": 0,
+   "cat": "portfolio",
+   "size": 20,
+   "featured": false,
+   "url": "https://webermanapps.github.io/style-swipe/folio-dashboard-kuijvp/"
+  },
   {
    "id": "wellnest-brand-round-two",
    "name": "WellNest Brand Deck Round Two",
