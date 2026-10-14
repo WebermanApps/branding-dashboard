@@ -123,7 +123,8 @@ details.repd>summary::after{content:"";flex:none;width:9px;height:9px;border-rig
 .card{margin-bottom:12px}.grid{gap:12px;padding:12px 0 24px}#deckApp{margin:10px 0!important}.deckbuild{margin-top:10px}
 .owe li{padding:6px 0;cursor:pointer}.owe li>div{display:-webkit-box;-webkit-line-clamp:1;-webkit-box-orient:vertical;overflow:hidden}.owe li.x>div{display:block}
 @media(min-width:1600px){.stats .stat b{font-size:40px}.stats .stat span{font-size:16px}.hupd{font-size:16px}.mini .wrap{height:56px}.mini b{font-size:24px}}
-@media(max-width:520px){.backhome span{display:none}.hupd{font-size:11px;margin-right:6px}.wm{font-size:19px}}
+@media(max-width:520px){.backhome span{display:none}.hupd{font-size:13px;margin-right:6px}.wm{font-size:19px}}
+details.fold{margin:16px 0;border:1px solid #e5e5e5;border-left:3px solid var(--b);border-radius:12px;background:#fff}details.fold>summary{cursor:pointer;list-style:none;padding:16px 18px;font:700 20px var(--mw-font-heading);display:flex;flex-direction:column;gap:2px;position:relative;padding-right:44px}details.fold>summary::-webkit-details-marker{display:none}details.fold>summary small{font:400 14px "Hind",sans-serif;color:#525252}details.fold>summary::after{content:"";position:absolute;right:20px;top:24px;width:10px;height:10px;border-right:2.5px solid var(--b);border-bottom:2.5px solid var(--b);transform:rotate(45deg)}details.fold[open]>summary::after{transform:rotate(-135deg)}details.fold>:not(summary){margin-left:12px;margin-right:12px}
 </style><script src="ptr.js?v=4" defer></script><script src="decks/decks.js?v=7"></script>
 </head><body>
 <svg width="0" height="0" style="position:absolute"><defs>
@@ -143,9 +144,9 @@ details.repd>summary::after{content:"";flex:none;width:9px;height:9px;border-rig
 <section id="pinned-decks"></section><script src="https://webermanapps.github.io/style-swipe/submit.js" defer></script><script src="https://webermanapps.github.io/style-swipe/kit/deck-launcher.js?v=1" defer></script>
 <script>addEventListener('DOMContentLoaded',()=>Promise.all([fetch('launcher.json?'+Date.now()).then(r=>r.json()),fetch('decks.json?'+Date.now()).then(r=>r.json()).catch(()=>({decks:[]}))]).then(([J,D])=>{if(!J.unfinished.length)J.unfinished=(D.decks||[]).filter(d=>d.status!=='done').slice(0,3).map(d=>({name:d.name,url:d.url,answered:d.answered||0,total:d.size||20}));DeckLauncher.render(document.getElementById('pinned-decks'),J)}).catch(()=>{}))</script>
 <nav class="myapps" aria-label="My Apps"><h2>My Apps</h2><a class="mw-hover" href="https://webermanapps.github.io/style-swipe/?from=branding-dashboard"><span><svg class="ic" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><use href="#i-cards"/></svg></span>Style Swipe</a><a class="mw-hover" href="decks/"><span><svg class="ic" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><use href="#i-folder"/></svg></span>Deck Building</a><a class="mw-hover" href="https://webermanapps.github.io/wellnest-dashboard/"><span><svg class="ic" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><use href="#i-book"/></svg></span>WellNest Decks</a></nav>
-<section class="card" id="featured-deck" style="--c:var(--g);margin-top:16px;padding:22px;border:3px solid #ECC978;background:linear-gradient(135deg,#FBF8F1 60%,#D7A36333)"><div style="display:flex;align-items:center;gap:14px;flex-wrap:wrap"><img src="https://webermanapps.github.io/style-swipe/img/wellnest-logo-circle.png" alt="The WellNest logo" width="96" height="82" style="flex:none"><div style="flex:1;min-width:200px"><h2 style="font-size:24px;margin:0 0 6px"><span class="bar"></span>Featured · WellNest 20-Card Decks</h2><p style="margin:0 0 6px;font-size:16px"><b>25 decks of 20 pairs</b> in five categories: Brand Look, Voice and Story, Experiences and Tours, Products and Tea, Dashboard and Online.</p><p style="margin:0 0 12px;color:#525252;font-size:13px">The key Round Two retests (taglines, story angles, the three tensions, Round One skips) are folded into these decks. Submit goes to the WellNest agent.</p><a class="btn" style="font-size:17px;padding:12px 22px" href="https://webermanapps.github.io/wellnest-dashboard/">Open WellNest Decks</a></div></div></section>
+<details class="fold" id="deckFold"><summary>Deck Building And Results<small>WellNest featured decks, Round One results and every live deck</small></summary><section class="card" id="featured-deck" style="--c:var(--g);margin-top:16px;padding:22px;border:3px solid #ECC978;background:linear-gradient(135deg,#FBF8F1 60%,#D7A36333)"><div style="display:flex;align-items:center;gap:14px;flex-wrap:wrap"><img src="https://webermanapps.github.io/style-swipe/img/wellnest-logo-circle.png" alt="The WellNest logo" width="96" height="82" style="flex:none"><div style="flex:1;min-width:200px"><h2 style="font-size:24px;margin:0 0 6px"><span class="bar"></span>Featured · WellNest 20-Card Decks</h2><p style="margin:0 0 6px;font-size:16px"><b>25 decks of 20 pairs</b> in five categories: Brand Look, Voice and Story, Experiences and Tours, Products and Tea, Dashboard and Online.</p><p style="margin:0 0 12px;color:#525252;font-size:13px">The key Round Two retests (taglines, story angles, the three tensions, Round One skips) are folded into these decks. Submit goes to the WellNest agent.</p><a class="btn" style="font-size:17px;padding:12px 22px" href="https://webermanapps.github.io/wellnest-dashboard/">Open WellNest Decks</a></div></div></section>
 <section class="card" id="round-one-results" style="--c:var(--g);margin-top:16px;padding:22px;border:3px solid #267D58;background:linear-gradient(135deg,#FFFFFF 60%,#ECC97833)"><div style="display:flex;align-items:center;gap:14px;flex-wrap:wrap"><img src="https://webermanapps.github.io/style-swipe/img/wellnest-logo-circle.png" alt="The WellNest logo" width="96" height="82" style="flex:none"><div style="flex:1;min-width:200px"><h2 style="font-size:24px;margin:0 0 6px"><span class="bar"></span>Results In · The WellNest Brand Deck</h2><p style="margin:0 0 6px;font-size:16px"><b>192 of 200 answered</b>, sent Oct 14. Keep the original nest logo; fine black Cormorant wordmark with Noto Serif Thai; logo colours on rice-white, gold leading, peach accent; Cormorant + DM Sans.</p><p style="margin:0 0 12px;color:#525252;font-size:13px">New taglines and story angles, plus the 8 skips, go into Round Two.</p><a class="btn" style="font-size:17px;padding:12px 22px" href="https://webermanapps.github.io/style-swipe/wellnest-brand-jxhiif/">View Round One</a></div></div></section>
-<section id="deckApp" style="margin:16px 0"></section>
+<section id="deckApp" style="margin:16px 0"></section></details>
 
 <section class="hero"><h1>Branding Command Center</h1>
 <p class="lead">Style Swipe decks, picks waiting on you, and the brand files every agent builds from.</p></section>
@@ -162,14 +163,15 @@ details.repd>summary::after{content:"";flex:none;width:9px;height:9px;border-rig
 <div class="stat" style="--c:var(--t)"><b>1</b><span>Style Guide Written</span></div>
 </div>
 
-<div class="grid g2"><div style="display:contents">
+<section data-routines="routines.json" id="routines"></section><script src="https://webermanapps.github.io/style-swipe/kit/routines-section.js?v=2" defer></script>
+<details class="fold" id="brandFold"><summary>Brand Colors, Files And Marks<small>Accent colors, brand file paths, UpKeep logos</small></summary><div class="grid g2"><div style="display:contents">
 <section class="card" style="--c:var(--t)"><h2><span class="bar"></span>Accent Colors</h2><div class="sw">
 <div class="chip" style="--c:#C1502E"><div></div><p><b>Terracotta</b>#C1502E</p></div>
 <div class="chip" style="--c:#05668D"><div></div><p><b>Lagoon Blue</b>#05668D</p></div>
 <div class="chip" style="--c:#0B6E4F"><div></div><p><b>Jungle Green</b>#0B6E4F</p></div>
 <div class="chip" style="--c:#D4A017"><div></div><p><b>Saffron</b>#D4A017</p></div>
 </div><p style="font-size:13px;color:#737373;margin:12px 0 0">Small pops only. Base stays white, #0A0A0A text, #E5E5E5 rules.</p></section>
-<section data-routines="routines.json" id="routines"></section><script src="https://webermanapps.github.io/style-swipe/kit/routines-section.js?v=2" defer></script>
+
 <section class="card" id="files" style="--c:var(--g)"><h2><span class="bar"></span>Brand Files</h2>
 <div class="path"><svg class="ic"><use href="#i-book"/></svg><div><b>Brand Guide</b><code>/workspace/ops/brand/maxweberman-brand.md</code></div></div>
 <div class="path"><svg class="ic"><use href="#i-cards"/></svg><div><b>Dashboard Style Guide</b><code>/workspace/ops/brand/dashboard-style.md</code></div></div>
@@ -180,12 +182,8 @@ details.repd>summary::after{content:"";flex:none;width:9px;height:9px;border-rig
 <figure><img src="assets/up_lock_side.svg" alt="Lockup side"></figure><figure><img src="assets/up_icon_solid.svg" alt="Icon solid"></figure><figure><img src="assets/up_teal.svg" alt="Teal"></figure>
 <figure><img src="assets/up_van_inline.svg" alt="Van inline"></figure><figure><img src="assets/up_terra.svg" alt="Terra"></figure><figure><img src="assets/new_su_lockup.svg" alt="Lockup"></figure>
 </div></section>
-</div></div></main>
-<div class="share"><button type="button" id="shareBtn" class="mw-hover"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="18" cy="5" r="3"/><circle cx="6" cy="12" r="3"/><circle cx="18" cy="19" r="3"/><path d="M8.6 13.5l6.8 4M15.4 6.5l-6.8 4"/></svg>Share <small id="shareMsg"></small></button></div>
-<script>document.getElementById('shareBtn').onclick=async()=>{const u=location.href.split('#')[0],t=document.title,m=document.getElementById('shareMsg');
-if(navigator.share){try{await navigator.share({title:t,url:u});return}catch(e){if(e.name==='AbortError')return}}
-if(/iPhone|iPad|Android/i.test(navigator.userAgent)){location.href='sms:?&body='+encodeURIComponent(t+' '+u);return}
-try{await navigator.clipboard.writeText(u);m.textContent='Link copied'}catch(e){prompt('Copy link',u)}};</script>
+</div></div></details></main>
+
 <footer><div class="wrap"><b>Built by Max Weberman</b><span>Branding Agent Dashboard · Light Mode</span></div></footer>
 <div class="toast" id="toast">Link Copied</div>
 <script>
@@ -204,4 +202,5 @@ document.getElementById('share').onclick=async()=>{const d={title:'Branding Comm
 function t(){const e=document.getElementById('toast');e.classList.add('on');setTimeout(()=>e.classList.remove('on'),1600)}
 </script><script>(()=>{const m=document.getElementById('mini'),h=document.querySelector('header');addEventListener('scroll',()=>m.classList.toggle('on',scrollY>h.offsetHeight+20),{passive:true});
 document.querySelectorAll('.owe li').forEach(l=>l.onclick=()=>l.classList.toggle('x'));})()</script>
+<script>(()=>{const f=()=>{for(const e of document.querySelectorAll('body *')){if(e.closest('svg'))continue;const z=parseFloat(getComputedStyle(e).fontSize);if(z&&z<13)e.style.setProperty('font-size','13px','important')}};let t;new MutationObserver(()=>{clearTimeout(t);t=setTimeout(f,120)}).observe(document.documentElement,{childList:true,subtree:true});addEventListener('load',f);f()})();</script>
 </body></html>
