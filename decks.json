@@ -1,6 +1,17 @@
 {
- "updated": "2026-10-14T12:38:13+07:00",
+ "updated": "2026-10-14T12:40:03+07:00",
  "decks": [
+  {
+   "id": "deck-board",
+   "name": "Deck Board Deck",
+   "about": "How this Deck Building page looks: categories, deck cards, progress and partial, Mixed Deck, featured card, My Apps, naming, colour, type, layouts (20 pairs)",
+   "status": "wait",
+   "order": 0,
+   "cat": "dashboards",
+   "size": 20,
+   "featured": false,
+   "url": "https://webermanapps.github.io/style-swipe/deck-board-h0dwt3/"
+  },
   {
    "id": "upkeep-board",
    "name": "UpKeep Board Deck",
