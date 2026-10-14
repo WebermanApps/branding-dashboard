@@ -1,6 +1,17 @@
 {
- "updated": "2026-10-14T12:36:15+07:00",
+ "updated": "2026-10-14T12:38:13+07:00",
  "decks": [
+  {
+   "id": "upkeep-board",
+   "name": "UpKeep Board Deck",
+   "about": "How the UpKeep command center looks: layout, report placement, app tiles, Video card, approvals dropdown, team feed, type, colour, icons, phone/MacBook/big monitor (20 pairs). Submit goes to UpKeep",
+   "status": "wait",
+   "order": 0,
+   "cat": "upkeep",
+   "size": 20,
+   "featured": false,
+   "url": "https://webermanapps.github.io/style-swipe/upkeep-board-vh7w9l/"
+  },
   {
    "id": "wellnest-dashboard",
    "name": "WellNest Dashboard Deck",
