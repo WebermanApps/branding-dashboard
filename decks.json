@@ -1,6 +1,17 @@
 {
- "updated": "2026-10-14T13:42:12+07:00",
+ "updated": "2026-10-14T14:00:37+07:00",
  "decks": [
+  {
+   "id": "agent-dashboards",
+   "name": "Agent Dashboards Deck",
+   "about": "Board-specific layout and content choices across 12 agent dashboards (Scout, Blueprint, Construction, Prop, Security, Research, Coach, Miles, Thai, Apps Home, Portfolio, WellNest)",
+   "status": "wait",
+   "order": 0,
+   "cat": "dashboards",
+   "size": 20,
+   "featured": false,
+   "url": "https://webermanapps.github.io/style-swipe/agent-dashboards-ndeqtp/"
+  },
   {
    "id": "security-icon",
    "name": "Security Icon Deck",
