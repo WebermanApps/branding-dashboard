@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-14T19:49:29+07:00",
+ "updated": "2026-10-14T20:05:20+07:00",
  "tz": "Asia/Bangkok",
  "today": "2026-10-14",
- "count": 11,
+ "count": 12,
  "partial": 0,
  "decks": [
   {
@@ -70,6 +70,12 @@
    "name": "Up Next Deck",
    "agent": "branding",
    "partial": false
+  },
+  {
+   "deck": "questions-center",
+   "name": "Questions Center Deck",
+   "agent": "grok-bot",
+   "partial": false
   }
  ],
  "week": [
@@ -99,7 +105,7 @@
   },
   {
    "date": "2026-10-14",
-   "count": 11
+   "count": 12
   }
  ]
 }
