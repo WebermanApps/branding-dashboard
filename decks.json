@@ -1,6 +1,17 @@
 {
- "updated": "2026-10-14T13:07:40+07:00",
+ "updated": "2026-10-14T13:13:56+07:00",
  "decks": [
+  {
+   "id": "rulebook-clash",
+   "name": "Rulebook Clash Deck",
+   "about": "Settle the open rulebook conflicts: Share placement, test sizes, density, heading case, bottom tabs, report block, page base, accents (10 pairs)",
+   "status": "wait",
+   "order": 0,
+   "cat": "dashboards",
+   "size": 10,
+   "featured": false,
+   "url": "https://webermanapps.github.io/style-swipe/rulebook-clash-i5odjz/"
+  },
   {
    "id": "upkeep-board-2",
    "name": "UpKeep Board Details",
