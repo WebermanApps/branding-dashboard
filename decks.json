@@ -1,6 +1,19 @@
 {
- "updated": "2026-10-14T18:05:56+07:00",
+ "updated": "2026-10-14T19:34:14+07:00",
  "decks": [
+  {
+   "id": "up-next-deck",
+   "name": "Up Next Deck",
+   "about": "How the Up Next section at the top of every agent dashboard looks and behaves: name, carousel vs list, card contents, progress, fresh decks, empty state, order, 20 cards",
+   "status": "wait",
+   "order": 0,
+   "cat": "dashboards",
+   "size": 20,
+   "featured": false,
+   "url": "https://webermanapps.github.io/style-swipe/up-next-deck-u7n3xk/",
+   "answered": 0,
+   "total": 20
+  },
   {
    "id": "variety-ready-1",
    "name": "Swipe Controls And Feed Deck",

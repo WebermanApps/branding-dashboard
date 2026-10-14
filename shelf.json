@@ -2,6 +2,14 @@
  "agent": "branding",
  "decks": [
   {
+   "id": "up-next-deck",
+   "name": "Up Next Deck",
+   "url": "https://webermanapps.github.io/style-swipe/up-next-deck-u7n3xk/",
+   "total": 20,
+   "topic": "dashboards",
+   "blurb": "How the Up Next section should look, 20 cards"
+  },
+  {
    "id": "agent-dashboards-more",
    "name": "Agent Dashboards Deck Two",
    "url": "https://webermanapps.github.io/style-swipe/agent-dashboards-more-yzbanp/",
@@ -32,15 +40,7 @@
    "total": 20,
    "topic": "dashboards",
    "blurb": "Board layout, decision cards, deck rows, 20 cards"
-  },
-  {
-   "id": "variety-ready-1",
-   "name": "Swipe Controls And Feed Deck",
-   "url": "https://webermanapps.github.io/style-swipe/variety-ready-1-mqzukt/",
-   "total": 20,
-   "topic": "variety",
-   "blurb": "Swipe buttons, feed cards, 20 cards"
   }
  ],
- "updated": "2026-10-14T19:31:50+07:00"
+ "updated": "2026-10-14T19:34:14+07:00"
 }
