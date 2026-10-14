@@ -1,6 +1,17 @@
 {
- "updated": "2026-10-14T09:45:00+07:00",
+ "updated": "2026-10-14T10:05:00+07:00",
  "decks": [
+  {
+   "id": "wellnest-brand-round-two",
+   "name": "WellNest Brand Deck Round Two",
+   "about": "Featured: new taglines and story angles, Round One Neither/skip retests, logo/caption/colour tensions (61 pairs)",
+   "status": "wait",
+   "order": 0,
+   "cat": "wellnest",
+   "size": 61,
+   "featured": true,
+   "url": "https://webermanapps.github.io/style-swipe/wellnest-brand-r2-qlpkxs3t/"
+  },
   {
    "id": "wellnest-brand",
    "name": "WellNest Brand Deck",
@@ -21,7 +32,7 @@
    "name": "WellNest Brand & Product Deck",
    "about": "Featured: colors, fonts, logos, voice, signage, packaging, products, services",
    "status": "wait",
-   "order": 1,
+   "order": 2,
    "cat": "wellnest",
    "size": 25
   },
@@ -75,7 +86,7 @@
    "name": "WellNest 1",
    "about": "Logo, colors, coming soon page, booking",
    "status": "wait",
-   "order": 7,
+   "order": 8,
    "cat": "wellnest",
    "size": 25
   },
