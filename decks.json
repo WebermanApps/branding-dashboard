@@ -1,16 +1,20 @@
 {
- "updated": "2026-10-14T04:52:15+07:00",
+ "updated": "2026-10-14T09:45:00+07:00",
  "decks": [
   {
    "id": "wellnest-brand",
    "name": "WellNest Brand Deck",
-   "about": "Featured, real deck: brand identity, packaging, products and services (200 pairs)",
-   "status": "wait",
+   "about": "Results In: 192 of 200 answered (8 skips), sent Oct 14; picks to WellNest",
+   "status": "done",
    "order": 0,
    "cat": "wellnest",
    "size": 200,
-   "featured": true,
-   "url": "https://webermanapps.github.io/style-swipe/wellnest-brand-jxhiif/"
+   "featured": false,
+   "url": "https://webermanapps.github.io/style-swipe/wellnest-brand-jxhiif/",
+   "answered": 192,
+   "total": 200,
+   "submitted": "2026-10-14T09:25:00+07:00",
+   "via": "submit"
   },
   {
    "id": "wellnest-brand-and-product",
