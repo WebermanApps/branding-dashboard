@@ -23,8 +23,9 @@ h2{font:700 26px/1.1 Khand,sans-serif;margin:28px 0 12px;display:flex;align-item
 @media(hover:none){.mw-hover:hover{transform:none;box-shadow:none}}@media(prefers-reduced-motion:reduce){.mw-hover{transition:none}}
 .sharerow{margin:36px 0 16px}.sharebtn{display:inline-flex;align-items:center;gap:8px;min-height:48px;padding:0 20px;border:2px solid #171717;background:#fff;color:#171717;font:700 16px Khand,sans-serif;letter-spacing:.1em;text-transform:uppercase;cursor:pointer}
 footer{border-top:1px solid #e5e5e5;padding:18px 0;color:#737373;font-size:14px}
+@media(min-width:1400px){.wrap{max-width:1560px}}
 @media(max-width:480px){h1{font-size:38px}.grid{grid-template-columns:1fr}}
-</style><script src="ptr.js?v=4" defer></script><script src="decks.js?v=6"></script></head><body>
+</style><script src="ptr.js?v=4" defer></script><script src="decks.js?v=7"></script></head><body>
 <header><div class="wrap top"><a class="backhome mw-hover" href="https://webermanapps.github.io/a-o956qercs5ubd57y/"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M19 12H5M11 6l-6 6 6 6"/></svg><span>Apps Home</span></a><a class="wm" href="../" style="color:inherit;text-decoration:none">Branding Agent</a><span id="hdrUpd" style="margin-left:auto;font-size:13px;color:#525252">Updated …</span></div></header>
 <div class="mini" id="mini" aria-hidden="true"><div class="wrap"><a href="https://webermanapps.github.io/a-o956qercs5ubd57y/" tabindex="-1">Apps Home</a><b>Branding Agent</b></div></div>
 <main class="wrap">
@@ -34,7 +35,7 @@ footer{border-top:1px solid #e5e5e5;padding:18px 0;color:#737373;font-size:14px}
 <footer><div class="wrap"><b>Built by Max Weberman</b> · Branding Agent · Light Mode</div></footer>
 <script>
 const esc=x=>String(x==null?'':x).replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
-DeckApp(document.getElementById('deckApp'),{onData:J=>{hdrUpd.textContent='Updated '+new Date(J.updated).toLocaleString('en-US',{month:'short',day:'numeric',hour:'numeric',minute:'2-digit',timeZone:'Asia/Bangkok'})+' ICT'},base:'../',self:'https://webermanapps.github.io/branding-djqmb410/decks/'});
+DeckApp(document.getElementById('deckApp'),{onData:J=>{hdrUpd.textContent='Updated '+new Date(J.updated).toLocaleString('en-US',{month:'short',day:'numeric',hour:'numeric',minute:'2-digit',timeZone:'Asia/Bangkok'})+' ICT'},base:'../',self:'https://webermanapps.github.io/branding-djqmb410/decks/',apps:[{name:'Style Swipe',href:'https://webermanapps.github.io/style-swipe/',ic:'cards'},{name:'Branding',href:'../',ic:'check'},{name:'Apps Home',href:'https://webermanapps.github.io/a-o956qercs5ubd57y/',ic:'inbox'}]});
 share.onclick=async()=>{const u=location.href.split('#')[0];try{if(navigator.share){await navigator.share({title:'Deck Building',url:u});return}}catch(e){if(e&&e.name==='AbortError')return}
  try{await navigator.clipboard.writeText(u);msg.textContent='Link copied'}catch(e){msg.textContent=u}};
 addEventListener('scroll',()=>mini.classList.toggle('on',scrollY>80),{passive:true});

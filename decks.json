@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-14T13:13:56+07:00",
+ "updated": "2026-10-14T13:28:37+07:00",
  "decks": [
   {
    "id": "rulebook-clash",
@@ -312,13 +312,15 @@
   {
    "id": "deck-board",
    "name": "Deck Board Deck",
-   "about": "How this Deck Building page looks: categories, deck cards, progress and partial, Mixed Deck, featured card, My Apps, naming, colour, type, layouts (20 pairs)",
-   "status": "wait",
+   "about": "Results In: 19 of 20 answered (1 skip), sent Oct 14; picks applied to this page",
+   "status": "done",
    "order": 0,
    "cat": "dashboards",
    "size": 20,
    "featured": false,
-   "url": "https://webermanapps.github.io/style-swipe/deck-board-h0dwt3/"
+   "url": "https://webermanapps.github.io/style-swipe/deck-board-h0dwt3/",
+   "answered": 19,
+   "total": 20
   },
   {
    "id": "upkeep-board",

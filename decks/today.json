@@ -1,0 +1,63 @@
+{
+ "updated": "2026-10-14T13:27:55+07:00",
+ "tz": "Asia/Bangkok",
+ "today": "2026-10-14",
+ "count": 4,
+ "partial": 0,
+ "decks": [
+  {
+   "deck": "wellnest-brand",
+   "name": "WellNest Brand Deck",
+   "agent": "wellnest",
+   "partial": false
+  },
+  {
+   "deck": "upkeep-board",
+   "name": "UpKeep Board Deck",
+   "agent": "upkeep",
+   "partial": false
+  },
+  {
+   "deck": "folio-dashboard",
+   "name": "Folio Dashboard Deck",
+   "agent": "portfolio",
+   "partial": false
+  },
+  {
+   "deck": "deck-board",
+   "name": "Deck Board Deck",
+   "agent": "branding",
+   "partial": false
+  }
+ ],
+ "week": [
+  {
+   "date": "2026-10-08",
+   "count": 0
+  },
+  {
+   "date": "2026-10-09",
+   "count": 0
+  },
+  {
+   "date": "2026-10-10",
+   "count": 0
+  },
+  {
+   "date": "2026-10-11",
+   "count": 0
+  },
+  {
+   "date": "2026-10-12",
+   "count": 0
+  },
+  {
+   "date": "2026-10-13",
+   "count": 5
+  },
+  {
+   "date": "2026-10-14",
+   "count": 4
+  }
+ ]
+}
