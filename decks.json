@@ -1,6 +1,17 @@
 {
- "updated": "2026-10-14T12:31:49+07:00",
+ "updated": "2026-10-14T12:36:15+07:00",
  "decks": [
+  {
+   "id": "wellnest-dashboard",
+   "name": "WellNest Dashboard Deck",
+   "about": "How the WellNest dashboard looks: header and logo, section order, cards, Brand Decisions and report dropdowns, deck cards, colour, layouts, plus avatar icon options (24 pairs). Submit goes to WellNest",
+   "status": "wait",
+   "order": 0,
+   "cat": "wellnest",
+   "size": 24,
+   "featured": false,
+   "url": "https://webermanapps.github.io/style-swipe/wellnest-dashboard-4unr90/"
+  },
   {
    "id": "folio-dashboard",
    "name": "Folio Dashboard Deck",
