@@ -1,6 +1,17 @@
 {
- "updated": "2026-10-14T13:32:59+07:00",
+ "updated": "2026-10-14T13:42:12+07:00",
  "decks": [
+  {
+   "id": "security-icon",
+   "name": "Security Icon Deck",
+   "about": "Ninja app icon: original and two drawn refinements vs five variations",
+   "status": "wait",
+   "order": 0,
+   "cat": "security",
+   "size": 10,
+   "featured": false,
+   "url": "https://webermanapps.github.io/style-swipe/security-icon-d44670/"
+  },
   {
    "id": "info-gather",
    "name": "Info Gather Deck",
