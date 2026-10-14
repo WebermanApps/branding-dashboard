@@ -2,9 +2,22 @@
  "updated": "2026-10-14T19:34:14+07:00",
  "decks": [
   {
+   "id": "ready-to-swipe-deck-two",
+   "name": "Ready To Swipe Deck Two",
+   "about": "Refill of Up Next Deck: skipped #11 (big screen) and #17 (20-card size) reworded first, plus 18 new Ready To Swipe questions",
+   "status": "wait",
+   "order": 0,
+   "cat": "dashboards",
+   "size": 20,
+   "featured": false,
+   "url": "https://webermanapps.github.io/style-swipe/ready-to-swipe-deck-two-uef0b8/",
+   "answered": 0,
+   "total": 20
+  },
+  {
    "id": "questions-center",
    "name": "Questions Center Deck",
-   "about": "How the Questions Center on the Grok Bot Command Center should look and work (below Evening Report; reused for Legal, Research, Coach). Submit -> Grok Bot",
+   "about": "How the Questions Center on the Grok Bot Command Center should look and work (below Evening Report; reused for Legal, Research, Coach). Submit -> Grok Bot. Max rule (19:49 ICT): every question gets an 'Ask for more detail' button",
    "status": "wait",
    "order": 0,
    "cat": "dashboards",
@@ -17,15 +30,17 @@
   {
    "id": "up-next-deck",
    "name": "Up Next Deck",
-   "about": "How the Up Next section at the top of every agent dashboard looks and behaves: name, carousel vs list, card contents, progress, fresh decks, empty state, order, 20 cards",
-   "status": "wait",
+   "about": "Results In: 18 of 20 answered (2 skips: #11, #17), sent Oct 14 19:44; picks set the R66 Ready To Swipe look",
+   "status": "done",
    "order": 0,
    "cat": "dashboards",
    "size": 20,
    "featured": false,
    "url": "https://webermanapps.github.io/style-swipe/up-next-deck-u7n3xk/",
-   "answered": 0,
-   "total": 20
+   "answered": 18,
+   "total": 20,
+   "submitted": 1791981885000,
+   "via": "submit"
   },
   {
    "id": "variety-ready-1",

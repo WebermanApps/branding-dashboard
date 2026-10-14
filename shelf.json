@@ -2,12 +2,15 @@
  "agent": "branding",
  "decks": [
   {
-   "id": "up-next-deck",
-   "name": "Up Next Deck",
-   "url": "https://webermanapps.github.io/style-swipe/up-next-deck-u7n3xk/",
+   "id": "ready-to-swipe-deck-two",
+   "name": "Ready To Swipe Deck Two",
+   "url": "https://webermanapps.github.io/style-swipe/ready-to-swipe-deck-two-uef0b8/",
    "total": 20,
-   "topic": "dashboards",
-   "blurb": "How the Up Next section should look, 20 cards"
+   "topic": "ready-to-swipe",
+   "tag": "Ready To Swipe",
+   "added": "2026-10-14T19:50:47+07:00",
+   "refill": true,
+   "blurb": "Refill of Up Next Deck; 2 skips reworded first"
   },
   {
    "id": "agent-dashboards-more",
@@ -15,7 +18,8 @@
    "url": "https://webermanapps.github.io/style-swipe/agent-dashboards-more-yzbanp/",
    "total": 20,
    "topic": "dashboards",
-   "blurb": "Board layouts for each agent, 20 cards"
+   "blurb": "Board layouts for each agent, 20 cards",
+   "tag": "Dashboards"
   },
   {
    "id": "deck-board-2",
@@ -23,7 +27,8 @@
    "url": "https://webermanapps.github.io/style-swipe/deck-board-details-vren53/",
    "total": 20,
    "topic": "dashboards",
-   "blurb": "Deck Building board details, 20 cards"
+   "blurb": "Deck Building board details, 20 cards",
+   "tag": "Deck Board"
   },
   {
    "id": "dashboards-ready-1",
@@ -31,7 +36,8 @@
    "url": "https://webermanapps.github.io/style-swipe/dashboards-ready-1-j8ipxh/",
    "total": 20,
    "topic": "dashboards",
-   "blurb": "Feed cards and report bar styles, 20 cards"
+   "blurb": "Feed cards and report bar styles, 20 cards",
+   "tag": "Report Bars"
   },
   {
    "id": "dashboards-ready-2",
@@ -39,8 +45,15 @@
    "url": "https://webermanapps.github.io/style-swipe/dashboards-ready-2-jmospn/",
    "total": 20,
    "topic": "dashboards",
-   "blurb": "Board layout, decision cards, deck rows, 20 cards"
+   "blurb": "Board layout, decision cards, deck rows, 20 cards",
+   "tag": "Layout"
   }
  ],
- "updated": "2026-10-14T19:34:14+07:00"
+ "updated": "2026-10-14T19:50:47+07:00",
+ "done": [
+  {
+   "id": "up-next-deck",
+   "at": "2026-10-14T19:44:00+07:00"
+  }
+ ]
 }
