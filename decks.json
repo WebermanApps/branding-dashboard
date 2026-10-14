@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-14T14:16:39+07:00",
+ "updated": "2026-10-14T14:20:00+07:00",
  "decks": [
   {
    "id": "agent-dashboards-more",
@@ -15,13 +15,15 @@
   {
    "id": "agent-dashboards",
    "name": "Agent Dashboards Deck",
-   "about": "Board-specific layout and content choices across 12 agent dashboards (Scout, Blueprint, Construction, Prop, Security, Research, Coach, Miles, Thai, Apps Home, Portfolio, WellNest)",
-   "status": "wait",
+   "about": "Results In: 19 of 20 answered (1 skip), sent Oct 14; picks to 11 agents",
+   "status": "done",
    "order": 0,
    "cat": "dashboards",
    "size": 20,
    "featured": false,
-   "url": "https://webermanapps.github.io/style-swipe/agent-dashboards-ndeqtp/"
+   "url": "https://webermanapps.github.io/style-swipe/agent-dashboards-ndeqtp/",
+   "answered": 19,
+   "total": 20
   },
   {
    "id": "security-icon",
