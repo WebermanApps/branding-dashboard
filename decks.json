@@ -1,6 +1,17 @@
 {
- "updated": "2026-10-14T13:32:10+07:00",
+ "updated": "2026-10-14T13:32:59+07:00",
  "decks": [
+  {
+   "id": "rulebook-tiebreak",
+   "name": "Rulebook Tiebreak Deck",
+   "about": "Follow-up to Rulebook Clash: pure white vs cream (skipped last time), accents asked again, how far the Share icon, spaced caps and tab bar reach, and the open dashboard tiebreaks (12 pairs)",
+   "status": "wait",
+   "order": 0,
+   "cat": "dashboards",
+   "size": 12,
+   "featured": false,
+   "url": "https://webermanapps.github.io/style-swipe/rulebook-tiebreak-madwr3/"
+  },
   {
    "id": "deck-board-2",
    "name": "Deck Board Details",
@@ -15,13 +26,15 @@
   {
    "id": "rulebook-clash",
    "name": "Rulebook Clash Deck",
-   "about": "Settle the open rulebook conflicts: Share placement, test sizes, density, heading case, bottom tabs, report block, page base, accents (10 pairs)",
-   "status": "wait",
+   "about": "Results In: 9 of 10 answered (1 skip), sent Oct 14; Share icon in header, 393/1470/2560, compact, spaced caps for some titles, Apps Home phone tab bar, open report card, cream over rice-white now in the rulebook",
+   "status": "done",
    "order": 0,
    "cat": "dashboards",
    "size": 10,
    "featured": false,
-   "url": "https://webermanapps.github.io/style-swipe/rulebook-clash-i5odjz/"
+   "url": "https://webermanapps.github.io/style-swipe/rulebook-clash-i5odjz/",
+   "answered": 9,
+   "total": 10
   },
   {
    "id": "upkeep-board-2",
