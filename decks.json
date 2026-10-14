@@ -1,6 +1,28 @@
 {
- "updated": "2026-10-14T12:50:16+07:00",
+ "updated": "2026-10-14T13:07:40+07:00",
  "decks": [
+  {
+   "id": "upkeep-board-2",
+   "name": "UpKeep Board Details",
+   "about": "Follow-up to the UpKeep Board Deck: report card with more-detail dropdown, app button, tiles, approvals pill, video row, feed, layouts (20 pairs, 2 carried). Submit goes to UpKeep",
+   "status": "wait",
+   "order": 0,
+   "cat": "upkeep",
+   "size": 20,
+   "featured": false,
+   "url": "https://webermanapps.github.io/style-swipe/upkeep-board-details-8vhbcv/"
+  },
+  {
+   "id": "folio-dashboard-2",
+   "name": "Folio Dashboard Details",
+   "about": "Follow-up to the Folio Dashboard Deck: Portfolio thumbnail icons (dollar sign with a green growth chart), report card, urgent pill, tiles, chart and spending details (20 pairs, 1 carried). Submit goes to Portfolio",
+   "status": "wait",
+   "order": 0,
+   "cat": "portfolio",
+   "size": 20,
+   "featured": false,
+   "url": "https://webermanapps.github.io/style-swipe/folio-dashboard-details-vxmzcb/"
+  },
   {
    "id": "wellnest-brand-look-1",
    "name": "Brand Look: Logo & Colour",
@@ -290,13 +312,14 @@
   {
    "id": "upkeep-board",
    "name": "UpKeep Board Deck",
-   "about": "How the UpKeep command center looks: layout, report placement, app tiles, Video card, approvals dropdown, team feed, type, colour, icons, phone/MacBook/big monitor (20 pairs). Submit goes to UpKeep",
-   "status": "wait",
+   "about": "Results In: 18 of 20 answered (2 skips), sent Oct 14; picks to UpKeep",
+   "status": "done",
    "order": 0,
    "cat": "upkeep",
    "size": 20,
    "featured": false,
-   "url": "https://webermanapps.github.io/style-swipe/upkeep-board-vh7w9l/"
+   "url": "https://webermanapps.github.io/style-swipe/upkeep-board-vh7w9l/",
+   "answered": 18
   },
   {
    "id": "wellnest-dashboard",
@@ -312,13 +335,14 @@
   {
    "id": "folio-dashboard",
    "name": "Folio Dashboard Deck",
-   "about": "How Portfolio's dashboard looks: header, reports, tiles and unlock, urgent dropdown, charts, type, colour, layouts (20 pairs, no figures). Submit goes to Portfolio",
-   "status": "wait",
+   "about": "Results In: 19 of 20 answered (1 skip), sent Oct 14; picks to Portfolio",
+   "status": "done",
    "order": 0,
    "cat": "portfolio",
    "size": 20,
    "featured": false,
-   "url": "https://webermanapps.github.io/style-swipe/folio-dashboard-kuijvp/"
+   "url": "https://webermanapps.github.io/style-swipe/folio-dashboard-kuijvp/",
+   "answered": 19
   },
   {
    "id": "wellnest-brand-round-two",
