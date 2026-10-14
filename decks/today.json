@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-14T18:05:56+07:00",
+ "updated": "2026-10-14T19:49:29+07:00",
  "tz": "Asia/Bangkok",
  "today": "2026-10-14",
- "count": 10,
+ "count": 11,
  "partial": 0,
  "decks": [
   {
@@ -64,6 +64,12 @@
    "name": "deck-request",
    "agent": "upkeep",
    "partial": false
+  },
+  {
+   "deck": "up-next-deck",
+   "name": "Up Next Deck",
+   "agent": "branding",
+   "partial": false
   }
  ],
  "week": [
@@ -93,7 +99,7 @@
   },
   {
    "date": "2026-10-14",
-   "count": 10
+   "count": 11
   }
  ]
 }
