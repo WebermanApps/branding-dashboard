@@ -1,0 +1,9 @@
+{"agent":"branding",
+"categories":[
+{"id":"dashboard","label":"Dashboard Deck","blurb":"Board layout, sections and cards"},
+{"id":"branding","label":"Branding Deck","blurb":"Colours, type and brand look"},
+{"id":"tiebreak","label":"Rulebook Tiebreak","blurb":"Settle open rulebook clashes"},
+{"id":"icons","label":"Agent Icons","blurb":"Icons for each agent"},
+{"id":"style-swipe","label":"Style Swipe (personal)","blurb":"Your own taste picks"}],
+"unfinished":[],
+"ready":null}
