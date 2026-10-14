@@ -1,16 +1,20 @@
 {
- "updated": "2026-10-14T17:26:54+07:00",
+ "updated": "2026-10-14T18:05:56+07:00",
  "decks": [
   {
    "id": "org-chart",
    "name": "Org Chart Deck",
-   "about": "How the team org chart should look: Work/Personal/AIR groups, who reports to Grok Bot, tree vs cards vs tiles, place on Apps Home, naming, merges, paused agents",
-   "status": "wait",
+   "about": "Results In: 14 of 20 answered (6 skips), sent Oct 14; picks to Grok Bot for the Apps Home org chart",
+   "status": "done",
    "order": 0,
    "cat": "dashboards",
    "size": 20,
    "featured": false,
-   "url": "https://webermanapps.github.io/style-swipe/org-chart-b4xp08/"
+   "url": "https://webermanapps.github.io/style-swipe/org-chart-b4xp08/",
+   "answered": 14,
+   "total": 20,
+   "submitted": 1791965093000,
+   "via": "submit"
   },
   {
    "id": "mix-multi-2026-10-14",

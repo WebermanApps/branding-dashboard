@@ -1,24 +1,18 @@
 {
-  "type": "Morning Report",
+  "type": "Evening Report",
+  "report_type": "Evening Report",
   "date": "2026-10-14",
-  "updated": "2026-10-14T04:52:15+07:00",
-  "top3": [
-    "Waiting on Max: WellNest Brand Deck (200, featured), Flat Fee & Lagoon, Upkeep Stay & Gift, plus ~17 more lane decks and Coach's Dashboard Layout Deck 2.",
-    "Freeze still on until Max's Oct 14 cleanup: no overnight submission follow-ups; Style Swipe Submissions and Deck Bank Refill stay paused.",
-    "Brand checks: Style Swipe submit password gate is live; Coach layout round 1 is on this dashboard; live deck URLs checked OK at 4:26."
-  ],
+  "updated": "2026-10-14T18:05:56+07:00",
+  "posted_at": "2026-10-14T18:05:56+07:00",
   "today": [
-    "Decks: hold overnight results for Max's freeze cleanup, then review with him before building next decks. Daily Style Swipe check found every active lane already has a fresh unanswered deck, so no new daily was published.",
-    "Brand: keep WellNest featured card pinned; watch Flat Fee & Lagoon and Stay & Gift as the next picks to route to UpKeep, Blog, and Construction once freeze lifts."
+    "10 decks came back today: WellNest Brand (192 of 200), UpKeep Board, Folio Dashboard (19 of 20), Deck Board (19 of 20), Rulebook Clash (9 of 10), Info Gather (19 of 20), Agent Dashboards (19 of 20), Org Chart (14 of 20), the Mixed Deck (8 of 10) and UpKeep's deck request. Each set of picks went to the agents it affects.",
+    "Built and published new decks: Rulebook Clash, Rulebook Tiebreak, Deck Board Details, UpKeep Board Details, Folio Dashboard Details, Agent Dashboards One and Two, and the 25-deck WellNest series of 20 cards each. Info Gather, Security Icon, Org Chart and Funnel decks were also added to Deck Building.",
+    "Wrote WellNest's brand rules from your 192 picks and folded today's results into the dashboard rulebook: newest unfinished decks pinned at the top, a skipped card gets reworded and asked again, the Routines section, the Open a New Deck launcher, and every deck is exactly 20 cards.",
+    "This dashboard got the deck launcher at the very top, the Routines section, a Decks Finished Today tracker, and audit fixes (shorter folded page on phone, all text 13px or bigger, one Share icon in the header)."
   ],
   "tomorrow": [
-    "After Max lifts the freeze: resume Submissions and Bank Refill, apply any night submissions with him, then build the next deck on each submitted topic.",
-    "Evening Report at 18:02 with what shipped and what's still waiting."
-  ],
-  "needs": [
-    "Freeze cleanup OK so overnight submissions and paused routines can resume.",
-    "Play any waiting deck (start with WellNest Brand or Flat Fee & Lagoon) and tap Submit.",
-    "Your OK before Construction publishes Home Guide picks (customer-facing, staged only).",
-    "Still open: I vs We, and heading case for blog posts."
+    "A fresh Daily Deck goes live around 4:25 AM, and the Morning Report replaces this one before 5:00 AM.",
+    "54 decks are still waiting on you, starting with Agent Dashboards Deck Two, Rulebook Tiebreak and the Security Icon Deck.",
+    "Skipped cards from Org Chart and the Mixed Deck come back reworded, and each time you submit I refill a fresh 20-card deck on that topic."
   ]
 }
