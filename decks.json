@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-14T14:00:37+07:00",
+ "updated": "2026-10-14T14:05:02+07:00",
  "decks": [
   {
    "id": "agent-dashboards",
@@ -26,13 +26,15 @@
   {
    "id": "info-gather",
    "name": "Info Gather Deck",
-   "about": "Stage 4 of the funnel: the Get Started intake. Question order and wording, tiles and illustrations, progress, tags, questions to add or cut, Snap-a-Photo, service teasers, transitions, resume and Your Price Is Ready (20 pairs). Submit goes to UpKeep",
-   "status": "wait",
+   "about": "Results In: 19 of 20 answered (1 skip), sent Oct 14; picks to UpKeep",
+   "status": "done",
    "order": 0,
    "cat": "upkeep",
    "size": 20,
    "featured": false,
-   "url": "https://webermanapps.github.io/style-swipe/info-gather-c8smzt/"
+   "url": "https://webermanapps.github.io/style-swipe/info-gather-c8smzt/",
+   "answered": 19,
+   "total": 20
   },
   {
    "id": "rulebook-tiebreak",
