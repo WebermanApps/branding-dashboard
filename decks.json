@@ -1,6 +1,17 @@
 {
- "updated": "2026-10-14T14:05:02+07:00",
+ "updated": "2026-10-14T14:16:39+07:00",
  "decks": [
+  {
+   "id": "agent-dashboards-more",
+   "name": "Agent Dashboards Deck Two",
+   "about": "More board layout choices: UpKeep board, Deck Building, Branding, Legal, Blog, Dump, Japan Cottage, Video & Photo, Jokes, Miles, WellNest, Portfolio, plus the Routines section",
+   "status": "wait",
+   "order": 0,
+   "cat": "dashboards",
+   "size": 20,
+   "featured": false,
+   "url": "https://webermanapps.github.io/style-swipe/agent-dashboards-more-yzbanp/"
+  },
   {
    "id": "agent-dashboards",
    "name": "Agent Dashboards Deck",
