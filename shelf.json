@@ -13,15 +13,6 @@
    "blurb": "20 cards, ready now"
   },
   {
-   "id": "agent-dashboards-more",
-   "name": "Agent Dashboards Deck Two",
-   "url": "https://webermanapps.github.io/style-swipe/agent-dashboards-more-yzbanp/",
-   "total": 20,
-   "topic": "dashboards",
-   "blurb": "Board layouts for each agent, 20 cards",
-   "tag": "Dashboards"
-  },
-  {
    "id": "deck-board-2",
    "name": "Deck Board Details",
    "url": "https://webermanapps.github.io/style-swipe/deck-board-details-vren53/",
@@ -47,9 +38,20 @@
    "topic": "dashboards",
    "blurb": "Board layout, decision cards, deck rows, 20 cards",
    "tag": "Layout"
+  },
+  {
+   "id": "advisor-boards-advisor-boards-deck",
+   "name": "Advisor Boards Deck",
+   "url": "https://webermanapps.github.io/style-swipe/advisor-boards-advisor-boards-deck-eoohic/",
+   "total": 20,
+   "topic": "advisor-boards",
+   "source": "/workspace/style-swipe/banks/advisor-boards-pairs.json",
+   "added": "2026-10-15T13:47:02+07:00",
+   "tag": "Research Topics",
+   "blurb": "20 cards, ready now"
   }
  ],
- "updated": "2026-10-15T07:40:02+07:00",
+ "updated": "2026-10-15T13:47:02+07:00",
  "done": [
   {
    "id": "up-next-deck",
