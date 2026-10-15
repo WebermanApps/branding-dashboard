@@ -40,18 +40,19 @@
    "tag": "Layout"
   },
   {
-   "id": "advisor-boards-advisor-boards-deck",
-   "name": "Advisor Boards Deck",
-   "url": "https://webermanapps.github.io/style-swipe/advisor-boards-advisor-boards-deck-eoohic/",
+   "id": "advisor-boards-advisor-boards-details-deck",
+   "name": "Advisor Boards Details Deck",
+   "url": "https://webermanapps.github.io/style-swipe/advisor-boards-advisor-boards-details-deck-q7rc2g/",
    "total": 20,
    "topic": "advisor-boards",
-   "source": "/workspace/style-swipe/banks/advisor-boards-pairs.json",
-   "added": "2026-10-15T13:47:02+07:00",
+   "source": "/workspace/style-swipe/banks/advisor-boards-two-pairs.json",
+   "added": "2026-10-15T13:57:40+07:00",
    "tag": "Research Topics",
-   "blurb": "20 cards, ready now"
+   "refill": true,
+   "blurb": "20 cards, ready now, 2 reworded from last time"
   }
  ],
- "updated": "2026-10-15T13:47:02+07:00",
+ "updated": "2026-10-15T13:57:40+07:00",
  "done": [
   {
    "id": "up-next-deck",
@@ -60,6 +61,10 @@
   {
    "id": "ready-to-swipe-deck-two",
    "at": "2026-10-15T07:40:02+07:00"
+  },
+  {
+   "id": "advisor-boards-advisor-boards-deck",
+   "at": "2026-10-15T13:57:18+07:00"
   }
  ]
 }
