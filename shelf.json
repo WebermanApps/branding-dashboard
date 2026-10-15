@@ -1,88 +1,88 @@
 {
- "agent": "branding",
- "decks": [
-  {
-   "id": "ready-to-swipe-card-shape-and-header-link-deck",
-   "name": "Card Shape And Header Link Deck",
-   "url": "https://webermanapps.github.io/style-swipe/ready-to-swipe-card-shape-and-header-link-deck-demqj2/",
-   "total": 20,
-   "topic": "ready-to-swipe",
-   "added": "2026-10-15T07:40:02+07:00",
-   "tag": "Ready To Swipe",
-   "refill": true,
-   "blurb": "20 cards, ready now"
-  },
-  {
-   "id": "deck-board-2",
-   "name": "Deck Board Details",
-   "url": "https://webermanapps.github.io/style-swipe/deck-board-details-vren53/",
-   "total": 20,
-   "topic": "dashboards",
-   "blurb": "Deck Building board details, 20 cards",
-   "tag": "Deck Board"
-  },
-  {
-   "id": "dashboards-ready-1",
-   "name": "Feed And Report Bars Deck",
-   "url": "https://webermanapps.github.io/style-swipe/dashboards-ready-1-j8ipxh/",
-   "total": 20,
-   "topic": "dashboards",
-   "blurb": "Feed cards and report bar styles, 20 cards",
-   "tag": "Report Bars"
-  },
-  {
-   "id": "dashboards-ready-2",
-   "name": "Layout And Decisions Deck",
-   "url": "https://webermanapps.github.io/style-swipe/dashboards-ready-2-jmospn/",
-   "total": 20,
-   "topic": "dashboards",
-   "blurb": "Board layout, decision cards, deck rows, 20 cards",
-   "tag": "Layout"
-  },
-  {
-   "id": "advisor-boards-advisor-boards-details-deck",
-   "name": "Advisor Boards Details Deck",
-   "url": "https://webermanapps.github.io/style-swipe/advisor-boards-advisor-boards-details-deck-q7rc2g/",
-   "total": 20,
-   "topic": "advisor-boards",
-   "source": "/workspace/style-swipe/banks/advisor-boards-two-pairs.json",
-   "added": "2026-10-15T13:57:40+07:00",
-   "tag": "Research Topics",
-   "refill": true,
-   "blurb": "20 cards, ready now, 2 reworded from last time"
-  }
- ],
- "updated": "2026-10-15T13:57:40+07:00",
- "done": [
-  {
-   "id": "up-next-deck",
-   "at": "2026-10-14T19:44:00+07:00"
-  },
-  {
-   "id": "ready-to-swipe-deck-two",
-   "at": "2026-10-15T07:40:02+07:00"
-  },
-  {
-   "id": "advisor-boards-advisor-boards-deck",
-   "at": "2026-10-15T13:57:18+07:00"
-  }
- ],
- "pinned": [
-  {
-   "name": "Security Dashboard Setup Deck",
-   "url": "https://webermanapps.github.io/style-swipe/security-dashboard-setup-vo9p08/",
-   "total": 20,
-   "answered": 0,
-   "tag": "Max Asked",
-   "note": "Pinned until completed or cleared (Max, Oct 15 23:25)"
-  },
-  {
-   "name": "Security Duties Deck",
-   "url": "https://webermanapps.github.io/style-swipe/security-duties-vqj4jk/",
-   "total": 20,
-   "answered": 0,
-   "tag": "Max Asked",
-   "note": "Pinned until completed or cleared (Max, Oct 15 23:05)"
-  }
- ]
+  "agent": "branding",
+  "decks": [
+    {
+      "id": "ready-to-swipe-card-shape-and-header-link-deck",
+      "name": "Card Shape And Header Link Deck",
+      "url": "https://webermanapps.github.io/style-swipe/ready-to-swipe-card-shape-and-header-link-deck-demqj2/",
+      "total": 20,
+      "topic": "ready-to-swipe",
+      "added": "2026-10-15T07:40:02+07:00",
+      "tag": "Ready To Swipe",
+      "refill": true,
+      "blurb": "20 cards, ready now"
+    },
+    {
+      "id": "deck-board-2",
+      "name": "Deck Board Details",
+      "url": "https://webermanapps.github.io/style-swipe/deck-board-details-vren53/",
+      "total": 20,
+      "topic": "dashboards",
+      "blurb": "Deck Building board details, 20 cards",
+      "tag": "Deck Board"
+    },
+    {
+      "id": "dashboards-ready-1",
+      "name": "Feed And Report Bars Deck",
+      "url": "https://webermanapps.github.io/style-swipe/dashboards-ready-1-j8ipxh/",
+      "total": 20,
+      "topic": "dashboards",
+      "blurb": "Feed cards and report bar styles, 20 cards",
+      "tag": "Report Bars"
+    },
+    {
+      "id": "dashboards-ready-2",
+      "name": "Layout And Decisions Deck",
+      "url": "https://webermanapps.github.io/style-swipe/dashboards-ready-2-jmospn/",
+      "total": 20,
+      "topic": "dashboards",
+      "blurb": "Board layout, decision cards, deck rows, 20 cards",
+      "tag": "Layout"
+    },
+    {
+      "id": "advisor-boards-advisor-boards-details-deck",
+      "name": "Advisor Boards Details Deck",
+      "url": "https://webermanapps.github.io/style-swipe/advisor-boards-advisor-boards-details-deck-q7rc2g/",
+      "total": 20,
+      "topic": "advisor-boards",
+      "source": "/workspace/style-swipe/banks/advisor-boards-two-pairs.json",
+      "added": "2026-10-15T13:57:40+07:00",
+      "tag": "Research Topics",
+      "refill": true,
+      "blurb": "20 cards, ready now, 2 reworded from last time"
+    }
+  ],
+  "updated": "2026-10-15T13:57:40+07:00",
+  "done": [
+    {
+      "id": "up-next-deck",
+      "at": "2026-10-14T19:44:00+07:00"
+    },
+    {
+      "id": "ready-to-swipe-deck-two",
+      "at": "2026-10-15T07:40:02+07:00"
+    },
+    {
+      "id": "advisor-boards-advisor-boards-deck",
+      "at": "2026-10-15T13:57:18+07:00"
+    }
+  ],
+  "pinned": [
+    {
+      "name": "Security Dashboard Setup Deck",
+      "url": "https://webermanapps.github.io/style-swipe/security-dashboard-setup-vo9p08/",
+      "total": 20,
+      "answered": 0,
+      "tag": "Max Asked",
+      "note": "Pinned until completed or cleared (Max, Oct 15 23:25)"
+    },
+    {
+      "name": "Security Duties Deck",
+      "url": "https://webermanapps.github.io/style-swipe/security-duties-vqj4jk/",
+      "total": 20,
+      "answered": 0,
+      "tag": "Max Asked",
+      "note": "Pinned until completed or cleared (Max, Oct 15 23:05)"
+    }
+  ]
 }
