@@ -2,15 +2,15 @@
  "agent": "branding",
  "decks": [
   {
-   "id": "ready-to-swipe-deck-two",
-   "name": "Ready To Swipe Deck Two",
-   "url": "https://webermanapps.github.io/style-swipe/ready-to-swipe-deck-two-uef0b8/",
+   "id": "ready-to-swipe-card-shape-and-header-link-deck",
+   "name": "Card Shape And Header Link Deck",
+   "url": "https://webermanapps.github.io/style-swipe/ready-to-swipe-card-shape-and-header-link-deck-demqj2/",
    "total": 20,
    "topic": "ready-to-swipe",
+   "added": "2026-10-15T07:40:02+07:00",
    "tag": "Ready To Swipe",
-   "added": "2026-10-14T19:50:47+07:00",
    "refill": true,
-   "blurb": "Refill of Up Next Deck; 2 skips reworded first"
+   "blurb": "20 cards, ready now"
   },
   {
    "id": "agent-dashboards-more",
@@ -49,11 +49,15 @@
    "tag": "Layout"
   }
  ],
- "updated": "2026-10-14T19:50:47+07:00",
+ "updated": "2026-10-15T07:40:02+07:00",
  "done": [
   {
    "id": "up-next-deck",
    "at": "2026-10-14T19:44:00+07:00"
+  },
+  {
+   "id": "ready-to-swipe-deck-two",
+   "at": "2026-10-15T07:40:02+07:00"
   }
  ]
 }

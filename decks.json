@@ -1,18 +1,34 @@
 {
- "updated": "2026-10-14T19:34:14+07:00",
+ "updated": "2026-10-15T07:50:00+07:00",
  "decks": [
   {
-   "id": "ready-to-swipe-deck-two",
-   "name": "Ready To Swipe Deck Two",
-   "about": "Refill of Up Next Deck: skipped #11 (big screen) and #17 (20-card size) reworded first, plus 18 new Ready To Swipe questions",
+   "id": "ready-to-swipe-card-shape-and-header-link-deck",
+   "name": "Card Shape And Header Link Deck",
+   "about": "Refill of Ready To Swipe Deck Two: skip #11 reworded, both-picks #12/#19 followed up, plus finishing details for the shelf look",
    "status": "wait",
    "order": 0,
    "cat": "dashboards",
    "size": 20,
    "featured": false,
-   "url": "https://webermanapps.github.io/style-swipe/ready-to-swipe-deck-two-uef0b8/",
+   "url": "https://webermanapps.github.io/style-swipe/ready-to-swipe-card-shape-and-header-link-deck-demqj2/",
    "answered": 0,
    "total": 20
+  },
+  {
+   "id": "ready-to-swipe-deck-two",
+   "name": "Ready To Swipe Deck Two",
+   "about": "Results In: 19 of 20 answered (skip #11 Start label position, reworded into the refill), sent Oct 14 21:35 ICT; picks applied to the R66 Ready To Swipe kit",
+   "status": "done",
+   "order": 0,
+   "cat": "dashboards",
+   "size": 20,
+   "featured": false,
+   "url": "https://webermanapps.github.io/style-swipe/ready-to-swipe-deck-two-uef0b8/",
+   "answered": 19,
+   "total": 20,
+   "submitted": 1791988540000,
+   "via": "submit",
+   "results": "Results In: 19 of 20 answered (1 skip: #11), sent Oct 14 21:35; picks applied to the kit deck-shelf and R66"
   },
   {
    "id": "questions-center",
