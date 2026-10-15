@@ -20,21 +20,9 @@
       "topic": "dashboards",
       "blurb": "Feed cards and report bar styles, 20 cards",
       "tag": "Report Bars"
-    },
-    {
-      "id": "advisor-boards-advisor-boards-details-deck",
-      "name": "Advisor Boards Details Deck",
-      "url": "https://webermanapps.github.io/style-swipe/advisor-boards-advisor-boards-details-deck-q7rc2g/",
-      "total": 20,
-      "topic": "advisor-boards",
-      "source": "/workspace/style-swipe/banks/advisor-boards-two-pairs.json",
-      "added": "2026-10-15T13:57:40+07:00",
-      "tag": "Research Topics",
-      "refill": true,
-      "blurb": "20 cards, ready now, 2 reworded from last time"
     }
   ],
-  "updated": "2026-10-15T23:58:00+07:00",
+  "updated": "2026-10-16T00:05:00+07:00",
   "done": [
     {
       "id": "up-next-deck",
@@ -65,9 +53,33 @@
       "answered": 0,
       "tag": "Max Asked",
       "note": "Pinned until completed or cleared (Max, Oct 15 23:05)"
+    },
+    {
+      "name": "Forecasting And Projections Deck",
+      "url": "https://webermanapps.github.io/style-swipe/upkeep-forecasting-and-projections-4jdasl/",
+      "total": 20,
+      "answered": 0,
+      "tag": "Max Asked",
+      "note": "Pinned until completed or cleared (Max, Oct 16 00:00)"
     }
   ],
   "queued": [
+    {
+      "id": "advisor-boards-advisor-boards-details-deck",
+      "name": "Advisor Boards Details Deck",
+      "url": "https://webermanapps.github.io/style-swipe/advisor-boards-advisor-boards-details-deck-q7rc2g/",
+      "total": 20,
+      "topic": "advisor-boards",
+      "source": "/workspace/style-swipe/banks/advisor-boards-two-pairs.json",
+      "added": "2026-10-15T13:57:40+07:00",
+      "tag": "Research Topics",
+      "refill": true,
+      "blurb": "20 cards, ready now, 2 reworded from last time",
+      "held": {
+        "at": "2026-10-16T00:05:00+07:00",
+        "why": "third Max-asked pin (Forecasting And Projections Deck) keeps the board at 5"
+      }
+    },
     {
       "id": "dashboards-ready-2",
       "name": "Layout And Decisions Deck",
