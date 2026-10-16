@@ -11,21 +11,9 @@
    "tag": "Ready To Swipe",
    "refill": true,
    "blurb": "20 cards, ready now"
-  },
-  {
-   "id": "advisor-boards-advisor-boards-details-deck",
-   "name": "Advisor Boards Details Deck",
-   "url": "https://webermanapps.github.io/style-swipe/advisor-boards-advisor-boards-details-deck-q7rc2g/",
-   "total": 20,
-   "topic": "advisor-boards",
-   "source": "/workspace/style-swipe/banks/advisor-boards-two-pairs.json",
-   "added": "2026-10-15T13:57:40+07:00",
-   "tag": "Research Topics",
-   "refill": true,
-   "blurb": "20 cards, ready now, 2 reworded from last time"
   }
  ],
- "updated": "2026-10-16T11:45:00+07:00",
+ "updated": "2026-10-16T12:10:00+07:00",
  "done": [
   {
    "id": "up-next-deck",
@@ -76,6 +64,22 @@
  ],
  "pinned": [
   {
+   "id": "team-improvement-deck",
+   "name": "Team Improvement Deck",
+   "url": "https://webermanapps.github.io/style-swipe/team-improvement-fq2hng/",
+   "total": 20,
+   "topic": "team-improvement",
+   "slot": "team-improvement",
+   "permanent": true,
+   "pinned": true,
+   "added": "2026-10-16T12:10:00+07:00",
+   "tag": "Team",
+   "refill": true,
+   "blurb": "20 cards, ready now. Permanent (R75): Max's dislikes forwarded by agents",
+   "answered": 0,
+   "note": "Permanently pinned (Max standing rule Oct 16 11:54, R75); on completion apply results, refill, keep pinned"
+  },
+  {
    "name": "Security Dashboard Setup Deck",
    "url": "https://webermanapps.github.io/style-swipe/security-dashboard-setup-vo9p08/",
    "total": 20,
@@ -105,6 +109,18 @@
   }
  ],
  "queued": [
+  {
+   "id": "advisor-boards-advisor-boards-details-deck",
+   "name": "Advisor Boards Details Deck",
+   "url": "https://webermanapps.github.io/style-swipe/advisor-boards-advisor-boards-details-deck-q7rc2g/",
+   "total": 20,
+   "topic": "advisor-boards",
+   "source": "/workspace/style-swipe/banks/advisor-boards-two-pairs.json",
+   "added": "2026-10-15T13:57:40+07:00",
+   "tag": "Research Topics",
+   "refill": true,
+   "blurb": "20 cards, ready now, 2 reworded from last time"
+  },
   {
    "id": "dashboards-ready-1",
    "name": "Feed And Report Bars Deck",
