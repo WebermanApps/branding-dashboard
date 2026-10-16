@@ -43,7 +43,7 @@
    "tag": "Layout"
   }
  ],
- "updated": "2026-10-16T21:27:41+07:00",
+ "updated": "2026-10-16T21:33:21+07:00",
  "done": [
   {
    "id": "up-next-deck",
@@ -128,6 +128,50 @@
  ],
  "queued_note": "Held back by the 5-deck cap (pinned + decks <= 5). Requested decks never count toward the cap and never show in the header shelf.",
  "requested": [
+  {
+   "id": "wellnest-tea-blend-ingredients",
+   "name": "Tea Blend Ingredients Deck",
+   "url": "https://webermanapps.github.io/style-swipe/wellnest-tea-blend-ingredients-ligxyp/",
+   "total": 20,
+   "answered": 0,
+   "tag": "Max Asked",
+   "status": "open",
+   "added": "2026-10-16T21:33:21+07:00",
+   "note": "Requested by Max Oct 16 21:27 via WellNest (Three Tea Lines)"
+  },
+  {
+   "id": "wellnest-tea-packaging",
+   "name": "Tea Packaging Deck",
+   "url": "https://webermanapps.github.io/style-swipe/wellnest-tea-packaging-eweqav/",
+   "total": 20,
+   "answered": 0,
+   "tag": "Max Asked",
+   "status": "open",
+   "added": "2026-10-16T21:33:21+07:00",
+   "note": "Requested by Max Oct 16 21:27 via WellNest (Three Tea Lines)"
+  },
+  {
+   "id": "wellnest-partner-tea-blends",
+   "name": "Partner Tea Blends Deck",
+   "url": "https://webermanapps.github.io/style-swipe/wellnest-partner-tea-blends-nmrnpi/",
+   "total": 20,
+   "answered": 0,
+   "tag": "Max Asked",
+   "status": "open",
+   "added": "2026-10-16T21:33:21+07:00",
+   "note": "Requested by Max Oct 16 21:27 via WellNest (Partnership Teas)"
+  },
+  {
+   "id": "wellnest-partner-tea-packaging",
+   "name": "Partner Tea Packaging Deck",
+   "url": "https://webermanapps.github.io/style-swipe/wellnest-partner-tea-packaging-xcxjke/",
+   "total": 20,
+   "answered": 0,
+   "tag": "Max Asked",
+   "status": "open",
+   "added": "2026-10-16T21:33:21+07:00",
+   "note": "Requested by Max Oct 16 21:27 via WellNest (Partnership Teas)"
+  },
   {
    "id": "upkeep-technician-page-deck",
    "name": "Technician Page Deck",
