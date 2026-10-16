@@ -22,15 +22,6 @@
       "tag": "Report Bars"
     },
     {
-      "id": "dashboards-ready-2",
-      "name": "Layout And Decisions Deck",
-      "url": "https://webermanapps.github.io/style-swipe/dashboards-ready-2-jmospn/",
-      "total": 20,
-      "topic": "dashboards",
-      "blurb": "Board layout, decision cards, deck rows, 20 cards",
-      "tag": "Layout"
-    },
-    {
       "id": "advisor-boards-advisor-boards-details-deck",
       "name": "Advisor Boards Details Deck",
       "url": "https://webermanapps.github.io/style-swipe/advisor-boards-advisor-boards-details-deck-q7rc2g/",
@@ -43,7 +34,7 @@
       "blurb": "20 cards, ready now, 2 reworded from last time"
     }
   ],
-  "updated": "2026-10-16T03:40:00+07:00",
+  "updated": "2026-10-16T10:10:00+07:00",
   "done": [
     {
       "id": "up-next-deck",
@@ -100,9 +91,31 @@
       "answered": 0,
       "tag": "Max Asked",
       "note": "Pinned until completed or cleared (Max, Oct 15 23:25)"
+    },
+    {
+      "name": "Inbox Keep-or-Delete Deck",
+      "url": "https://webermanapps.github.io/style-swipe/inbox-keep-or-delete-k7d2q9/",
+      "total": 19,
+      "answered": 0,
+      "tag": "Max Asked",
+      "note": "Pinned until completed or cleared (Max via Email Sorting, Oct 16 2026); results go to Email Sorting"
     }
   ],
   "queued": [
+    {
+      "id": "dashboards-ready-2",
+      "name": "Layout And Decisions Deck",
+      "url": "https://webermanapps.github.io/style-swipe/dashboards-ready-2-jmospn/",
+      "total": 20,
+      "topic": "dashboards",
+      "blurb": "Board layout, decision cards, deck rows, 20 cards",
+      "tag": "Layout",
+      "held": {
+        "at": "2026-10-16T10:10:00+07:00",
+        "why": "5-deck cap: 2 pinned (Security Dashboard Setup, Inbox Keep-or-Delete) + 3 regular; returns when a pin clears",
+        "order": 1
+      }
+    },
     {
       "id": "deck-board-2",
       "name": "Deck Board Details",
@@ -114,7 +127,7 @@
       "held": {
         "at": "2026-10-15T23:58:00+07:00",
         "why": "5-deck cap: 2 pinned (Security Duties, Security Dashboard Setup) + 3 regular; returns when a pin clears",
-        "order": 1
+        "order": 2
       }
     }
   ],
