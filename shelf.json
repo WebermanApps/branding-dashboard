@@ -43,7 +43,7 @@
    "tag": "Layout"
   }
  ],
- "updated": "2026-10-16T21:42:54+07:00",
+ "updated": "2026-10-16T21:48:02+07:00",
  "done": [
   {
    "id": "up-next-deck",
@@ -128,6 +128,17 @@
  ],
  "queued_note": "Held back by the 5-deck cap (pinned + decks <= 5). Requested decks never count toward the cap and never show in the header shelf.",
  "requested": [
+  {
+   "id": "wellnest-roselle-packaging-polish",
+   "name": "Roselle Packaging Polish Deck",
+   "url": "https://webermanapps.github.io/style-swipe/wellnest-roselle-packaging-polish-ifwemw/",
+   "total": 20,
+   "answered": 0,
+   "tag": "Max Asked",
+   "status": "open",
+   "added": "2026-10-16T21:48:02+07:00",
+   "note": "Requested by Max Oct 16 21:44 via WellNest (Three Tea Lines)"
+  },
   {
    "id": "machan-mark-options-deck",
    "name": "Machan Mark Options Deck",
