@@ -25,25 +25,21 @@
    "blurb": "20 cards, ready now, 2 reworded from last time"
   },
   {
-   "id": "dashboards-ready-1",
-   "name": "Feed And Report Bars Deck",
-   "url": "https://webermanapps.github.io/style-swipe/dashboards-ready-1-j8ipxh/",
+   "id": "deck-board-2",
+   "name": "Deck Board Details",
+   "url": "https://webermanapps.github.io/style-swipe/deck-board-details-vren53/",
    "total": 20,
    "topic": "dashboards",
-   "blurb": "Feed cards and report bar styles, 20 cards",
-   "tag": "Report Bars"
-  },
-  {
-   "id": "dashboards-ready-2",
-   "name": "Layout And Decisions Deck",
-   "url": "https://webermanapps.github.io/style-swipe/dashboards-ready-2-jmospn/",
-   "total": 20,
-   "topic": "dashboards",
-   "blurb": "Board layout, decision cards, deck rows, 20 cards",
-   "tag": "Layout"
+   "blurb": "Deck Building board details, 20 cards",
+   "tag": "Deck Board",
+   "held": {
+    "at": "2026-10-15T23:58:00+07:00",
+    "why": "5-deck cap: 2 pinned (Security Duties, Security Dashboard Setup) + 3 regular; returns when a pin clears",
+    "order": 2
+   }
   }
  ],
- "updated": "2026-10-16T21:48:02+07:00",
+ "updated": "2026-10-16T23:21:01+07:00",
  "done": [
   {
    "id": "up-next-deck",
@@ -110,22 +106,7 @@
    "note": "Permanently pinned (Max standing rule Oct 16 11:54, R75); on completion apply results, refill, keep pinned"
   }
  ],
- "queued": [
-  {
-   "id": "deck-board-2",
-   "name": "Deck Board Details",
-   "url": "https://webermanapps.github.io/style-swipe/deck-board-details-vren53/",
-   "total": 20,
-   "topic": "dashboards",
-   "blurb": "Deck Building board details, 20 cards",
-   "tag": "Deck Board",
-   "held": {
-    "at": "2026-10-15T23:58:00+07:00",
-    "why": "5-deck cap: 2 pinned (Security Duties, Security Dashboard Setup) + 3 regular; returns when a pin clears",
-    "order": 2
-   }
-  }
- ],
+ "queued": [],
  "queued_note": "Held back by the 5-deck cap (pinned + decks <= 5). Requested decks never count toward the cap and never show in the header shelf.",
  "requested": [
   {
@@ -217,16 +198,6 @@
    "note": "UpKeep, requested by Max Oct 16"
   },
   {
-   "name": "Security Dashboard Setup Deck",
-   "url": "https://webermanapps.github.io/style-swipe/security-dashboard-setup-vo9p08/",
-   "total": 20,
-   "answered": 0,
-   "tag": "Max Asked",
-   "note": "Requested (Max, Oct 15 23:25)",
-   "id": "security-dashboard-setup-deck",
-   "status": "open"
-  },
-  {
    "name": "Inbox Keep-or-Delete Deck",
    "url": "https://webermanapps.github.io/style-swipe/inbox-keep-or-delete-k7d2q9/",
    "total": 19,
@@ -254,10 +225,10 @@
    "name": "Security Duties Deck",
    "url": "https://webermanapps.github.io/style-swipe/security-duties-vqj4jk/",
    "total": 20,
-   "answered": 18,
+   "answered": 20,
    "tag": "Max Asked",
    "status": "done",
-   "done_at": "2026-10-16T03:40:00+07:00",
+   "done_at": "2026-10-16T23:21:01+07:00",
    "skipped": [
     "11",
     "18"
@@ -269,10 +240,10 @@
    "name": "UpKeep Forecasting And Projections Deck",
    "url": "https://webermanapps.github.io/style-swipe/upkeep-forecasting-and-projections-4jdasl/",
    "total": 20,
-   "answered": 17,
+   "answered": 20,
    "tag": "Max Asked",
    "status": "done",
-   "done_at": "2026-10-16T03:40:00+07:00",
+   "done_at": "2026-10-16T23:21:01+07:00",
    "skipped": [
     "05",
     "14",
@@ -281,5 +252,41 @@
    "note": "Requested by Max; results go to UpKeep"
   }
  ],
- "requested_note": "Max Oct 16 2026 12:36 ICT (R77): decks Max specifically asks for go in 'requested' and show in the board's Requested Decks section, not the header shelf. status open|done; on results set status done, answered, done_at (tools/requested.py)."
+ "requested_note": "Max Oct 16 2026 12:36 ICT (R77): decks Max specifically asks for go in 'requested' and show in the board's Requested Decks section, not the header shelf. status open|done; on results set status done, answered, done_at (tools/requested.py).",
+ "unlisted": [
+  {
+   "id": "dashboards-ready-1",
+   "name": "Feed And Report Bars Deck",
+   "url": "https://webermanapps.github.io/style-swipe/dashboards-ready-1-j8ipxh/",
+   "total": 20,
+   "topic": "dashboards",
+   "blurb": "Feed cards and report bar styles, 20 cards",
+   "tag": "Report Bars",
+   "unlisted_from": "decks",
+   "unlisted_note": "Dashboard deck unlisted (Max Oct 16 2026 23:19 ICT: no dashboard decks unless he asks). Deck files/pages/votes kept."
+  },
+  {
+   "id": "dashboards-ready-2",
+   "name": "Layout And Decisions Deck",
+   "url": "https://webermanapps.github.io/style-swipe/dashboards-ready-2-jmospn/",
+   "total": 20,
+   "topic": "dashboards",
+   "blurb": "Board layout, decision cards, deck rows, 20 cards",
+   "tag": "Layout",
+   "unlisted_from": "decks",
+   "unlisted_note": "Dashboard deck unlisted (Max Oct 16 2026 23:19 ICT: no dashboard decks unless he asks). Deck files/pages/votes kept."
+  },
+  {
+   "name": "Security Dashboard Setup Deck",
+   "url": "https://webermanapps.github.io/style-swipe/security-dashboard-setup-vo9p08/",
+   "total": 20,
+   "answered": 0,
+   "tag": "Max Asked",
+   "note": "Requested (Max, Oct 15 23:25)",
+   "id": "security-dashboard-setup-deck",
+   "status": "open",
+   "unlisted_from": "requested",
+   "unlisted_note": "Dashboard deck unlisted (Max Oct 16 2026 23:19 ICT: no dashboard decks unless he asks). Deck files/pages/votes kept."
+  }
+ ]
 }

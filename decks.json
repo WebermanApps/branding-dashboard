@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-15T13:06:19+07:00",
+ "updated": "2026-10-16T23:30:00+07:00",
  "decks": [
   {
    "id": "ready-to-swipe-card-shape-and-header-link-deck",
@@ -86,32 +86,6 @@
    "total": 20
   },
   {
-   "id": "dashboards-ready-2",
-   "name": "Layout And Decisions Deck",
-   "about": "Ready Deck Shelf (R66): Board layout, decision cards, deck rows, 20 cards",
-   "status": "wait",
-   "order": 0,
-   "cat": "dashboards",
-   "size": 20,
-   "featured": false,
-   "url": "https://webermanapps.github.io/style-swipe/dashboards-ready-2-jmospn/",
-   "answered": 0,
-   "total": 20
-  },
-  {
-   "id": "dashboards-ready-1",
-   "name": "Feed And Report Bars Deck",
-   "about": "Ready Deck Shelf (R66): Feed cards and report bar styles, 20 cards",
-   "status": "wait",
-   "order": 0,
-   "cat": "dashboards",
-   "size": 20,
-   "featured": false,
-   "url": "https://webermanapps.github.io/style-swipe/dashboards-ready-1-j8ipxh/",
-   "answered": 0,
-   "total": 20
-  },
-  {
    "id": "org-chart",
    "name": "Org Chart Deck",
    "about": "Results In: 14 of 20 answered (6 skips), sent Oct 14; picks to Grok Bot for the Apps Home org chart",
@@ -140,17 +114,6 @@
    "total": 10,
    "submitted": 1791973238000,
    "via": "submit"
-  },
-  {
-   "id": "agent-dashboards-more",
-   "name": "Agent Dashboards Deck Two",
-   "about": "More board layout choices: UpKeep board, Deck Building, Branding, Legal, Blog, Dump, Japan Cottage, Video & Photo, Jokes, Miles, WellNest, Portfolio, plus the Routines section",
-   "status": "wait",
-   "order": 0,
-   "cat": "dashboards",
-   "size": 20,
-   "featured": false,
-   "url": "https://webermanapps.github.io/style-swipe/agent-dashboards-more-yzbanp/"
   },
   {
    "id": "agent-dashboards",
@@ -234,17 +197,6 @@
    "size": 20,
    "featured": false,
    "url": "https://webermanapps.github.io/style-swipe/upkeep-board-details-8vhbcv/"
-  },
-  {
-   "id": "folio-dashboard-2",
-   "name": "Folio Dashboard Details",
-   "about": "Follow-up to the Folio Dashboard Deck: Portfolio thumbnail icons (dollar sign with a green growth chart), report card, urgent pill, tiles, chart and spending details (20 pairs, 1 carried). Submit goes to Portfolio",
-   "status": "wait",
-   "order": 0,
-   "cat": "portfolio",
-   "size": 20,
-   "featured": false,
-   "url": "https://webermanapps.github.io/style-swipe/folio-dashboard-details-vxmzcb/"
   },
   {
    "id": "wellnest-brand-look-1",
@@ -488,17 +440,6 @@
    "results": "Results In: 18 of 20 answered (2 skips: #03 #04), sent Oct 15 12:45 ICT; picks to WellNest; skips reworded into Dashboard Online 2"
   },
   {
-   "id": "wellnest-dashboard-online-2",
-   "name": "Dashboard: Layout Details",
-   "about": "WellNest series, Dashboard & Online deck 2 of 5 (20 pairs). Submit goes to WellNest",
-   "status": "wait",
-   "order": 0,
-   "cat": "wellnest",
-   "size": 20,
-   "featured": false,
-   "url": "https://webermanapps.github.io/style-swipe/wellnest-dash-layout-details-1t686k/"
-  },
-  {
    "id": "wellnest-dashboard-online-3",
    "name": "Online: Instagram Look",
    "about": "WellNest series, Dashboard & Online deck 3 of 5 (20 pairs). Submit goes to WellNest",
@@ -555,17 +496,6 @@
    "featured": false,
    "url": "https://webermanapps.github.io/style-swipe/upkeep-board-vh7w9l/",
    "answered": 18
-  },
-  {
-   "id": "wellnest-dashboard",
-   "name": "WellNest Dashboard Deck",
-   "about": "How the WellNest dashboard looks: header and logo, section order, cards, Brand Decisions and report dropdowns, deck cards, colour, layouts, plus avatar icon options (24 pairs). Submit goes to WellNest",
-   "status": "wait",
-   "order": 0,
-   "cat": "wellnest",
-   "size": 24,
-   "featured": false,
-   "url": "https://webermanapps.github.io/style-swipe/wellnest-dashboard-4unr90/"
   },
   {
    "id": "folio-dashboard",
@@ -779,26 +709,6 @@
    "submitted": "2026-10-13T23:34:00+07:00"
   },
   {
-   "id": "dashboard-layout-deck-2",
-   "name": "Dashboard Layout Deck 2",
-   "about": "Layout follow-ups for every agent dashboard; results go to Coach",
-   "status": "wait",
-   "order": 19,
-   "cat": "dashboards",
-   "size": 25,
-   "owner": "Coach",
-   "url": "https://webermanapps.github.io/dashboard-layout-deck-2-ujbr8f/"
-  },
-  {
-   "id": "dashboard-2",
-   "name": "Dashboard 2",
-   "about": "Tests the open dashboard style choices",
-   "status": "wait",
-   "order": 20,
-   "cat": "dashboards",
-   "size": 25
-  },
-  {
    "id": "video-v2",
    "name": "Video V.2",
    "about": "26 pairs for the explainer video",
@@ -978,6 +888,106 @@
   {
    "slug": "variety",
    "name": "Daily / Variety"
+  }
+ ],
+ "unlisted": [
+  {
+   "id": "dashboards-ready-2",
+   "name": "Layout And Decisions Deck",
+   "about": "Ready Deck Shelf (R66): Board layout, decision cards, deck rows, 20 cards",
+   "status": "wait",
+   "order": 0,
+   "cat": "dashboards",
+   "size": 20,
+   "featured": false,
+   "url": "https://webermanapps.github.io/style-swipe/dashboards-ready-2-jmospn/",
+   "answered": 0,
+   "total": 20,
+   "unlisted_note": "Max Oct 16 23:19 ICT: no dashboard decks unless he asks"
+  },
+  {
+   "id": "dashboards-ready-1",
+   "name": "Feed And Report Bars Deck",
+   "about": "Ready Deck Shelf (R66): Feed cards and report bar styles, 20 cards",
+   "status": "wait",
+   "order": 0,
+   "cat": "dashboards",
+   "size": 20,
+   "featured": false,
+   "url": "https://webermanapps.github.io/style-swipe/dashboards-ready-1-j8ipxh/",
+   "answered": 0,
+   "total": 20,
+   "unlisted_note": "Max Oct 16 23:19 ICT: no dashboard decks unless he asks"
+  },
+  {
+   "id": "agent-dashboards-more",
+   "name": "Agent Dashboards Deck Two",
+   "about": "More board layout choices: UpKeep board, Deck Building, Branding, Legal, Blog, Dump, Japan Cottage, Video & Photo, Jokes, Miles, WellNest, Portfolio, plus the Routines section",
+   "status": "wait",
+   "order": 0,
+   "cat": "dashboards",
+   "size": 20,
+   "featured": false,
+   "url": "https://webermanapps.github.io/style-swipe/agent-dashboards-more-yzbanp/",
+   "unlisted_note": "Max Oct 16 23:19 ICT: no dashboard decks unless he asks"
+  },
+  {
+   "id": "folio-dashboard-2",
+   "name": "Folio Dashboard Details",
+   "about": "Follow-up to the Folio Dashboard Deck: Portfolio thumbnail icons (dollar sign with a green growth chart), report card, urgent pill, tiles, chart and spending details (20 pairs, 1 carried). Submit goes to Portfolio",
+   "status": "wait",
+   "order": 0,
+   "cat": "portfolio",
+   "size": 20,
+   "featured": false,
+   "url": "https://webermanapps.github.io/style-swipe/folio-dashboard-details-vxmzcb/",
+   "unlisted_note": "Max Oct 16 23:19 ICT: no dashboard decks unless he asks"
+  },
+  {
+   "id": "wellnest-dashboard-online-2",
+   "name": "Dashboard: Layout Details",
+   "about": "WellNest series, Dashboard & Online deck 2 of 5 (20 pairs). Submit goes to WellNest",
+   "status": "wait",
+   "order": 0,
+   "cat": "wellnest",
+   "size": 20,
+   "featured": false,
+   "url": "https://webermanapps.github.io/style-swipe/wellnest-dash-layout-details-1t686k/",
+   "unlisted_note": "Max Oct 16 23:19 ICT: no dashboard decks unless he asks"
+  },
+  {
+   "id": "wellnest-dashboard",
+   "name": "WellNest Dashboard Deck",
+   "about": "How the WellNest dashboard looks: header and logo, section order, cards, Brand Decisions and report dropdowns, deck cards, colour, layouts, plus avatar icon options (24 pairs). Submit goes to WellNest",
+   "status": "wait",
+   "order": 0,
+   "cat": "wellnest",
+   "size": 24,
+   "featured": false,
+   "url": "https://webermanapps.github.io/style-swipe/wellnest-dashboard-4unr90/",
+   "unlisted_note": "Max Oct 16 23:19 ICT: no dashboard decks unless he asks"
+  },
+  {
+   "id": "dashboard-layout-deck-2",
+   "name": "Dashboard Layout Deck 2",
+   "about": "Layout follow-ups for every agent dashboard; results go to Coach",
+   "status": "wait",
+   "order": 19,
+   "cat": "dashboards",
+   "size": 25,
+   "owner": "Coach",
+   "url": "https://webermanapps.github.io/dashboard-layout-deck-2-ujbr8f/",
+   "unlisted_note": "Max Oct 16 23:19 ICT: no dashboard decks unless he asks"
+  },
+  {
+   "id": "dashboard-2",
+   "name": "Dashboard 2",
+   "about": "Tests the open dashboard style choices",
+   "status": "wait",
+   "order": 20,
+   "cat": "dashboards",
+   "size": 25,
+   "unlisted_note": "Max Oct 16 23:19 ICT: no dashboard decks unless he asks"
   }
  ]
 }
