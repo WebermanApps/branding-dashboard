@@ -1,12 +1,13 @@
 {
- "updated": "2026-10-14 14:11 ICT",
+ "updated": "2026-10-16 12:50 ICT",
  "routines": [
   {
    "name": "Dashboard Morning Report",
    "group": "Reports",
    "schedule_plain": "Daily At 4:47 AM ICT",
    "status": "on",
-   "last_run": "Today 4:51 AM"
+   "last_run": "Today 4:51 AM",
+   "note": "New decks Max asks for: python3 tools/requested.py add --id <id> --name <name> --url <url> (Requested Decks section, never the header shelf; R77)."
   },
   {
    "name": "Dashboard Evening Report",
@@ -29,7 +30,7 @@
    "schedule_plain": "Every 10 Minutes",
    "status": "on",
    "last_run": "Today 2:03 PM",
-   "note": "After each submission, replaces that deck on the Ready Deck Shelf with a fresh 20-card deck on the same topic, skips reworded or dropped (R64): python3 /workspace/style-swipe/tools/ready_shelf.py refill <deck_id> --shelf /workspace/branding-dashboard/shelf.json --agent branding (R66)."
+   "note": "After each submission, replaces that deck on the Ready Deck Shelf with a fresh 20-card deck on the same topic, skips reworded or dropped (R64): python3 /workspace/style-swipe/tools/ready_shelf.py refill <deck_id> --shelf /workspace/branding-dashboard/shelf.json --agent branding (R66). Requested decks (shelf.json 'requested', R77): do NOT refill; run python3 /workspace/branding-dashboard/tools/requested.py done <deck_id> --answered N so it shows Done in the Requested Decks section."
   },
   {
    "name": "Decks Finished Today Tracker",

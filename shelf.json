@@ -11,9 +11,39 @@
    "tag": "Ready To Swipe",
    "refill": true,
    "blurb": "20 cards, ready now"
+  },
+  {
+   "id": "advisor-boards-advisor-boards-details-deck",
+   "name": "Advisor Boards Details Deck",
+   "url": "https://webermanapps.github.io/style-swipe/advisor-boards-advisor-boards-details-deck-q7rc2g/",
+   "total": 20,
+   "topic": "advisor-boards",
+   "source": "/workspace/style-swipe/banks/advisor-boards-two-pairs.json",
+   "added": "2026-10-15T13:57:40+07:00",
+   "tag": "Research Topics",
+   "refill": true,
+   "blurb": "20 cards, ready now, 2 reworded from last time"
+  },
+  {
+   "id": "dashboards-ready-1",
+   "name": "Feed And Report Bars Deck",
+   "url": "https://webermanapps.github.io/style-swipe/dashboards-ready-1-j8ipxh/",
+   "total": 20,
+   "topic": "dashboards",
+   "blurb": "Feed cards and report bar styles, 20 cards",
+   "tag": "Report Bars"
+  },
+  {
+   "id": "dashboards-ready-2",
+   "name": "Layout And Decisions Deck",
+   "url": "https://webermanapps.github.io/style-swipe/dashboards-ready-2-jmospn/",
+   "total": 20,
+   "topic": "dashboards",
+   "blurb": "Board layout, decision cards, deck rows, 20 cards",
+   "tag": "Layout"
   }
  ],
- "updated": "2026-10-16T12:10:00+07:00",
+ "updated": "2026-10-16T12:50:00+07:00",
  "done": [
   {
    "id": "up-next-deck",
@@ -78,72 +108,9 @@
    "blurb": "20 cards, ready now. Permanent (R75): Max's dislikes forwarded by agents",
    "answered": 0,
    "note": "Permanently pinned (Max standing rule Oct 16 11:54, R75); on completion apply results, refill, keep pinned"
-  },
-  {
-   "name": "Security Dashboard Setup Deck",
-   "url": "https://webermanapps.github.io/style-swipe/security-dashboard-setup-vo9p08/",
-   "total": 20,
-   "answered": 0,
-   "tag": "Max Asked",
-   "note": "Pinned until completed or cleared (Max, Oct 15 23:25)"
-  },
-  {
-   "name": "Inbox Keep-or-Delete Deck",
-   "url": "https://webermanapps.github.io/style-swipe/inbox-keep-or-delete-k7d2q9/",
-   "total": 19,
-   "answered": 0,
-   "tag": "Max Asked",
-   "note": "Pinned until completed or cleared (Max via Email Sorting, Oct 16 2026); results go to Email Sorting"
-  },
-  {
-   "id": "upkeep-investor-pitch-deck",
-   "name": "Investor Pitch Deck",
-   "url": "https://webermanapps.github.io/style-swipe/upkeep-investor-pitch-wsf8tz/",
-   "total": 20,
-   "answered": 0,
-   "topic": "upkeep-investor-pitch",
-   "added": "2026-10-16T11:45:00+07:00",
-   "tag": "Max Asked",
-   "blurb": "20 cards, shape the investor pitch deck; results go to UpKeep",
-   "note": "Pinned until completed or cleared (Max, Oct 16 2026); results go to UpKeep"
   }
  ],
  "queued": [
-  {
-   "id": "advisor-boards-advisor-boards-details-deck",
-   "name": "Advisor Boards Details Deck",
-   "url": "https://webermanapps.github.io/style-swipe/advisor-boards-advisor-boards-details-deck-q7rc2g/",
-   "total": 20,
-   "topic": "advisor-boards",
-   "source": "/workspace/style-swipe/banks/advisor-boards-two-pairs.json",
-   "added": "2026-10-15T13:57:40+07:00",
-   "tag": "Research Topics",
-   "refill": true,
-   "blurb": "20 cards, ready now, 2 reworded from last time"
-  },
-  {
-   "id": "dashboards-ready-1",
-   "name": "Feed And Report Bars Deck",
-   "url": "https://webermanapps.github.io/style-swipe/dashboards-ready-1-j8ipxh/",
-   "total": 20,
-   "topic": "dashboards",
-   "blurb": "Feed cards and report bar styles, 20 cards",
-   "tag": "Report Bars"
-  },
-  {
-   "id": "dashboards-ready-2",
-   "name": "Layout And Decisions Deck",
-   "url": "https://webermanapps.github.io/style-swipe/dashboards-ready-2-jmospn/",
-   "total": 20,
-   "topic": "dashboards",
-   "blurb": "Board layout, decision cards, deck rows, 20 cards",
-   "tag": "Layout",
-   "held": {
-    "at": "2026-10-16T10:10:00+07:00",
-    "why": "5-deck cap: 2 pinned (Security Dashboard Setup, Inbox Keep-or-Delete) + 3 regular; returns when a pin clears",
-    "order": 1
-   }
-  },
   {
    "id": "deck-board-2",
    "name": "Deck Board Details",
@@ -159,5 +126,72 @@
    }
   }
  ],
- "queued_note": "Held back by the 5-deck cap (pinned + decks <= 5). Bring back in this order as pins clear. Never hold Advisor Boards Details Deck."
+ "queued_note": "Held back by the 5-deck cap (pinned + decks <= 5). Requested decks never count toward the cap and never show in the header shelf.",
+ "requested": [
+  {
+   "name": "Security Dashboard Setup Deck",
+   "url": "https://webermanapps.github.io/style-swipe/security-dashboard-setup-vo9p08/",
+   "total": 20,
+   "answered": 0,
+   "tag": "Max Asked",
+   "note": "Requested (Max, Oct 15 23:25)",
+   "id": "security-dashboard-setup-deck",
+   "status": "open"
+  },
+  {
+   "name": "Inbox Keep-or-Delete Deck",
+   "url": "https://webermanapps.github.io/style-swipe/inbox-keep-or-delete-k7d2q9/",
+   "total": 19,
+   "answered": 0,
+   "tag": "Max Asked",
+   "note": "Requested (Max via Email Sorting, Oct 16 2026); results go to Email Sorting",
+   "id": "inbox-keep-or-delete-deck",
+   "status": "open"
+  },
+  {
+   "id": "upkeep-investor-pitch-deck",
+   "name": "Investor Pitch Deck",
+   "url": "https://webermanapps.github.io/style-swipe/upkeep-investor-pitch-wsf8tz/",
+   "total": 20,
+   "answered": 0,
+   "topic": "upkeep-investor-pitch",
+   "added": "2026-10-16T11:45:00+07:00",
+   "tag": "Max Asked",
+   "blurb": "20 cards, shape the investor pitch deck; results go to UpKeep",
+   "note": "Requested (Max, Oct 16 2026); results go to UpKeep",
+   "status": "open"
+  },
+  {
+   "id": "security-duties-deck",
+   "name": "Security Duties Deck",
+   "url": "https://webermanapps.github.io/style-swipe/security-duties-vqj4jk/",
+   "total": 20,
+   "answered": 18,
+   "tag": "Max Asked",
+   "status": "done",
+   "done_at": "2026-10-16T03:40:00+07:00",
+   "skipped": [
+    "11",
+    "18"
+   ],
+   "note": "Requested by Max; results go to Security"
+  },
+  {
+   "id": "upkeep-forecasting-and-projections-deck",
+   "name": "UpKeep Forecasting And Projections Deck",
+   "url": "https://webermanapps.github.io/style-swipe/upkeep-forecasting-and-projections-4jdasl/",
+   "total": 20,
+   "answered": 17,
+   "tag": "Max Asked",
+   "status": "done",
+   "done_at": "2026-10-16T03:40:00+07:00",
+   "skipped": [
+    "05",
+    "14",
+    "20"
+   ],
+   "note": "Requested by Max; results go to UpKeep"
+  }
+ ],
+ "requested_note": "Max Oct 16 2026 12:36 ICT (R77): decks Max specifically asks for go in 'requested' and show in the board's Requested Decks section, not the header shelf. status open|done; on results set status done, answered, done_at (tools/requested.py)."
 }
