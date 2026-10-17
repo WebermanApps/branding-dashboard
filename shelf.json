@@ -39,7 +39,7 @@
    }
   }
  ],
- "updated": "2026-10-17T08:05:35+07:00",
+ "updated": "2026-10-17T09:39:02+07:00",
  "done": [
   {
    "id": "up-next-deck",
@@ -86,24 +86,34 @@
     "14",
     "20"
    ]
+  },
+  {
+   "id": "team-improvement-deck",
+   "name": "Team Improvement Deck (round one)",
+   "answered": 19,
+   "total": 20,
+   "status": "Results In",
+   "done_at": "2026-10-17T09:39:02+07:00",
+   "url": "https://webermanapps.github.io/style-swipe/team-improvement-fq2hng/"
   }
  ],
  "pinned": [
   {
-   "id": "team-improvement-deck",
+   "id": "team-improvement-deck-deck-look-round",
    "name": "Team Improvement Deck",
-   "url": "https://webermanapps.github.io/style-swipe/team-improvement-fq2hng/",
-   "total": 20,
+   "url": "https://webermanapps.github.io/style-swipe/team-improvement-eeuorz/",
+   "total": 10,
    "topic": "team-improvement",
    "slot": "team-improvement",
    "permanent": true,
    "pinned": true,
-   "added": "2026-10-16T12:10:00+07:00",
+   "added": "2026-10-17T09:39:02+07:00",
    "tag": "Team",
    "refill": true,
-   "blurb": "20 cards, ready now. Permanent (R75): Max's dislikes forwarded by agents",
+   "blurb": "10 cards, ready now. Permanent (R75): Max's dislikes forwarded by agents",
    "answered": 0,
-   "note": "Permanently pinned (Max standing rule Oct 16 11:54, R75); on completion apply results, refill, keep pinned"
+   "note": "Permanently pinned (R75); round two, 10 picks (R86/R88). Round one results applied Oct 17 (R87)",
+   "previous_round": "team-improvement-deck"
   }
  ],
  "queued": [],
@@ -140,29 +150,34 @@
    "name": "Machan Mark Options Deck",
    "url": "https://webermanapps.github.io/style-swipe/machan-mark-options-tzojxh/",
    "total": 11,
-   "answered": 0,
+   "answered": 10,
    "tag": "Max Asked",
-   "status": "open",
+   "status": "done",
    "added": "2026-10-16T21:42:54+07:00",
-   "note": "Requested by Max Oct 16: Machan mark options"
+   "note": "Requested by Max Oct 16: Machan mark options",
+   "done_at": "2026-10-17T09:39:02+07:00",
+   "skipped": [
+    "02"
+   ]
   },
   {
    "id": "wellnest-tea-blend-ingredients-calm-line-digestion-line",
    "name": "Tea Blends: Energy Line & Line Purposes",
    "url": "https://webermanapps.github.io/style-swipe/wellnest-tea-blend-ingredients-calm-line-digestion-line-sxywhr/",
    "total": 10,
-   "answered": 0,
+   "answered": 10,
    "tag": "Max Asked",
-   "status": "open",
+   "status": "done",
    "added": "2026-10-17T08:05:35+07:00",
    "note": "Requested by Max Oct 16 21:27 via WellNest (Three Tea Lines)",
    "split_from": "wellnest-tea-blend-ingredients",
-   "blurb": "10 cards, ready now"
+   "blurb": "10 cards, ready now",
+   "done_at": "2026-10-17T09:39:02+07:00"
   },
   {
-   "id": "wellnest-tea-blend-ingredients-energy-line-line-purposes",
-   "name": "Tea Blends: Calm Line & Digestion Line",
-   "url": "https://webermanapps.github.io/style-swipe/wellnest-tea-blend-ingredients-energy-line-line-purposes-416cvq/",
+   "id": "wellnest-tea-blend-ingredients-calm-line-beauty-line",
+   "name": "Tea Blends: Calm Line & Beauty Line",
+   "url": "https://webermanapps.github.io/style-swipe/wellnest-tea-blend-ingredients-calm-line-beauty-line-42rmia/",
    "total": 10,
    "answered": 0,
    "tag": "Max Asked",
@@ -170,7 +185,8 @@
    "added": "2026-10-17T08:05:35+07:00",
    "note": "Requested by Max Oct 16 21:27 via WellNest (Three Tea Lines)",
    "split_from": "wellnest-tea-blend-ingredients",
-   "blurb": "10 cards, ready now"
+   "blurb": "10 cards, ready now",
+   "renamed_from": "wellnest-tea-blend-ingredients-energy-line-line-purposes"
   },
   {
    "id": "wellnest-tea-packaging-label-info-containers",
@@ -313,9 +329,9 @@
    "status": "open"
   },
   {
-   "id": "upkeep-investor-pitch-deck-story-style",
+   "id": "upkeep-investor-pitch-deck-numbers-market-deck",
    "name": "Investor Pitch: Numbers & Market",
-   "url": "https://webermanapps.github.io/style-swipe/upkeep-investor-pitch-deck-story-style-l1sijv/",
+   "url": "https://webermanapps.github.io/style-swipe/upkeep-investor-pitch-deck-numbers-market-deck-i32wih/",
    "total": 10,
    "answered": 0,
    "topic": "upkeep-investor-pitch",
@@ -324,12 +340,13 @@
    "note": "Requested (Max, Oct 16 2026); results go to UpKeep",
    "status": "open",
    "split_from": "upkeep-investor-pitch-deck",
-   "blurb": "10 cards, ready now"
+   "blurb": "10 cards, ready now",
+   "renamed_from": "upkeep-investor-pitch-deck-story-style"
   },
   {
-   "id": "upkeep-investor-pitch-deck-numbers-market",
+   "id": "upkeep-investor-pitch-deck-story-style-deck",
    "name": "Investor Pitch: Story & Style",
-   "url": "https://webermanapps.github.io/style-swipe/upkeep-investor-pitch-deck-numbers-market-f5r413/",
+   "url": "https://webermanapps.github.io/style-swipe/upkeep-investor-pitch-deck-story-style-deck-vrkysi/",
    "total": 10,
    "answered": 0,
    "topic": "upkeep-investor-pitch",
@@ -338,7 +355,8 @@
    "note": "Requested (Max, Oct 16 2026); results go to UpKeep",
    "status": "open",
    "split_from": "upkeep-investor-pitch-deck",
-   "blurb": "10 cards, ready now"
+   "blurb": "10 cards, ready now",
+   "renamed_from": "upkeep-investor-pitch-deck-numbers-market"
   },
   {
    "id": "security-duties-deck",
@@ -437,7 +455,7 @@
    "unlisted_at": "2026-10-17T08:05:35+07:00",
    "split_into": [
     "wellnest-tea-blend-ingredients-calm-line-digestion-line",
-    "wellnest-tea-blend-ingredients-energy-line-line-purposes"
+    "wellnest-tea-blend-ingredients-calm-line-beauty-line"
    ]
   },
   {
@@ -534,8 +552,8 @@
    "status": "open",
    "unlisted_at": "2026-10-17T08:05:35+07:00",
    "split_into": [
-    "upkeep-investor-pitch-deck-story-style",
-    "upkeep-investor-pitch-deck-numbers-market"
+    "upkeep-investor-pitch-deck-numbers-market-deck",
+    "upkeep-investor-pitch-deck-story-style-deck"
    ]
   }
  ],
