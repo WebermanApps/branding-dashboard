@@ -99,7 +99,7 @@
    "blurb": "10 cards, ready now"
   }
  ],
- "updated": "2026-10-17T09:55:08+07:00",
+ "updated": "2026-10-17T10:40:14+07:00",
  "done": [
   {
    "id": "up-next-deck",
@@ -191,25 +191,37 @@
    "name": "Tea Blends: Energy Line & Line Purposes",
    "answered": 10,
    "total": 10
+  },
+  {
+   "id": "team-improvement-deck-deck-look-round",
+   "at": "2026-10-17T10:20:28+07:00",
+   "name": "Team Improvement Deck (round two)",
+   "answered": 9,
+   "total": 10,
+   "skipped": [
+    "08"
+   ],
+   "status": "Results In",
+   "url": "https://webermanapps.github.io/style-swipe/team-improvement-eeuorz/"
   }
  ],
  "pinned": [
   {
-   "id": "team-improvement-deck-deck-look-round",
+   "id": "team-improvement-deck-round-three",
    "name": "Team Improvement Deck",
-   "url": "https://webermanapps.github.io/style-swipe/team-improvement-eeuorz/",
+   "url": "https://webermanapps.github.io/style-swipe/team-improvement-zamgtx/",
    "total": 10,
    "topic": "team-improvement",
    "slot": "team-improvement",
    "permanent": true,
    "pinned": true,
-   "added": "2026-10-17T09:39:02+07:00",
+   "added": "2026-10-17T10:40:14+07:00",
    "tag": "Team",
    "refill": true,
    "blurb": "10 cards, ready now. Permanent (R75): Max's dislikes forwarded by agents",
    "answered": 0,
-   "note": "Permanently pinned (R75); round two, 10 picks (R86/R88). Round one results applied Oct 17 (R87)",
-   "previous_round": "team-improvement-deck"
+   "note": "Permanently pinned (R75); round three, 10 picks (R86/R88). Round two results applied Oct 17 (R89)",
+   "previous_round": "team-improvement-deck-deck-look-round"
   }
  ],
  "queued": [],
