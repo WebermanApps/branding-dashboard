@@ -99,7 +99,7 @@
    "blurb": "10 cards, ready now"
   }
  ],
- "updated": "2026-10-17T19:58:29+07:00",
+ "updated": "2026-10-17T20:04:46+07:00",
  "done": [
   {
    "id": "up-next-deck",
@@ -262,6 +262,18 @@
  "queued": [],
  "queued_note": "Held back by the 5-deck cap (pinned + decks <= 5). Requested decks never count toward the cap and never show in the header shelf.",
  "requested": [
+  {
+   "id": "main-deck-board-layout",
+   "name": "Main Deck Board Layout Deck",
+   "url": "https://webermanapps.github.io/style-swipe/main-deck-board-layout-deck-t8peep/",
+   "total": 10,
+   "answered": 0,
+   "tag": "Max's Picks",
+   "status": "open",
+   "requested_at": "2026-10-17T20:04:46+07:00",
+   "added": "2026-10-17T20:04:46+07:00",
+   "note": "Max asked Oct 17 2026: a deck on the main deck board layout (R83 lifted for this deck)"
+  },
   {
    "id": "mixed-deck-up-keep-round-two",
    "name": "Mixed Deck: Up Keep, Round Two",
