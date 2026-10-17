@@ -8,7 +8,10 @@ and show in the board's Requested Decks section, never in the header Ready To Sw
   requested.py sort [--shelf shelf.json]                                      (re-sort only)
   requested.py list [--shelf shelf.json]
 Order (R90, Max Oct 17 2026 10:59 ICT): newest request first (requested_at, newest at top); open decks first, done after
-(R77), each newest-asked first. Every write re-sorts, so new requests land at the top. No partly-finished-first here."""
+(R77), each newest-asked first. Every write re-sorts, so new requests land at the top. No partly-finished-first here.
+R94/R96-R98 (Max Oct 17 2026 15:19-15:22 ICT): the section is "Max's Picks" (tag "Max's Picks"); a done deck disappears from the board
+right away but stays here as status done AND gets a done[] entry, so publish_deck_counts keeps counting it; the board shows at most
+10 open picks, the next open one fills a freed slot; each card has a 'New' badge until clicked once."""
 import json, sys, os, datetime as dt
 a = sys.argv[1:]
 def opt(k, d=None):
@@ -28,9 +31,11 @@ if cmd == "add":
     if not (i and n and u): sys.exit(__doc__)
     if any(d.get("id") == i for d in R): sys.exit(f"{i} already requested")
     for k in ("decks", "pinned", "queued"): s[k] = [d for d in s.get(k, []) if d.get("id") != i or d.get("permanent")]
-    R.insert(0, {"id": i, "name": n, "url": u, "total": int(opt("--total", 10)), "answered": 0, "tag": "Max Asked", "status": "open", "requested_at": opt("--requested-at", now), "added": now, "note": opt("--note", "Requested by Max")})
+    R.insert(0, {"id": i, "name": n, "url": u, "total": int(opt("--total", 10)), "answered": 0, "tag": "Max's Picks", "status": "open", "requested_at": opt("--requested-at", now), "added": now, "note": opt("--note", "Requested by Max")})
 elif cmd == "done":
     d = find(a[1]); d.update(status="done", done_at=now, answered=int(opt("--answered", d.get("total", 10))))
+    if d.get("id") not in {x.get("id") for x in s.setdefault("done", []) if isinstance(x, dict)}:  # R96: still counts on every deck counter
+        s["done"].append({"id": d["id"], "at": now, "name": d.get("name"), "answered": d.get("answered"), "total": d.get("total")})
     sk = opt("--skipped"); d.update(skipped=sk.split(",")) if sk else None
 elif cmd == "clear": d = find(a[1]); d.update(status="cleared", cleared_at=now); s["requested"] = [x for x in R if x is not d]; s.setdefault("requested_cleared", []).append(d)
 elif cmd == "sort": pass
