@@ -238,7 +238,9 @@
    "added": "2026-10-17T08:05:35+07:00",
    "note": "Requested by Max Oct 16 21:44 via WellNest (Three Tea Lines)",
    "split_from": "wellnest-roselle-packaging-polish",
-   "blurb": "10 cards, ready now"
+   "blurb": "10 cards, ready now",
+   "requested_at": "2026-10-16T21:44:00+07:00",
+   "requested_at_src": "note: Max asked Oct 16 21:44 ICT"
   },
   {
    "id": "wellnest-roselle-packaging-polish-pouch-back-panel",
@@ -251,36 +253,39 @@
    "added": "2026-10-17T08:05:35+07:00",
    "note": "Requested by Max Oct 16 21:44 via WellNest (Three Tea Lines)",
    "split_from": "wellnest-roselle-packaging-polish",
-   "blurb": "10 cards, ready now"
-  },
-  {
-   "id": "machan-mark-options-deck",
-   "name": "Machan Mark Options Deck",
-   "url": "https://webermanapps.github.io/style-swipe/machan-mark-options-tzojxh/",
-   "total": 11,
-   "answered": 10,
-   "tag": "Max Asked",
-   "status": "done",
-   "added": "2026-10-16T21:42:54+07:00",
-   "note": "Requested by Max Oct 16: Machan mark options",
-   "done_at": "2026-10-16T21:49:58+07:00",
-   "skipped": [
-    "02"
-   ]
-  },
-  {
-   "id": "wellnest-tea-blend-ingredients-calm-line-digestion-line",
-   "name": "Tea Blends: Energy Line & Line Purposes",
-   "url": "https://webermanapps.github.io/style-swipe/wellnest-tea-blend-ingredients-calm-line-digestion-line-sxywhr/",
-   "total": 10,
-   "answered": 10,
-   "tag": "Max Asked",
-   "status": "done",
-   "added": "2026-10-17T08:05:35+07:00",
-   "note": "Requested by Max Oct 16 21:27 via WellNest (Three Tea Lines)",
-   "split_from": "wellnest-tea-blend-ingredients",
    "blurb": "10 cards, ready now",
-   "done_at": "2026-10-17T08:15:56+07:00"
+   "requested_at": "2026-10-16T21:44:00+07:00",
+   "requested_at_src": "note: Max asked Oct 16 21:44 ICT"
+  },
+  {
+   "id": "upkeep-technician-page-deck-checklist-today",
+   "name": "Technician Page: Checklist & Today",
+   "url": "https://webermanapps.github.io/style-swipe/upkeep-technician-page-deck-checklist-today-psu0l4/",
+   "total": 10,
+   "answered": 0,
+   "tag": "Max Asked",
+   "status": "open",
+   "added": "2026-10-17T08:05:35+07:00",
+   "note": "UpKeep, requested by Max Oct 16",
+   "split_from": "upkeep-technician-page-deck",
+   "blurb": "10 cards, ready now",
+   "requested_at": "2026-10-16T21:27:41+07:00",
+   "requested_at_src": "git 179c08c (first added)"
+  },
+  {
+   "id": "upkeep-customer-profile-page-deck-visit-history-photos",
+   "name": "Customer Profile: Visits, Photos & Tips",
+   "url": "https://webermanapps.github.io/style-swipe/upkeep-customer-profile-page-deck-visit-history-photos-c3jybn/",
+   "total": 10,
+   "answered": 0,
+   "tag": "Max Asked",
+   "status": "open",
+   "added": "2026-10-17T08:05:35+07:00",
+   "note": "UpKeep, requested by Max Oct 16",
+   "split_from": "upkeep-customer-profile-page-deck",
+   "blurb": "10 cards, ready now",
+   "requested_at": "2026-10-16T21:27:41+07:00",
+   "requested_at_src": "git 179c08c (first added)"
   },
   {
    "id": "wellnest-tea-blend-ingredients-calm-line-beauty-line",
@@ -294,7 +299,9 @@
    "note": "Requested by Max Oct 16 21:27 via WellNest (Three Tea Lines)",
    "split_from": "wellnest-tea-blend-ingredients",
    "blurb": "10 cards, ready now",
-   "renamed_from": "wellnest-tea-blend-ingredients-energy-line-line-purposes"
+   "renamed_from": "wellnest-tea-blend-ingredients-energy-line-line-purposes",
+   "requested_at": "2026-10-16T21:27:00+07:00",
+   "requested_at_src": "note: Max asked Oct 16 21:27 ICT"
   },
   {
    "id": "wellnest-tea-packaging-label-info-containers",
@@ -307,7 +314,9 @@
    "added": "2026-10-17T08:05:35+07:00",
    "note": "Requested by Max Oct 16 21:27 via WellNest (Three Tea Lines)",
    "split_from": "wellnest-tea-packaging",
-   "blurb": "10 cards, ready now"
+   "blurb": "10 cards, ready now",
+   "requested_at": "2026-10-16T21:27:00+07:00",
+   "requested_at_src": "note: Max asked Oct 16 21:27 ICT"
   },
   {
    "id": "wellnest-tea-packaging-label-look",
@@ -320,7 +329,9 @@
    "added": "2026-10-17T08:05:35+07:00",
    "note": "Requested by Max Oct 16 21:27 via WellNest (Three Tea Lines)",
    "split_from": "wellnest-tea-packaging",
-   "blurb": "10 cards, ready now"
+   "blurb": "10 cards, ready now",
+   "requested_at": "2026-10-16T21:27:00+07:00",
+   "requested_at_src": "note: Max asked Oct 16 21:27 ICT"
   },
   {
    "id": "wellnest-partner-tea-blends-vanni-buds-station",
@@ -333,7 +344,9 @@
    "added": "2026-10-17T08:05:35+07:00",
    "note": "Requested by Max Oct 16 21:27 via WellNest (Partnership Teas)",
    "split_from": "wellnest-partner-tea-blends",
-   "blurb": "10 cards, ready now"
+   "blurb": "10 cards, ready now",
+   "requested_at": "2026-10-16T21:27:00+07:00",
+   "requested_at_src": "note: Max asked Oct 16 21:27 ICT"
   },
   {
    "id": "wellnest-partner-tea-blends-powerhaus-buds-station",
@@ -346,7 +359,9 @@
    "added": "2026-10-17T08:05:35+07:00",
    "note": "Requested by Max Oct 16 21:27 via WellNest (Partnership Teas)",
    "split_from": "wellnest-partner-tea-blends",
-   "blurb": "10 cards, ready now"
+   "blurb": "10 cards, ready now",
+   "requested_at": "2026-10-16T21:27:00+07:00",
+   "requested_at_src": "note: Max asked Oct 16 21:27 ICT"
   },
   {
    "id": "wellnest-partner-tea-packaging-vanni-buds-station",
@@ -359,7 +374,9 @@
    "added": "2026-10-17T08:05:35+07:00",
    "note": "Requested by Max Oct 16 21:27 via WellNest (Partnership Teas)",
    "split_from": "wellnest-partner-tea-packaging",
-   "blurb": "10 cards, ready now"
+   "blurb": "10 cards, ready now",
+   "requested_at": "2026-10-16T21:27:00+07:00",
+   "requested_at_src": "note: Max asked Oct 16 21:27 ICT"
   },
   {
    "id": "wellnest-partner-tea-packaging-powerhaus-buds-station",
@@ -372,72 +389,9 @@
    "added": "2026-10-17T08:05:35+07:00",
    "note": "Requested by Max Oct 16 21:27 via WellNest (Partnership Teas)",
    "split_from": "wellnest-partner-tea-packaging",
-   "blurb": "10 cards, ready now"
-  },
-  {
-   "id": "upkeep-technician-page-deck-checklist-today",
-   "name": "Technician Page: Checklist & Today",
-   "url": "https://webermanapps.github.io/style-swipe/upkeep-technician-page-deck-checklist-today-psu0l4/",
-   "total": 10,
-   "answered": 0,
-   "tag": "Max Asked",
-   "status": "open",
-   "added": "2026-10-17T08:05:35+07:00",
-   "note": "UpKeep, requested by Max Oct 16",
-   "split_from": "upkeep-technician-page-deck",
-   "blurb": "10 cards, ready now"
-  },
-  {
-   "id": "upkeep-technician-page-deck-van-inventory-job-card",
-   "name": "Technician Page: Van Inventory & Job Card",
-   "url": "https://webermanapps.github.io/style-swipe/upkeep-technician-page-deck-van-inventory-job-card-n50vua/",
-   "total": 10,
-   "answered": 10,
-   "tag": "Max Asked",
-   "status": "done",
-   "added": "2026-10-17T08:05:35+07:00",
-   "note": "UpKeep, requested by Max Oct 16",
-   "split_from": "upkeep-technician-page-deck",
    "blurb": "10 cards, ready now",
-   "done_at": "2026-10-17T09:12:13+07:00"
-  },
-  {
-   "id": "upkeep-customer-profile-page-deck-home-record",
-   "name": "Customer Profile: Home Record & Booking",
-   "url": "https://webermanapps.github.io/style-swipe/upkeep-customer-profile-page-deck-home-record-3e29o1/",
-   "total": 10,
-   "answered": 10,
-   "tag": "Max Asked",
-   "status": "done",
-   "added": "2026-10-17T08:05:35+07:00",
-   "note": "UpKeep, requested by Max Oct 16",
-   "split_from": "upkeep-customer-profile-page-deck",
-   "blurb": "10 cards, ready now",
-   "done_at": "2026-10-17T09:06:30+07:00"
-  },
-  {
-   "id": "upkeep-customer-profile-page-deck-visit-history-photos",
-   "name": "Customer Profile: Visits, Photos & Tips",
-   "url": "https://webermanapps.github.io/style-swipe/upkeep-customer-profile-page-deck-visit-history-photos-c3jybn/",
-   "total": 10,
-   "answered": 0,
-   "tag": "Max Asked",
-   "status": "open",
-   "added": "2026-10-17T08:05:35+07:00",
-   "note": "UpKeep, requested by Max Oct 16",
-   "split_from": "upkeep-customer-profile-page-deck",
-   "blurb": "10 cards, ready now"
-  },
-  {
-   "name": "Inbox Keep-or-Delete Deck",
-   "url": "https://webermanapps.github.io/style-swipe/inbox-keep-or-delete-k7d2q9/",
-   "total": 19,
-   "answered": 19,
-   "tag": "Max Asked",
-   "note": "Requested (Max via Email Sorting, Oct 16 2026); results go to Email Sorting",
-   "id": "inbox-keep-or-delete-deck",
-   "status": "done",
-   "done_at": "2026-10-16T16:39:43+07:00"
+   "requested_at": "2026-10-16T21:27:00+07:00",
+   "requested_at_src": "note: Max asked Oct 16 21:27 ICT"
   },
   {
    "id": "upkeep-investor-pitch-deck-numbers-market-deck",
@@ -452,7 +406,9 @@
    "status": "open",
    "split_from": "upkeep-investor-pitch-deck",
    "blurb": "10 cards, ready now",
-   "renamed_from": "upkeep-investor-pitch-deck-story-style"
+   "renamed_from": "upkeep-investor-pitch-deck-story-style",
+   "requested_at": "2026-10-16T11:36:36+07:00",
+   "requested_at_src": "git f548e6c (first pinned as Max request)"
   },
   {
    "id": "upkeep-investor-pitch-deck-story-style-deck",
@@ -467,7 +423,87 @@
    "status": "open",
    "split_from": "upkeep-investor-pitch-deck",
    "blurb": "10 cards, ready now",
-   "renamed_from": "upkeep-investor-pitch-deck-numbers-market"
+   "renamed_from": "upkeep-investor-pitch-deck-numbers-market",
+   "requested_at": "2026-10-16T11:36:36+07:00",
+   "requested_at_src": "git f548e6c (first pinned as Max request)"
+  },
+  {
+   "id": "machan-mark-options-deck",
+   "name": "Machan Mark Options Deck",
+   "url": "https://webermanapps.github.io/style-swipe/machan-mark-options-tzojxh/",
+   "total": 11,
+   "answered": 10,
+   "tag": "Max Asked",
+   "status": "done",
+   "added": "2026-10-16T21:42:54+07:00",
+   "note": "Requested by Max Oct 16: Machan mark options",
+   "done_at": "2026-10-16T21:49:58+07:00",
+   "skipped": [
+    "02"
+   ],
+   "requested_at": "2026-10-16T21:42:54+07:00",
+   "requested_at_src": "git 07e255d (first added)"
+  },
+  {
+   "id": "upkeep-technician-page-deck-van-inventory-job-card",
+   "name": "Technician Page: Van Inventory & Job Card",
+   "url": "https://webermanapps.github.io/style-swipe/upkeep-technician-page-deck-van-inventory-job-card-n50vua/",
+   "total": 10,
+   "answered": 10,
+   "tag": "Max Asked",
+   "status": "done",
+   "added": "2026-10-17T08:05:35+07:00",
+   "note": "UpKeep, requested by Max Oct 16",
+   "split_from": "upkeep-technician-page-deck",
+   "blurb": "10 cards, ready now",
+   "done_at": "2026-10-17T09:12:13+07:00",
+   "requested_at": "2026-10-16T21:27:41+07:00",
+   "requested_at_src": "git 179c08c (first added)"
+  },
+  {
+   "id": "upkeep-customer-profile-page-deck-home-record",
+   "name": "Customer Profile: Home Record & Booking",
+   "url": "https://webermanapps.github.io/style-swipe/upkeep-customer-profile-page-deck-home-record-3e29o1/",
+   "total": 10,
+   "answered": 10,
+   "tag": "Max Asked",
+   "status": "done",
+   "added": "2026-10-17T08:05:35+07:00",
+   "note": "UpKeep, requested by Max Oct 16",
+   "split_from": "upkeep-customer-profile-page-deck",
+   "blurb": "10 cards, ready now",
+   "done_at": "2026-10-17T09:06:30+07:00",
+   "requested_at": "2026-10-16T21:27:41+07:00",
+   "requested_at_src": "git 179c08c (first added)"
+  },
+  {
+   "id": "wellnest-tea-blend-ingredients-calm-line-digestion-line",
+   "name": "Tea Blends: Energy Line & Line Purposes",
+   "url": "https://webermanapps.github.io/style-swipe/wellnest-tea-blend-ingredients-calm-line-digestion-line-sxywhr/",
+   "total": 10,
+   "answered": 10,
+   "tag": "Max Asked",
+   "status": "done",
+   "added": "2026-10-17T08:05:35+07:00",
+   "note": "Requested by Max Oct 16 21:27 via WellNest (Three Tea Lines)",
+   "split_from": "wellnest-tea-blend-ingredients",
+   "blurb": "10 cards, ready now",
+   "done_at": "2026-10-17T08:15:56+07:00",
+   "requested_at": "2026-10-16T21:27:00+07:00",
+   "requested_at_src": "note: Max asked Oct 16 21:27 ICT"
+  },
+  {
+   "name": "Inbox Keep-or-Delete Deck",
+   "url": "https://webermanapps.github.io/style-swipe/inbox-keep-or-delete-k7d2q9/",
+   "total": 19,
+   "answered": 19,
+   "tag": "Max Asked",
+   "note": "Requested (Max via Email Sorting, Oct 16 2026); results go to Email Sorting",
+   "id": "inbox-keep-or-delete-deck",
+   "status": "done",
+   "done_at": "2026-10-16T16:39:43+07:00",
+   "requested_at": "2026-10-16T12:40:19+07:00",
+   "requested_at_src": "git 23549e5 (first added)"
   },
   {
    "id": "security-duties-deck",
@@ -482,7 +518,9 @@
     "11",
     "18"
    ],
-   "note": "Requested by Max; results go to Security"
+   "note": "Requested by Max; results go to Security",
+   "requested_at": "2026-10-16T03:32:35+07:00",
+   "requested_at_src": "git 822e2a1 (first in history)"
   },
   {
    "id": "upkeep-forecasting-and-projections-deck",
@@ -498,10 +536,12 @@
     "14",
     "20"
    ],
-   "note": "Requested by Max; results go to UpKeep"
+   "note": "Requested by Max; results go to UpKeep",
+   "requested_at": "2026-10-16T03:32:35+07:00",
+   "requested_at_src": "git 822e2a1 (first in history)"
   }
  ],
- "requested_note": "Max Oct 16 2026 12:36 ICT (R77): decks Max specifically asks for go in 'requested' and show in the board's Requested Decks section, not the header shelf. status open|done; on results set status done, answered, done_at (tools/requested.py).",
+ "requested_note": "Max Oct 16 2026 12:36 ICT (R77): decks Max specifically asks for go in 'requested' and show in the board's Requested Decks section, not the header shelf. status open|done; on results set status done, answered, done_at (tools/requested.py). Order (R90, Max Oct 17 2026 10:59 ICT): newest request first by requested_at (when Max asked), open before done; requested.py add stamps requested_at and every write re-sorts.",
  "unlisted": [
   {
    "id": "dashboards-ready-1",

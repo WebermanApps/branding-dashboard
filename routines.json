@@ -7,7 +7,7 @@
    "schedule_plain": "Daily At 4:47 AM ICT",
    "status": "on",
    "last_run": "Today 4:51 AM",
-   "note": "New decks Max asks for: python3 tools/requested.py add --id <id> --name <name> --url <url> (Requested Decks section, never the header shelf; R77)."
+   "note": "New decks Max asks for: python3 tools/requested.py add --id <id> --name <name> --url <url> [--requested-at <when Max asked, ISO ICT>] (Requested Decks section, never the header shelf; R77). It stamps requested_at and re-sorts so the newest ask is at the top (R90, Max Oct 17 2026 10:59 ICT)."
   },
   {
    "name": "Dashboard Evening Report",
@@ -30,7 +30,7 @@
    "schedule_plain": "Every 10 Minutes",
    "status": "on",
    "last_run": "Today 2:03 PM",
-   "note": "After each submission, replaces that deck on the Ready Deck Shelf with a fresh 10-card deck on the same topic (R86, Max Oct 17 2026 07:50 ICT: 10 picks per deck, shelf cap 10), skips reworded or dropped (R64): python3 /workspace/style-swipe/tools/ready_shelf.py refill <deck_id> --shelf /workspace/branding-dashboard/shelf.json --agent branding (R66). Requested decks (shelf.json 'requested', R77): do NOT refill; run python3 /workspace/branding-dashboard/tools/requested.py done <deck_id> --answered N so it shows Done in the Requested Decks section."
+   "note": "After each submission, replaces that deck on the Ready Deck Shelf with a fresh 10-card deck on the same topic (R86, Max Oct 17 2026 07:50 ICT: 10 picks per deck, shelf cap 10), skips reworded or dropped (R64): python3 /workspace/style-swipe/tools/ready_shelf.py refill <deck_id> --shelf /workspace/branding-dashboard/shelf.json --agent branding (R66). Requested decks (shelf.json 'requested', R77): do NOT refill; run python3 /workspace/branding-dashboard/tools/requested.py done <deck_id> --answered N so it shows Done in the Requested Decks section (requested.py keeps the Max Asked order: newest requested_at first, open before done, R90)."
   },
   {
    "name": "Decks Finished Today Tracker",
