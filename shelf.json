@@ -99,7 +99,7 @@
    "blurb": "10 cards, ready now"
   }
  ],
- "updated": "2026-10-17T22:09:47+07:00",
+ "updated": "2026-10-17T22:16:46+07:00",
  "done": [
   {
    "id": "up-next-deck",
@@ -294,6 +294,13 @@
    "name": "Company Dashboard Hub Deck",
    "answered": 14,
    "total": 14
+  },
+  {
+   "id": "upkeep-what-we-take-care-of-fresh-look-and-more-info-deck",
+   "at": "2026-10-17T21:58:02+07:00",
+   "name": "What We Take Care Of: Fresh Look And More Info",
+   "answered": 7,
+   "total": 8
   }
  ],
  "pinned": [
@@ -329,6 +336,19 @@
    "requested_at": "2026-10-17T22:09:47+07:00",
    "added": "2026-10-17T22:09:47+07:00",
    "note": "Replaces the submitted Company Dashboard Hub Deck (21:49 ICT); next Operator Dash picks, A = live hub, B = one change (UpKeep)"
+  },
+  {
+   "id": "upkeep-what-we-take-care-of-card-colors-and-finish-deck",
+   "name": "What We Take Care Of: Card Colors And Finish",
+   "url": "https://webermanapps.github.io/style-swipe/what-we-take-care-of-card-colors-and-finish-lyo47y/",
+   "total": 8,
+   "answered": 0,
+   "tag": "Max's Picks",
+   "status": "open",
+   "requested_at": "2026-10-17T22:09:00+07:00",
+   "added": "2026-10-17T22:16:46+07:00",
+   "note": "Replaces the submitted Fresh Look And More Info (21:58 ICT): every card its own colour, card face, colour strength, icon style, shadow, See All style, header, chip style. A = all settled picks applied. style-swipe 145f45d",
+   "new": true
   },
   {
    "id": "mixed-upkeep-follow-up-lists-crew-and-lawn-deck",
@@ -367,18 +387,6 @@
    "note": "Job 6 follow-up from Oct 17 results: Market size and use-of-funds re-asked, traction both ways, the 2x2 plot placed, funnel, scenarios, horizon, valuation on the ask, risk table."
   },
   {
-   "id": "upkeep-what-we-take-care-of-fresh-look-and-more-info-deck",
-   "name": "What We Take Care Of: Fresh Look And More Info",
-   "url": "https://webermanapps.github.io/style-swipe/what-we-take-care-of-fresh-look-and-more-info-69rlq0/",
-   "total": 8,
-   "answered": 0,
-   "tag": "Max's Picks",
-   "status": "open",
-   "requested_at": "2026-10-17T21:28:00+07:00",
-   "added": "2026-10-17T21:42:17+07:00",
-   "note": "Max 21:28 ICT: keep the section size, make it look fresher, add a clickable more-info feature. Replaces Compact Polish (submitted 21:32); A = his picks applied, Air & Safety colour re-asked first"
-  },
-  {
    "id": "team-improvement-deck-round-four",
    "name": "Team Improvement Deck",
    "url": "https://webermanapps.github.io/style-swipe/team-improvement-6908cr/",
@@ -404,6 +412,31 @@
    "requested_at": "2026-10-17T21:06:12+07:00",
    "added": "2026-10-17T21:06:12+07:00",
    "note": "Max asked Oct 17 2026: replacement for the Main Deck Board Layout Deck (submitted 20:47 ICT, 9/10); polish details on the applied main deck board (R83 lifted for this deck)"
+  },
+  {
+   "id": "upkeep-what-we-take-care-of-fresh-look-and-more-info-deck",
+   "name": "What We Take Care Of: Fresh Look And More Info",
+   "url": "https://webermanapps.github.io/style-swipe/what-we-take-care-of-fresh-look-and-more-info-69rlq0/",
+   "total": 8,
+   "answered": 7,
+   "tag": "Max's Picks",
+   "status": "done",
+   "requested_at": "2026-10-17T21:28:00+07:00",
+   "added": "2026-10-17T21:42:17+07:00",
+   "note": "Max 21:28 ICT: keep the section size, make it look fresher, add a clickable more-info feature. Replaces Compact Polish (submitted 21:32); A = his picks applied, Air & Safety colour re-asked first",
+   "done_at": "2026-10-17T21:58:02+07:00",
+   "skipped": [
+    "01"
+   ],
+   "both": [
+    "06"
+   ],
+   "superseded": [
+    "02",
+    "03",
+    "04",
+    "05"
+   ]
   },
   {
    "id": "upkeep-company-dashboard-deck",
