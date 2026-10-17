@@ -99,7 +99,7 @@
    "blurb": "10 cards, ready now"
   }
  ],
- "updated": "2026-10-17T21:06:12+07:00",
+ "updated": "2026-10-17T21:07:54+07:00",
  "done": [
   {
    "id": "up-next-deck",
@@ -264,30 +264,61 @@
     "09"
    ],
    "status": "Results In"
+  },
+  {
+   "id": "team-improvement-deck-round-three",
+   "at": "2026-10-17T20:52:00+07:00",
+   "name": "Team Improvement Deck (round three)",
+   "answered": 6,
+   "total": 10,
+   "skipped": [
+    "01",
+    "02",
+    "06",
+    "10"
+   ],
+   "status": "Results In",
+   "url": "https://webermanapps.github.io/style-swipe/team-improvement-zamgtx/",
+   "note": "R112-R116 applied Oct 17 2026; 06 saving results on hold (Max asked which is safer)"
   }
  ],
  "pinned": [
   {
-   "id": "team-improvement-deck-round-three",
+   "id": "team-improvement-deck-round-four",
    "name": "Team Improvement Deck",
-   "url": "https://webermanapps.github.io/style-swipe/team-improvement-zamgtx/",
+   "url": "https://webermanapps.github.io/style-swipe/team-improvement-6908cr/",
    "total": 10,
    "topic": "team-improvement",
    "slot": "team-improvement",
    "permanent": true,
    "pinned": true,
-   "added": "2026-10-17T10:40:14+07:00",
+   "added": "2026-10-17T21:07:54+07:00",
    "tag": "Team",
    "refill": true,
-   "blurb": "10 cards, ready now. Permanent (R75): Max's dislikes forwarded by agents",
+   "blurb": "10 cards, ready now. Permanent (R75): team workflow and the deck and board look",
    "answered": 0,
-   "note": "Permanently pinned (R75); round three, 10 picks (R86/R88). Round two results applied Oct 17 (R89)",
-   "previous_round": "team-improvement-deck-deck-look-round"
+   "note": "Permanently pinned (R75); round four, 10 picks. Round three results applied Oct 17 (R112-R116)",
+   "previous_round": "team-improvement-deck-round-three"
   }
  ],
  "queued": [],
  "queued_note": "Held back by the 5-deck cap (pinned + decks <= 5). Requested decks never count toward the cap and never show in the header shelf.",
  "requested": [
+  {
+   "id": "team-improvement-deck-round-four",
+   "name": "Team Improvement Deck",
+   "url": "https://webermanapps.github.io/style-swipe/team-improvement-6908cr/",
+   "total": 10,
+   "permanent": true,
+   "added": "2026-10-17T21:07:54+07:00",
+   "tag": "Max's Picks",
+   "blurb": "10 cards, ready now. Permanent (R75): team workflow and the deck and board look",
+   "answered": 0,
+   "note": "Permanently pinned (R75); round four, 10 picks. Round three results applied Oct 17 (R112-R116)",
+   "previous_round": "team-improvement-deck-round-three",
+   "status": "open",
+   "requested_at": "2026-10-17T21:07:54+07:00"
+  },
   {
    "id": "main-deck-board-polish",
    "name": "Main Deck Board Polish Deck",
