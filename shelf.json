@@ -99,7 +99,7 @@
    "blurb": "10 cards, ready now"
   }
  ],
- "updated": "2026-10-17T21:57:47+07:00",
+ "updated": "2026-10-17T22:09:47+07:00",
  "done": [
   {
    "id": "up-next-deck",
@@ -318,6 +318,18 @@
  "queued": [],
  "queued_note": "Held back by the 5-deck cap (pinned + decks <= 5). Requested decks never count toward the cap and never show in the header shelf.",
  "requested": [
+  {
+   "id": "upkeep-operator-dash-section-pages-deck",
+   "name": "Operator Dash: Section Pages And Chief Card",
+   "url": "https://webermanapps.github.io/style-swipe/operator-dash-section-pages-7locu2/",
+   "total": 10,
+   "answered": 0,
+   "tag": "Max's Picks",
+   "status": "open",
+   "requested_at": "2026-10-17T22:09:47+07:00",
+   "added": "2026-10-17T22:09:47+07:00",
+   "note": "Replaces the submitted Company Dashboard Hub Deck (21:49 ICT); next Operator Dash picks, A = live hub, B = one change (UpKeep)"
+  },
   {
    "id": "mixed-upkeep-follow-up-lists-crew-and-lawn-deck",
    "name": "Mixed UpKeep Follow-Up: Lists, Crew And Lawn Add-On",
