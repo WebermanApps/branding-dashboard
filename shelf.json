@@ -365,13 +365,13 @@
    "id": "upkeep-what-we-take-care-of-card-colors-and-finish-deck",
    "name": "What We Take Care Of: Card Colors And Finish",
    "url": "https://webermanapps.github.io/style-swipe/what-we-take-care-of-card-colors-and-finish-lyo47y/",
-   "total": 8,
+   "total": 10,
    "answered": 0,
    "tag": "Max's Picks",
    "status": "open",
    "requested_at": "2026-10-17T22:09:00+07:00",
    "added": "2026-10-17T22:16:46+07:00",
-   "note": "Replaces the submitted Fresh Look And More Info (21:58 ICT): every card its own colour, card face, colour strength, icon style, shadow, See All style, header, chip style. A = all settled picks applied. style-swipe 145f45d",
+   "note": "Replaces the submitted Fresh Look And More Info (21:58 ICT): every card its own colour, card face, colour strength, icon style, shadow, See All style, header, chip style, section background, slide dots. A = all settled picks applied. style-swipe 145f45d; topped up to 10 picks (R86) in 7a88883",
    "new": true
   },
   {
