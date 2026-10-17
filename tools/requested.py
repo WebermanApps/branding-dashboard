@@ -10,8 +10,12 @@ and show in the board's Requested Decks section, never in the header Ready To Sw
 Order (R90, Max Oct 17 2026 10:59 ICT): newest request first (requested_at, newest at top); open decks first, done after
 (R77), each newest-asked first. Every write re-sorts, so new requests land at the top. No partly-finished-first here.
 R94/R96-R98 (Max Oct 17 2026 15:19-15:22 ICT): the section is "Max's Picks" (tag "Max's Picks"); a done deck disappears from the board
-right away but stays here as status done AND gets a done[] entry, so publish_deck_counts keeps counting it; the board shows at most
-10 open picks, the next open one fills a freed slot; each card has a 'New' badge until clicked once."""
+right away but stays here as status done AND gets a done[] entry, so publish_deck_counts keeps counting it; the board shows every open pick
+(R102: no cap); each card has a 'New' badge until clicked once.
+R102 (Max Oct 17 2026 19:07 ICT): NO cap on Max's Picks (R97's 10 does not apply here); every open pick shows, newest request first,
+and `add` always lands the new request at the top. Max can one-click remove a pick ('×' + Undo); that is scoped to Max's Picks on
+this board (board id 'branding-djqmb410#picks') and made permanent by style-swipe tools/apply_removals.py, which moves it to
+requested_removed[] (status 'removed', never done[], so it never counts as completed)."""
 import json, sys, os, datetime as dt
 a = sys.argv[1:]
 def opt(k, d=None):
