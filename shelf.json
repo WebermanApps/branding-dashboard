@@ -99,7 +99,7 @@
    "blurb": "10 cards, ready now"
   }
  ],
- "updated": "2026-10-17T21:42:17+07:00",
+ "updated": "2026-10-17T21:47:01+07:00",
  "done": [
   {
    "id": "up-next-deck",
@@ -311,6 +311,42 @@
  "queued": [],
  "queued_note": "Held back by the 5-deck cap (pinned + decks <= 5). Requested decks never count toward the cap and never show in the header shelf.",
  "requested": [
+  {
+   "id": "mixed-upkeep-follow-up-lists-crew-and-lawn-deck",
+   "name": "Mixed UpKeep Follow-Up: Lists, Crew And Lawn Add-On",
+   "url": "https://webermanapps.github.io/style-swipe/mixed-upkeep-follow-up-dkayzq/",
+   "total": 10,
+   "answered": 0,
+   "tag": "Max's Picks",
+   "status": "open",
+   "requested_at": "2026-10-17T21:47:01+07:00",
+   "added": "2026-10-17T21:47:01+07:00",
+   "note": "Job 6 follow-up from Oct 17 results: Open items with divider lines, crew of three, the lawn add-on as ONE add-on (re-asked), big-number plan card, tech card details."
+  },
+  {
+   "id": "customer-visit-history-and-photos-reports-and-scan-deck",
+   "name": "Customer Visit History & Photos: Reports And Scan Results",
+   "url": "https://webermanapps.github.io/style-swipe/customer-visit-history-photos-ubacqk/",
+   "total": 10,
+   "answered": 0,
+   "tag": "Max's Picks",
+   "status": "open",
+   "requested_at": "2026-10-17T21:47:01+07:00",
+   "added": "2026-10-17T21:47:01+07:00",
+   "note": "Job 6 follow-up from Oct 17 results: All-good scan sign and problem-only results (Max's note), problem photo history re-asked, timeline rows, report photos, chat chips, recheck banner, tip, tech ca"
+  },
+  {
+   "id": "investor-numbers-and-market-ask-traction-and-size-deck",
+   "name": "Investor Numbers & Market: Ask, Traction And Market Size",
+   "url": "https://webermanapps.github.io/style-swipe/investor-numbers-market-lrzrco/",
+   "total": 10,
+   "answered": 0,
+   "tag": "Max's Picks",
+   "status": "open",
+   "requested_at": "2026-10-17T21:47:01+07:00",
+   "added": "2026-10-17T21:47:01+07:00",
+   "note": "Job 6 follow-up from Oct 17 results: Market size and use-of-funds re-asked, traction both ways, the 2x2 plot placed, funnel, scenarios, horizon, valuation on the ask, risk table."
+  },
   {
    "id": "upkeep-what-we-take-care-of-fresh-look-and-more-info-deck",
    "name": "What We Take Care Of: Fresh Look And More Info",
