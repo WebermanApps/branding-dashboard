@@ -99,7 +99,7 @@
    "blurb": "10 cards, ready now"
   }
  ],
- "updated": "2026-10-17T22:16:46+07:00",
+ "updated": "2026-10-17T22:18:43+07:00",
  "done": [
   {
    "id": "up-next-deck",
@@ -385,6 +385,54 @@
    "requested_at": "2026-10-17T21:47:01+07:00",
    "added": "2026-10-17T21:47:01+07:00",
    "note": "Job 6 follow-up from Oct 17 results: Market size and use-of-funds re-asked, traction both ways, the 2x2 plot placed, funnel, scenarios, horizon, valuation on the ask, risk table."
+  },
+  {
+   "id": "upkeep-site-trust-and-launch-dates-deck",
+   "name": "Site: Trust And Launch Dates",
+   "url": "https://webermanapps.github.io/style-swipe/site-trust-and-launch-dates-560sh2/",
+   "total": 10,
+   "answered": 0,
+   "tag": "Max's Picks",
+   "status": "open",
+   "requested_at": "2026-10-17T21:43:00+07:00",
+   "added": "2026-10-17T22:18:43+07:00",
+   "note": "UpKeep full review (Max 21:43 ICT): 10 cards: site trust, launch dates and sign-up path; results go to UpKeep; style-swipe a2a5860"
+  },
+  {
+   "id": "upkeep-operator-console-alerts-and-test-data-deck",
+   "name": "Operator Console: Alerts And Test Data",
+   "url": "https://webermanapps.github.io/style-swipe/operator-console-alerts-and-test-data-3ocg7p/",
+   "total": 10,
+   "answered": 0,
+   "tag": "Max's Picks",
+   "status": "open",
+   "requested_at": "2026-10-17T21:43:00+07:00",
+   "added": "2026-10-17T22:18:43+07:00",
+   "note": "UpKeep full review (Max 21:43 ICT): 10 cards: console alerts, test data and launch view; results go to UpKeep; style-swipe a2a5860"
+  },
+  {
+   "id": "upkeep-member-app-account-and-empty-states-deck",
+   "name": "Member App: Account And Empty States",
+   "url": "https://webermanapps.github.io/style-swipe/member-app-account-and-empty-states-3r03cq/",
+   "total": 10,
+   "answered": 0,
+   "tag": "Max's Picks",
+   "status": "open",
+   "requested_at": "2026-10-17T21:43:00+07:00",
+   "added": "2026-10-17T22:18:43+07:00",
+   "note": "UpKeep full review (Max 21:43 ICT): 10 cards: account menu, first month and problem states; results go to UpKeep; style-swipe a2a5860"
+  },
+  {
+   "id": "upkeep-extras-ideas-deck",
+   "name": "Extras Ideas Deck",
+   "url": "https://webermanapps.github.io/style-swipe/extras-ideas-c1uki2/",
+   "total": 10,
+   "answered": 0,
+   "tag": "Max's Picks",
+   "status": "open",
+   "requested_at": "2026-10-17T21:43:00+07:00",
+   "added": "2026-10-17T22:18:43+07:00",
+   "note": "UpKeep full review (Max 21:43 ICT): 10 cards: new add-on ideas for the Extras list; results go to UpKeep; style-swipe a2a5860; Max 22:11 ICT rule: new add-ons for the Extras list"
   },
   {
    "id": "team-improvement-deck-round-four",
