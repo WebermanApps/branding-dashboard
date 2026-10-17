@@ -99,7 +99,7 @@
    "blurb": "10 cards, ready now"
   }
  ],
- "updated": "2026-10-17T10:40:14+07:00",
+ "updated": "2026-10-17T15:39:51+07:00",
  "done": [
   {
    "id": "up-next-deck",
@@ -227,6 +227,18 @@
  "queued": [],
  "queued_note": "Held back by the 5-deck cap (pinned + decks <= 5). Requested decks never count toward the cap and never show in the header shelf.",
  "requested": [
+  {
+   "id": "mixed-deck-up-keep-round-two",
+   "name": "Mixed Deck: Up Keep, Round Two",
+   "url": "https://webermanapps.github.io/style-swipe/mixed-deck-up-keep-round-two-spnwxw/",
+   "total": 10,
+   "answered": 0,
+   "tag": "Max Asked",
+   "status": "open",
+   "requested_at": "2026-10-17T14:59:00+07:00",
+   "added": "2026-10-17T15:39:51+07:00",
+   "note": "Requested by Max Oct 17 14:59 ICT: follow-on to Mixed Deck: Up Keep (swiped 10:24 ICT, 6/10)"
+  },
   {
    "id": "wellnest-roselle-packaging-polish-pink-wash-words",
    "name": "Roselle Packaging: Pink Wash & Words",
