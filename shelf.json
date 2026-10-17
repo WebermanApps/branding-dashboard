@@ -99,7 +99,7 @@
    "blurb": "10 cards, ready now"
   }
  ],
- "updated": "2026-10-17T22:18:43+07:00",
+ "updated": "2026-10-17T22:29:42+07:00",
  "done": [
   {
    "id": "up-next-deck",
@@ -325,6 +325,30 @@
  "queued": [],
  "queued_note": "Held back by the 5-deck cap (pinned + decks <= 5). Requested decks never count toward the cap and never show in the header shelf.",
  "requested": [
+  {
+   "id": "main-dashboard-rules-deck",
+   "name": "Main Dashboard Rules",
+   "url": "https://webermanapps.github.io/style-swipe/main-dashboard-rules-r7htg6/",
+   "total": 10,
+   "answered": 0,
+   "tag": "Max's Picks",
+   "status": "open",
+   "requested_at": "2026-10-17T22:16:30+07:00",
+   "added": "2026-10-17T22:29:42+07:00",
+   "note": "Max asked 10:16 PM ICT: dashboard standard, Apps Home rules first"
+  },
+  {
+   "id": "all-boards-rules-deck",
+   "name": "All Boards Rules",
+   "url": "https://webermanapps.github.io/style-swipe/all-boards-rules-pcb1zt/",
+   "total": 10,
+   "answered": 0,
+   "tag": "Max's Picks",
+   "status": "open",
+   "requested_at": "2026-10-17T22:16:00+07:00",
+   "added": "2026-10-17T22:29:42+07:00",
+   "note": "Max asked 10:16 PM ICT: dashboard standard, overall rules for every board"
+  },
   {
    "id": "upkeep-operator-dash-section-pages-deck",
    "name": "Operator Dash: Section Pages And Chief Card",
