@@ -1,20 +1,39 @@
 {
- "updated": "2026-10-17T15:40:00+07:00",
+ "updated": "2026-10-17T16:20:00+07:00",
  "note": "Open Projects data for the Branding board (same format as WellNest's projects.json). Update status/steps here; no page relock needed.",
  "projects": [
   {
    "id": "desktop-polish",
    "title": "Desktop & Tablet Polish",
    "line": "Every kit board laid out well on tablet, laptop and wide screens. Phone stays exactly as it is.",
-   "focus": ["Tablet 768", "Laptop 1280", "Wide 1440+"],
-   "status": "In Progress",
+   "focus": [
+    "Tablet 768",
+    "Laptop 1280",
+    "Wide 1440+"
+   ],
+   "status": "Live · Owner Edits Listed",
    "url": "projects/desktop-polish/",
    "steps": [
-    {"name": "Audit every kit board at 393, 768, 1280 and 1440", "done": false},
-    {"name": "Kit CSS, min-width only (moderate margins, tighter spacing)", "done": false},
-    {"name": "Grok Bot board airiness fix", "done": false},
-    {"name": "Owner-edit list for board middle sections", "done": false},
-    {"name": "Screenshots: before/after, 393 pixel check", "done": false}
+    {
+     "name": "Audit every kit board at 393, 768, 1280 and 1440",
+     "done": true
+    },
+    {
+     "name": "Kit CSS, min-width only (moderate margins, tighter spacing)",
+     "done": true
+    },
+    {
+     "name": "Grok Bot board airiness fix",
+     "done": true
+    },
+    {
+     "name": "Owner-edit list for board middle sections",
+     "done": true
+    },
+    {
+     "name": "Screenshots: before/after, 393 pixel check",
+     "done": true
+    }
    ]
   }
  ]
