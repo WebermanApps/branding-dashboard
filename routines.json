@@ -30,7 +30,7 @@
    "schedule_plain": "Every 10 Minutes",
    "status": "on",
    "last_run": "Today 2:03 PM",
-   "note": "After each submission, replaces that deck on the Ready Deck Shelf with a fresh 20-card deck on the same topic, skips reworded or dropped (R64): python3 /workspace/style-swipe/tools/ready_shelf.py refill <deck_id> --shelf /workspace/branding-dashboard/shelf.json --agent branding (R66). Requested decks (shelf.json 'requested', R77): do NOT refill; run python3 /workspace/branding-dashboard/tools/requested.py done <deck_id> --answered N so it shows Done in the Requested Decks section."
+   "note": "After each submission, replaces that deck on the Ready Deck Shelf with a fresh 10-card deck on the same topic (R86, Max Oct 17 2026 07:50 ICT: 10 picks per deck, shelf cap 10), skips reworded or dropped (R64): python3 /workspace/style-swipe/tools/ready_shelf.py refill <deck_id> --shelf /workspace/branding-dashboard/shelf.json --agent branding (R66). Requested decks (shelf.json 'requested', R77): do NOT refill; run python3 /workspace/branding-dashboard/tools/requested.py done <deck_id> --answered N so it shows Done in the Requested Decks section."
   },
   {
    "name": "Decks Finished Today Tracker",
