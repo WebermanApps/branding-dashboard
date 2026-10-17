@@ -99,7 +99,7 @@
    "blurb": "10 cards, ready now"
   }
  ],
- "updated": "2026-10-17T21:22:48+07:00",
+ "updated": "2026-10-17T21:41:14+07:00",
  "done": [
   {
    "id": "up-next-deck",
@@ -308,13 +308,14 @@
    "id": "upkeep-company-dashboard-deck",
    "name": "Company Dashboard Hub Deck",
    "url": "https://webermanapps.github.io/style-swipe/upkeep-company-dashboard-8o7dld/",
-   "total": 10,
+   "total": 14,
    "answered": 0,
    "tag": "Max's Picks",
    "status": "open",
    "requested_at": "2026-10-17T21:11:00+07:00",
    "added": "2026-10-17T21:22:48+07:00",
-   "note": "Requested by Max 21:11 ICT; reworked 21:17 ICT as a hub with section dashboards (UpKeep)"
+   "note": "Requested by Max 21:11 ICT; reworked 21:17 ICT as a hub with section dashboards; 21:23-21:24 ICT +4 Org Chart picks, 14 picks (UpKeep)",
+   "updated": "2026-10-17T21:41:14+07:00"
   },
   {
    "id": "team-improvement-deck-round-four",
