@@ -99,7 +99,7 @@
    "blurb": "10 cards, ready now"
   }
  ],
- "updated": "2026-10-17T21:41:14+07:00",
+ "updated": "2026-10-17T21:42:17+07:00",
  "done": [
   {
    "id": "up-next-deck",
@@ -280,6 +280,13 @@
    "status": "Results In",
    "url": "https://webermanapps.github.io/style-swipe/team-improvement-zamgtx/",
    "note": "R112-R116 applied Oct 17 2026; 06 saving results on hold (Max asked which is safer)"
+  },
+  {
+   "id": "upkeep-what-we-take-care-of-compact-polish-deck",
+   "at": "2026-10-17T21:42:17+07:00",
+   "name": "What We Take Care Of: Compact Polish",
+   "answered": 9,
+   "total": 10
   }
  ],
  "pinned": [
@@ -304,6 +311,18 @@
  "queued": [],
  "queued_note": "Held back by the 5-deck cap (pinned + decks <= 5). Requested decks never count toward the cap and never show in the header shelf.",
  "requested": [
+  {
+   "id": "upkeep-what-we-take-care-of-fresh-look-and-more-info-deck",
+   "name": "What We Take Care Of: Fresh Look And More Info",
+   "url": "https://webermanapps.github.io/style-swipe/what-we-take-care-of-fresh-look-and-more-info-69rlq0/",
+   "total": 8,
+   "answered": 0,
+   "tag": "Max's Picks",
+   "status": "open",
+   "requested_at": "2026-10-17T21:28:00+07:00",
+   "added": "2026-10-17T21:42:17+07:00",
+   "note": "Max 21:28 ICT: keep the section size, make it look fresher, add a clickable more-info feature. Replaces Compact Polish (submitted 21:32); A = his picks applied, Air & Safety colour re-asked first"
+  },
   {
    "id": "upkeep-company-dashboard-deck",
    "name": "Company Dashboard Hub Deck",
@@ -343,6 +362,22 @@
    "requested_at": "2026-10-17T21:06:12+07:00",
    "added": "2026-10-17T21:06:12+07:00",
    "note": "Max asked Oct 17 2026: replacement for the Main Deck Board Layout Deck (submitted 20:47 ICT, 9/10); polish details on the applied main deck board (R83 lifted for this deck)"
+  },
+  {
+   "id": "upkeep-what-we-take-care-of-compact-polish-deck",
+   "name": "What We Take Care Of: Compact Polish",
+   "url": "https://webermanapps.github.io/style-swipe/what-we-take-care-of-compact-polish-5b3m25/",
+   "total": 10,
+   "answered": 9,
+   "tag": "Max's Picks",
+   "status": "done",
+   "requested_at": "2026-10-17T21:09:00+07:00",
+   "added": "2026-10-17T21:42:17+07:00",
+   "note": "Requested by Max via UpKeep 21:09 ICT; submitted 21:32 ICT",
+   "done_at": "2026-10-17T21:42:17+07:00",
+   "skipped": [
+    "08"
+   ]
   },
   {
    "id": "main-deck-board-layout",
