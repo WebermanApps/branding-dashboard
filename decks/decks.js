@@ -59,9 +59,11 @@ const CSS=`.dk *{box-sizing:border-box}.dk{font-family:Hind,system-ui,sans-serif
 function bankOf(B,s){if(!B)return 0;let v=B[s];if(v==null&&B.banks)v=Array.isArray(B.banks)?B.banks.find(x=>x&&(x.slug===s||x.id===s||x.category===s)):B.banks[s];
  if(v==null&&Array.isArray(B))v=B.find(x=>x&&(x.slug===s||x.id===s||x.category===s));
  if(typeof v==='number')return v;if(v&&typeof v==='object')return +(v.count??v.n??v.size??v.total??(Array.isArray(v.pairs)?v.pairs.length:0))||0;return 0}
+/* R104 (Oct 17 2026): every deck link carries from=<this page> so the deck's Return button comes back here */
+const withFrom=(u,self)=>{try{const x=new URL(u,location.href);if(x.hostname!=='webermanapps.github.io')return u;x.searchParams.set('from',self);return x.href}catch(_){return u}};
 w.DeckApp=function(el,o){
  if(!document.getElementById('dk-css')){const s=document.createElement('style');s.id='dk-css';s.textContent=CSS;document.head.appendChild(s)}
- const self=o.self||location.href.split(/[?#]/)[0],link=id=>SS+'?date='+encodeURIComponent(id)+'&from='+encodeURIComponent(self),href=d=>d.url||link(d.id);
+ const self=o.self||location.href.split(/[?#]/)[0],link=id=>SS+'?date='+encodeURIComponent(id)+'&from='+encodeURIComponent(self),href=d=>d.url?withFrom(d.url,self):link(d.id);
  const date=ts=>new Date(ts).toLocaleDateString('en-US',{month:'short',day:'numeric',timeZone:'Asia/Bangkok'});
  el.classList.add('dk');el.innerHTML='<p class="none">Loading decks…</p>';
  Promise.all([fetch(o.base+'decks.json',{cache:'no-store'}).then(r=>r.json()),fetch(o.base+'requests.json',{cache:'no-store'}).then(r=>r.json()).catch(()=>({requests:[]})),fetch(BANKS,{cache:'no-store'}).then(r=>r.ok?r.json():null).catch(()=>null)]).then(([J,RQ,B])=>{
