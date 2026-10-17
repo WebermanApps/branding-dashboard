@@ -4,6 +4,7 @@
    small NEW tag until first click (R98, localStorage ds-opened:<id>); empty state = a line plus an Ask button (opens Branding chat, R74);
    finished decks leave instantly (status done or submitted in this browser) but stay counted; phone = swipeable carousel with a peek of the next
    card (kit dash-theme .mw-carousel--peek --swipe, .mw-track, .mw-slide, .mw-dots). Date asked comes from decks/asked.json (tools/deck_asked.py).
+   Card info line = bold '<Agent> · asked <Mon D>' (agent from asked.json "agent"), same as Max's Picks.
    Usage: DeckBoard(el,{base:'../',self:'<page url>',apps:[...]}). decks.js (DeckApp) is unchanged and still used by the main board. */
 (function(w){
 const esc=x=>String(x==null?'':x).replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
@@ -27,7 +28,7 @@ const CSS=`.dk *{box-sizing:border-box}.dk{font-family:Hind,system-ui,sans-serif
 .dk .db-card .db-a{position:absolute;inset:0;z-index:0;border-radius:10px}
 .dk .db-card .db-a:focus-visible{outline:2px solid #05668D;outline-offset:2px}
 .dk .db-nm{font:700 18px/1.15 Khand,sans-serif;padding-right:30px;overflow-wrap:anywhere;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden;pointer-events:none}
-.dk .db-info{font-size:13px;line-height:1.35;color:#737373;pointer-events:none}.dk .db-info b{font-weight:600;color:#525252}
+.dk .db-info{font-size:13px;line-height:1.35;color:#737373;pointer-events:none}.dk .db-info b{font-weight:700;color:#404040}
 .dk .db-foot{margin-top:auto;display:flex;align-items:center;gap:8px;min-height:30px;pointer-events:none}
 .dk .ring{width:28px;height:28px;flex:none}.dk .db-cnt{font:700 15px/1 Khand,sans-serif;color:#0B6E4F;letter-spacing:.02em}
 .dk .db-new{margin-left:auto;font:600 12px/1 Khand,sans-serif;letter-spacing:.06em;text-transform:uppercase;color:#C1502E;background:#FAF6EE;border:1px solid #e3ddd2;border-radius:0;padding:3px 6px 2px}
@@ -83,13 +84,16 @@ w.DeckBoard=function(el,o){
   const C=J.categories||[],D=J.decks||[],asked=(A&&A.asked)||A||{};
   const PAL=['#C1502E','#05668D','#0B6E4F','#D4A017'],col={},cname={};C.forEach((c,i)=>{col[c.slug]=PAL[i%4];cname[c.slug]=c.name});
   const askedAt=d=>Date.parse(asked[d.id]||d.requested_at||d.asked||'')||0;
+  /* owning agent (Max's pick 3 'Agent And Date Asked', Oct 17 2026): decks/asked.json "agent" (tools/deck_asked.py), else the entry's own
+     agent/owner/by, else Branding; shown bold as 'Branding · asked Oct 17', the same line Max's Picks uses (category stays as the top colour) */
+  const AG=(A&&A.agent)||{},who=d=>String(AG[d.id]||d.agent||d.owner||d.by||'Branding').replace(/-/g,' ').replace(/\b\w/g,c=>c.toUpperCase()).replace(/^Upkeep$/,'UpKeep').replace(/^Wellnest$/,'WellNest');
   const total=d=>{const n=d.url?0:+(SZ&&SZ[d.id])||0;return n||d.total||d.size||10};
   const draw=()=>{
    const live=D.filter(d=>!finished(d)&&!removedHere(d)).sort((a,b)=>askedAt(b)-askedAt(a)||(a.order||0)-(b.order||0));
    const doneN=D.filter(finished).length;
    const card=d=>{const c=col[d.cat]||'#05668D',n=total(d),a=Math.min(answered(d),n),nw=!LS('ds-opened:'+d.id)&&!a,dt=dateOf(askedAt(d));
     return `<article class="db-card mw-slide mw-hover" style="--c:${c}" data-id="${esc(d.id)}" aria-label="${esc(d.name)}"><a class="db-a" href="${esc(href(d))}" aria-label="Open ${esc(d.name)}, ${a} of ${n} answered"></a>
-     <div class="db-nm">${esc(d.name)}</div><div class="db-info"><b>${esc(cname[d.cat]||String(d.cat||'Deck').replace(/[-_]+/g,' ').replace(/\b\w/g,c=>c.toUpperCase()))}</b>${dt?' · Asked '+dt:''}</div>
+     <div class="db-nm">${esc(d.name)}</div><div class="db-info"><b>${esc(who(d)+(dt?' \u00b7 asked '+dt:''))}</b></div>
      <div class="db-foot">${ring(a,n,'#0B6E4F')}<span class="db-cnt">${a}/${n}</span>${nw?'<span class="db-new">New</span>':''}</div></article>`};
    const nDots=live.length>12?10:live.length,per=Math.ceil(live.length/Math.max(1,nDots));
    const list=live.length?`<div class="db-list mw-carousel mw-carousel--peek mw-carousel--swipe"><div class="mw-track" aria-label="Decks waiting, newest asked first">${live.map(card).join('')}</div>
