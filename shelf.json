@@ -238,6 +238,21 @@
    "name": "Investor Pitch: Story & Style",
    "answered": 9,
    "total": 10
+  },
+  {
+   "id": "mix-upkeep-2026-10-17",
+   "at": "2026-10-17T10:24:19+07:00",
+   "name": "Mixed Deck: Up Keep",
+   "answered": 6,
+   "total": 10,
+   "skipped": [
+    "upkeep-bank-103",
+    "upkeep-bank-112",
+    "upkeep-bank-126",
+    "upkeep-bank-092"
+   ],
+   "status": "Results In",
+   "note": "Submitted as deck 'mix' (inbox/branding/mix-20261017-1024-482abfc0.json). Picks applied via follow-on Mixed Deck: Up Keep, Round Two (skips re-asked); done[] record added Oct 17 20:35 ICT."
   }
  ],
  "pinned": [
