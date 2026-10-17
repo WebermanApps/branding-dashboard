@@ -37,9 +37,69 @@
     "why": "5-deck cap: 2 pinned (Security Duties, Security Dashboard Setup) + 3 regular; returns when a pin clears",
     "order": 2
    }
+  },
+  {
+   "id": "variety-color-deck",
+   "name": "Color Deck",
+   "url": "https://webermanapps.github.io/style-swipe/variety-color-deck-ymicof/",
+   "total": 10,
+   "topic": "variety",
+   "added": "2026-10-17T09:50:48+07:00",
+   "tag": "Color",
+   "blurb": "10 cards, ready now"
+  },
+  {
+   "id": "variety-swipe-controls-deck",
+   "name": "Swipe Controls Deck",
+   "url": "https://webermanapps.github.io/style-swipe/variety-swipe-controls-deck-pbon5n/",
+   "total": 10,
+   "topic": "variety",
+   "added": "2026-10-17T09:51:02+07:00",
+   "tag": "Swipe Controls",
+   "blurb": "10 cards, ready now"
+  },
+  {
+   "id": "variety-type-deck",
+   "name": "Type Deck",
+   "url": "https://webermanapps.github.io/style-swipe/variety-type-deck-uda6u0/",
+   "total": 10,
+   "topic": "variety",
+   "added": "2026-10-17T09:51:17+07:00",
+   "tag": "Type",
+   "blurb": "10 cards, ready now"
+  },
+  {
+   "id": "variety-swipe-controls-deck-deck-progress",
+   "name": "Swipe Progress Deck",
+   "url": "https://webermanapps.github.io/style-swipe/variety-swipe-controls-deck-deck-progress-ywq8je/",
+   "total": 10,
+   "topic": "variety",
+   "added": "2026-10-17T09:51:31+07:00",
+   "tag": "Swipe Controls",
+   "blurb": "10 cards, ready now"
+  },
+  {
+   "id": "variety-swipe-controls-deck-end-screen",
+   "name": "End Screen Deck",
+   "url": "https://webermanapps.github.io/style-swipe/variety-swipe-controls-deck-end-screen-el9ex3/",
+   "total": 10,
+   "topic": "variety",
+   "added": "2026-10-17T09:51:46+07:00",
+   "tag": "Swipe Controls",
+   "blurb": "10 cards, ready now"
+  },
+  {
+   "id": "variety-type-and-color-deck",
+   "name": "Type And Color Deck",
+   "url": "https://webermanapps.github.io/style-swipe/variety-type-and-color-deck-rdncfl/",
+   "total": 10,
+   "topic": "variety",
+   "added": "2026-10-17T09:52:00+07:00",
+   "tag": "Type",
+   "blurb": "10 cards, ready now"
   }
  ],
- "updated": "2026-10-17T09:39:02+07:00",
+ "updated": "2026-10-17T09:55:08+07:00",
  "done": [
   {
    "id": "up-next-deck",
@@ -95,6 +155,27 @@
    "status": "Results In",
    "done_at": "2026-10-17T09:39:02+07:00",
    "url": "https://webermanapps.github.io/style-swipe/team-improvement-fq2hng/"
+  },
+  {
+   "id": "upkeep-technician-page-deck-van-inventory-job-card",
+   "at": "2026-10-17T09:12:13+07:00",
+   "name": "Technician Page: Van Inventory & Job Card",
+   "answered": 10,
+   "total": 10
+  },
+  {
+   "id": "upkeep-customer-profile-page-deck-home-record",
+   "at": "2026-10-17T09:06:30+07:00",
+   "name": "Customer Profile: Home Record & Booking",
+   "answered": 10,
+   "total": 10
+  },
+  {
+   "id": "inbox-keep-or-delete-deck",
+   "at": "2026-10-16T16:39:43+07:00",
+   "name": "Inbox Keep-or-Delete Deck",
+   "answered": 19,
+   "total": 19
   }
  ],
  "pinned": [
@@ -284,26 +365,28 @@
    "name": "Technician Page: Van Inventory & Job Card",
    "url": "https://webermanapps.github.io/style-swipe/upkeep-technician-page-deck-van-inventory-job-card-n50vua/",
    "total": 10,
-   "answered": 0,
+   "answered": 10,
    "tag": "Max Asked",
-   "status": "open",
+   "status": "done",
    "added": "2026-10-17T08:05:35+07:00",
    "note": "UpKeep, requested by Max Oct 16",
    "split_from": "upkeep-technician-page-deck",
-   "blurb": "10 cards, ready now"
+   "blurb": "10 cards, ready now",
+   "done_at": "2026-10-17T09:12:13+07:00"
   },
   {
    "id": "upkeep-customer-profile-page-deck-home-record",
    "name": "Customer Profile: Home Record & Booking",
    "url": "https://webermanapps.github.io/style-swipe/upkeep-customer-profile-page-deck-home-record-3e29o1/",
    "total": 10,
-   "answered": 0,
+   "answered": 10,
    "tag": "Max Asked",
-   "status": "open",
+   "status": "done",
    "added": "2026-10-17T08:05:35+07:00",
    "note": "UpKeep, requested by Max Oct 16",
    "split_from": "upkeep-customer-profile-page-deck",
-   "blurb": "10 cards, ready now"
+   "blurb": "10 cards, ready now",
+   "done_at": "2026-10-17T09:06:30+07:00"
   },
   {
    "id": "upkeep-customer-profile-page-deck-visit-history-photos",
@@ -322,11 +405,12 @@
    "name": "Inbox Keep-or-Delete Deck",
    "url": "https://webermanapps.github.io/style-swipe/inbox-keep-or-delete-k7d2q9/",
    "total": 19,
-   "answered": 0,
+   "answered": 19,
    "tag": "Max Asked",
    "note": "Requested (Max via Email Sorting, Oct 16 2026); results go to Email Sorting",
    "id": "inbox-keep-or-delete-deck",
-   "status": "open"
+   "status": "done",
+   "done_at": "2026-10-16T16:39:43+07:00"
   },
   {
    "id": "upkeep-investor-pitch-deck-numbers-market-deck",
