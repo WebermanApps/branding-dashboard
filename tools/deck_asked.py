@@ -2,7 +2,7 @@
 """deck_asked.py [--style-swipe DIR]  (Branding, Oct 17 2026)
 Writes decks/asked.json = {"updated", "asked": {deck id: ISO time the deck was asked/built}, "agent": {deck id: owning agent}}
 for the main deck board (decks/index.html + decks/board.js, bold 'Branding · asked Oct 17' line, same as Max's Picks, and newest-asked-first order).
-Agent per entry: agent / owner / by on the entry, else the style-swipe deck JSON submit_agent, else the category when it is an agent
+Agent per entry: agent / owner / by on the entry (e.g. video-v2 = video-photo -> 'Video & Photo'), else the style-swipe deck JSON submit_agent, else the category when it is an agent
 (UpKeep, WellNest, Prop, ...), else Branding (Branding builds the Dashboards / Daily / Variety / Jokes / Jane Amex decks).
 Source per decks.json entry: requested_at / asked on the entry, else the style-swipe deck JSON generated_at (deck id, or the
 page slug from decks/pages.json), else the time this entry first appeared in decks.json (git log). Re-run after decks.json changes."""
@@ -21,7 +21,7 @@ def deck_json(i):
     return {}
 def gen(i): return deck_json(i).get("generated_at")
 AGENT_CATS = {"upkeep", "prop", "construction", "scout", "wellnest", "blueprint", "thai", "blog", "portfolio", "japan-cottage", "miles", "security"}
-NAMES = {"upkeep": "UpKeep", "wellnest": "WellNest", "grok-bot": "Grok Bot", "japan-cottage": "Japan Cottage", "branding": "Branding"}
+NAMES = {"upkeep": "UpKeep", "wellnest": "WellNest", "grok-bot": "Grok Bot", "japan-cottage": "Japan Cottage", "branding": "Branding", "video-photo": "Video & Photo"}
 CATNAME = {c["slug"]: c["name"] for c in D.get("categories", [])}
 def nice(x):
     k = str(x).strip().lower().replace(" ", "-")

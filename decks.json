@@ -710,6 +710,7 @@
   },
   {
    "id": "video-v2",
+   "agent": "video-photo",
    "name": "Video V.2",
    "about": "26 pairs for the explainer video",
    "status": "wait",
