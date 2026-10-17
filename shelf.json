@@ -99,7 +99,7 @@
    "blurb": "10 cards, ready now"
   }
  ],
- "updated": "2026-10-17T21:47:01+07:00",
+ "updated": "2026-10-17T21:57:47+07:00",
  "done": [
   {
    "id": "up-next-deck",
@@ -287,6 +287,13 @@
    "name": "What We Take Care Of: Compact Polish",
    "answered": 9,
    "total": 10
+  },
+  {
+   "id": "upkeep-company-dashboard-deck",
+   "at": "2026-10-17T21:57:47+07:00",
+   "name": "Company Dashboard Hub Deck",
+   "answered": 14,
+   "total": 14
   }
  ],
  "pinned": [
@@ -360,19 +367,6 @@
    "note": "Max 21:28 ICT: keep the section size, make it look fresher, add a clickable more-info feature. Replaces Compact Polish (submitted 21:32); A = his picks applied, Air & Safety colour re-asked first"
   },
   {
-   "id": "upkeep-company-dashboard-deck",
-   "name": "Company Dashboard Hub Deck",
-   "url": "https://webermanapps.github.io/style-swipe/upkeep-company-dashboard-8o7dld/",
-   "total": 14,
-   "answered": 0,
-   "tag": "Max's Picks",
-   "status": "open",
-   "requested_at": "2026-10-17T21:11:00+07:00",
-   "added": "2026-10-17T21:22:48+07:00",
-   "note": "Requested by Max 21:11 ICT; reworked 21:17 ICT as a hub with section dashboards; 21:23-21:24 ICT +4 Org Chart picks, 14 picks (UpKeep)",
-   "updated": "2026-10-17T21:41:14+07:00"
-  },
-  {
    "id": "team-improvement-deck-round-four",
    "name": "Team Improvement Deck",
    "url": "https://webermanapps.github.io/style-swipe/team-improvement-6908cr/",
@@ -398,6 +392,20 @@
    "requested_at": "2026-10-17T21:06:12+07:00",
    "added": "2026-10-17T21:06:12+07:00",
    "note": "Max asked Oct 17 2026: replacement for the Main Deck Board Layout Deck (submitted 20:47 ICT, 9/10); polish details on the applied main deck board (R83 lifted for this deck)"
+  },
+  {
+   "id": "upkeep-company-dashboard-deck",
+   "name": "Company Dashboard Hub Deck",
+   "url": "https://webermanapps.github.io/style-swipe/upkeep-company-dashboard-8o7dld/",
+   "total": 14,
+   "answered": 14,
+   "tag": "Max's Picks",
+   "status": "done",
+   "requested_at": "2026-10-17T21:11:00+07:00",
+   "added": "2026-10-17T21:22:48+07:00",
+   "note": "Requested by Max 21:11 ICT; reworked 21:17 ICT as a hub with section dashboards; 21:23-21:24 ICT +4 Org Chart picks, 14 picks (UpKeep)",
+   "updated": "2026-10-17T21:41:14+07:00",
+   "done_at": "2026-10-17T21:57:47+07:00"
   },
   {
    "id": "upkeep-what-we-take-care-of-compact-polish-deck",
