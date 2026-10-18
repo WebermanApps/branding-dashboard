@@ -99,7 +99,7 @@
    "blurb": "10 cards, ready now"
   }
  ],
- "updated": "2026-10-18T03:42:16+07:00",
+ "updated": "2026-10-18T09:46:01+07:00",
  "done": [
   {
    "id": "up-next-deck",
@@ -301,6 +301,27 @@
    "name": "What We Take Care Of: Fresh Look And More Info",
    "answered": 7,
    "total": 8
+  },
+  {
+   "id": "upkeep-what-we-take-care-of-card-colors-and-finish-deck",
+   "at": "2026-10-18T09:46:01+07:00",
+   "name": "What We Take Care Of: Card Colors And Finish",
+   "answered": 9,
+   "total": 10
+  },
+  {
+   "id": "upkeep-extras-ideas-deck",
+   "at": "2026-10-18T09:46:01+07:00",
+   "name": "Extras Ideas Deck",
+   "answered": 10,
+   "total": 10
+  },
+  {
+   "id": "upkeep-operator-console-alerts-and-test-data-deck",
+   "at": "2026-10-18T09:46:01+07:00",
+   "name": "Operator Console: Alerts And Test Data",
+   "answered": 10,
+   "total": 10
   }
  ],
  "pinned": [
@@ -590,19 +611,6 @@
    "note": "Replaces the submitted Company Dashboard Hub Deck (21:49 ICT); next Operator Dash picks, A = live hub, B = one change (UpKeep)"
   },
   {
-   "id": "upkeep-what-we-take-care-of-card-colors-and-finish-deck",
-   "name": "What We Take Care Of: Card Colors And Finish",
-   "url": "https://webermanapps.github.io/style-swipe/what-we-take-care-of-card-colors-and-finish-lyo47y/",
-   "total": 10,
-   "answered": 0,
-   "tag": "Max's Picks",
-   "status": "open",
-   "requested_at": "2026-10-17T22:09:00+07:00",
-   "added": "2026-10-17T22:16:46+07:00",
-   "note": "Replaces the submitted Fresh Look And More Info (21:58 ICT): every card its own colour, card face, colour strength, icon style, shadow, See All style, header, chip style, section background, slide dots. A = all settled picks applied. style-swipe 145f45d; topped up to 10 picks (R86) in 7a88883",
-   "new": true
-  },
-  {
    "id": "mixed-upkeep-follow-up-lists-crew-and-lawn-deck",
    "name": "Mixed UpKeep Follow-Up: Lists, Crew And Lawn Add-On",
    "url": "https://webermanapps.github.io/style-swipe/mixed-upkeep-follow-up-dkayzq/",
@@ -651,18 +659,6 @@
    "note": "UpKeep full review (Max 21:43 ICT): 10 cards: site trust, launch dates and sign-up path; results go to UpKeep; style-swipe a2a5860"
   },
   {
-   "id": "upkeep-operator-console-alerts-and-test-data-deck",
-   "name": "Operator Console: Alerts And Test Data",
-   "url": "https://webermanapps.github.io/style-swipe/operator-console-alerts-and-test-data-3ocg7p/",
-   "total": 10,
-   "answered": 0,
-   "tag": "Max's Picks",
-   "status": "open",
-   "requested_at": "2026-10-17T21:43:00+07:00",
-   "added": "2026-10-17T22:18:43+07:00",
-   "note": "UpKeep full review (Max 21:43 ICT): 10 cards: console alerts, test data and launch view; results go to UpKeep; style-swipe a2a5860"
-  },
-  {
    "id": "upkeep-member-app-account-and-empty-states-deck",
    "name": "Member App: Account And Empty States",
    "url": "https://webermanapps.github.io/style-swipe/member-app-account-and-empty-states-3r03cq/",
@@ -673,18 +669,6 @@
    "requested_at": "2026-10-17T21:43:00+07:00",
    "added": "2026-10-17T22:18:43+07:00",
    "note": "UpKeep full review (Max 21:43 ICT): 10 cards: account menu, first month and problem states; results go to UpKeep; style-swipe a2a5860"
-  },
-  {
-   "id": "upkeep-extras-ideas-deck",
-   "name": "Extras Ideas Deck",
-   "url": "https://webermanapps.github.io/style-swipe/extras-ideas-c1uki2/",
-   "total": 10,
-   "answered": 0,
-   "tag": "Max's Picks",
-   "status": "open",
-   "requested_at": "2026-10-17T21:43:00+07:00",
-   "added": "2026-10-17T22:18:43+07:00",
-   "note": "UpKeep full review (Max 21:43 ICT): 10 cards: new add-on ideas for the Extras list; results go to UpKeep; style-swipe a2a5860; Max 22:11 ICT rule: new add-ons for the Extras list"
   },
   {
    "id": "team-improvement-deck-round-four",
@@ -712,6 +696,49 @@
    "requested_at": "2026-10-17T21:06:12+07:00",
    "added": "2026-10-17T21:06:12+07:00",
    "note": "Max asked Oct 17 2026: replacement for the Main Deck Board Layout Deck (submitted 20:47 ICT, 9/10); polish details on the applied main deck board (R83 lifted for this deck)"
+  },
+  {
+   "id": "upkeep-what-we-take-care-of-card-colors-and-finish-deck",
+   "name": "What We Take Care Of: Card Colors And Finish",
+   "url": "https://webermanapps.github.io/style-swipe/what-we-take-care-of-card-colors-and-finish-lyo47y/",
+   "total": 10,
+   "answered": 9,
+   "tag": "Max's Picks",
+   "status": "done",
+   "requested_at": "2026-10-17T22:09:00+07:00",
+   "added": "2026-10-17T22:16:46+07:00",
+   "note": "Replaces the submitted Fresh Look And More Info (21:58 ICT): every card its own colour, card face, colour strength, icon style, shadow, See All style, header, chip style, section background, slide dots. A = all settled picks applied. style-swipe 145f45d; topped up to 10 picks (R86) in 7a88883",
+   "new": true,
+   "done_at": "2026-10-18T09:46:01+07:00",
+   "skipped": [
+    "07"
+   ]
+  },
+  {
+   "id": "upkeep-operator-console-alerts-and-test-data-deck",
+   "name": "Operator Console: Alerts And Test Data",
+   "url": "https://webermanapps.github.io/style-swipe/operator-console-alerts-and-test-data-3ocg7p/",
+   "total": 10,
+   "answered": 10,
+   "tag": "Max's Picks",
+   "status": "done",
+   "requested_at": "2026-10-17T21:43:00+07:00",
+   "added": "2026-10-17T22:18:43+07:00",
+   "note": "UpKeep full review (Max 21:43 ICT): 10 cards: console alerts, test data and launch view; results go to UpKeep; style-swipe a2a5860",
+   "done_at": "2026-10-18T09:46:01+07:00"
+  },
+  {
+   "id": "upkeep-extras-ideas-deck",
+   "name": "Extras Ideas Deck",
+   "url": "https://webermanapps.github.io/style-swipe/extras-ideas-c1uki2/",
+   "total": 10,
+   "answered": 10,
+   "tag": "Max's Picks",
+   "status": "done",
+   "requested_at": "2026-10-17T21:43:00+07:00",
+   "added": "2026-10-17T22:18:43+07:00",
+   "note": "UpKeep full review (Max 21:43 ICT): 10 cards: new add-on ideas for the Extras list; results go to UpKeep; style-swipe a2a5860; Max 22:11 ICT rule: new add-ons for the Extras list",
+   "done_at": "2026-10-18T09:46:01+07:00"
   },
   {
    "id": "upkeep-what-we-take-care-of-fresh-look-and-more-info-deck",
