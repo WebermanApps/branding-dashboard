@@ -86,7 +86,10 @@
    "topic": "variety",
    "added": "2026-10-17T09:51:46+07:00",
    "tag": "Swipe Controls",
-   "blurb": "10 cards, ready now"
+   "blurb": "10 cards, ready now",
+   "status": "done",
+   "done_at": "2026-10-18T22:14:27+07:00",
+   "answered": 10
   },
   {
    "id": "variety-type-and-color-deck",
@@ -99,7 +102,7 @@
    "blurb": "10 cards, ready now"
   }
  ],
- "updated": "2026-10-18T22:17:28+07:00",
+ "updated": "2026-10-18T23:10:23+07:00",
  "done": [
   {
    "id": "up-next-deck",
@@ -329,6 +332,27 @@
    "name": "Member App: Account And Empty States",
    "answered": 10,
    "total": 10
+  },
+  {
+   "id": "variety-swipe-controls-deck-end-screen",
+   "at": "2026-10-18T22:14:27+07:00",
+   "name": "End Screen Deck",
+   "answered": 10,
+   "total": 10
+  },
+  {
+   "id": "machan-look-and-personality-deck",
+   "at": "2026-10-18T22:54:56+07:00",
+   "name": "Machan: Look And Personality",
+   "answered": 10,
+   "total": 10
+  },
+  {
+   "id": "machan-origin-story-deck",
+   "at": "2026-10-18T22:57:47+07:00",
+   "name": "Machan: Origin Story",
+   "answered": 10,
+   "total": 10
   }
  ],
  "pinned": [
@@ -353,30 +377,6 @@
  "queued": [],
  "queued_note": "Held back by the 5-deck cap (pinned + decks <= 5). Requested decks never count toward the cap and never show in the header shelf.",
  "requested": [
-  {
-   "id": "machan-look-and-personality-deck",
-   "name": "Machan: Look And Personality",
-   "url": "https://webermanapps.github.io/style-swipe/machan-look-personality-jywdl8/",
-   "total": 10,
-   "answered": 0,
-   "tag": "Max's Picks",
-   "status": "open",
-   "requested_at": "2026-10-18T22:04:00+07:00",
-   "added": "2026-10-18T22:17:28+07:00",
-   "note": "Max asked Oct 18 2026 22:04 ICT: swipes on Machan and the origin story; results go to Branding, picks logged only"
-  },
-  {
-   "id": "machan-origin-story-deck",
-   "name": "Machan: Origin Story",
-   "url": "https://webermanapps.github.io/style-swipe/machan-origin-story-oimiuf/",
-   "total": 10,
-   "answered": 0,
-   "tag": "Max's Picks",
-   "status": "open",
-   "requested_at": "2026-10-18T22:04:00+07:00",
-   "added": "2026-10-18T22:17:28+07:00",
-   "note": "Max asked Oct 18 2026 22:04 ICT: swipes on Machan and the origin story; results go to Branding, picks logged only"
-  },
   {
    "id": "upkeep-tech-app-walkthrough-full-list-and-step-screens-deck",
    "name": "Tech App Walkthrough: Full List And Step Screens",
@@ -715,6 +715,32 @@
    "requested_at": "2026-10-17T21:06:12+07:00",
    "added": "2026-10-17T21:06:12+07:00",
    "note": "Max asked Oct 17 2026: replacement for the Main Deck Board Layout Deck (submitted 20:47 ICT, 9/10); polish details on the applied main deck board (R83 lifted for this deck)"
+  },
+  {
+   "id": "machan-origin-story-deck",
+   "name": "Machan: Origin Story",
+   "url": "https://webermanapps.github.io/style-swipe/machan-origin-story-oimiuf/",
+   "total": 10,
+   "answered": 10,
+   "tag": "Max's Picks",
+   "status": "done",
+   "requested_at": "2026-10-18T22:04:00+07:00",
+   "added": "2026-10-18T22:17:28+07:00",
+   "note": "Max asked Oct 18 2026 22:04 ICT: swipes on Machan and the origin story; results go to Branding, picks logged only",
+   "done_at": "2026-10-18T22:57:47+07:00"
+  },
+  {
+   "id": "machan-look-and-personality-deck",
+   "name": "Machan: Look And Personality",
+   "url": "https://webermanapps.github.io/style-swipe/machan-look-personality-jywdl8/",
+   "total": 10,
+   "answered": 10,
+   "tag": "Max's Picks",
+   "status": "done",
+   "requested_at": "2026-10-18T22:04:00+07:00",
+   "added": "2026-10-18T22:17:28+07:00",
+   "note": "Max asked Oct 18 2026 22:04 ICT: swipes on Machan and the origin story; results go to Branding, picks logged only",
+   "done_at": "2026-10-18T22:54:56+07:00"
   },
   {
    "id": "upkeep-what-we-take-care-of-card-colors-and-finish-deck",
