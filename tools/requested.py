@@ -18,6 +18,24 @@ this board (board id 'branding-djqmb410#picks') and made permanent by style-swip
 requested_removed[] (status 'removed', never done[], so it never counts as completed)."""
 import json, sys, os, datetime as dt
 a = sys.argv[1:]
+# Strict args (Security fix, Oct 18 2026): -h/--help prints usage (exit 0); an unknown command, flag, missing flag value or extra
+# argument prints usage and exits 2 BEFORE shelf.json is read or written.
+_VAL = {"add": {"--id", "--name", "--url", "--total", "--note", "--requested-at", "--shelf"},
+        "done": {"--answered", "--skipped", "--shelf"}, "clear": {"--shelf"}, "sort": {"--shelf"}, "list": {"--shelf"}}
+_POS = {"add": 1, "done": 2, "clear": 2, "sort": 1, "list": 1}
+def _bad(msg): print(msg, file=sys.stderr); print(__doc__, file=sys.stderr); sys.exit(2)
+if any(x in ("-h", "--help") for x in a): print(__doc__); sys.exit(0)
+_pos, _flags, _i = [], [], 0
+while _i < len(a):
+    if a[_i].startswith("-"):
+        if _i + 1 >= len(a): _bad(f"{a[_i]} needs a value")
+        _flags.append(a[_i]); _i += 2
+    else: _pos.append(a[_i]); _i += 1
+_cmd = _pos[0] if _pos else None
+if _cmd is not None and _cmd not in _POS: _bad(f"unknown command: {_cmd}")
+for _f in _flags:
+    if _f not in _VAL.get(_cmd, {"--shelf"}): _bad(f"unknown flag for {_cmd or 'requested.py'}: {_f}")
+if _cmd and len(_pos) != _POS[_cmd]: _bad(f"{_cmd}: wrong number of arguments")
 def opt(k, d=None):
     if k in a: i = a.index(k); v = a[i + 1]; del a[i:i + 2]; return v
     return d
