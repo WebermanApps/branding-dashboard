@@ -102,7 +102,7 @@
    "blurb": "10 cards, ready now"
   }
  ],
- "updated": "2026-10-18T23:10:23+07:00",
+ "updated": "2026-10-18T23:14:59+07:00",
  "done": [
   {
    "id": "up-next-deck",
@@ -544,18 +544,6 @@
    "requested_at": "2026-10-18T03:11:00+07:00",
    "added": "2026-10-18T03:42:15+07:00",
    "note": "Max's morning decks request (Oct 18 2026, from the Oct 17 daily work report); results go to Research"
-  },
-  {
-   "id": "wellnest-new-tea-ideas-deck",
-   "name": "WellNest Teas: New Blend Ideas",
-   "url": "https://webermanapps.github.io/style-swipe/wellnest-new-tea-ideas-nhjd11/",
-   "total": 10,
-   "answered": 0,
-   "tag": "Max's Picks",
-   "status": "open",
-   "requested_at": "2026-10-18T03:11:00+07:00",
-   "added": "2026-10-18T03:42:15+07:00",
-   "note": "Max's morning decks request (Oct 18 2026, from the Oct 17 daily work report); results go to WellNest"
   },
   {
    "id": "upkeep-member-profile-all-good-sign-and-problems-deck",
@@ -1415,6 +1403,21 @@
    "requested_at": "2026-10-16T21:27:00+07:00",
    "requested_at_src": "note: Max asked Oct 16 21:27 ICT",
    "removed_at": "2026-10-17T19:58:02+07:00",
+   "removed_from": "requested",
+   "board": "branding-djqmb410#picks"
+  },
+  {
+   "id": "wellnest-new-tea-ideas-deck",
+   "name": "WellNest Teas: New Blend Ideas",
+   "url": "https://webermanapps.github.io/style-swipe/wellnest-new-tea-ideas-nhjd11/",
+   "total": 10,
+   "answered": 0,
+   "tag": "Max's Picks",
+   "status": "removed",
+   "requested_at": "2026-10-18T03:11:00+07:00",
+   "added": "2026-10-18T03:42:15+07:00",
+   "note": "Max's morning decks request (Oct 18 2026, from the Oct 17 daily work report); results go to WellNest",
+   "removed_at": "2026-10-18T23:14:59+07:00",
    "removed_from": "requested",
    "board": "branding-djqmb410#picks"
   }
