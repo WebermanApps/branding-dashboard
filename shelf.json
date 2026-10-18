@@ -99,7 +99,7 @@
    "blurb": "10 cards, ready now"
   }
  ],
- "updated": "2026-10-18T09:46:01+07:00",
+ "updated": "2026-10-18T09:56:54+07:00",
  "done": [
   {
    "id": "up-next-deck",
@@ -320,6 +320,13 @@
    "id": "upkeep-operator-console-alerts-and-test-data-deck",
    "at": "2026-10-18T09:46:01+07:00",
    "name": "Operator Console: Alerts And Test Data",
+   "answered": 10,
+   "total": 10
+  },
+  {
+   "id": "upkeep-member-app-account-and-empty-states-deck",
+   "at": "2026-10-18T09:56:54+07:00",
+   "name": "Member App: Account And Empty States",
    "answered": 10,
    "total": 10
   }
@@ -659,18 +666,6 @@
    "note": "UpKeep full review (Max 21:43 ICT): 10 cards: site trust, launch dates and sign-up path; results go to UpKeep; style-swipe a2a5860"
   },
   {
-   "id": "upkeep-member-app-account-and-empty-states-deck",
-   "name": "Member App: Account And Empty States",
-   "url": "https://webermanapps.github.io/style-swipe/member-app-account-and-empty-states-3r03cq/",
-   "total": 10,
-   "answered": 0,
-   "tag": "Max's Picks",
-   "status": "open",
-   "requested_at": "2026-10-17T21:43:00+07:00",
-   "added": "2026-10-17T22:18:43+07:00",
-   "note": "UpKeep full review (Max 21:43 ICT): 10 cards: account menu, first month and problem states; results go to UpKeep; style-swipe a2a5860"
-  },
-  {
    "id": "team-improvement-deck-round-four",
    "name": "Team Improvement Deck",
    "url": "https://webermanapps.github.io/style-swipe/team-improvement-6908cr/",
@@ -713,6 +708,19 @@
    "skipped": [
     "07"
    ]
+  },
+  {
+   "id": "upkeep-member-app-account-and-empty-states-deck",
+   "name": "Member App: Account And Empty States",
+   "url": "https://webermanapps.github.io/style-swipe/member-app-account-and-empty-states-3r03cq/",
+   "total": 10,
+   "answered": 10,
+   "tag": "Max's Picks",
+   "status": "done",
+   "requested_at": "2026-10-17T21:43:00+07:00",
+   "added": "2026-10-17T22:18:43+07:00",
+   "note": "UpKeep full review (Max 21:43 ICT): 10 cards: account menu, first month and problem states; results go to UpKeep; style-swipe a2a5860",
+   "done_at": "2026-10-18T09:56:54+07:00"
   },
   {
    "id": "upkeep-operator-console-alerts-and-test-data-deck",
