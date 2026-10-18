@@ -99,7 +99,7 @@
    "blurb": "10 cards, ready now"
   }
  ],
- "updated": "2026-10-18T09:56:54+07:00",
+ "updated": "2026-10-18T22:17:28+07:00",
  "done": [
   {
    "id": "up-next-deck",
@@ -353,6 +353,30 @@
  "queued": [],
  "queued_note": "Held back by the 5-deck cap (pinned + decks <= 5). Requested decks never count toward the cap and never show in the header shelf.",
  "requested": [
+  {
+   "id": "machan-look-and-personality-deck",
+   "name": "Machan: Look And Personality",
+   "url": "https://webermanapps.github.io/style-swipe/machan-look-personality-jywdl8/",
+   "total": 10,
+   "answered": 0,
+   "tag": "Max's Picks",
+   "status": "open",
+   "requested_at": "2026-10-18T22:04:00+07:00",
+   "added": "2026-10-18T22:17:28+07:00",
+   "note": "Max asked Oct 18 2026 22:04 ICT: swipes on Machan and the origin story; results go to Branding, picks logged only"
+  },
+  {
+   "id": "machan-origin-story-deck",
+   "name": "Machan: Origin Story",
+   "url": "https://webermanapps.github.io/style-swipe/machan-origin-story-oimiuf/",
+   "total": 10,
+   "answered": 0,
+   "tag": "Max's Picks",
+   "status": "open",
+   "requested_at": "2026-10-18T22:04:00+07:00",
+   "added": "2026-10-18T22:17:28+07:00",
+   "note": "Max asked Oct 18 2026 22:04 ICT: swipes on Machan and the origin story; results go to Branding, picks logged only"
+  },
   {
    "id": "upkeep-tech-app-walkthrough-full-list-and-step-screens-deck",
    "name": "Tech App Walkthrough: Full List And Step Screens",
