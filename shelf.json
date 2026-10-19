@@ -102,7 +102,7 @@
    "blurb": "10 cards, ready now"
   }
  ],
- "updated": "2026-10-18T23:14:59+07:00",
+ "updated": "2026-10-19T11:34:53+07:00",
  "done": [
   {
    "id": "up-next-deck",
@@ -377,6 +377,18 @@
  "queued": [],
  "queued_note": "Held back by the 5-deck cap (pinned + decks <= 5). Requested decks never count toward the cap and never show in the header shelf.",
  "requested": [
+  {
+   "id": "branding-member-catalog-deck",
+   "name": "Member Catalog Deck",
+   "url": "https://webermanapps.github.io/style-swipe/member-catalog-qtmz1l/",
+   "total": 20,
+   "answered": 0,
+   "tag": "Max's Picks",
+   "status": "open",
+   "requested_at": "2026-10-19T11:29:00+07:00",
+   "added": "2026-10-19T11:34:53+07:00",
+   "note": "Max asked Oct 19 2026 11:29 ICT: 20-card this-or-that deck for the Members section of the UpKeep Members Command Center; listed on Branding (no swipe decks on UpKeep boards for now); results go to Branding, picks logged only"
+  },
   {
    "id": "upkeep-tech-app-walkthrough-full-list-and-step-screens-deck",
    "name": "Tech App Walkthrough: Full List And Step Screens",
