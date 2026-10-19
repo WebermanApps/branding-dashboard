@@ -102,7 +102,7 @@
    "blurb": "10 cards, ready now"
   }
  ],
- "updated": "2026-10-19T22:13:20+07:00",
+ "updated": "2026-10-19T22:46:12+07:00",
  "done": [
   {
    "id": "up-next-deck",
@@ -482,6 +482,30 @@
  "queued": [],
  "queued_note": "Held back by the 5-deck cap (pinned + decks <= 5). Requested decks never count toward the cap and never show in the header shelf.",
  "requested": [
+  {
+   "id": "branding-machan-first-post-deck",
+   "name": "Machan First Post Deck",
+   "url": "https://webermanapps.github.io/style-swipe/machan-first-post-deck-qzvkra/",
+   "total": 10,
+   "answered": 0,
+   "tag": "Max's Picks",
+   "status": "open",
+   "requested_at": "2026-10-19T22:32:01+07:00",
+   "added": "2026-10-19T22:46:12+07:00",
+   "note": "Max Oct 19 2026 10:29 PM ICT (priority): the Machan story as Machan's first post on X, ending on his wink. Kept first per Max's priority ask (timestamp set one second after the On X deck so it sorts on top)."
+  },
+  {
+   "id": "branding-machan-on-x-deck",
+   "name": "Machan On X Deck",
+   "url": "https://webermanapps.github.io/style-swipe/machan-on-x-deck-wpfjtn/",
+   "total": 10,
+   "answered": 0,
+   "tag": "Max's Picks",
+   "status": "open",
+   "requested_at": "2026-10-19T22:32:00+07:00",
+   "added": "2026-10-19T22:46:12+07:00",
+   "note": "Max Oct 19 2026 10:32 PM ICT: Machan's voice, catchphrases, bio, pinned intro, banner, avatar and profile details for @Machan10001. Comes right after the First Post deck."
+  },
   {
    "id": "branding-footer-finishing-touches",
    "name": "Footer Finishing Touches",
