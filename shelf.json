@@ -102,7 +102,7 @@
    "blurb": "10 cards, ready now"
   }
  ],
- "updated": "2026-10-19T11:34:53+07:00",
+ "updated": "2026-10-19T11:55:51+07:00",
  "done": [
   {
    "id": "up-next-deck",
@@ -353,6 +353,13 @@
    "name": "Machan: Origin Story",
    "answered": 10,
    "total": 10
+  },
+  {
+   "id": "branding-member-catalog-deck",
+   "at": "2026-10-19T11:48:00+07:00",
+   "name": "Member Catalog Deck",
+   "answered": 19,
+   "total": 20
   }
  ],
  "pinned": [
@@ -378,16 +385,16 @@
  "queued_note": "Held back by the 5-deck cap (pinned + decks <= 5). Requested decks never count toward the cap and never show in the header shelf.",
  "requested": [
   {
-   "id": "branding-member-catalog-deck",
-   "name": "Member Catalog Deck",
-   "url": "https://webermanapps.github.io/style-swipe/member-catalog-qtmz1l/",
+   "id": "branding-member-catalog-deck-two",
+   "name": "Member Catalog Deck Two",
+   "url": "https://webermanapps.github.io/style-swipe/member-catalog-two-c80bww/",
    "total": 20,
    "answered": 0,
    "tag": "Max's Picks",
    "status": "open",
-   "requested_at": "2026-10-19T11:29:00+07:00",
-   "added": "2026-10-19T11:34:53+07:00",
-   "note": "Max asked Oct 19 2026 11:29 ICT: 20-card this-or-that deck for the Members section of the UpKeep Members Command Center; listed on Branding (no swipe decks on UpKeep boards for now); results go to Branding, picks logged only"
+   "requested_at": "2026-10-19T11:48:00+07:00",
+   "added": "2026-10-19T11:55:51+07:00",
+   "note": "Max submitted round one at 11:48 ICT Oct 19 2026 and asked for round two (top priority): 20 pairs refining his winners in one list-detail catalog; Branding board only; results go to Branding, picks logged only"
   },
   {
    "id": "upkeep-tech-app-walkthrough-full-list-and-step-screens-deck",
@@ -715,6 +722,22 @@
    "requested_at": "2026-10-17T21:06:12+07:00",
    "added": "2026-10-17T21:06:12+07:00",
    "note": "Max asked Oct 17 2026: replacement for the Main Deck Board Layout Deck (submitted 20:47 ICT, 9/10); polish details on the applied main deck board (R83 lifted for this deck)"
+  },
+  {
+   "id": "branding-member-catalog-deck",
+   "name": "Member Catalog Deck",
+   "url": "https://webermanapps.github.io/style-swipe/member-catalog-qtmz1l/",
+   "total": 20,
+   "answered": 19,
+   "tag": "Max's Picks",
+   "status": "done",
+   "requested_at": "2026-10-19T11:29:00+07:00",
+   "added": "2026-10-19T11:34:53+07:00",
+   "note": "Max asked Oct 19 2026 11:29 ICT: 20-card this-or-that deck for the Members section of the UpKeep Members Command Center; listed on Branding (no swipe decks on UpKeep boards for now); results go to Branding, picks logged only",
+   "done_at": "2026-10-19T11:48:00+07:00",
+   "skipped": [
+    "03"
+   ]
   },
   {
    "id": "machan-origin-story-deck",
