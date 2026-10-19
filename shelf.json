@@ -102,7 +102,7 @@
    "blurb": "10 cards, ready now"
   }
  ],
- "updated": "2026-10-19T23:17:49+07:00",
+ "updated": "2026-10-19T23:23:44+07:00",
  "done": [
   {
    "id": "up-next-deck",
@@ -541,6 +541,54 @@
    "requested_at": "2026-10-19T22:32:00+07:00",
    "added": "2026-10-19T22:46:12+07:00",
    "note": "Max Oct 19 2026 10:32 PM ICT: Machan's voice (mystery vs storyteller), catchphrases, bio, pinned video, how post two drops, banner, avatar and profile details for @Machan10001. Comes right after the First Post deck."
+  },
+  {
+   "id": "branding-gift-app-setup-deck",
+   "name": "Gift App Setup Deck",
+   "url": "https://webermanapps.github.io/style-swipe/gift-app-setup-deck-36292u/",
+   "total": 10,
+   "answered": 0,
+   "tag": "Max's Picks",
+   "status": "open",
+   "requested_at": "2026-10-19T22:31:59+07:00",
+   "added": "2026-10-19T23:23:44+07:00",
+   "note": "Max Oct 19 2026 ~10:56 PM ICT: input decks for the new public gift app 'giving my gift to the world' (Machan's second post on X); real rendered app-screen mockups with made-up sample data. Placed right after the Machan decks. Setup questions: style, budget, interests, how many, tone."
+  },
+  {
+   "id": "branding-gift-app-rounds-deck",
+   "name": "Gift App Rounds Deck",
+   "url": "https://webermanapps.github.io/style-swipe/gift-app-rounds-deck-ks3ouy/",
+   "total": 10,
+   "answered": 0,
+   "tag": "Max's Picks",
+   "status": "open",
+   "requested_at": "2026-10-19T22:31:58+07:00",
+   "added": "2026-10-19T23:23:44+07:00",
+   "note": "Max Oct 19 2026 ~10:56 PM ICT: input decks for the new public gift app 'giving my gift to the world' (Machan's second post on X); real rendered app-screen mockups with made-up sample data. Placed right after the Machan decks. Round names, progress, transitions, gift card, Love/Both, recaps."
+  },
+  {
+   "id": "branding-gift-app-ending-deck",
+   "name": "Gift App Ending Deck",
+   "url": "https://webermanapps.github.io/style-swipe/gift-app-ending-deck-69cisr/",
+   "total": 10,
+   "answered": 0,
+   "tag": "Max's Picks",
+   "status": "open",
+   "requested_at": "2026-10-19T22:31:57+07:00",
+   "added": "2026-10-19T23:23:44+07:00",
+   "note": "Max Oct 19 2026 ~10:56 PM ICT: input decks for the new public gift app 'giving my gift to the world' (Machan's second post on X); real rendered app-screen mockups with made-up sample data. Placed right after the Machan decks. Round 3 endings head to head, reveal, share, send to self, buy links."
+  },
+  {
+   "id": "branding-gift-app-look-and-name-deck",
+   "name": "Gift App Look And Name Deck",
+   "url": "https://webermanapps.github.io/style-swipe/gift-app-look-and-name-deck-r0ziad/",
+   "total": 10,
+   "answered": 0,
+   "tag": "Max's Picks",
+   "status": "open",
+   "requested_at": "2026-10-19T22:31:56+07:00",
+   "added": "2026-10-19T23:23:44+07:00",
+   "note": "Max Oct 19 2026 ~10:56 PM ICT: input decks for the new public gift app 'giving my gift to the world' (Machan's second post on X); real rendered app-screen mockups with made-up sample data. Placed right after the Machan decks. Name, pitch line, cover, Machan's role and wink, engine hint, Built by Machan footer."
   },
   {
    "id": "branding-footer-finishing-touches",
