@@ -102,7 +102,7 @@
    "blurb": "10 cards, ready now"
   }
  ],
- "updated": "2026-10-19T23:39:46+07:00",
+ "updated": "2026-10-20T01:03:37+07:00",
  "done": [
   {
    "id": "up-next-deck",
@@ -483,40 +483,91 @@
  "queued_note": "Held back by the 5-deck cap (pinned + decks <= 5). Requested decks never count toward the cap and never show in the header shelf.",
  "requested": [
   {
+   "id": "branding-gift-swipe-big-idea-deck",
+   "name": "Gift Swipe Big Idea Deck",
+   "url": "https://webermanapps.github.io/style-swipe/gift-swipe-big-idea-deck-n7q2kd/",
+   "total": 11,
+   "answered": 0,
+   "tag": "Max's Picks",
+   "status": "open",
+   "requested_at": "2026-10-20T01:03:37+07:00",
+   "added": "2026-10-20T01:03:37+07:00",
+   "note": "Nightly Reset Oct 20 2026: from Gift App notes (creative gift from taste, not exact gifts; Swatch reads the picks and builds for the season; Swipe and Type; settings toggles; lore pitch line; free, not selling)."
+  },
+  {
+   "id": "branding-upkeep-status-colours-deck",
+   "name": "UpKeep Status Colours Deck",
+   "url": "https://webermanapps.github.io/style-swipe/upkeep-status-colours-deck-x4m8tw/",
+   "total": 11,
+   "answered": 0,
+   "tag": "Max's Picks",
+   "status": "open",
+   "requested_at": "2026-10-20T01:03:36+07:00",
+   "added": "2026-10-20T01:03:37+07:00",
+   "note": "Nightly Reset Oct 20 2026: from Header Finishing Touches note (drafts/to-do yellow, confirmed green, alerts red) plus its 5 open skips; picks go to UpKeep Develop."
+  },
+  {
+   "id": "branding-three-cultures-deck",
+   "name": "Three Cultures Deck",
+   "url": "https://webermanapps.github.io/style-swipe/three-cultures-deck-r2v9hc/",
+   "total": 11,
+   "answered": 0,
+   "tag": "Max's Picks",
+   "status": "open",
+   "requested_at": "2026-10-20T01:03:35+07:00",
+   "added": "2026-10-20T01:03:37+07:00",
+   "note": "Nightly Reset Oct 20 2026, fun branding: Japan, America and Thai touches in subtle places (Machan First Post note)."
+  },
+  {
+   "id": "branding-machan-story-book-deck",
+   "name": "Machan Story Book Deck",
+   "url": "https://webermanapps.github.io/style-swipe/machan-story-book-deck-h5w3zp/",
+   "total": 11,
+   "answered": 0,
+   "tag": "Max's Picks",
+   "status": "open",
+   "requested_at": "2026-10-20T01:03:34+07:00",
+   "added": "2026-10-20T01:03:37+07:00",
+   "note": "Nightly Reset Oct 20 2026, fun branding: video is the movie, carousel is the book (First Post + Story Page notes); 真工素 moment, pitch-deck arrows redesigned."
+  },
+  {
    "id": "branding-smarter-swipe-engine-deck",
    "name": "Smarter Swipe Engine Deck",
    "url": "https://webermanapps.github.io/style-swipe/smarter-swipe-engine-deck-k7w2pq/",
    "total": 13,
-   "answered": 0,
+   "answered": 11,
    "tag": "Max's Picks",
-   "status": "open",
+   "status": "done",
    "requested_at": "2026-10-19T23:30:00+07:00",
    "added": "2026-10-19T23:39:46+07:00",
-   "note": "Max Oct 19 2026 11:30 PM ICT: make the swipe engine smarter. 10 Swipe Decks engine upgrades + 3 on the Swipe and Type wordmark (Machan's trademark, 11:34/11:37 PM ICT). Top of Max's Picks."
+   "note": "Max Oct 19 2026 11:30 PM ICT: make the swipe engine smarter. 10 Swipe Decks engine upgrades + 3 on the Swipe and Type wordmark (Machan's trademark, 11:34/11:37 PM ICT). Top of Max's Picks.",
+   "done_at": "2026-10-20T00:12:28+07:00"
   },
   {
    "id": "branding-art-taste-deck",
    "name": "Art Taste Deck",
    "url": "https://webermanapps.github.io/style-swipe/art-taste-deck-gtkppm/",
    "total": 20,
-   "answered": 0,
+   "answered": 19,
    "tag": "Max's Picks",
-   "status": "open",
+   "status": "done",
    "requested_at": "2026-10-19T22:58:00+07:00",
    "added": "2026-10-19T23:17:49+07:00",
-   "note": "Max Oct 19 2026 10:58 PM ICT, directly: 'show me a swipe deck with art. lets start to figure out what kind of art i like.' 20 pairs of real artworks (woodblock to street mural), style/era/mood tags for follow-up decks. Top of Max's Picks per his ask."
+   "note": "Max Oct 19 2026 10:58 PM ICT, directly: 'show me a swipe deck with art. lets start to figure out what kind of art i like.' 20 pairs of real artworks (woodblock to street mural), style/era/mood tags for follow-up decks. Top of Max's Picks per his ask.",
+   "done_at": "2026-10-20T00:16:00+07:00"
   },
   {
    "id": "branding-machan-first-post-deck",
    "name": "Machan First Post Deck",
    "url": "https://webermanapps.github.io/style-swipe/machan-first-post-deck-qzvkra/",
    "total": 10,
-   "answered": 0,
+   "answered": 8,
    "tag": "Max's Picks",
-   "status": "open",
+   "status": "done",
    "requested_at": "2026-10-19T22:32:01+07:00",
    "added": "2026-10-19T22:46:12+07:00",
-   "note": "Max Oct 19 2026 10:29 PM ICT (priority); reframed 10:49 PM: post one is a VIDEO introducing Machan, telling his story and ending on his wink. Storyboard-frame mockups. Kept first per Max's priority ask (timestamp set one second after the On X deck so it sorts on top)."
+   "note": "Max Oct 19 2026 10:29 PM ICT (priority); reframed 10:49 PM: post one is a VIDEO introducing Machan, telling his story and ending on his wink. Storyboard-frame mockups. Kept first per Max's priority ask (timestamp set one second after the On X deck so it sorts on top).",
+   "done_at": "2026-10-20T00:22:00+07:00"
   },
   {
    "id": "branding-command-center-layout-deck",
@@ -535,96 +586,104 @@
    "name": "Command Center Tiles Deck",
    "url": "https://webermanapps.github.io/style-swipe/command-center-tiles-deck-iofrih/",
    "total": 10,
-   "answered": 0,
+   "answered": 8,
    "tag": "Max's Picks",
-   "status": "open",
+   "status": "done",
    "requested_at": "2026-10-19T22:32:00.400+07:00",
    "added": "2026-10-19T23:10:36+07:00",
-   "note": "Max Oct 19 2026 10:40 PM ICT: Ethan's UpKeep Command Center redo (Swatch's staged uk12, TEST data). Ten pairs of real uk12 screenshots. Listed right after the Machan First Post Deck as asked (requested_at set just below it on purpose). Tiles: what each tile shows, alerts style, fold-down vs open, open-board link, shine."
+   "note": "Max Oct 19 2026 10:40 PM ICT: Ethan's UpKeep Command Center redo (Swatch's staged uk12, TEST data). Ten pairs of real uk12 screenshots. Listed right after the Machan First Post Deck as asked (requested_at set just below it on purpose). Tiles: what each tile shows, alerts style, fold-down vs open, open-board link, shine.",
+   "done_at": "2026-10-20T00:27:14+07:00"
   },
   {
    "id": "branding-machan-on-x-deck",
    "name": "Machan On X Deck",
    "url": "https://webermanapps.github.io/style-swipe/machan-on-x-deck-wpfjtn/",
    "total": 11,
-   "answered": 0,
+   "answered": 11,
    "tag": "Max's Picks",
-   "status": "open",
+   "status": "done",
    "requested_at": "2026-10-19T22:32:00+07:00",
    "added": "2026-10-19T22:46:12+07:00",
-   "note": "Max Oct 19 2026 10:32 PM ICT: Machan's voice (mystery vs storyteller), catchphrases, bio, pinned video, how post two drops, banner, avatar and profile details for @Machan10001. Comes right after the First Post deck."
+   "note": "Max Oct 19 2026 10:32 PM ICT: Machan's voice (mystery vs storyteller), catchphrases, bio, pinned video, how post two drops, banner, avatar and profile details for @Machan10001. Comes right after the First Post deck.",
+   "done_at": "2026-10-20T00:30:00+07:00"
   },
   {
    "id": "branding-gift-app-setup-deck",
    "name": "Gift App Setup Deck",
    "url": "https://webermanapps.github.io/style-swipe/gift-app-setup-deck-36292u/",
    "total": 10,
-   "answered": 0,
+   "answered": 9,
    "tag": "Max's Picks",
-   "status": "open",
+   "status": "done",
    "requested_at": "2026-10-19T22:31:59+07:00",
    "added": "2026-10-19T23:23:44+07:00",
-   "note": "Max Oct 19 2026 ~10:56 PM ICT: input decks for the new public gift app 'giving my gift to the world' (Machan's second post on X); real rendered app-screen mockups with made-up sample data. Placed right after the Machan decks. Setup questions: style, budget, interests, how many, tone."
+   "note": "Max Oct 19 2026 ~10:56 PM ICT: input decks for the new public gift app 'giving my gift to the world' (Machan's second post on X); real rendered app-screen mockups with made-up sample data. Placed right after the Machan decks. Setup questions: style, budget, interests, how many, tone.",
+   "done_at": "2026-10-20T00:33:59+07:00"
   },
   {
    "id": "branding-gift-app-rounds-deck",
    "name": "Gift App Rounds Deck",
    "url": "https://webermanapps.github.io/style-swipe/gift-app-rounds-deck-ks3ouy/",
    "total": 10,
-   "answered": 0,
+   "answered": 7,
    "tag": "Max's Picks",
-   "status": "open",
+   "status": "done",
    "requested_at": "2026-10-19T22:31:58+07:00",
    "added": "2026-10-19T23:23:44+07:00",
-   "note": "Max Oct 19 2026 ~10:56 PM ICT: input decks for the new public gift app 'giving my gift to the world' (Machan's second post on X); real rendered app-screen mockups with made-up sample data. Placed right after the Machan decks. Round names, progress, transitions, gift card, Love/Both, recaps."
+   "note": "Max Oct 19 2026 ~10:56 PM ICT: input decks for the new public gift app 'giving my gift to the world' (Machan's second post on X); real rendered app-screen mockups with made-up sample data. Placed right after the Machan decks. Round names, progress, transitions, gift card, Love/Both, recaps.",
+   "done_at": "2026-10-20T00:38:00+07:00"
   },
   {
    "id": "branding-gift-app-ending-deck",
    "name": "Gift App Ending Deck",
    "url": "https://webermanapps.github.io/style-swipe/gift-app-ending-deck-69cisr/",
    "total": 10,
-   "answered": 0,
+   "answered": 8,
    "tag": "Max's Picks",
-   "status": "open",
+   "status": "done",
    "requested_at": "2026-10-19T22:31:57+07:00",
    "added": "2026-10-19T23:23:44+07:00",
-   "note": "Max Oct 19 2026 ~10:56 PM ICT: input decks for the new public gift app 'giving my gift to the world' (Machan's second post on X); real rendered app-screen mockups with made-up sample data. Placed right after the Machan decks. Round 3 endings head to head, reveal, share, send to self, buy links."
+   "note": "Max Oct 19 2026 ~10:56 PM ICT: input decks for the new public gift app 'giving my gift to the world' (Machan's second post on X); real rendered app-screen mockups with made-up sample data. Placed right after the Machan decks. Round 3 endings head to head, reveal, share, send to self, buy links.",
+   "done_at": "2026-10-20T00:40:44+07:00"
   },
   {
    "id": "branding-gift-app-look-and-name-deck",
    "name": "Gift App Look And Name Deck",
    "url": "https://webermanapps.github.io/style-swipe/gift-app-look-and-name-deck-r0ziad/",
    "total": 10,
-   "answered": 0,
+   "answered": 8,
    "tag": "Max's Picks",
-   "status": "open",
+   "status": "done",
    "requested_at": "2026-10-19T22:31:56+07:00",
    "added": "2026-10-19T23:23:44+07:00",
-   "note": "Max Oct 19 2026 ~10:56 PM ICT: input decks for the new public gift app 'giving my gift to the world' (Machan's second post on X); real rendered app-screen mockups with made-up sample data. Placed right after the Machan decks. Name, pitch line, cover, Machan's role and wink, engine hint, Built by Machan footer."
+   "note": "Max Oct 19 2026 ~10:56 PM ICT: input decks for the new public gift app 'giving my gift to the world' (Machan's second post on X); real rendered app-screen mockups with made-up sample data. Placed right after the Machan decks. Name, pitch line, cover, Machan's role and wink, engine hint, Built by Machan footer.",
+   "done_at": "2026-10-20T00:44:12+07:00"
   },
   {
    "id": "branding-footer-finishing-touches",
    "name": "Footer Finishing Touches",
    "url": "https://webermanapps.github.io/style-swipe/footer-finishing-touches-729cwx/",
    "total": 10,
-   "answered": 0,
+   "answered": 9,
    "tag": "Max's Picks",
-   "status": "open",
+   "status": "done",
    "requested_at": "2026-10-19T21:45:00+07:00",
    "added": "2026-10-19T22:13:20+07:00",
-   "note": "Follow-up to tonight's picks (Max Oct 19 2026 21:45 ICT): skips asked another way, picks one notch further. New deck style."
+   "note": "Follow-up to tonight's picks (Max Oct 19 2026 21:45 ICT): skips asked another way, picks one notch further. New deck style.",
+   "done_at": "2026-10-20T00:47:21+07:00"
   },
   {
    "id": "branding-header-finishing-touches",
    "name": "Header Finishing Touches",
    "url": "https://webermanapps.github.io/style-swipe/header-finishing-touches-cfdbpi/",
    "total": 10,
-   "answered": 0,
+   "answered": 5,
    "tag": "Max's Picks",
-   "status": "open",
+   "status": "done",
    "requested_at": "2026-10-19T21:45:00+07:00",
    "added": "2026-10-19T22:13:20+07:00",
-   "note": "Follow-up to tonight's picks (Max Oct 19 2026 21:45 ICT): skips asked another way, picks one notch further. New deck style."
+   "note": "Follow-up to tonight's picks (Max Oct 19 2026 21:45 ICT): skips asked another way, picks one notch further. New deck style.",
+   "done_at": "2026-10-20T00:51:11+07:00"
   },
   {
    "id": "branding-scheduling-board-finishing-touches",
@@ -691,24 +750,202 @@
    "name": "Machan Look Polish",
    "url": "https://webermanapps.github.io/style-swipe/machan-look-polish-ouo7qk/",
    "total": 10,
-   "answered": 0,
+   "answered": 6,
    "tag": "Max's Picks",
-   "status": "open",
+   "status": "done",
    "requested_at": "2026-10-19T16:10:00+07:00",
    "added": "2026-10-19T16:24:05+07:00",
-   "note": "Max asked 16:10 ICT Oct 19 2026: fresh 10-pair deck on a topic he swiped; next level after Machan Look Refinements (picks and notes), no decided pair repeated; results go to Branding, picks logged only"
+   "note": "Max asked 16:10 ICT Oct 19 2026: fresh 10-pair deck on a topic he swiped; next level after Machan Look Refinements (picks and notes), no decided pair repeated; results go to Branding, picks logged only",
+   "done_at": "2026-10-19T23:18:00+07:00"
   },
   {
    "id": "machan-story-page",
    "name": "Machan Story Page",
    "url": "https://webermanapps.github.io/style-swipe/machan-story-page-bvrczz/",
    "total": 10,
-   "answered": 0,
+   "answered": 7,
    "tag": "Max's Picks",
-   "status": "open",
+   "status": "done",
    "requested_at": "2026-10-19T16:10:00+07:00",
    "added": "2026-10-19T16:24:05+07:00",
-   "note": "Max asked 16:10 ICT Oct 19 2026: fresh 10-pair deck on a topic he swiped; next level after Machan Origin Story Refinements (picks and notes), no decided pair repeated; results go to Branding, picks logged only"
+   "note": "Max asked 16:10 ICT Oct 19 2026: fresh 10-pair deck on a topic he swiped; next level after Machan Origin Story Refinements (picks and notes), no decided pair repeated; results go to Branding, picks logged only",
+   "done_at": "2026-10-19T23:22:49+07:00"
+  },
+  {
+   "id": "branding-footer-fine-tuning",
+   "name": "Footer Fine Tuning",
+   "url": "https://webermanapps.github.io/style-swipe/footer-fine-tuning-xaiifi/",
+   "total": 10,
+   "answered": 6,
+   "tag": "Max's Picks",
+   "status": "done",
+   "requested_at": "2026-10-19T16:10:00+07:00",
+   "added": "2026-10-19T16:24:05+07:00",
+   "note": "Max asked 16:10 ICT Oct 19 2026: fresh 10-pair deck on a topic he swiped; next level after UpKeep Board Footer Deck (picks and notes), no decided pair repeated; results go to Branding, picks logged only",
+   "done_at": "2026-10-19T22:13:20+07:00",
+   "skipped": [
+    "01",
+    "04",
+    "05",
+    "10"
+   ]
+  },
+  {
+   "id": "branding-header-fine-tuning",
+   "name": "Header Fine Tuning",
+   "url": "https://webermanapps.github.io/style-swipe/header-fine-tuning-ekggkk/",
+   "total": 10,
+   "answered": 8,
+   "tag": "Max's Picks",
+   "status": "done",
+   "requested_at": "2026-10-19T16:10:00+07:00",
+   "added": "2026-10-19T16:24:05+07:00",
+   "note": "Max asked 16:10 ICT Oct 19 2026: fresh 10-pair deck on a topic he swiped; next level after UpKeep Board Header Deck (picks and notes), no decided pair repeated; results go to Branding, picks logged only",
+   "done_at": "2026-10-19T22:13:19+07:00",
+   "skipped": [
+    "02",
+    "09"
+   ]
+  },
+  {
+   "id": "branding-scheduling-board-details",
+   "name": "Scheduling Board Details",
+   "url": "https://webermanapps.github.io/style-swipe/scheduling-board-details-5dw20q/",
+   "total": 10,
+   "answered": 9,
+   "tag": "Max's Picks",
+   "status": "done",
+   "requested_at": "2026-10-19T16:10:00+07:00",
+   "added": "2026-10-19T16:24:05+07:00",
+   "note": "Max asked 16:10 ICT Oct 19 2026: fresh 10-pair deck on a topic he swiped; next level after Scheduling Board Layout Deck (picks and notes), no decided pair repeated; results go to Branding, picks logged only",
+   "done_at": "2026-10-19T22:13:19+07:00",
+   "skipped": [
+    "09"
+   ]
+  },
+  {
+   "id": "branding-board-rules-fine-tuning",
+   "name": "Board Rules Fine Tuning",
+   "url": "https://webermanapps.github.io/style-swipe/board-rules-fine-tuning-bakr38/",
+   "total": 10,
+   "answered": 8,
+   "tag": "Max's Picks",
+   "status": "done",
+   "requested_at": "2026-10-19T16:10:00+07:00",
+   "added": "2026-10-19T16:24:05+07:00",
+   "note": "Max asked 16:10 ICT Oct 19 2026: fresh 10-pair deck on a topic he swiped; next level after All Boards Rules (picks and notes), no decided pair repeated; results go to Branding, picks logged only",
+   "done_at": "2026-10-19T22:13:19+07:00",
+   "skipped": [
+    "04",
+    "05"
+   ]
+  },
+  {
+   "id": "branding-member-catalog-polish",
+   "name": "Member Catalog Polish",
+   "url": "https://webermanapps.github.io/style-swipe/member-catalog-polish-oj6mnk/",
+   "total": 10,
+   "answered": 9,
+   "tag": "Max's Picks",
+   "status": "done",
+   "requested_at": "2026-10-19T16:10:00+07:00",
+   "added": "2026-10-19T16:24:05+07:00",
+   "note": "Max asked 16:10 ICT Oct 19 2026: fresh 10-pair deck on a topic he swiped; next level after Member Catalog Deck and Member Catalog Refinements (picks and notes), no decided pair repeated; results go to Branding, picks logged only",
+   "done_at": "2026-10-19T22:13:19+07:00",
+   "skipped": [
+    "01"
+   ]
+  },
+  {
+   "id": "branding-upkeep-board-header-deck",
+   "name": "UpKeep Board Header Deck",
+   "url": "https://webermanapps.github.io/style-swipe/upkeep-board-header-1nr2dw/",
+   "total": 20,
+   "answered": 20,
+   "tag": "Max's Picks",
+   "status": "done",
+   "requested_at": "2026-10-19T12:24:43+07:00",
+   "added": "2026-10-19T12:24:43+07:00",
+   "note": "Max asked 12:02 ICT Oct 19 2026 via UpKeep Develop (header blocks added 12:06, decided 12:07): branded header for the four UpKeep agent boards with Emergency Alerts, To-Do List and Documents Center; Members board example; SAMPLE data; Branding board only (no UpKeep board decks); results go to Branding, picks logged only",
+   "done_at": "2026-10-19T15:00:22+07:00"
+  },
+  {
+   "id": "branding-upkeep-board-footer-deck",
+   "name": "UpKeep Board Footer Deck",
+   "url": "https://webermanapps.github.io/style-swipe/upkeep-board-footer-j9qod8/",
+   "total": 20,
+   "answered": 20,
+   "tag": "Max's Picks",
+   "status": "done",
+   "requested_at": "2026-10-19T12:24:42+07:00",
+   "added": "2026-10-19T12:24:43+07:00",
+   "note": "Max asked 12:02 ICT Oct 19 2026 via UpKeep Develop (decided 12:07): branded footer for the four UpKeep agent boards: Ping Record with ping schedule, Routines, Built by Machan line, Share, divider; SAMPLE data; Branding board only; results go to Branding, picks logged only",
+   "done_at": "2026-10-19T15:07:23+07:00"
+  },
+  {
+   "id": "branding-technicians-board-layout-deck",
+   "name": "Technicians Board Layout Deck",
+   "url": "https://webermanapps.github.io/style-swipe/technicians-board-layout-kttl96/",
+   "total": 12,
+   "answered": 12,
+   "tag": "Max's Picks",
+   "status": "done",
+   "requested_at": "2026-10-19T12:24:41+07:00",
+   "added": "2026-10-19T12:24:43+07:00",
+   "note": "Max's decided Technicians board sections (12:04 ICT Oct 19 2026, confirmed 12:07): looks of calendar, who's working, pinned hazards, visits log, day/week/month; Certifications and Training as Optional pairs; TEST / SAMPLE data, Tech Dash 1-3; Branding board only; results go to Branding, picks logged only",
+   "done_at": "2026-10-19T15:11:08+07:00"
+  },
+  {
+   "id": "branding-tools-equipment-board-deck",
+   "name": "Tools And Equipment Board Deck",
+   "url": "https://webermanapps.github.io/style-swipe/tools-equipment-board-pq8qmz/",
+   "total": 18,
+   "answered": 18,
+   "tag": "Max's Picks",
+   "status": "done",
+   "requested_at": "2026-10-19T12:24:40+07:00",
+   "added": "2026-10-19T12:24:43+07:00",
+   "note": "Max asked 12:07 ICT Oct 19 2026: Tools & Equipment board sections Tech Tool Bag, Van Inventory Tracking, Ordering with the Max approval step; tool list, van setup and suppliers shown as Open; TEST / SAMPLE data; Branding board only; results go to Branding, picks logged only",
+   "done_at": "2026-10-19T15:30:20+07:00"
+  },
+  {
+   "id": "branding-scheduling-board-layout-deck",
+   "name": "Scheduling Board Layout Deck",
+   "url": "https://webermanapps.github.io/style-swipe/scheduling-board-layout-rr8k6u/",
+   "total": 23,
+   "answered": 22,
+   "tag": "Max's Picks",
+   "status": "done",
+   "requested_at": "2026-10-19T12:20:09+07:00",
+   "added": "2026-10-19T12:20:09+07:00",
+   "note": "Max's Scheduling board review (Oct 19 2026): Schedule views, fill bar, visit chips, Client Communications tracking cards, header To-Do, Needs Attention, folds and optional cards; TEST data; results go to Branding, picks logged only",
+   "done_at": "2026-10-19T14:48:32+07:00"
+  },
+  {
+   "id": "machan-look-refinements",
+   "name": "Machan Look Refinements",
+   "url": "https://webermanapps.github.io/style-swipe/machan-look-refinements-ofdvn5/",
+   "total": 20,
+   "answered": 19,
+   "tag": "Max's Picks",
+   "status": "done",
+   "requested_at": "2026-10-19T12:05:02+07:00",
+   "added": "2026-10-19T12:09:24+07:00",
+   "note": "Follow-up to Machan: Look And Personality (Max's picks 22:54 Oct 18)",
+   "done_at": "2026-10-19T15:35:29+07:00"
+  },
+  {
+   "id": "machan-origin-story-refinements",
+   "name": "Machan Origin Story Refinements",
+   "url": "https://webermanapps.github.io/style-swipe/machan-origin-story-refinements-6aoj02/",
+   "total": 20,
+   "answered": 20,
+   "tag": "Max's Picks",
+   "status": "done",
+   "requested_at": "2026-10-19T12:05:01+07:00",
+   "added": "2026-10-19T12:09:24+07:00",
+   "note": "Follow-up to Machan: Origin Story (Max's picks 22:57 Oct 18)",
+   "done_at": "2026-10-19T15:44:30+07:00"
   },
   {
    "id": "end-screen-refinements",
@@ -721,6 +958,61 @@
    "requested_at": "2026-10-19T12:05:00+07:00",
    "added": "2026-10-19T12:09:24+07:00",
    "note": "Follow-up to End Screen Deck (Max's picks 22:14 Oct 18)"
+  },
+  {
+   "id": "branding-member-catalog-deck-two",
+   "name": "Member Catalog Refinements",
+   "url": "https://webermanapps.github.io/style-swipe/member-catalog-two-c80bww/",
+   "total": 20,
+   "answered": 16,
+   "tag": "Max's Picks",
+   "status": "done",
+   "requested_at": "2026-10-19T11:48:00+07:00",
+   "added": "2026-10-19T11:55:51+07:00",
+   "note": "Max submitted round one at 11:48 ICT Oct 19 2026 and asked for round two (top priority): 20 pairs refining his winners in one list-detail catalog; Branding board only; results go to Branding, picks logged only",
+   "done_at": "2026-10-19T15:50:49+07:00"
+  },
+  {
+   "id": "branding-member-catalog-deck",
+   "name": "Member Catalog Deck",
+   "url": "https://webermanapps.github.io/style-swipe/member-catalog-qtmz1l/",
+   "total": 20,
+   "answered": 19,
+   "tag": "Max's Picks",
+   "status": "done",
+   "requested_at": "2026-10-19T11:29:00+07:00",
+   "added": "2026-10-19T11:34:53+07:00",
+   "note": "Max asked Oct 19 2026 11:29 ICT: 20-card this-or-that deck for the Members section of the UpKeep Members Command Center; listed on Branding (no swipe decks on UpKeep boards for now); results go to Branding, picks logged only",
+   "done_at": "2026-10-19T11:48:00+07:00",
+   "skipped": [
+    "03"
+   ]
+  },
+  {
+   "id": "machan-origin-story-deck",
+   "name": "Machan: Origin Story",
+   "url": "https://webermanapps.github.io/style-swipe/machan-origin-story-oimiuf/",
+   "total": 10,
+   "answered": 10,
+   "tag": "Max's Picks",
+   "status": "done",
+   "requested_at": "2026-10-18T22:04:00+07:00",
+   "added": "2026-10-18T22:17:28+07:00",
+   "note": "Max asked Oct 18 2026 22:04 ICT: swipes on Machan and the origin story; results go to Branding, picks logged only",
+   "done_at": "2026-10-18T22:57:57+07:00"
+  },
+  {
+   "id": "machan-look-and-personality-deck",
+   "name": "Machan: Look And Personality",
+   "url": "https://webermanapps.github.io/style-swipe/machan-look-personality-jywdl8/",
+   "total": 10,
+   "answered": 10,
+   "tag": "Max's Picks",
+   "status": "done",
+   "requested_at": "2026-10-18T22:04:00+07:00",
+   "added": "2026-10-18T22:17:28+07:00",
+   "note": "Max asked Oct 18 2026 22:04 ICT: swipes on Machan and the origin story; results go to Branding, picks logged only",
+   "done_at": "2026-10-18T22:54:56+07:00"
   },
   {
    "id": "upkeep-tech-app-walkthrough-full-list-and-step-screens-deck",
@@ -951,6 +1243,19 @@
    "note": "Max asked 10:16 PM ICT: dashboard standard, Apps Home rules first"
   },
   {
+   "id": "all-boards-rules-deck",
+   "name": "All Boards Rules",
+   "url": "https://webermanapps.github.io/style-swipe/all-boards-rules-pcb1zt/",
+   "total": 10,
+   "answered": 10,
+   "tag": "Max's Picks",
+   "status": "done",
+   "requested_at": "2026-10-17T22:16:00+07:00",
+   "added": "2026-10-17T22:29:42+07:00",
+   "note": "Max asked 10:16 PM ICT: dashboard standard, overall rules for every board",
+   "done_at": "2026-10-19T12:21:15+07:00"
+  },
+  {
    "id": "upkeep-operator-dash-section-pages-deck",
    "name": "Operator Dash: Section Pages And Chief Card",
    "url": "https://webermanapps.github.io/style-swipe/operator-dash-section-pages-7locu2/",
@@ -961,6 +1266,23 @@
    "requested_at": "2026-10-17T22:09:47+07:00",
    "added": "2026-10-17T22:09:47+07:00",
    "note": "Replaces the submitted Company Dashboard Hub Deck (21:49 ICT); next Operator Dash picks, A = live hub, B = one change (UpKeep)"
+  },
+  {
+   "id": "upkeep-what-we-take-care-of-card-colors-and-finish-deck",
+   "name": "What We Take Care Of: Card Colors And Finish",
+   "url": "https://webermanapps.github.io/style-swipe/what-we-take-care-of-card-colors-and-finish-lyo47y/",
+   "total": 10,
+   "answered": 9,
+   "tag": "Max's Picks",
+   "status": "done",
+   "requested_at": "2026-10-17T22:09:00+07:00",
+   "added": "2026-10-17T22:16:46+07:00",
+   "note": "Replaces the submitted Fresh Look And More Info (21:58 ICT): every card its own colour, card face, colour strength, icon style, shadow, See All style, header, chip style, section background, slide dots. A = all settled picks applied. style-swipe 145f45d; topped up to 10 picks (R86) in 7a88883",
+   "new": true,
+   "done_at": "2026-10-18T09:46:01+07:00",
+   "skipped": [
+    "07"
+   ]
   },
   {
    "id": "mixed-upkeep-follow-up-lists-crew-and-lawn-deck",
@@ -1009,294 +1331,6 @@
    "requested_at": "2026-10-17T21:43:00+07:00",
    "added": "2026-10-17T22:18:43+07:00",
    "note": "UpKeep full review (Max 21:43 ICT): 10 cards: site trust, launch dates and sign-up path; results go to UpKeep; style-swipe a2a5860"
-  },
-  {
-   "id": "team-improvement-deck-round-four",
-   "name": "Team Improvement Deck",
-   "url": "https://webermanapps.github.io/style-swipe/team-improvement-6908cr/",
-   "total": 10,
-   "permanent": true,
-   "added": "2026-10-17T21:07:54+07:00",
-   "tag": "Max's Picks",
-   "blurb": "10 cards, ready now. Permanent (R75): team workflow and the deck and board look",
-   "answered": 0,
-   "note": "Permanently pinned (R75); round four, 10 picks. Round three results applied Oct 17 (R112-R116)",
-   "previous_round": "team-improvement-deck-round-three",
-   "status": "open",
-   "requested_at": "2026-10-17T21:07:54+07:00"
-  },
-  {
-   "id": "main-deck-board-polish",
-   "name": "Main Deck Board Polish Deck",
-   "url": "https://webermanapps.github.io/style-swipe/main-deck-board-polish-deck-yr7ghr/",
-   "total": 10,
-   "answered": 0,
-   "tag": "Max's Picks",
-   "status": "open",
-   "requested_at": "2026-10-17T21:06:12+07:00",
-   "added": "2026-10-17T21:06:12+07:00",
-   "note": "Max asked Oct 17 2026: replacement for the Main Deck Board Layout Deck (submitted 20:47 ICT, 9/10); polish details on the applied main deck board (R83 lifted for this deck)"
-  },
-  {
-   "id": "branding-footer-fine-tuning",
-   "name": "Footer Fine Tuning",
-   "url": "https://webermanapps.github.io/style-swipe/footer-fine-tuning-xaiifi/",
-   "total": 10,
-   "answered": 6,
-   "tag": "Max's Picks",
-   "status": "done",
-   "requested_at": "2026-10-19T16:10:00+07:00",
-   "added": "2026-10-19T16:24:05+07:00",
-   "note": "Max asked 16:10 ICT Oct 19 2026: fresh 10-pair deck on a topic he swiped; next level after UpKeep Board Footer Deck (picks and notes), no decided pair repeated; results go to Branding, picks logged only",
-   "done_at": "2026-10-19T22:13:20+07:00",
-   "skipped": [
-    "01",
-    "04",
-    "05",
-    "10"
-   ]
-  },
-  {
-   "id": "branding-header-fine-tuning",
-   "name": "Header Fine Tuning",
-   "url": "https://webermanapps.github.io/style-swipe/header-fine-tuning-ekggkk/",
-   "total": 10,
-   "answered": 8,
-   "tag": "Max's Picks",
-   "status": "done",
-   "requested_at": "2026-10-19T16:10:00+07:00",
-   "added": "2026-10-19T16:24:05+07:00",
-   "note": "Max asked 16:10 ICT Oct 19 2026: fresh 10-pair deck on a topic he swiped; next level after UpKeep Board Header Deck (picks and notes), no decided pair repeated; results go to Branding, picks logged only",
-   "done_at": "2026-10-19T22:13:19+07:00",
-   "skipped": [
-    "02",
-    "09"
-   ]
-  },
-  {
-   "id": "branding-scheduling-board-details",
-   "name": "Scheduling Board Details",
-   "url": "https://webermanapps.github.io/style-swipe/scheduling-board-details-5dw20q/",
-   "total": 10,
-   "answered": 9,
-   "tag": "Max's Picks",
-   "status": "done",
-   "requested_at": "2026-10-19T16:10:00+07:00",
-   "added": "2026-10-19T16:24:05+07:00",
-   "note": "Max asked 16:10 ICT Oct 19 2026: fresh 10-pair deck on a topic he swiped; next level after Scheduling Board Layout Deck (picks and notes), no decided pair repeated; results go to Branding, picks logged only",
-   "done_at": "2026-10-19T22:13:19+07:00",
-   "skipped": [
-    "09"
-   ]
-  },
-  {
-   "id": "branding-board-rules-fine-tuning",
-   "name": "Board Rules Fine Tuning",
-   "url": "https://webermanapps.github.io/style-swipe/board-rules-fine-tuning-bakr38/",
-   "total": 10,
-   "answered": 8,
-   "tag": "Max's Picks",
-   "status": "done",
-   "requested_at": "2026-10-19T16:10:00+07:00",
-   "added": "2026-10-19T16:24:05+07:00",
-   "note": "Max asked 16:10 ICT Oct 19 2026: fresh 10-pair deck on a topic he swiped; next level after All Boards Rules (picks and notes), no decided pair repeated; results go to Branding, picks logged only",
-   "done_at": "2026-10-19T22:13:19+07:00",
-   "skipped": [
-    "04",
-    "05"
-   ]
-  },
-  {
-   "id": "branding-member-catalog-polish",
-   "name": "Member Catalog Polish",
-   "url": "https://webermanapps.github.io/style-swipe/member-catalog-polish-oj6mnk/",
-   "total": 10,
-   "answered": 9,
-   "tag": "Max's Picks",
-   "status": "done",
-   "requested_at": "2026-10-19T16:10:00+07:00",
-   "added": "2026-10-19T16:24:05+07:00",
-   "note": "Max asked 16:10 ICT Oct 19 2026: fresh 10-pair deck on a topic he swiped; next level after Member Catalog Deck and Member Catalog Refinements (picks and notes), no decided pair repeated; results go to Branding, picks logged only",
-   "done_at": "2026-10-19T22:13:19+07:00",
-   "skipped": [
-    "01"
-   ]
-  },
-  {
-   "id": "branding-upkeep-board-header-deck",
-   "name": "UpKeep Board Header Deck",
-   "url": "https://webermanapps.github.io/style-swipe/upkeep-board-header-1nr2dw/",
-   "total": 20,
-   "answered": 20,
-   "tag": "Max's Picks",
-   "status": "done",
-   "requested_at": "2026-10-19T12:24:43+07:00",
-   "added": "2026-10-19T12:24:43+07:00",
-   "note": "Max asked 12:02 ICT Oct 19 2026 via UpKeep Develop (header blocks added 12:06, decided 12:07): branded header for the four UpKeep agent boards with Emergency Alerts, To-Do List and Documents Center; Members board example; SAMPLE data; Branding board only (no UpKeep board decks); results go to Branding, picks logged only",
-   "done_at": "2026-10-19T15:00:22+07:00"
-  },
-  {
-   "id": "branding-upkeep-board-footer-deck",
-   "name": "UpKeep Board Footer Deck",
-   "url": "https://webermanapps.github.io/style-swipe/upkeep-board-footer-j9qod8/",
-   "total": 20,
-   "answered": 20,
-   "tag": "Max's Picks",
-   "status": "done",
-   "requested_at": "2026-10-19T12:24:42+07:00",
-   "added": "2026-10-19T12:24:43+07:00",
-   "note": "Max asked 12:02 ICT Oct 19 2026 via UpKeep Develop (decided 12:07): branded footer for the four UpKeep agent boards: Ping Record with ping schedule, Routines, Built by Machan line, Share, divider; SAMPLE data; Branding board only; results go to Branding, picks logged only",
-   "done_at": "2026-10-19T15:07:23+07:00"
-  },
-  {
-   "id": "branding-technicians-board-layout-deck",
-   "name": "Technicians Board Layout Deck",
-   "url": "https://webermanapps.github.io/style-swipe/technicians-board-layout-kttl96/",
-   "total": 12,
-   "answered": 12,
-   "tag": "Max's Picks",
-   "status": "done",
-   "requested_at": "2026-10-19T12:24:41+07:00",
-   "added": "2026-10-19T12:24:43+07:00",
-   "note": "Max's decided Technicians board sections (12:04 ICT Oct 19 2026, confirmed 12:07): looks of calendar, who's working, pinned hazards, visits log, day/week/month; Certifications and Training as Optional pairs; TEST / SAMPLE data, Tech Dash 1-3; Branding board only; results go to Branding, picks logged only",
-   "done_at": "2026-10-19T15:11:08+07:00"
-  },
-  {
-   "id": "branding-tools-equipment-board-deck",
-   "name": "Tools And Equipment Board Deck",
-   "url": "https://webermanapps.github.io/style-swipe/tools-equipment-board-pq8qmz/",
-   "total": 18,
-   "answered": 18,
-   "tag": "Max's Picks",
-   "status": "done",
-   "requested_at": "2026-10-19T12:24:40+07:00",
-   "added": "2026-10-19T12:24:43+07:00",
-   "note": "Max asked 12:07 ICT Oct 19 2026: Tools & Equipment board sections Tech Tool Bag, Van Inventory Tracking, Ordering with the Max approval step; tool list, van setup and suppliers shown as Open; TEST / SAMPLE data; Branding board only; results go to Branding, picks logged only",
-   "done_at": "2026-10-19T15:30:20+07:00"
-  },
-  {
-   "id": "branding-scheduling-board-layout-deck",
-   "name": "Scheduling Board Layout Deck",
-   "url": "https://webermanapps.github.io/style-swipe/scheduling-board-layout-rr8k6u/",
-   "total": 23,
-   "answered": 22,
-   "tag": "Max's Picks",
-   "status": "done",
-   "requested_at": "2026-10-19T12:20:09+07:00",
-   "added": "2026-10-19T12:20:09+07:00",
-   "note": "Max's Scheduling board review (Oct 19 2026): Schedule views, fill bar, visit chips, Client Communications tracking cards, header To-Do, Needs Attention, folds and optional cards; TEST data; results go to Branding, picks logged only",
-   "done_at": "2026-10-19T14:48:32+07:00"
-  },
-  {
-   "id": "machan-look-refinements",
-   "name": "Machan Look Refinements",
-   "url": "https://webermanapps.github.io/style-swipe/machan-look-refinements-ofdvn5/",
-   "total": 20,
-   "answered": 19,
-   "tag": "Max's Picks",
-   "status": "done",
-   "requested_at": "2026-10-19T12:05:02+07:00",
-   "added": "2026-10-19T12:09:24+07:00",
-   "note": "Follow-up to Machan: Look And Personality (Max's picks 22:54 Oct 18)",
-   "done_at": "2026-10-19T15:35:29+07:00"
-  },
-  {
-   "id": "machan-origin-story-refinements",
-   "name": "Machan Origin Story Refinements",
-   "url": "https://webermanapps.github.io/style-swipe/machan-origin-story-refinements-6aoj02/",
-   "total": 20,
-   "answered": 20,
-   "tag": "Max's Picks",
-   "status": "done",
-   "requested_at": "2026-10-19T12:05:01+07:00",
-   "added": "2026-10-19T12:09:24+07:00",
-   "note": "Follow-up to Machan: Origin Story (Max's picks 22:57 Oct 18)",
-   "done_at": "2026-10-19T15:44:30+07:00"
-  },
-  {
-   "id": "branding-member-catalog-deck-two",
-   "name": "Member Catalog Refinements",
-   "url": "https://webermanapps.github.io/style-swipe/member-catalog-two-c80bww/",
-   "total": 20,
-   "answered": 16,
-   "tag": "Max's Picks",
-   "status": "done",
-   "requested_at": "2026-10-19T11:48:00+07:00",
-   "added": "2026-10-19T11:55:51+07:00",
-   "note": "Max submitted round one at 11:48 ICT Oct 19 2026 and asked for round two (top priority): 20 pairs refining his winners in one list-detail catalog; Branding board only; results go to Branding, picks logged only",
-   "done_at": "2026-10-19T15:50:49+07:00"
-  },
-  {
-   "id": "branding-member-catalog-deck",
-   "name": "Member Catalog Deck",
-   "url": "https://webermanapps.github.io/style-swipe/member-catalog-qtmz1l/",
-   "total": 20,
-   "answered": 19,
-   "tag": "Max's Picks",
-   "status": "done",
-   "requested_at": "2026-10-19T11:29:00+07:00",
-   "added": "2026-10-19T11:34:53+07:00",
-   "note": "Max asked Oct 19 2026 11:29 ICT: 20-card this-or-that deck for the Members section of the UpKeep Members Command Center; listed on Branding (no swipe decks on UpKeep boards for now); results go to Branding, picks logged only",
-   "done_at": "2026-10-19T11:48:00+07:00",
-   "skipped": [
-    "03"
-   ]
-  },
-  {
-   "id": "machan-origin-story-deck",
-   "name": "Machan: Origin Story",
-   "url": "https://webermanapps.github.io/style-swipe/machan-origin-story-oimiuf/",
-   "total": 10,
-   "answered": 10,
-   "tag": "Max's Picks",
-   "status": "done",
-   "requested_at": "2026-10-18T22:04:00+07:00",
-   "added": "2026-10-18T22:17:28+07:00",
-   "note": "Max asked Oct 18 2026 22:04 ICT: swipes on Machan and the origin story; results go to Branding, picks logged only",
-   "done_at": "2026-10-18T22:57:57+07:00"
-  },
-  {
-   "id": "machan-look-and-personality-deck",
-   "name": "Machan: Look And Personality",
-   "url": "https://webermanapps.github.io/style-swipe/machan-look-personality-jywdl8/",
-   "total": 10,
-   "answered": 10,
-   "tag": "Max's Picks",
-   "status": "done",
-   "requested_at": "2026-10-18T22:04:00+07:00",
-   "added": "2026-10-18T22:17:28+07:00",
-   "note": "Max asked Oct 18 2026 22:04 ICT: swipes on Machan and the origin story; results go to Branding, picks logged only",
-   "done_at": "2026-10-18T22:54:56+07:00"
-  },
-  {
-   "id": "all-boards-rules-deck",
-   "name": "All Boards Rules",
-   "url": "https://webermanapps.github.io/style-swipe/all-boards-rules-pcb1zt/",
-   "total": 10,
-   "answered": 10,
-   "tag": "Max's Picks",
-   "status": "done",
-   "requested_at": "2026-10-17T22:16:00+07:00",
-   "added": "2026-10-17T22:29:42+07:00",
-   "note": "Max asked 10:16 PM ICT: dashboard standard, overall rules for every board",
-   "done_at": "2026-10-19T12:21:15+07:00"
-  },
-  {
-   "id": "upkeep-what-we-take-care-of-card-colors-and-finish-deck",
-   "name": "What We Take Care Of: Card Colors And Finish",
-   "url": "https://webermanapps.github.io/style-swipe/what-we-take-care-of-card-colors-and-finish-lyo47y/",
-   "total": 10,
-   "answered": 9,
-   "tag": "Max's Picks",
-   "status": "done",
-   "requested_at": "2026-10-17T22:09:00+07:00",
-   "added": "2026-10-17T22:16:46+07:00",
-   "note": "Replaces the submitted Fresh Look And More Info (21:58 ICT): every card its own colour, card face, colour strength, icon style, shadow, See All style, header, chip style, section background, slide dots. A = all settled picks applied. style-swipe 145f45d; topped up to 10 picks (R86) in 7a88883",
-   "new": true,
-   "done_at": "2026-10-18T09:46:01+07:00",
-   "skipped": [
-    "07"
-   ]
   },
   {
    "id": "upkeep-member-app-account-and-empty-states-deck",
@@ -1391,6 +1425,33 @@
    "skipped": [
     "08"
    ]
+  },
+  {
+   "id": "team-improvement-deck-round-four",
+   "name": "Team Improvement Deck",
+   "url": "https://webermanapps.github.io/style-swipe/team-improvement-6908cr/",
+   "total": 10,
+   "permanent": true,
+   "added": "2026-10-17T21:07:54+07:00",
+   "tag": "Max's Picks",
+   "blurb": "10 cards, ready now. Permanent (R75): team workflow and the deck and board look",
+   "answered": 0,
+   "note": "Permanently pinned (R75); round four, 10 picks. Round three results applied Oct 17 (R112-R116)",
+   "previous_round": "team-improvement-deck-round-three",
+   "status": "open",
+   "requested_at": "2026-10-17T21:07:54+07:00"
+  },
+  {
+   "id": "main-deck-board-polish",
+   "name": "Main Deck Board Polish Deck",
+   "url": "https://webermanapps.github.io/style-swipe/main-deck-board-polish-deck-yr7ghr/",
+   "total": 10,
+   "answered": 0,
+   "tag": "Max's Picks",
+   "status": "open",
+   "requested_at": "2026-10-17T21:06:12+07:00",
+   "added": "2026-10-17T21:06:12+07:00",
+   "note": "Max asked Oct 17 2026: replacement for the Main Deck Board Layout Deck (submitted 20:47 ICT, 9/10); polish details on the applied main deck board (R83 lifted for this deck)"
   },
   {
    "id": "main-deck-board-layout",
