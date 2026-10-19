@@ -102,7 +102,7 @@
    "blurb": "10 cards, ready now"
   }
  ],
- "updated": "2026-10-19T11:55:51+07:00",
+ "updated": "2026-10-19T12:09:24+07:00",
  "done": [
   {
    "id": "up-next-deck",
@@ -384,6 +384,42 @@
  "queued": [],
  "queued_note": "Held back by the 5-deck cap (pinned + decks <= 5). Requested decks never count toward the cap and never show in the header shelf.",
  "requested": [
+  {
+   "id": "machan-look-refinements",
+   "name": "Machan Look Refinements",
+   "url": "https://webermanapps.github.io/style-swipe/machan-look-refinements-ofdvn5/",
+   "total": 20,
+   "answered": 0,
+   "tag": "Max's Picks",
+   "status": "open",
+   "requested_at": "2026-10-19T12:05:02+07:00",
+   "added": "2026-10-19T12:09:24+07:00",
+   "note": "Follow-up to Machan: Look And Personality (Max's picks 22:54 Oct 18)"
+  },
+  {
+   "id": "machan-origin-story-refinements",
+   "name": "Machan Origin Story Refinements",
+   "url": "https://webermanapps.github.io/style-swipe/machan-origin-story-refinements-6aoj02/",
+   "total": 20,
+   "answered": 0,
+   "tag": "Max's Picks",
+   "status": "open",
+   "requested_at": "2026-10-19T12:05:01+07:00",
+   "added": "2026-10-19T12:09:24+07:00",
+   "note": "Follow-up to Machan: Origin Story (Max's picks 22:57 Oct 18)"
+  },
+  {
+   "id": "end-screen-refinements",
+   "name": "End Screen Refinements",
+   "url": "https://webermanapps.github.io/style-swipe/end-screen-refinements-lojm3f/",
+   "total": 20,
+   "answered": 0,
+   "tag": "Max's Picks",
+   "status": "open",
+   "requested_at": "2026-10-19T12:05:00+07:00",
+   "added": "2026-10-19T12:09:24+07:00",
+   "note": "Follow-up to End Screen Deck (Max's picks 22:14 Oct 18)"
+  },
   {
    "id": "branding-member-catalog-deck-two",
    "name": "Member Catalog Refinements",
