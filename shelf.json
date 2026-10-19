@@ -102,7 +102,7 @@
    "blurb": "10 cards, ready now"
   }
  ],
- "updated": "2026-10-19T23:10:36+07:00",
+ "updated": "2026-10-19T23:17:49+07:00",
  "done": [
   {
    "id": "up-next-deck",
@@ -482,6 +482,18 @@
  "queued": [],
  "queued_note": "Held back by the 5-deck cap (pinned + decks <= 5). Requested decks never count toward the cap and never show in the header shelf.",
  "requested": [
+  {
+   "id": "branding-art-taste-deck",
+   "name": "Art Taste Deck",
+   "url": "https://webermanapps.github.io/style-swipe/art-taste-deck-gtkppm/",
+   "total": 20,
+   "answered": 0,
+   "tag": "Max's Picks",
+   "status": "open",
+   "requested_at": "2026-10-19T22:58:00+07:00",
+   "added": "2026-10-19T23:17:49+07:00",
+   "note": "Max Oct 19 2026 10:58 PM ICT, directly: 'show me a swipe deck with art. lets start to figure out what kind of art i like.' 20 pairs of real artworks (woodblock to street mural), style/era/mood tags for follow-up decks. Top of Max's Picks per his ask."
+  },
   {
    "id": "branding-machan-first-post-deck",
    "name": "Machan First Post Deck",
