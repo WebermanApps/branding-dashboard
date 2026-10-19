@@ -102,7 +102,7 @@
    "blurb": "10 cards, ready now"
   }
  ],
- "updated": "2026-10-19T12:09:24+07:00",
+ "updated": "2026-10-19T12:20:09+07:00",
  "done": [
   {
    "id": "up-next-deck",
@@ -384,6 +384,18 @@
  "queued": [],
  "queued_note": "Held back by the 5-deck cap (pinned + decks <= 5). Requested decks never count toward the cap and never show in the header shelf.",
  "requested": [
+  {
+   "id": "branding-scheduling-board-layout-deck",
+   "name": "Scheduling Board Layout Deck",
+   "url": "https://webermanapps.github.io/style-swipe/scheduling-board-layout-rr8k6u/",
+   "total": 23,
+   "answered": 0,
+   "tag": "Max's Picks",
+   "status": "open",
+   "requested_at": "2026-10-19T12:20:09+07:00",
+   "added": "2026-10-19T12:20:09+07:00",
+   "note": "Max's Scheduling board review (Oct 19 2026): Schedule views, fill bar, visit chips, Client Communications tracking cards, header To-Do, Needs Attention, folds and optional cards; TEST data; results go to Branding, picks logged only"
+  },
   {
    "id": "machan-look-refinements",
    "name": "Machan Look Refinements",
