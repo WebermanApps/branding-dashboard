@@ -111,7 +111,7 @@
    "made": "2026-10-17"
   }
  ],
- "updated": "2026-10-21T00:20:00+07:00",
+ "updated": "2026-10-21T01:05:00+07:00",
  "done": [
   {
    "id": "up-next-deck",
@@ -942,6 +942,41 @@
    "name": "The Wandering Persimmon: The Book Inside",
    "answered": 10,
    "total": 10
+  },
+  {
+   "id": "wandering-persimmon-cover-3",
+   "at": "2026-10-21T00:41:44+07:00",
+   "name": "The Wandering Persimmon: Storybook Cover 3",
+   "answered": 10,
+   "total": 10
+  },
+  {
+   "id": "wandering-persimmon-book-inside-2",
+   "at": "2026-10-21T00:45:00+07:00",
+   "name": "The Wandering Persimmon: The Book Inside 2",
+   "answered": 8,
+   "total": 10
+  },
+  {
+   "id": "cc-charts-panels",
+   "at": "2026-10-21T00:58:29+07:00",
+   "name": "Command Center: Charts and Panels",
+   "answered": 9,
+   "total": 9
+  },
+  {
+   "id": "cc-desktop-panels",
+   "at": "2026-10-21T01:01:49+07:00",
+   "name": "Command Center: Desktop Panels",
+   "answered": 9,
+   "total": 9
+  },
+  {
+   "id": "wandering-persimmon-ch1-moments",
+   "at": "2026-10-21T00:53:25+07:00",
+   "name": "The Wandering Persimmon: Chapter 1 Moments",
+   "answered": 6,
+   "total": 10
   }
  ],
  "pinned": [
@@ -960,62 +995,6 @@
    "agent": "branding"
   },
   {
-   "id": "wandering-persimmon-cover-3",
-   "name": "The Wandering Persimmon: Storybook Cover 3",
-   "url": "https://webermanapps.github.io/style-swipe/wandering-persimmon-storybook-cover-3-c354a5/",
-   "total": 10,
-   "topic": "wandering-persimmon-cover-3",
-   "added": "2026-10-21T00:16:16+07:00",
-   "made": "2026-10-21",
-   "tag": "The Wandering Persimmon",
-   "pinned": true,
-   "blurb": "10 cards, ready now, finishing the cover: title fit, arch, picture window, back stamp, spine, page edges, wear, with Notes",
-   "answered": 0,
-   "agent": "branding"
-  },
-  {
-   "id": "wandering-persimmon-book-inside-2",
-   "name": "The Wandering Persimmon: The Book Inside 2",
-   "url": "https://webermanapps.github.io/style-swipe/wandering-persimmon-book-inside-2-9a87bd/",
-   "total": 10,
-   "topic": "wandering-persimmon-book-inside-2",
-   "added": "2026-10-21T00:16:16+07:00",
-   "made": "2026-10-21",
-   "tag": "The Wandering Persimmon",
-   "pinned": true,
-   "blurb": "10 cards, ready now, finishing the pages: page-turn shadow, watercolour, text size and spacing, ornament, page numbers, gold dot, with Notes",
-   "answered": 0,
-   "agent": "branding"
-  },
-  {
-   "id": "cc-charts-panels",
-   "name": "Command Center: Charts and Panels",
-   "url": "https://webermanapps.github.io/style-swipe/cc-charts-and-panels-edxr4u/",
-   "total": 9,
-   "topic": "cc-charts-panels",
-   "added": "2026-10-21T00:20:00+07:00",
-   "made": "2026-10-20",
-   "tag": "UpKeep",
-   "pinned": true,
-   "blurb": "9 cards, ready now, slate TradingView-style mockups (first card: slate vs light mode), with Notes",
-   "answered": 0,
-   "agent": "upkeep"
-  },
-  {
-   "id": "cc-desktop-panels",
-   "name": "Command Center: Desktop Panels",
-   "url": "https://webermanapps.github.io/style-swipe/cc-desktop-panels-3zrrfq/",
-   "total": 9,
-   "topic": "cc-desktop-panels",
-   "added": "2026-10-21T00:20:00+07:00",
-   "made": "2026-10-20",
-   "tag": "UpKeep",
-   "pinned": true,
-   "blurb": "9 cards, ready now, move and resize panels like a desktop, with Notes",
-   "answered": 0,
-   "agent": "upkeep"
-  },
-  {
    "id": "cc-band-ping-details",
    "name": "Command Center: Needs Machan Band and Ping Log",
    "url": "https://webermanapps.github.io/style-swipe/cc-needs-band-ping-log-si50sl/",
@@ -1028,20 +1007,6 @@
    "blurb": "9 cards, ready now, band, all-clear Machan, handoffs and Ping Log mockups, with Notes",
    "answered": 0,
    "agent": "upkeep"
-  },
-  {
-   "id": "wandering-persimmon-ch1-moments",
-   "name": "The Wandering Persimmon: Chapter 1 Moments",
-   "url": "https://webermanapps.github.io/style-swipe/wandering-persimmon-ch1-moments-c602f5/",
-   "total": 10,
-   "topic": "wandering-persimmon-ch1-moments",
-   "added": "2026-10-21T00:01:00+07:00",
-   "made": "2026-10-20",
-   "tag": "The Wandering Persimmon",
-   "pinned": true,
-   "blurb": "10 cards, ready now, how the big Chapter 1 moments look and feel, plus 2 music cards with Play buttons, with Notes",
-   "answered": 0,
-   "agent": "branding"
   },
   {
    "id": "swipe-type-landing",
