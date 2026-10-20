@@ -111,7 +111,7 @@
    "made": "2026-10-17"
   }
  ],
- "updated": "2026-10-21T00:16:16+07:00",
+ "updated": "2026-10-21T00:20:00+07:00",
  "done": [
   {
    "id": "up-next-deck",
@@ -945,6 +945,20 @@
   }
  ],
  "pinned": [
+  {
+   "id": "wandering-persimmon-narrator-deep",
+   "name": "The Wandering Persimmon: Narrator Voice Deep",
+   "url": "https://webermanapps.github.io/style-swipe/wandering-persimmon-narrator-voice-deep-lspqc6/",
+   "total": 8,
+   "topic": "wandering-persimmon-narrator-deep",
+   "added": "2026-10-21T00:20:00+07:00",
+   "made": "2026-10-21",
+   "tag": "The Wandering Persimmon",
+   "pinned": true,
+   "blurb": "8 cards, ready now, darker and deeper narrator takes, tap to play, with Notes",
+   "answered": 0,
+   "agent": "branding"
+  },
   {
    "id": "wandering-persimmon-cover-3",
    "name": "The Wandering Persimmon: Storybook Cover 3",
