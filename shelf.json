@@ -10,7 +10,8 @@
       "added": "2026-10-15T07:40:02+07:00",
       "tag": "Ready To Swipe",
       "refill": true,
-      "blurb": "20 cards, ready now"
+      "blurb": "20 cards, ready now",
+      "made": "2026-10-15"
     },
     {
       "id": "advisor-boards-advisor-boards-details-deck",
@@ -22,7 +23,8 @@
       "added": "2026-10-15T13:57:40+07:00",
       "tag": "Research Topics",
       "refill": true,
-      "blurb": "20 cards, ready now, 2 reworded from last time"
+      "blurb": "20 cards, ready now, 2 reworded from last time",
+      "made": "2026-10-15"
     },
     {
       "id": "deck-board-2",
@@ -36,7 +38,8 @@
         "at": "2026-10-15T23:58:00+07:00",
         "why": "5-deck cap: 2 pinned (Security Duties, Security Dashboard Setup) + 3 regular; returns when a pin clears",
         "order": 2
-      }
+      },
+      "made": "2026-10-14"
     },
     {
       "id": "variety-color-deck",
@@ -46,7 +49,8 @@
       "topic": "variety",
       "added": "2026-10-17T09:50:48+07:00",
       "tag": "Color",
-      "blurb": "10 cards, ready now"
+      "blurb": "10 cards, ready now",
+      "made": "2026-10-17"
     },
     {
       "id": "variety-swipe-controls-deck",
@@ -56,7 +60,8 @@
       "topic": "variety",
       "added": "2026-10-17T09:51:02+07:00",
       "tag": "Swipe Controls",
-      "blurb": "10 cards, ready now"
+      "blurb": "10 cards, ready now",
+      "made": "2026-10-17"
     },
     {
       "id": "variety-type-deck",
@@ -66,7 +71,8 @@
       "topic": "variety",
       "added": "2026-10-17T09:51:17+07:00",
       "tag": "Type",
-      "blurb": "10 cards, ready now"
+      "blurb": "10 cards, ready now",
+      "made": "2026-10-17"
     },
     {
       "id": "variety-swipe-controls-deck-deck-progress",
@@ -76,7 +82,8 @@
       "topic": "variety",
       "added": "2026-10-17T09:51:31+07:00",
       "tag": "Swipe Controls",
-      "blurb": "10 cards, ready now"
+      "blurb": "10 cards, ready now",
+      "made": "2026-10-17"
     },
     {
       "id": "variety-swipe-controls-deck-end-screen",
@@ -89,7 +96,8 @@
       "blurb": "10 cards, ready now",
       "status": "done",
       "done_at": "2026-10-18T22:14:27+07:00",
-      "answered": 10
+      "answered": 10,
+      "made": "2026-10-17"
     },
     {
       "id": "variety-type-and-color-deck",
@@ -99,22 +107,26 @@
       "topic": "variety",
       "added": "2026-10-17T09:52:00+07:00",
       "tag": "Type",
-      "blurb": "10 cards, ready now"
+      "blurb": "10 cards, ready now",
+      "made": "2026-10-17"
     }
   ],
   "updated": "2026-10-20T21:10:00+07:00",
   "done": [
     {
       "id": "up-next-deck",
-      "at": "2026-10-14T19:44:00+07:00"
+      "at": "2026-10-14T19:44:00+07:00",
+      "made": "2026-10-14"
     },
     {
       "id": "ready-to-swipe-deck-two",
-      "at": "2026-10-15T07:40:02+07:00"
+      "at": "2026-10-15T07:40:02+07:00",
+      "made": "2026-10-15"
     },
     {
       "id": "advisor-boards-advisor-boards-deck",
-      "at": "2026-10-15T13:57:18+07:00"
+      "at": "2026-10-15T13:57:18+07:00",
+      "made": "2026-10-15"
     },
     {
       "id": "household-maple",
@@ -125,7 +137,8 @@
       "skipped": [
         "10",
         "15"
-      ]
+      ],
+      "made": "2026-10-16"
     },
     {
       "id": "security-duties-deck",
@@ -136,7 +149,8 @@
       "skipped": [
         "11",
         "18"
-      ]
+      ],
+      "made": "2026-10-16"
     },
     {
       "id": "upkeep-forecasting-and-projections-deck",
@@ -148,7 +162,8 @@
         "05",
         "14",
         "20"
-      ]
+      ],
+      "made": "2026-10-16"
     },
     {
       "id": "team-improvement-deck",
@@ -158,42 +173,48 @@
       "status": "Results In",
       "done_at": "2026-10-16T13:30:15+07:00",
       "url": "https://webermanapps.github.io/style-swipe/team-improvement-fq2hng/",
-      "at": "2026-10-16T13:30:15+07:00"
+      "at": "2026-10-16T13:30:15+07:00",
+      "made": "2026-10-16"
     },
     {
       "id": "upkeep-technician-page-deck-van-inventory-job-card",
       "at": "2026-10-17T09:12:13+07:00",
       "name": "Technician Page: Van Inventory & Job Card",
       "answered": 10,
-      "total": 10
+      "total": 10,
+      "made": "2026-10-17"
     },
     {
       "id": "upkeep-customer-profile-page-deck-home-record",
       "at": "2026-10-17T09:06:30+07:00",
       "name": "Customer Profile: Home Record & Booking",
       "answered": 10,
-      "total": 10
+      "total": 10,
+      "made": "2026-10-17"
     },
     {
       "id": "inbox-keep-or-delete-deck",
       "at": "2026-10-16T16:39:43+07:00",
       "name": "Inbox Keep-or-Delete Deck",
       "answered": 19,
-      "total": 19
+      "total": 19,
+      "made": "2026-10-16"
     },
     {
       "id": "machan-mark-options-deck",
       "at": "2026-10-16T21:49:58+07:00",
       "name": "Machan Mark Options Deck",
       "answered": 10,
-      "total": 11
+      "total": 11,
+      "made": "2026-10-16"
     },
     {
       "id": "wellnest-tea-blend-ingredients-calm-line-digestion-line",
       "at": "2026-10-17T08:15:56+07:00",
       "name": "Tea Blends: Energy Line & Line Purposes",
       "answered": 10,
-      "total": 10
+      "total": 10,
+      "made": "2026-10-17"
     },
     {
       "id": "team-improvement-deck-deck-look-round",
@@ -205,42 +226,48 @@
         "08"
       ],
       "status": "Results In",
-      "url": "https://webermanapps.github.io/style-swipe/team-improvement-eeuorz/"
+      "url": "https://webermanapps.github.io/style-swipe/team-improvement-eeuorz/",
+      "made": "2026-10-17"
     },
     {
       "id": "mixed-deck-up-keep-round-two",
       "at": "2026-10-17T19:57:58+07:00",
       "name": "Mixed Deck: Up Keep, Round Two",
       "answered": 8,
-      "total": 10
+      "total": 10,
+      "made": "2026-10-17"
     },
     {
       "id": "upkeep-technician-page-deck-checklist-today",
       "at": "2026-10-17T19:57:58+07:00",
       "name": "Technician Page: Checklist & Today",
       "answered": 5,
-      "total": 10
+      "total": 10,
+      "made": "2026-10-17"
     },
     {
       "id": "upkeep-customer-profile-page-deck-visit-history-photos",
       "at": "2026-10-17T19:57:58+07:00",
       "name": "Customer Profile: Visits, Photos & Tips",
       "answered": 8,
-      "total": 10
+      "total": 10,
+      "made": "2026-10-17"
     },
     {
       "id": "upkeep-investor-pitch-deck-numbers-market-deck",
       "at": "2026-10-17T19:57:58+07:00",
       "name": "Investor Pitch: Numbers & Market",
       "answered": 8,
-      "total": 10
+      "total": 10,
+      "made": "2026-10-17"
     },
     {
       "id": "upkeep-investor-pitch-deck-story-style-deck",
       "at": "2026-10-17T19:57:58+07:00",
       "name": "Investor Pitch: Story & Style",
       "answered": 9,
-      "total": 10
+      "total": 10,
+      "made": "2026-10-17"
     },
     {
       "id": "mix-upkeep-2026-10-17",
@@ -255,7 +282,8 @@
         "upkeep-bank-092"
       ],
       "status": "Results In",
-      "note": "Submitted as deck 'mix' (inbox/branding/mix-20261017-1024-482abfc0.json). Picks applied via follow-on Mixed Deck: Up Keep, Round Two (skips re-asked); done[] record added Oct 17 20:35 ICT."
+      "note": "Submitted as deck 'mix' (inbox/branding/mix-20261017-1024-482abfc0.json). Picks applied via follow-on Mixed Deck: Up Keep, Round Two (skips re-asked); done[] record added Oct 17 20:35 ICT.",
+      "made": "2026-10-17"
     },
     {
       "id": "main-deck-board-layout",
@@ -266,7 +294,8 @@
       "skipped": [
         "09"
       ],
-      "status": "Results In"
+      "status": "Results In",
+      "made": "2026-10-17"
     },
     {
       "id": "team-improvement-deck-round-three",
@@ -282,336 +311,384 @@
       ],
       "status": "Results In",
       "url": "https://webermanapps.github.io/style-swipe/team-improvement-zamgtx/",
-      "note": "R112-R116 applied Oct 17 2026; 06 saving results on hold (Max asked which is safer)"
+      "note": "R112-R116 applied Oct 17 2026; 06 saving results on hold (Max asked which is safer)",
+      "made": "2026-10-17"
     },
     {
       "id": "upkeep-what-we-take-care-of-compact-polish-deck",
       "at": "2026-10-17T21:42:17+07:00",
       "name": "What We Take Care Of: Compact Polish",
       "answered": 9,
-      "total": 10
+      "total": 10,
+      "made": "2026-10-17"
     },
     {
       "id": "upkeep-company-dashboard-deck",
       "at": "2026-10-17T21:57:47+07:00",
       "name": "Company Dashboard Hub Deck",
       "answered": 14,
-      "total": 14
+      "total": 14,
+      "made": "2026-10-17"
     },
     {
       "id": "upkeep-what-we-take-care-of-fresh-look-and-more-info-deck",
       "at": "2026-10-17T21:58:02+07:00",
       "name": "What We Take Care Of: Fresh Look And More Info",
       "answered": 7,
-      "total": 8
+      "total": 8,
+      "made": "2026-10-17"
     },
     {
       "id": "upkeep-what-we-take-care-of-card-colors-and-finish-deck",
       "at": "2026-10-18T09:46:01+07:00",
       "name": "What We Take Care Of: Card Colors And Finish",
       "answered": 9,
-      "total": 10
+      "total": 10,
+      "made": "2026-10-18"
     },
     {
       "id": "upkeep-extras-ideas-deck",
       "at": "2026-10-18T09:46:01+07:00",
       "name": "Extras Ideas Deck",
       "answered": 10,
-      "total": 10
+      "total": 10,
+      "made": "2026-10-18"
     },
     {
       "id": "upkeep-operator-console-alerts-and-test-data-deck",
       "at": "2026-10-18T09:46:01+07:00",
       "name": "Operator Console: Alerts And Test Data",
       "answered": 10,
-      "total": 10
+      "total": 10,
+      "made": "2026-10-18"
     },
     {
       "id": "upkeep-member-app-account-and-empty-states-deck",
       "at": "2026-10-18T09:56:54+07:00",
       "name": "Member App: Account And Empty States",
       "answered": 10,
-      "total": 10
+      "total": 10,
+      "made": "2026-10-18"
     },
     {
       "id": "variety-swipe-controls-deck-end-screen",
       "at": "2026-10-18T22:14:27+07:00",
       "name": "End Screen Deck",
       "answered": 10,
-      "total": 10
+      "total": 10,
+      "made": "2026-10-18"
     },
     {
       "id": "machan-look-and-personality-deck",
       "at": "2026-10-18T22:54:56+07:00",
       "name": "Machan: Look And Personality",
       "answered": 10,
-      "total": 10
+      "total": 10,
+      "made": "2026-10-18"
     },
     {
       "id": "machan-origin-story-deck",
       "at": "2026-10-18T22:57:57+07:00",
       "name": "Machan: Origin Story",
       "answered": 10,
-      "total": 10
+      "total": 10,
+      "made": "2026-10-18"
     },
     {
       "id": "branding-member-catalog-deck",
       "at": "2026-10-19T11:48:00+07:00",
       "name": "Member Catalog Deck",
       "answered": 19,
-      "total": 20
+      "total": 20,
+      "made": "2026-10-19"
     },
     {
       "id": "branding-member-catalog-deck-two",
       "at": "2026-10-19T15:50:49+07:00",
       "status": "Results In",
       "answered": 16,
-      "total": 20
+      "total": 20,
+      "made": "2026-10-19"
     },
     {
       "id": "all-boards-rules-deck",
       "at": "2026-10-19T12:21:15+07:00",
       "status": "Results In",
       "answered": 10,
-      "total": 10
+      "total": 10,
+      "made": "2026-10-19"
     },
     {
       "id": "branding-scheduling-board-layout-deck",
       "at": "2026-10-19T14:48:32+07:00",
       "status": "Results In",
       "answered": 22,
-      "total": 23
+      "total": 23,
+      "made": "2026-10-19"
     },
     {
       "id": "branding-technicians-board-layout-deck",
       "at": "2026-10-19T15:11:08+07:00",
       "status": "Results In",
       "answered": 12,
-      "total": 12
+      "total": 12,
+      "made": "2026-10-19"
     },
     {
       "id": "branding-tools-equipment-board-deck",
       "at": "2026-10-19T15:30:20+07:00",
       "status": "Results In",
       "answered": 18,
-      "total": 18
+      "total": 18,
+      "made": "2026-10-19"
     },
     {
       "id": "branding-upkeep-board-footer-deck",
       "at": "2026-10-19T15:07:23+07:00",
       "status": "Results In",
       "answered": 20,
-      "total": 20
+      "total": 20,
+      "made": "2026-10-19"
     },
     {
       "id": "branding-upkeep-board-header-deck",
       "at": "2026-10-19T15:00:22+07:00",
       "status": "Results In",
       "answered": 20,
-      "total": 20
+      "total": 20,
+      "made": "2026-10-19"
     },
     {
       "id": "machan-look-refinements",
       "at": "2026-10-19T15:35:29+07:00",
       "status": "Results In",
       "answered": 19,
-      "total": 20
+      "total": 20,
+      "made": "2026-10-19"
     },
     {
       "id": "machan-origin-story-refinements",
       "at": "2026-10-19T15:44:30+07:00",
       "status": "Results In",
       "answered": 20,
-      "total": 20
+      "total": 20,
+      "made": "2026-10-19"
     },
     {
       "id": "branding-member-catalog-polish",
       "at": "2026-10-19T22:13:19+07:00",
       "name": "Member Catalog Polish",
       "answered": 9,
-      "total": 10
+      "total": 10,
+      "made": "2026-10-19"
     },
     {
       "id": "branding-board-rules-fine-tuning",
       "at": "2026-10-19T22:13:19+07:00",
       "name": "Board Rules Fine Tuning",
       "answered": 8,
-      "total": 10
+      "total": 10,
+      "made": "2026-10-19"
     },
     {
       "id": "branding-scheduling-board-details",
       "at": "2026-10-19T22:13:19+07:00",
       "name": "Scheduling Board Details",
       "answered": 9,
-      "total": 10
+      "total": 10,
+      "made": "2026-10-19"
     },
     {
       "id": "branding-header-fine-tuning",
       "at": "2026-10-19T22:13:19+07:00",
       "name": "Header Fine Tuning",
       "answered": 8,
-      "total": 10
+      "total": 10,
+      "made": "2026-10-19"
     },
     {
       "id": "branding-footer-fine-tuning",
       "at": "2026-10-19T22:13:20+07:00",
       "name": "Footer Fine Tuning",
       "answered": 6,
-      "total": 10
+      "total": 10,
+      "made": "2026-10-19"
     },
     {
       "id": "branding-machan-alchemist-trailer-deck",
       "at": "2026-10-20T11:26:52+07:00",
       "name": "Machan Alchemist Trailer Deck",
       "answered": 7,
-      "total": 11
+      "total": 11,
+      "made": "2026-10-20"
     },
     {
       "id": "branding-upkeep-status-colours-deck",
       "at": "2026-10-20T09:56:36+07:00",
       "name": "UpKeep Status Colours Deck",
       "answered": 8,
-      "total": 11
+      "total": 11,
+      "made": "2026-10-20"
     },
     {
       "id": "branding-three-cultures-deck",
       "at": "2026-10-20T10:00:33+07:00",
       "name": "Three Cultures Deck",
       "answered": 10,
-      "total": 11
+      "total": 11,
+      "made": "2026-10-20"
     },
     {
       "id": "upkeep-tech-app-check-in-and-before-photos-deck",
       "at": "2026-10-18T10:06:50+07:00",
       "name": "Tech App Check-In: Arrival And Before Photos",
       "answered": 10,
-      "total": 10
+      "total": 10,
+      "made": "2026-10-18"
     },
     {
       "id": "upkeep-tech-app-moisture-readings-and-walk-recap-deck",
       "at": "2026-10-18T10:24:51+07:00",
       "name": "Tech App Readings: Moisture Scale And Walk Recap",
       "answered": 10,
-      "total": 10
+      "total": 10,
+      "made": "2026-10-18"
     },
     {
       "id": "upkeep-investor-pitch-app-navigation-and-key-points-deck",
       "at": "2026-10-18T15:33:27+07:00",
       "name": "Investor Pitch App: Navigation And Key Points",
       "answered": 10,
-      "total": 10
+      "total": 10,
+      "made": "2026-10-18"
     },
     {
       "id": "upkeep-investor-pitch-honest-valuation-and-blob-chart-deck",
       "at": "2026-10-18T16:16:46+07:00",
       "name": "Investor Pitch: Honest Valuation And Blob Chart",
       "answered": 10,
-      "total": 10
+      "total": 10,
+      "made": "2026-10-18"
     },
     {
       "id": "upkeep-forecast-app-charts-scenarios-and-runway-deck",
       "at": "2026-10-18T16:44:53+07:00",
       "name": "Forecast App: Charts, Scenarios And Runway",
       "answered": 10,
-      "total": 10
+      "total": 10,
+      "made": "2026-10-18"
     },
     {
       "id": "research-tech-certs-training-and-cool-tech-deck",
       "at": "2026-10-19T16:07:03+07:00",
       "name": "Tech Certs, Training And Cool Tech",
       "answered": 10,
-      "total": 10
+      "total": 10,
+      "made": "2026-10-19"
     },
     {
       "id": "upkeep-crew-uniform-new-options-deck",
       "at": "2026-10-18T16:13:34+07:00",
       "name": "Crew Uniform: New Options",
       "answered": 10,
-      "total": 10
+      "total": 10,
+      "made": "2026-10-18"
     },
     {
       "id": "chapter1-plot",
       "at": "2026-10-20T14:54:21+07:00",
       "name": "Chapter 1 Plot Deck",
       "answered": 4,
-      "total": 11
+      "total": 11,
+      "made": "2026-10-20"
     },
     {
       "id": "tap-swipe-transitions",
       "at": "2026-10-20T15:17:37+07:00",
       "name": "Tap & Swipe Transitions",
       "answered": 11,
-      "total": 11
+      "total": 11,
+      "made": "2026-10-20"
     },
     {
       "id": "wellnest-whats-included",
       "at": "2026-10-20T16:17:04+07:00",
       "name": "What's Included at the WellNest",
       "answered": 11,
-      "total": 11
+      "total": 11,
+      "made": "2026-10-20"
     },
     {
       "id": "thumbnail-remake-newest-shorts-krbvpg",
       "at": "2026-10-20T14:04:05+07:00",
       "name": "Thumbnail Remake 1A",
       "answered": 11,
-      "total": 11
+      "total": 11,
+      "made": "2026-10-20"
     },
     {
       "id": "rules-check",
       "at": "2026-10-20T15:20:30+07:00",
       "name": "Rules Check",
       "answered": 7,
-      "total": 9
+      "total": 9,
+      "made": "2026-10-20"
     },
     {
       "id": "branding-machan-story-book-deck",
       "at": "2026-10-20T12:16:34+07:00",
       "name": "Machan Story Book Deck",
       "answered": 8,
-      "total": 11
+      "total": 11,
+      "made": "2026-10-20"
     },
     {
       "id": "weberman-shaping",
       "at": "2026-10-20T19:56:52+07:00",
       "name": "Shaping",
       "answered": 10,
-      "total": 10
+      "total": 10,
+      "made": "2026-10-20"
     },
     {
       "id": "weberman-extra-space",
       "at": "2026-10-20T20:00:32+07:00",
       "name": "Extra Space",
       "answered": 9,
-      "total": 10
+      "total": 10,
+      "made": "2026-10-20"
     },
     {
       "id": "weberman-kids-wing",
       "at": "2026-10-20T20:04:20+07:00",
       "name": "Kids Wing",
       "answered": 10,
-      "total": 10
+      "total": 10,
+      "made": "2026-10-20"
     },
     {
       "id": "weberman-living-and-guest",
       "at": "2026-10-20T20:06:00+07:00",
       "name": "Living and Guest",
       "answered": 10,
-      "total": 10
+      "total": 10,
+      "made": "2026-10-20"
     },
     {
       "id": "weberman-flow-and-zoning",
       "at": "2026-10-20T20:09:07+07:00",
       "name": "Flow and Zoning",
       "answered": 10,
-      "total": 10
+      "total": 10,
+      "made": "2026-10-20"
     },
     {
       "id": "story-name-final",
       "at": "2026-10-20T19:29:10+07:00",
       "name": "Story Name Final",
       "answered": 10,
-      "total": 10
+      "total": 10,
+      "made": "2026-10-20"
     }
   ],
   "pinned": [
@@ -680,7 +757,8 @@
       "pinned": true,
       "blurb": "6 cards, ready now, massing sketches, with Notes",
       "answered": 0,
-      "agent": "branding"
+      "agent": "branding",
+      "made": "2026-10-20"
     },
     {
       "id": "swipe-polish",
@@ -692,7 +770,8 @@
       "tag": "Tiles",
       "pinned": true,
       "blurb": "10 cards, ready now, live demo tiles, with Notes",
-      "answered": 0
+      "answered": 0,
+      "made": "2026-10-20"
     },
     {
       "id": "machan-domain-deck",
@@ -705,7 +784,8 @@
       "pinned": true,
       "blurb": "11 cards, ready now, domain mocks, with Notes",
       "answered": 0,
-      "agent": "branding"
+      "agent": "branding",
+      "made": "2026-10-20"
     },
     {
       "id": "jakarta-trip",
@@ -718,7 +798,8 @@
       "pinned": true,
       "blurb": "11 cards, ready now, photos, with Notes",
       "answered": 0,
-      "agent": "household"
+      "agent": "household",
+      "made": "2026-10-20"
     },
     {
       "id": "chapter1-video",
@@ -730,7 +811,8 @@
       "tag": "Video",
       "pinned": true,
       "blurb": "10 cards, ready now, 4 piano tracks to play, with Notes",
-      "answered": 0
+      "answered": 0,
+      "made": "2026-10-20"
     },
     {
       "id": "gift-deck-plan",
@@ -742,7 +824,8 @@
       "tag": "Gift Deck",
       "pinned": true,
       "blurb": "11 cards, ready now, with Notes",
-      "answered": 0
+      "answered": 0,
+      "made": "2026-10-20"
     },
     {
       "id": "thumbnail-pass-three",
@@ -754,7 +837,8 @@
       "tag": "Follow-up",
       "pinned": true,
       "blurb": "10 cards, ready now, with Notes",
-      "answered": 0
+      "answered": 0,
+      "made": "2026-10-20"
     },
     {
       "id": "tap-swipe-motion",
@@ -766,7 +850,8 @@
       "tag": "Follow-up",
       "pinned": true,
       "blurb": "10 cards, ready now, with Notes",
-      "answered": 0
+      "answered": 0,
+      "made": "2026-10-20"
     },
     {
       "id": "wellnest-follow-up",
@@ -778,7 +863,8 @@
       "tag": "Follow-up",
       "pinned": true,
       "blurb": "10 cards, ready now, with Notes",
-      "answered": 0
+      "answered": 0,
+      "made": "2026-10-20"
     },
     {
       "id": "team-improvement-deck-round-four",
@@ -795,7 +881,8 @@
       "blurb": "10 cards, ready now. Permanent (R75): team workflow and the deck and board look",
       "answered": 0,
       "note": "Permanently pinned (R75); round four, 10 picks. Round three results applied Oct 17 (R112-R116)",
-      "previous_round": "team-improvement-deck-round-three"
+      "previous_round": "team-improvement-deck-round-three",
+      "made": "2026-10-17"
     }
   ],
   "queued": [],
@@ -812,7 +899,8 @@
       "requested_at": "2026-10-20T14:50:00+07:00",
       "added": "2026-10-20T14:50:00+07:00",
       "note": "Machan Oct 20 2026 ICT: Chapter 1 timeline and plot choices (urge, leaving, fear, the someone old, the sign). 11 A vs B pairs, tap-pop tiles, hold to unpick. Submits as agent 'branding'. Top of Max's Picks.",
-      "done_at": "2026-10-20T14:54:21+07:00"
+      "done_at": "2026-10-20T14:54:21+07:00",
+      "made": "2026-10-20"
     },
     {
       "id": "story-name",
@@ -824,7 +912,8 @@
       "status": "open",
       "requested_at": "2026-10-20T14:45:00+07:00",
       "added": "2026-10-20T14:45:00+07:00",
-      "note": "Machan Oct 20 2026 ICT: pick the title of Machan's story. 11 A vs B pairs, 14 titles; The Legend of Machan appears 3 times. Tap & Swipe, Machan Decides and Skip. Submits as agent 'branding'. Top of Max's Picks."
+      "note": "Machan Oct 20 2026 ICT: pick the title of Machan's story. 11 A vs B pairs, 14 titles; The Legend of Machan appears 3 times. Tap & Swipe, Machan Decides and Skip. Submits as agent 'branding'. Top of Max's Picks.",
+      "made": "2026-10-20"
     },
     {
       "id": "ping-alerts",
@@ -836,7 +925,8 @@
       "status": "open",
       "requested_at": "2026-10-20T14:15:50+07:00",
       "added": "2026-10-20T14:15:50+07:00",
-      "note": "Machan Oct 20 2026 ICT: 6 alert types, Ping me right away vs Board is fine (no ping), to really limit direct pings. Tap & Swipe, Machan Decides and Skip. Submits as agent 'branding'. Top of Max's Picks."
+      "note": "Machan Oct 20 2026 ICT: 6 alert types, Ping me right away vs Board is fine (no ping), to really limit direct pings. Tap & Swipe, Machan Decides and Skip. Submits as agent 'branding'. Top of Max's Picks.",
+      "made": "2026-10-20"
     },
     {
       "id": "thumbnail-remake-2a-quiet-editorial-newest-nvjs8v",
@@ -848,7 +938,8 @@
       "status": "open",
       "requested_at": "2026-10-20T14:40:00+07:00",
       "added": "2026-10-20T14:40:00+07:00",
-      "note": "Machan Oct 20 2026 ICT: @AMomentInThai thumbnail remake pass 2. Same photo, two new quiet treatments: A editorial hook vs B film caption. 10 newest Shorts plus Raising a Family. Tap & Swipe, Machan Decides and Skip. Submits as agent 'branding'."
+      "note": "Machan Oct 20 2026 ICT: @AMomentInThai thumbnail remake pass 2. Same photo, two new quiet treatments: A editorial hook vs B film caption. 10 newest Shorts plus Raising a Family. Tap & Swipe, Machan Decides and Skip. Submits as agent 'branding'.",
+      "made": "2026-10-20"
     },
     {
       "id": "thumbnail-remake-2b-quiet-editorial-older-eeqynl",
@@ -860,7 +951,8 @@
       "status": "open",
       "requested_at": "2026-10-20T14:40:00+07:00",
       "added": "2026-10-20T14:40:00+07:00",
-      "note": "Machan Oct 20 2026 ICT: @AMomentInThai thumbnail remake pass 2. Same photo, two new quiet treatments: A editorial hook vs B film caption. the 11 older Shorts. Tap & Swipe, Machan Decides and Skip. Submits as agent 'branding'."
+      "note": "Machan Oct 20 2026 ICT: @AMomentInThai thumbnail remake pass 2. Same photo, two new quiet treatments: A editorial hook vs B film caption. the 11 older Shorts. Tap & Swipe, Machan Decides and Skip. Submits as agent 'branding'.",
+      "made": "2026-10-20"
     },
     {
       "id": "tap-swipe-transitions",
@@ -873,7 +965,8 @@
       "requested_at": "2026-10-20T14:10:00+07:00",
       "added": "2026-10-20T14:10:00+07:00",
       "note": "Machan Oct 20 2026 ICT: 11 transition-style pairs with live demos. The deck is the new model: tap selects, swipe only moves. Machan Decides and Skip. Submits as agent 'branding'. Top of Max's Picks.",
-      "done_at": "2026-10-20T15:17:37+07:00"
+      "done_at": "2026-10-20T15:17:37+07:00",
+      "made": "2026-10-20"
     },
     {
       "id": "wellnest-whats-included",
@@ -886,7 +979,8 @@
       "requested_at": "2026-10-20T13:30:00+07:00",
       "added": "2026-10-20T13:30:00+07:00",
       "note": "Machan Oct 20 2026 ICT: 11 this-or-that pairs on what the WellNest retreat or membership could include (spaces, food, services). Submits as agent 'wellnest'. Top of Max's Picks.",
-      "done_at": "2026-10-20T16:17:04+07:00"
+      "done_at": "2026-10-20T16:17:04+07:00",
+      "made": "2026-10-20"
     },
     {
       "id": "thumbnail-remake-newest-shorts-krbvpg",
@@ -899,7 +993,8 @@
       "requested_at": "2026-10-20T13:17:20+07:00",
       "added": "2026-10-20T13:17:20+07:00",
       "note": "Machan Oct 20 2026 ICT: @AMomentInThai thumbnail remake pass 1 of 3. Old left, new right. 10 newest Shorts plus Raising a Family. Notes and You decide. Submits as agent 'branding'.",
-      "done_at": "2026-10-20T14:04:05+07:00"
+      "done_at": "2026-10-20T14:04:05+07:00",
+      "made": "2026-10-20"
     },
     {
       "id": "thumbnail-remake-older-shorts-hd8r7l",
@@ -911,7 +1006,8 @@
       "status": "open",
       "requested_at": "2026-10-20T13:17:20+07:00",
       "added": "2026-10-20T13:17:20+07:00",
-      "note": "Machan Oct 20 2026 ICT: @AMomentInThai thumbnail remake pass 1 of 3. Old left, new right. The next 11 older Shorts (1 held for pass 2). Notes and You decide. Submits as agent 'branding'."
+      "note": "Machan Oct 20 2026 ICT: @AMomentInThai thumbnail remake pass 1 of 3. Old left, new right. The next 11 older Shorts (1 held for pass 2). Notes and You decide. Submits as agent 'branding'.",
+      "made": "2026-10-20"
     },
     {
       "id": "rules-check",
@@ -924,7 +1020,8 @@
       "requested_at": "2026-10-20T12:40:55+07:00",
       "added": "2026-10-20T12:40:55+07:00",
       "note": "Machan Oct 20 2026 ICT: 9 yes/no rule cards (pings wake paused agents, Router retirement, Swatch telling owners, instant submit routine, Coach routines, draft pins, shelf refill). Yes/right = new rule, No/left = old rule. Submits as agent 'coach'.",
-      "done_at": "2026-10-20T15:20:30+07:00"
+      "done_at": "2026-10-20T15:20:30+07:00",
+      "made": "2026-10-20"
     },
     {
       "id": "branding-machan-alchemist-trailer-deck",
@@ -937,7 +1034,8 @@
       "requested_at": "2026-10-20T10:35:00+07:00",
       "added": "2026-10-20T10:41:39+07:00",
       "note": "Max Oct 20 2026 10:35 AM ICT: Machan intro as a movie-style trailer for Machan's The Alchemist; v2 was 'closer but still way off'. 11 pairs with real frames (swatch-v2 stills + generated stills), card 11 bonus (desert/omens vs Machan's own places). Top of Max's Picks.",
-      "done_at": "2026-10-20T11:26:52+07:00"
+      "done_at": "2026-10-20T11:26:52+07:00",
+      "made": "2026-10-20"
     },
     {
       "id": "branding-upkeep-status-colours-deck",
@@ -950,7 +1048,8 @@
       "requested_at": "2026-10-20T01:03:36+07:00",
       "added": "2026-10-20T01:03:37+07:00",
       "note": "Nightly Reset Oct 20 2026: from Header Finishing Touches note (drafts/to-do yellow, confirmed green, alerts red) plus its 5 open skips; picks go to UpKeep Develop.",
-      "done_at": "2026-10-20T09:56:36+07:00"
+      "done_at": "2026-10-20T09:56:36+07:00",
+      "made": "2026-10-20"
     },
     {
       "id": "branding-three-cultures-deck",
@@ -963,7 +1062,8 @@
       "requested_at": "2026-10-20T01:03:35+07:00",
       "added": "2026-10-20T01:03:37+07:00",
       "note": "Nightly Reset Oct 20 2026, fun branding: Japan, America and Thai touches in subtle places (Machan First Post note).",
-      "done_at": "2026-10-20T10:00:33+07:00"
+      "done_at": "2026-10-20T10:00:33+07:00",
+      "made": "2026-10-20"
     },
     {
       "id": "branding-machan-story-book-deck",
@@ -976,7 +1076,8 @@
       "requested_at": "2026-10-20T01:03:34+07:00",
       "added": "2026-10-20T01:03:37+07:00",
       "note": "Nightly Reset Oct 20 2026, fun branding: video is the movie, carousel is the book (First Post + Story Page notes); 真工素 moment, pitch-deck arrows redesigned.",
-      "done_at": "2026-10-20T12:16:34+07:00"
+      "done_at": "2026-10-20T12:16:34+07:00",
+      "made": "2026-10-20"
     },
     {
       "id": "branding-smarter-swipe-engine-deck",
@@ -989,7 +1090,8 @@
       "requested_at": "2026-10-19T23:30:00+07:00",
       "added": "2026-10-19T23:39:46+07:00",
       "note": "Max Oct 19 2026 11:30 PM ICT: make the swipe engine smarter. 10 Swipe Decks engine upgrades + 3 on the Swipe and Type wordmark (Machan's trademark, 11:34/11:37 PM ICT). Top of Max's Picks.",
-      "done_at": "2026-10-20T00:12:28+07:00"
+      "done_at": "2026-10-20T00:12:28+07:00",
+      "made": "2026-10-19"
     },
     {
       "id": "branding-art-taste-deck",
@@ -1002,7 +1104,8 @@
       "requested_at": "2026-10-19T22:58:00+07:00",
       "added": "2026-10-19T23:17:49+07:00",
       "note": "Max Oct 19 2026 10:58 PM ICT, directly: 'show me a swipe deck with art. lets start to figure out what kind of art i like.' 20 pairs of real artworks (woodblock to street mural), style/era/mood tags for follow-up decks. Top of Max's Picks per his ask.",
-      "done_at": "2026-10-20T00:16:00+07:00"
+      "done_at": "2026-10-20T00:16:00+07:00",
+      "made": "2026-10-19"
     },
     {
       "id": "branding-machan-first-post-deck",
@@ -1015,7 +1118,8 @@
       "requested_at": "2026-10-19T22:32:01+07:00",
       "added": "2026-10-19T22:46:12+07:00",
       "note": "Max Oct 19 2026 10:29 PM ICT (priority); reframed 10:49 PM: post one is a VIDEO introducing Machan, telling his story and ending on his wink. Storyboard-frame mockups. Kept first per Max's priority ask (timestamp set one second after the On X deck so it sorts on top).",
-      "done_at": "2026-10-20T00:22:00+07:00"
+      "done_at": "2026-10-20T00:22:00+07:00",
+      "made": "2026-10-19"
     },
     {
       "id": "branding-command-center-tiles-deck",
@@ -1028,7 +1132,8 @@
       "requested_at": "2026-10-19T22:32:00.400+07:00",
       "added": "2026-10-19T23:10:36+07:00",
       "note": "Max Oct 19 2026 10:40 PM ICT: Ethan's UpKeep Command Center redo (Swatch's staged uk12, TEST data). Ten pairs of real uk12 screenshots. Listed right after the Machan First Post Deck as asked (requested_at set just below it on purpose). Tiles: what each tile shows, alerts style, fold-down vs open, open-board link, shine.",
-      "done_at": "2026-10-20T00:27:14+07:00"
+      "done_at": "2026-10-20T00:27:14+07:00",
+      "made": "2026-10-19"
     },
     {
       "id": "branding-machan-on-x-deck",
@@ -1041,7 +1146,8 @@
       "requested_at": "2026-10-19T22:32:00+07:00",
       "added": "2026-10-19T22:46:12+07:00",
       "note": "Max Oct 19 2026 10:32 PM ICT: Machan's voice (mystery vs storyteller), catchphrases, bio, pinned video, how post two drops, banner, avatar and profile details for @Machan10001. Comes right after the First Post deck.",
-      "done_at": "2026-10-20T00:30:00+07:00"
+      "done_at": "2026-10-20T00:30:00+07:00",
+      "made": "2026-10-19"
     },
     {
       "id": "branding-gift-app-setup-deck",
@@ -1054,7 +1160,8 @@
       "requested_at": "2026-10-19T22:31:59+07:00",
       "added": "2026-10-19T23:23:44+07:00",
       "note": "Max Oct 19 2026 ~10:56 PM ICT: input decks for the new public gift app 'giving my gift to the world' (Machan's second post on X); real rendered app-screen mockups with made-up sample data. Placed right after the Machan decks. Setup questions: style, budget, interests, how many, tone.",
-      "done_at": "2026-10-20T00:33:59+07:00"
+      "done_at": "2026-10-20T00:33:59+07:00",
+      "made": "2026-10-19"
     },
     {
       "id": "branding-gift-app-rounds-deck",
@@ -1067,7 +1174,8 @@
       "requested_at": "2026-10-19T22:31:58+07:00",
       "added": "2026-10-19T23:23:44+07:00",
       "note": "Max Oct 19 2026 ~10:56 PM ICT: input decks for the new public gift app 'giving my gift to the world' (Machan's second post on X); real rendered app-screen mockups with made-up sample data. Placed right after the Machan decks. Round names, progress, transitions, gift card, Love/Both, recaps.",
-      "done_at": "2026-10-20T00:38:00+07:00"
+      "done_at": "2026-10-20T00:38:00+07:00",
+      "made": "2026-10-19"
     },
     {
       "id": "branding-gift-app-ending-deck",
@@ -1080,7 +1188,8 @@
       "requested_at": "2026-10-19T22:31:57+07:00",
       "added": "2026-10-19T23:23:44+07:00",
       "note": "Max Oct 19 2026 ~10:56 PM ICT: input decks for the new public gift app 'giving my gift to the world' (Machan's second post on X); real rendered app-screen mockups with made-up sample data. Placed right after the Machan decks. Round 3 endings head to head, reveal, share, send to self, buy links.",
-      "done_at": "2026-10-20T00:40:44+07:00"
+      "done_at": "2026-10-20T00:40:44+07:00",
+      "made": "2026-10-19"
     },
     {
       "id": "branding-gift-app-look-and-name-deck",
@@ -1093,7 +1202,8 @@
       "requested_at": "2026-10-19T22:31:56+07:00",
       "added": "2026-10-19T23:23:44+07:00",
       "note": "Max Oct 19 2026 ~10:56 PM ICT: input decks for the new public gift app 'giving my gift to the world' (Machan's second post on X); real rendered app-screen mockups with made-up sample data. Placed right after the Machan decks. Name, pitch line, cover, Machan's role and wink, engine hint, Built by Machan footer.",
-      "done_at": "2026-10-20T00:44:12+07:00"
+      "done_at": "2026-10-20T00:44:12+07:00",
+      "made": "2026-10-19"
     },
     {
       "id": "branding-footer-finishing-touches",
@@ -1106,7 +1216,8 @@
       "requested_at": "2026-10-19T21:45:00+07:00",
       "added": "2026-10-19T22:13:20+07:00",
       "note": "Follow-up to tonight's picks (Max Oct 19 2026 21:45 ICT): skips asked another way, picks one notch further. New deck style.",
-      "done_at": "2026-10-20T00:47:21+07:00"
+      "done_at": "2026-10-20T00:47:21+07:00",
+      "made": "2026-10-19"
     },
     {
       "id": "branding-header-finishing-touches",
@@ -1119,7 +1230,8 @@
       "requested_at": "2026-10-19T21:45:00+07:00",
       "added": "2026-10-19T22:13:20+07:00",
       "note": "Follow-up to tonight's picks (Max Oct 19 2026 21:45 ICT): skips asked another way, picks one notch further. New deck style.",
-      "done_at": "2026-10-20T00:51:11+07:00"
+      "done_at": "2026-10-20T00:51:11+07:00",
+      "made": "2026-10-19"
     },
     {
       "id": "machan-look-polish",
@@ -1132,7 +1244,8 @@
       "requested_at": "2026-10-19T16:10:00+07:00",
       "added": "2026-10-19T16:24:05+07:00",
       "note": "Max asked 16:10 ICT Oct 19 2026: fresh 10-pair deck on a topic he swiped; next level after Machan Look Refinements (picks and notes), no decided pair repeated; results go to Branding, picks logged only",
-      "done_at": "2026-10-19T23:18:00+07:00"
+      "done_at": "2026-10-19T23:18:00+07:00",
+      "made": "2026-10-19"
     },
     {
       "id": "machan-story-page",
@@ -1145,7 +1258,8 @@
       "requested_at": "2026-10-19T16:10:00+07:00",
       "added": "2026-10-19T16:24:05+07:00",
       "note": "Max asked 16:10 ICT Oct 19 2026: fresh 10-pair deck on a topic he swiped; next level after Machan Origin Story Refinements (picks and notes), no decided pair repeated; results go to Branding, picks logged only",
-      "done_at": "2026-10-19T23:22:49+07:00"
+      "done_at": "2026-10-19T23:22:49+07:00",
+      "made": "2026-10-19"
     },
     {
       "id": "branding-footer-fine-tuning",
@@ -1164,7 +1278,8 @@
         "04",
         "05",
         "10"
-      ]
+      ],
+      "made": "2026-10-19"
     },
     {
       "id": "branding-header-fine-tuning",
@@ -1181,7 +1296,8 @@
       "skipped": [
         "02",
         "09"
-      ]
+      ],
+      "made": "2026-10-19"
     },
     {
       "id": "branding-scheduling-board-details",
@@ -1197,7 +1313,8 @@
       "done_at": "2026-10-19T22:13:19+07:00",
       "skipped": [
         "09"
-      ]
+      ],
+      "made": "2026-10-19"
     },
     {
       "id": "branding-board-rules-fine-tuning",
@@ -1214,7 +1331,8 @@
       "skipped": [
         "04",
         "05"
-      ]
+      ],
+      "made": "2026-10-19"
     },
     {
       "id": "branding-member-catalog-polish",
@@ -1230,7 +1348,8 @@
       "done_at": "2026-10-19T22:13:19+07:00",
       "skipped": [
         "01"
-      ]
+      ],
+      "made": "2026-10-19"
     },
     {
       "id": "branding-upkeep-board-header-deck",
@@ -1243,7 +1362,8 @@
       "requested_at": "2026-10-19T12:24:43+07:00",
       "added": "2026-10-19T12:24:43+07:00",
       "note": "Max asked 12:02 ICT Oct 19 2026 via UpKeep Develop (header blocks added 12:06, decided 12:07): branded header for the four UpKeep agent boards with Emergency Alerts, To-Do List and Documents Center; Members board example; SAMPLE data; Branding board only (no UpKeep board decks); results go to Branding, picks logged only",
-      "done_at": "2026-10-19T15:00:22+07:00"
+      "done_at": "2026-10-19T15:00:22+07:00",
+      "made": "2026-10-19"
     },
     {
       "id": "branding-upkeep-board-footer-deck",
@@ -1256,7 +1376,8 @@
       "requested_at": "2026-10-19T12:24:42+07:00",
       "added": "2026-10-19T12:24:43+07:00",
       "note": "Max asked 12:02 ICT Oct 19 2026 via UpKeep Develop (decided 12:07): branded footer for the four UpKeep agent boards: Ping Record with ping schedule, Routines, Built by Machan line, Share, divider; SAMPLE data; Branding board only; results go to Branding, picks logged only",
-      "done_at": "2026-10-19T15:07:23+07:00"
+      "done_at": "2026-10-19T15:07:23+07:00",
+      "made": "2026-10-19"
     },
     {
       "id": "branding-technicians-board-layout-deck",
@@ -1269,7 +1390,8 @@
       "requested_at": "2026-10-19T12:24:41+07:00",
       "added": "2026-10-19T12:24:43+07:00",
       "note": "Max's decided Technicians board sections (12:04 ICT Oct 19 2026, confirmed 12:07): looks of calendar, who's working, pinned hazards, visits log, day/week/month; Certifications and Training as Optional pairs; TEST / SAMPLE data, Tech Dash 1-3; Branding board only; results go to Branding, picks logged only",
-      "done_at": "2026-10-19T15:11:08+07:00"
+      "done_at": "2026-10-19T15:11:08+07:00",
+      "made": "2026-10-19"
     },
     {
       "id": "branding-tools-equipment-board-deck",
@@ -1282,7 +1404,8 @@
       "requested_at": "2026-10-19T12:24:40+07:00",
       "added": "2026-10-19T12:24:43+07:00",
       "note": "Max asked 12:07 ICT Oct 19 2026: Tools & Equipment board sections Tech Tool Bag, Van Inventory Tracking, Ordering with the Max approval step; tool list, van setup and suppliers shown as Open; TEST / SAMPLE data; Branding board only; results go to Branding, picks logged only",
-      "done_at": "2026-10-19T15:30:20+07:00"
+      "done_at": "2026-10-19T15:30:20+07:00",
+      "made": "2026-10-19"
     },
     {
       "id": "branding-scheduling-board-layout-deck",
@@ -1295,7 +1418,8 @@
       "requested_at": "2026-10-19T12:20:09+07:00",
       "added": "2026-10-19T12:20:09+07:00",
       "note": "Max's Scheduling board review (Oct 19 2026): Schedule views, fill bar, visit chips, Client Communications tracking cards, header To-Do, Needs Attention, folds and optional cards; TEST data; results go to Branding, picks logged only",
-      "done_at": "2026-10-19T14:48:32+07:00"
+      "done_at": "2026-10-19T14:48:32+07:00",
+      "made": "2026-10-19"
     },
     {
       "id": "machan-look-refinements",
@@ -1308,7 +1432,8 @@
       "requested_at": "2026-10-19T12:05:02+07:00",
       "added": "2026-10-19T12:09:24+07:00",
       "note": "Follow-up to Machan: Look And Personality (Max's picks 22:54 Oct 18)",
-      "done_at": "2026-10-19T15:35:29+07:00"
+      "done_at": "2026-10-19T15:35:29+07:00",
+      "made": "2026-10-19"
     },
     {
       "id": "machan-origin-story-refinements",
@@ -1321,7 +1446,8 @@
       "requested_at": "2026-10-19T12:05:01+07:00",
       "added": "2026-10-19T12:09:24+07:00",
       "note": "Follow-up to Machan: Origin Story (Max's picks 22:57 Oct 18)",
-      "done_at": "2026-10-19T15:44:30+07:00"
+      "done_at": "2026-10-19T15:44:30+07:00",
+      "made": "2026-10-19"
     },
     {
       "id": "branding-member-catalog-deck-two",
@@ -1334,7 +1460,8 @@
       "requested_at": "2026-10-19T11:48:00+07:00",
       "added": "2026-10-19T11:55:51+07:00",
       "note": "Max submitted round one at 11:48 ICT Oct 19 2026 and asked for round two (top priority): 20 pairs refining his winners in one list-detail catalog; Branding board only; results go to Branding, picks logged only",
-      "done_at": "2026-10-19T15:50:49+07:00"
+      "done_at": "2026-10-19T15:50:49+07:00",
+      "made": "2026-10-19"
     },
     {
       "id": "branding-member-catalog-deck",
@@ -1350,7 +1477,8 @@
       "done_at": "2026-10-19T11:48:00+07:00",
       "skipped": [
         "03"
-      ]
+      ],
+      "made": "2026-10-19"
     },
     {
       "id": "machan-origin-story-deck",
@@ -1363,7 +1491,8 @@
       "requested_at": "2026-10-18T22:04:00+07:00",
       "added": "2026-10-18T22:17:28+07:00",
       "note": "Max asked Oct 18 2026 22:04 ICT: swipes on Machan and the origin story; results go to Branding, picks logged only",
-      "done_at": "2026-10-18T22:57:57+07:00"
+      "done_at": "2026-10-18T22:57:57+07:00",
+      "made": "2026-10-18"
     },
     {
       "id": "machan-look-and-personality-deck",
@@ -1376,7 +1505,8 @@
       "requested_at": "2026-10-18T22:04:00+07:00",
       "added": "2026-10-18T22:17:28+07:00",
       "note": "Max asked Oct 18 2026 22:04 ICT: swipes on Machan and the origin story; results go to Branding, picks logged only",
-      "done_at": "2026-10-18T22:54:56+07:00"
+      "done_at": "2026-10-18T22:54:56+07:00",
+      "made": "2026-10-18"
     },
     {
       "id": "upkeep-tech-app-check-in-and-before-photos-deck",
@@ -1389,7 +1519,8 @@
       "requested_at": "2026-10-18T03:11:00+07:00",
       "added": "2026-10-18T03:42:16+07:00",
       "note": "Max's morning decks request (Oct 18 2026, from the Oct 17 daily work report); results go to UpKeep (heavy)",
-      "done_at": "2026-10-18T10:06:50+07:00"
+      "done_at": "2026-10-18T10:06:50+07:00",
+      "made": "2026-10-18"
     },
     {
       "id": "upkeep-tech-app-moisture-readings-and-walk-recap-deck",
@@ -1402,7 +1533,8 @@
       "requested_at": "2026-10-18T03:11:00+07:00",
       "added": "2026-10-18T03:42:16+07:00",
       "note": "Max's morning decks request (Oct 18 2026, from the Oct 17 daily work report); results go to UpKeep (heavy)",
-      "done_at": "2026-10-18T10:24:51+07:00"
+      "done_at": "2026-10-18T10:24:51+07:00",
+      "made": "2026-10-18"
     },
     {
       "id": "upkeep-investor-pitch-app-navigation-and-key-points-deck",
@@ -1415,7 +1547,8 @@
       "requested_at": "2026-10-18T03:11:00+07:00",
       "added": "2026-10-18T03:42:15+07:00",
       "note": "Max's morning decks request (Oct 18 2026, from the Oct 17 daily work report); results go to UpKeep (heavy)",
-      "done_at": "2026-10-18T15:33:27+07:00"
+      "done_at": "2026-10-18T15:33:27+07:00",
+      "made": "2026-10-18"
     },
     {
       "id": "upkeep-investor-pitch-honest-valuation-and-blob-chart-deck",
@@ -1428,7 +1561,8 @@
       "requested_at": "2026-10-18T03:11:00+07:00",
       "added": "2026-10-18T03:42:15+07:00",
       "note": "Max's morning decks request (Oct 18 2026, from the Oct 17 daily work report); results go to UpKeep (heavy)",
-      "done_at": "2026-10-18T16:16:46+07:00"
+      "done_at": "2026-10-18T16:16:46+07:00",
+      "made": "2026-10-18"
     },
     {
       "id": "upkeep-forecast-app-charts-scenarios-and-runway-deck",
@@ -1441,7 +1575,8 @@
       "requested_at": "2026-10-18T03:11:00+07:00",
       "added": "2026-10-18T03:42:15+07:00",
       "note": "Max's morning decks request (Oct 18 2026, from the Oct 17 daily work report); results go to UpKeep (heavy)",
-      "done_at": "2026-10-18T16:44:53+07:00"
+      "done_at": "2026-10-18T16:44:53+07:00",
+      "made": "2026-10-18"
     },
     {
       "id": "research-tech-certs-training-and-cool-tech-deck",
@@ -1454,7 +1589,8 @@
       "requested_at": "2026-10-18T03:11:00+07:00",
       "added": "2026-10-18T03:42:15+07:00",
       "note": "Max's morning decks request (Oct 18 2026, from the Oct 17 daily work report); results go to Research",
-      "done_at": "2026-10-19T16:07:03+07:00"
+      "done_at": "2026-10-19T16:07:03+07:00",
+      "made": "2026-10-18"
     },
     {
       "id": "upkeep-crew-uniform-new-options-deck",
@@ -1467,7 +1603,8 @@
       "requested_at": "2026-10-18T03:11:00+07:00",
       "added": "2026-10-18T03:42:15+07:00",
       "note": "Max's morning decks request (Oct 18 2026, from the Oct 17 daily work report); results go to UpKeep",
-      "done_at": "2026-10-18T16:13:34+07:00"
+      "done_at": "2026-10-18T16:13:34+07:00",
+      "made": "2026-10-18"
     },
     {
       "id": "all-boards-rules-deck",
@@ -1480,7 +1617,8 @@
       "requested_at": "2026-10-17T22:16:00+07:00",
       "added": "2026-10-17T22:29:42+07:00",
       "note": "Max asked 10:16 PM ICT: dashboard standard, overall rules for every board",
-      "done_at": "2026-10-19T12:21:15+07:00"
+      "done_at": "2026-10-19T12:21:15+07:00",
+      "made": "2026-10-17"
     },
     {
       "id": "upkeep-what-we-take-care-of-card-colors-and-finish-deck",
@@ -1497,7 +1635,8 @@
       "done_at": "2026-10-18T09:46:01+07:00",
       "skipped": [
         "07"
-      ]
+      ],
+      "made": "2026-10-17"
     },
     {
       "id": "upkeep-member-app-account-and-empty-states-deck",
@@ -1510,7 +1649,8 @@
       "requested_at": "2026-10-17T21:43:00+07:00",
       "added": "2026-10-17T22:18:43+07:00",
       "note": "UpKeep full review (Max 21:43 ICT): 10 cards: account menu, first month and problem states; results go to UpKeep; style-swipe a2a5860",
-      "done_at": "2026-10-18T09:56:54+07:00"
+      "done_at": "2026-10-18T09:56:54+07:00",
+      "made": "2026-10-17"
     },
     {
       "id": "upkeep-operator-console-alerts-and-test-data-deck",
@@ -1523,7 +1663,8 @@
       "requested_at": "2026-10-17T21:43:00+07:00",
       "added": "2026-10-17T22:18:43+07:00",
       "note": "UpKeep full review (Max 21:43 ICT): 10 cards: console alerts, test data and launch view; results go to UpKeep; style-swipe a2a5860",
-      "done_at": "2026-10-18T09:46:01+07:00"
+      "done_at": "2026-10-18T09:46:01+07:00",
+      "made": "2026-10-17"
     },
     {
       "id": "upkeep-extras-ideas-deck",
@@ -1536,7 +1677,8 @@
       "requested_at": "2026-10-17T21:43:00+07:00",
       "added": "2026-10-17T22:18:43+07:00",
       "note": "UpKeep full review (Max 21:43 ICT): 10 cards: new add-on ideas for the Extras list; results go to UpKeep; style-swipe a2a5860; Max 22:11 ICT rule: new add-ons for the Extras list",
-      "done_at": "2026-10-18T09:46:01+07:00"
+      "done_at": "2026-10-18T09:46:01+07:00",
+      "made": "2026-10-17"
     },
     {
       "id": "upkeep-what-we-take-care-of-fresh-look-and-more-info-deck",
@@ -1561,7 +1703,8 @@
         "03",
         "04",
         "05"
-      ]
+      ],
+      "made": "2026-10-17"
     },
     {
       "id": "upkeep-company-dashboard-deck",
@@ -1575,7 +1718,8 @@
       "added": "2026-10-17T21:22:48+07:00",
       "note": "Requested by Max 21:11 ICT; reworked 21:17 ICT as a hub with section dashboards; 21:23-21:24 ICT +4 Org Chart picks, 14 picks (UpKeep)",
       "updated": "2026-10-17T21:41:14+07:00",
-      "done_at": "2026-10-17T21:57:47+07:00"
+      "done_at": "2026-10-17T21:57:47+07:00",
+      "made": "2026-10-17"
     },
     {
       "id": "upkeep-what-we-take-care-of-compact-polish-deck",
@@ -1591,7 +1735,8 @@
       "done_at": "2026-10-17T21:42:17+07:00",
       "skipped": [
         "08"
-      ]
+      ],
+      "made": "2026-10-17"
     },
     {
       "id": "team-improvement-deck-round-four",
@@ -1606,7 +1751,8 @@
       "note": "Permanently pinned (R75); round four, 10 picks. Round three results applied Oct 17 (R112-R116)",
       "previous_round": "team-improvement-deck-round-three",
       "status": "open",
-      "requested_at": "2026-10-17T21:07:54+07:00"
+      "requested_at": "2026-10-17T21:07:54+07:00",
+      "made": "2026-10-17"
     },
     {
       "id": "main-deck-board-layout",
@@ -1622,7 +1768,8 @@
       "done_at": "2026-10-17T20:47:00+07:00",
       "skipped": [
         "09"
-      ]
+      ],
+      "made": "2026-10-17"
     },
     {
       "id": "mixed-deck-up-keep-round-two",
@@ -1639,7 +1786,8 @@
       "skipped": [
         "04",
         "07"
-      ]
+      ],
+      "made": "2026-10-17"
     },
     {
       "id": "machan-mark-options-deck",
@@ -1656,7 +1804,8 @@
         "02"
       ],
       "requested_at": "2026-10-16T21:42:54+07:00",
-      "requested_at_src": "git 07e255d (first added)"
+      "requested_at_src": "git 07e255d (first added)",
+      "made": "2026-10-16"
     },
     {
       "id": "upkeep-customer-profile-page-deck-visit-history-photos",
@@ -1676,7 +1825,8 @@
       "skipped": [
         "05",
         "09"
-      ]
+      ],
+      "made": "2026-10-17"
     },
     {
       "id": "upkeep-technician-page-deck-checklist-today",
@@ -1697,7 +1847,8 @@
         "02",
         "03",
         "06"
-      ]
+      ],
+      "made": "2026-10-17"
     },
     {
       "id": "upkeep-technician-page-deck-van-inventory-job-card",
@@ -1713,7 +1864,8 @@
       "blurb": "10 cards, ready now",
       "done_at": "2026-10-17T09:12:13+07:00",
       "requested_at": "2026-10-16T21:27:41+07:00",
-      "requested_at_src": "git 179c08c (first added)"
+      "requested_at_src": "git 179c08c (first added)",
+      "made": "2026-10-17"
     },
     {
       "id": "upkeep-customer-profile-page-deck-home-record",
@@ -1729,7 +1881,8 @@
       "blurb": "10 cards, ready now",
       "done_at": "2026-10-17T09:06:30+07:00",
       "requested_at": "2026-10-16T21:27:41+07:00",
-      "requested_at_src": "git 179c08c (first added)"
+      "requested_at_src": "git 179c08c (first added)",
+      "made": "2026-10-17"
     },
     {
       "id": "wellnest-tea-blend-ingredients-calm-line-digestion-line",
@@ -1745,7 +1898,8 @@
       "blurb": "10 cards, ready now",
       "done_at": "2026-10-17T08:15:56+07:00",
       "requested_at": "2026-10-16T21:27:00+07:00",
-      "requested_at_src": "note: Max asked Oct 16 21:27 ICT"
+      "requested_at_src": "note: Max asked Oct 16 21:27 ICT",
+      "made": "2026-10-17"
     },
     {
       "name": "Inbox Keep-or-Delete Deck",
@@ -1758,7 +1912,8 @@
       "status": "done",
       "done_at": "2026-10-16T16:39:43+07:00",
       "requested_at": "2026-10-16T12:40:19+07:00",
-      "requested_at_src": "git 23549e5 (first added)"
+      "requested_at_src": "git 23549e5 (first added)",
+      "made": "2026-10-16"
     },
     {
       "id": "upkeep-investor-pitch-deck-story-style-deck",
@@ -1779,7 +1934,8 @@
       "done_at": "2026-10-17T19:58:29+07:00",
       "skipped": [
         "04"
-      ]
+      ],
+      "made": "2026-10-17"
     },
     {
       "id": "upkeep-investor-pitch-deck-numbers-market-deck",
@@ -1801,7 +1957,8 @@
       "skipped": [
         "03",
         "08"
-      ]
+      ],
+      "made": "2026-10-17"
     },
     {
       "id": "security-duties-deck",
@@ -1818,7 +1975,8 @@
       ],
       "note": "Requested by Max; results go to Security",
       "requested_at": "2026-10-16T03:32:35+07:00",
-      "requested_at_src": "git 822e2a1 (first in history)"
+      "requested_at_src": "git 822e2a1 (first in history)",
+      "made": "2026-10-16"
     },
     {
       "id": "upkeep-forecasting-and-projections-deck",
@@ -1836,7 +1994,8 @@
       ],
       "note": "Requested by Max; results go to UpKeep",
       "requested_at": "2026-10-16T03:32:35+07:00",
-      "requested_at_src": "git 822e2a1 (first in history)"
+      "requested_at_src": "git 822e2a1 (first in history)",
+      "made": "2026-10-16"
     }
   ],
   "requested_note": "Max Oct 16 2026 12:36 ICT (R77): decks Max specifically asks for go in 'requested' and show in the board's Requested Decks section, not the header shelf. status open|done; on results set status done, answered, done_at (tools/requested.py). Order (R90, Max Oct 17 2026 10:59 ICT): newest request first by requested_at (when Max asked), open before done; requested.py add stamps requested_at and every write re-sorts.",
@@ -1850,7 +2009,8 @@
       "blurb": "Feed cards and report bar styles, 20 cards",
       "tag": "Report Bars",
       "unlisted_from": "decks",
-      "unlisted_note": "Dashboard deck unlisted (Max Oct 16 2026 23:19 ICT: no dashboard decks unless he asks). Deck files/pages/votes kept."
+      "unlisted_note": "Dashboard deck unlisted (Max Oct 16 2026 23:19 ICT: no dashboard decks unless he asks). Deck files/pages/votes kept.",
+      "made": "2026-10-14"
     },
     {
       "id": "dashboards-ready-2",
@@ -1861,7 +2021,8 @@
       "blurb": "Board layout, decision cards, deck rows, 20 cards",
       "tag": "Layout",
       "unlisted_from": "decks",
-      "unlisted_note": "Dashboard deck unlisted (Max Oct 16 2026 23:19 ICT: no dashboard decks unless he asks). Deck files/pages/votes kept."
+      "unlisted_note": "Dashboard deck unlisted (Max Oct 16 2026 23:19 ICT: no dashboard decks unless he asks). Deck files/pages/votes kept.",
+      "made": "2026-10-14"
     },
     {
       "name": "Security Dashboard Setup Deck",
@@ -1873,7 +2034,8 @@
       "id": "security-dashboard-setup-deck",
       "status": "open",
       "unlisted_from": "requested",
-      "unlisted_note": "Dashboard deck unlisted (Max Oct 16 2026 23:19 ICT: no dashboard decks unless he asks). Deck files/pages/votes kept."
+      "unlisted_note": "Dashboard deck unlisted (Max Oct 16 2026 23:19 ICT: no dashboard decks unless he asks). Deck files/pages/votes kept.",
+      "made": "2026-10-15"
     },
     {
       "id": "wellnest-roselle-packaging-polish",
@@ -1889,7 +2051,8 @@
       "split_into": [
         "wellnest-roselle-packaging-polish-pink-wash-words",
         "wellnest-roselle-packaging-polish-pouch-back-panel"
-      ]
+      ],
+      "made": "2026-10-16"
     },
     {
       "id": "wellnest-tea-blend-ingredients",
@@ -1905,7 +2068,8 @@
       "split_into": [
         "wellnest-tea-blend-ingredients-calm-line-digestion-line",
         "wellnest-tea-blend-ingredients-calm-line-beauty-line"
-      ]
+      ],
+      "made": "2026-10-16"
     },
     {
       "id": "wellnest-tea-packaging",
@@ -1921,7 +2085,8 @@
       "split_into": [
         "wellnest-tea-packaging-label-info-containers",
         "wellnest-tea-packaging-label-look"
-      ]
+      ],
+      "made": "2026-10-16"
     },
     {
       "id": "wellnest-partner-tea-blends",
@@ -1937,7 +2102,8 @@
       "split_into": [
         "wellnest-partner-tea-blends-vanni-buds-station",
         "wellnest-partner-tea-blends-powerhaus-buds-station"
-      ]
+      ],
+      "made": "2026-10-16"
     },
     {
       "id": "wellnest-partner-tea-packaging",
@@ -1953,7 +2119,8 @@
       "split_into": [
         "wellnest-partner-tea-packaging-vanni-buds-station",
         "wellnest-partner-tea-packaging-powerhaus-buds-station"
-      ]
+      ],
+      "made": "2026-10-16"
     },
     {
       "id": "upkeep-technician-page-deck",
@@ -1969,7 +2136,8 @@
       "split_into": [
         "upkeep-technician-page-deck-checklist-today",
         "upkeep-technician-page-deck-van-inventory-job-card"
-      ]
+      ],
+      "made": "2026-10-16"
     },
     {
       "id": "upkeep-customer-profile-page-deck",
@@ -1985,7 +2153,8 @@
       "split_into": [
         "upkeep-customer-profile-page-deck-home-record",
         "upkeep-customer-profile-page-deck-visit-history-photos"
-      ]
+      ],
+      "made": "2026-10-16"
     },
     {
       "id": "upkeep-investor-pitch-deck",
@@ -2003,7 +2172,8 @@
       "split_into": [
         "upkeep-investor-pitch-deck-numbers-market-deck",
         "upkeep-investor-pitch-deck-story-style-deck"
-      ]
+      ],
+      "made": "2026-10-16"
     }
   ],
   "cap": 10,
@@ -2026,7 +2196,8 @@
       "requested_at_src": "note: Max asked Oct 16 21:44 ICT",
       "removed_at": "2026-10-17T19:58:02+07:00",
       "removed_from": "requested",
-      "board": "branding-djqmb410#picks"
+      "board": "branding-djqmb410#picks",
+      "made": "2026-10-17"
     },
     {
       "id": "wellnest-roselle-packaging-polish-pouch-back-panel",
@@ -2044,7 +2215,8 @@
       "requested_at_src": "note: Max asked Oct 16 21:44 ICT",
       "removed_at": "2026-10-17T19:58:02+07:00",
       "removed_from": "requested",
-      "board": "branding-djqmb410#picks"
+      "board": "branding-djqmb410#picks",
+      "made": "2026-10-17"
     },
     {
       "id": "wellnest-tea-blend-ingredients-calm-line-beauty-line",
@@ -2063,7 +2235,8 @@
       "requested_at_src": "note: Max asked Oct 16 21:27 ICT",
       "removed_at": "2026-10-17T19:58:02+07:00",
       "removed_from": "requested",
-      "board": "branding-djqmb410#picks"
+      "board": "branding-djqmb410#picks",
+      "made": "2026-10-17"
     },
     {
       "id": "wellnest-tea-packaging-label-info-containers",
@@ -2081,7 +2254,8 @@
       "requested_at_src": "note: Max asked Oct 16 21:27 ICT",
       "removed_at": "2026-10-17T19:58:02+07:00",
       "removed_from": "requested",
-      "board": "branding-djqmb410#picks"
+      "board": "branding-djqmb410#picks",
+      "made": "2026-10-17"
     },
     {
       "id": "wellnest-tea-packaging-label-look",
@@ -2099,7 +2273,8 @@
       "requested_at_src": "note: Max asked Oct 16 21:27 ICT",
       "removed_at": "2026-10-17T19:58:02+07:00",
       "removed_from": "requested",
-      "board": "branding-djqmb410#picks"
+      "board": "branding-djqmb410#picks",
+      "made": "2026-10-17"
     },
     {
       "id": "wellnest-partner-tea-blends-vanni-buds-station",
@@ -2117,7 +2292,8 @@
       "requested_at_src": "note: Max asked Oct 16 21:27 ICT",
       "removed_at": "2026-10-17T19:58:02+07:00",
       "removed_from": "requested",
-      "board": "branding-djqmb410#picks"
+      "board": "branding-djqmb410#picks",
+      "made": "2026-10-17"
     },
     {
       "id": "wellnest-partner-tea-blends-powerhaus-buds-station",
@@ -2135,7 +2311,8 @@
       "requested_at_src": "note: Max asked Oct 16 21:27 ICT",
       "removed_at": "2026-10-17T19:58:02+07:00",
       "removed_from": "requested",
-      "board": "branding-djqmb410#picks"
+      "board": "branding-djqmb410#picks",
+      "made": "2026-10-17"
     },
     {
       "id": "wellnest-partner-tea-packaging-vanni-buds-station",
@@ -2153,7 +2330,8 @@
       "requested_at_src": "note: Max asked Oct 16 21:27 ICT",
       "removed_at": "2026-10-17T19:58:02+07:00",
       "removed_from": "requested",
-      "board": "branding-djqmb410#picks"
+      "board": "branding-djqmb410#picks",
+      "made": "2026-10-17"
     },
     {
       "id": "wellnest-partner-tea-packaging-powerhaus-buds-station",
@@ -2171,7 +2349,8 @@
       "requested_at_src": "note: Max asked Oct 16 21:27 ICT",
       "removed_at": "2026-10-17T19:58:02+07:00",
       "removed_from": "requested",
-      "board": "branding-djqmb410#picks"
+      "board": "branding-djqmb410#picks",
+      "made": "2026-10-17"
     },
     {
       "id": "wellnest-new-tea-ideas-deck",
@@ -2186,7 +2365,8 @@
       "note": "Max's morning decks request (Oct 18 2026, from the Oct 17 daily work report); results go to WellNest",
       "removed_at": "2026-10-18T23:14:59+07:00",
       "removed_from": "requested",
-      "board": "branding-djqmb410#picks"
+      "board": "branding-djqmb410#picks",
+      "made": "2026-10-18"
     },
     {
       "id": "upkeep-tech-app-walkthrough-full-list-and-step-screens-deck",
@@ -2202,7 +2382,8 @@
       "removed_at": "2026-10-19T15:51:50+07:00",
       "removed_from": "requested",
       "board": "branding-djqmb410#picks",
-      "removed_by": "Max (one-click remove)"
+      "removed_by": "Max (one-click remove)",
+      "made": "2026-10-18"
     },
     {
       "id": "upkeep-trust-tags-loop-wording-colour-and-motion-deck",
@@ -2218,7 +2399,8 @@
       "removed_at": "2026-10-19T15:52:02+07:00",
       "removed_from": "requested",
       "board": "branding-djqmb410#picks",
-      "removed_by": "Max (one-click remove)"
+      "removed_by": "Max (one-click remove)",
+      "made": "2026-10-18"
     },
     {
       "id": "upkeep-what-we-take-care-of-care-card-carousel-deck",
@@ -2234,7 +2416,8 @@
       "removed_at": "2026-10-19T15:52:06+07:00",
       "removed_from": "requested",
       "board": "branding-djqmb410#picks",
-      "removed_by": "Max (one-click remove)"
+      "removed_by": "Max (one-click remove)",
+      "made": "2026-10-18"
     },
     {
       "id": "upkeep-home-page-trust-tags-and-care-cards-together-deck",
@@ -2250,7 +2433,8 @@
       "removed_at": "2026-10-19T15:52:12+07:00",
       "removed_from": "requested",
       "board": "branding-djqmb410#picks",
-      "removed_by": "Max (one-click remove)"
+      "removed_by": "Max (one-click remove)",
+      "made": "2026-10-18"
     },
     {
       "id": "branding-max-s-picks-phone-carousel-deck",
@@ -2266,7 +2450,8 @@
       "removed_at": "2026-10-19T15:52:16+07:00",
       "removed_from": "requested",
       "board": "branding-djqmb410#picks",
-      "removed_by": "Max (one-click remove)"
+      "removed_by": "Max (one-click remove)",
+      "made": "2026-10-18"
     },
     {
       "id": "upkeep-operator-dash-section-pages-deck",
@@ -2282,7 +2467,8 @@
       "removed_at": "2026-10-19T12:18:01+07:00",
       "removed_from": "requested",
       "board": "branding-djqmb410#picks",
-      "removed_by": "Max (one-click remove)"
+      "removed_by": "Max (one-click remove)",
+      "made": "2026-10-17"
     },
     {
       "id": "mixed-upkeep-follow-up-lists-crew-and-lawn-deck",
@@ -2298,7 +2484,8 @@
       "removed_at": "2026-10-19T12:18:01+07:00",
       "removed_from": "requested",
       "board": "branding-djqmb410#picks",
-      "removed_by": "Max (one-click remove)"
+      "removed_by": "Max (one-click remove)",
+      "made": "2026-10-17"
     },
     {
       "id": "customer-visit-history-and-photos-reports-and-scan-deck",
@@ -2314,7 +2501,8 @@
       "removed_at": "2026-10-19T12:17:58+07:00",
       "removed_from": "requested",
       "board": "branding-djqmb410#picks",
-      "removed_by": "Max (one-click remove)"
+      "removed_by": "Max (one-click remove)",
+      "made": "2026-10-17"
     },
     {
       "id": "investor-numbers-and-market-ask-traction-and-size-deck",
@@ -2330,7 +2518,8 @@
       "removed_at": "2026-10-19T12:17:51+07:00",
       "removed_from": "requested",
       "board": "branding-djqmb410#picks",
-      "removed_by": "Max (one-click remove)"
+      "removed_by": "Max (one-click remove)",
+      "made": "2026-10-17"
     },
     {
       "id": "upkeep-site-trust-and-launch-dates-deck",
@@ -2346,7 +2535,8 @@
       "removed_at": "2026-10-19T12:17:48+07:00",
       "removed_from": "requested",
       "board": "branding-djqmb410#picks",
-      "removed_by": "Max (one-click remove)"
+      "removed_by": "Max (one-click remove)",
+      "made": "2026-10-17"
     },
     {
       "id": "main-deck-board-polish",
@@ -2362,7 +2552,8 @@
       "removed_at": "2026-10-19T12:17:44+07:00",
       "removed_from": "requested",
       "board": "branding-djqmb410#picks",
-      "removed_by": "Max (one-click remove)"
+      "removed_by": "Max (one-click remove)",
+      "made": "2026-10-17"
     },
     {
       "id": "branding-gift-swipe-big-idea-deck",
@@ -2378,7 +2569,8 @@
       "removed_at": "2026-10-20T11:39:11+07:00",
       "removed_from": "requested",
       "board": "branding-djqmb410#picks",
-      "removed_by": "Max (one-click remove)"
+      "removed_by": "Max (one-click remove)",
+      "made": "2026-10-20"
     },
     {
       "id": "branding-command-center-layout-deck",
@@ -2394,7 +2586,8 @@
       "removed_at": "2026-10-20T12:26:27+07:00",
       "removed_from": "requested",
       "board": "branding-djqmb410#picks",
-      "removed_by": "Max (one-click remove)"
+      "removed_by": "Max (one-click remove)",
+      "made": "2026-10-19"
     },
     {
       "id": "branding-scheduling-board-finishing-touches",
@@ -2410,7 +2603,8 @@
       "removed_at": "2026-10-20T12:26:26+07:00",
       "removed_from": "requested",
       "board": "branding-djqmb410#picks",
-      "removed_by": "Max (one-click remove)"
+      "removed_by": "Max (one-click remove)",
+      "made": "2026-10-19"
     },
     {
       "id": "branding-board-rules-final-polish",
@@ -2426,7 +2620,8 @@
       "removed_at": "2026-10-20T12:26:25+07:00",
       "removed_from": "requested",
       "board": "branding-djqmb410#picks",
-      "removed_by": "Max (one-click remove)"
+      "removed_by": "Max (one-click remove)",
+      "made": "2026-10-19"
     },
     {
       "id": "branding-member-catalog-finishing-touches",
@@ -2442,7 +2637,8 @@
       "removed_at": "2026-10-20T12:26:24+07:00",
       "removed_from": "requested",
       "board": "branding-djqmb410#picks",
-      "removed_by": "Max (one-click remove)"
+      "removed_by": "Max (one-click remove)",
+      "made": "2026-10-19"
     },
     {
       "id": "branding-technicians-board-details",
@@ -2458,7 +2654,8 @@
       "removed_at": "2026-10-20T12:26:23+07:00",
       "removed_from": "requested",
       "board": "branding-djqmb410#picks",
-      "removed_by": "Max (one-click remove)"
+      "removed_by": "Max (one-click remove)",
+      "made": "2026-10-19"
     },
     {
       "id": "branding-tools-equipment-details",
@@ -2474,7 +2671,8 @@
       "removed_at": "2026-10-20T12:26:23+07:00",
       "removed_from": "requested",
       "board": "branding-djqmb410#picks",
-      "removed_by": "Max (one-click remove)"
+      "removed_by": "Max (one-click remove)",
+      "made": "2026-10-19"
     },
     {
       "id": "end-screen-refinements",
@@ -2490,7 +2688,8 @@
       "removed_at": "2026-10-20T12:26:22+07:00",
       "removed_from": "requested",
       "board": "branding-djqmb410#picks",
-      "removed_by": "Max (one-click remove)"
+      "removed_by": "Max (one-click remove)",
+      "made": "2026-10-19"
     },
     {
       "id": "dashboard-kit-carousel-standard-deck",
@@ -2506,7 +2705,8 @@
       "removed_at": "2026-10-20T12:26:21+07:00",
       "removed_from": "requested",
       "board": "branding-djqmb410#picks",
-      "removed_by": "Max (one-click remove)"
+      "removed_by": "Max (one-click remove)",
+      "made": "2026-10-18"
     },
     {
       "id": "dashboard-kit-phone-sections-as-carousels-deck",
@@ -2522,7 +2722,8 @@
       "removed_at": "2026-10-20T12:26:21+07:00",
       "removed_from": "requested",
       "board": "branding-djqmb410#picks",
-      "removed_by": "Max (one-click remove)"
+      "removed_by": "Max (one-click remove)",
+      "made": "2026-10-18"
     },
     {
       "id": "research-machan-launch-and-checkout-options-deck",
@@ -2538,7 +2739,8 @@
       "removed_at": "2026-10-20T12:26:20+07:00",
       "removed_from": "requested",
       "board": "branding-djqmb410#picks",
-      "removed_by": "Max (one-click remove)"
+      "removed_by": "Max (one-click remove)",
+      "made": "2026-10-18"
     },
     {
       "id": "upkeep-member-profile-all-good-sign-and-problems-deck",
@@ -2554,7 +2756,8 @@
       "removed_at": "2026-10-20T12:26:19+07:00",
       "removed_from": "requested",
       "board": "branding-djqmb410#picks",
-      "removed_by": "Max (one-click remove)"
+      "removed_by": "Max (one-click remove)",
+      "made": "2026-10-18"
     },
     {
       "id": "upkeep-sign-up-form-cancel-notice-steps-and-pay-deck",
@@ -2570,7 +2773,8 @@
       "removed_at": "2026-10-20T12:26:19+07:00",
       "removed_from": "requested",
       "board": "branding-djqmb410#picks",
-      "removed_by": "Max (one-click remove)"
+      "removed_by": "Max (one-click remove)",
+      "made": "2026-10-18"
     },
     {
       "id": "legal-questions-center-grouping-deck",
@@ -2586,7 +2790,8 @@
       "removed_at": "2026-10-20T12:26:18+07:00",
       "removed_from": "requested",
       "board": "branding-djqmb410#picks",
-      "removed_by": "Max (one-click remove)"
+      "removed_by": "Max (one-click remove)",
+      "made": "2026-10-18"
     },
     {
       "id": "main-dashboard-rules-deck",
@@ -2602,7 +2807,8 @@
       "removed_at": "2026-10-20T12:26:12+07:00",
       "removed_from": "requested",
       "board": "branding-djqmb410#picks",
-      "removed_by": "Max (one-click remove)"
+      "removed_by": "Max (one-click remove)",
+      "made": "2026-10-17"
     }
   ]
 }
