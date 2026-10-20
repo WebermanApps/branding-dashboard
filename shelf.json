@@ -553,6 +553,30 @@
  "queued_note": "Held back by the 5-deck cap (pinned + decks <= 5). Requested decks never count toward the cap and never show in the header shelf.",
  "requested": [
   {
+   "id": "thumbnail-remake-2a-quiet-editorial-newest-nvjs8v",
+   "name": "Thumbnail Remake 2A",
+   "url": "https://webermanapps.github.io/style-swipe/thumbnail-remake-2a-quiet-editorial-newest-nvjs8v/",
+   "total": 11,
+   "answered": 0,
+   "tag": "Max's Picks",
+   "status": "open",
+   "requested_at": "2026-10-20T14:40:00+07:00",
+   "added": "2026-10-20T14:40:00+07:00",
+   "note": "Machan Oct 20 2026 ICT: @AMomentInThai thumbnail remake pass 2. Same photo, two new quiet treatments: A editorial hook vs B film caption. 10 newest Shorts plus Raising a Family. Tap & Swipe, Machan Decides and Skip. Submits as agent 'branding'."
+  },
+  {
+   "id": "thumbnail-remake-2b-quiet-editorial-older-eeqynl",
+   "name": "Thumbnail Remake 2B",
+   "url": "https://webermanapps.github.io/style-swipe/thumbnail-remake-2b-quiet-editorial-older-eeqynl/",
+   "total": 11,
+   "answered": 0,
+   "tag": "Max's Picks",
+   "status": "open",
+   "requested_at": "2026-10-20T14:40:00+07:00",
+   "added": "2026-10-20T14:40:00+07:00",
+   "note": "Machan Oct 20 2026 ICT: @AMomentInThai thumbnail remake pass 2. Same photo, two new quiet treatments: A editorial hook vs B film caption. the 11 older Shorts. Tap & Swipe, Machan Decides and Skip. Submits as agent 'branding'."
+  },
+  {
    "id": "tap-swipe-transitions",
    "name": "Tap & Swipe Transitions",
    "url": "https://webermanapps.github.io/style-swipe/tap-swipe-transitions-lwj186/",
