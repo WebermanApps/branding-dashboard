@@ -693,6 +693,20 @@
   ],
   "pinned": [
     {
+      "id": "command-center-theme",
+      "name": "Command Center Theme",
+      "url": "https://webermanapps.github.io/style-swipe/command-center-theme-pc0ioh/",
+      "total": 10,
+      "topic": "command-center-theme",
+      "added": "2026-10-20T20:50:00+07:00",
+      "made": "2026-10-20",
+      "tag": "UpKeep",
+      "pinned": true,
+      "blurb": "10 cards, ready now, 1920px dark NASA-feel mockups (Command Center only), with Notes",
+      "answered": 0,
+      "agent": "upkeep"
+    },
+    {
       "id": "upkeep-command-center-info-flow-deck",
       "name": "Command Center Info Flow",
       "url": "https://webermanapps.github.io/style-swipe/command-center-info-flow-ymuj9c/",
