@@ -102,7 +102,7 @@
       "blurb": "10 cards, ready now"
     }
   ],
-  "updated": "2026-10-20T20:40:00+07:00",
+  "updated": "2026-10-20T21:10:00+07:00",
   "done": [
     {
       "id": "up-next-deck",
@@ -615,6 +615,60 @@
     }
   ],
   "pinned": [
+    {
+      "id": "upkeep-command-center-info-flow-deck",
+      "name": "Command Center Info Flow",
+      "url": "https://webermanapps.github.io/style-swipe/command-center-info-flow-ymuj9c/",
+      "total": 10,
+      "topic": "upkeep-command-center-info-flow-deck",
+      "added": "2026-10-20T21:10:00+07:00",
+      "tag": "UpKeep",
+      "pinned": true,
+      "blurb": "10 cards, ready now, 1920px mockups, pings, Needs Machan, refresh and ownership, with Notes",
+      "answered": 0,
+      "agent": "upkeep",
+      "requested": true,
+      "requested_by": "UpKeep Develop"
+    },
+    {
+      "id": "upkeep-mission-control-layout-deck",
+      "name": "Mission Control Layout",
+      "url": "https://webermanapps.github.io/style-swipe/mission-control-layout-n0fc5v/",
+      "total": 10,
+      "topic": "upkeep-mission-control-layout-deck",
+      "added": "2026-10-20T21:10:00+07:00",
+      "tag": "UpKeep",
+      "pinned": true,
+      "blurb": "10 cards, ready now, 1920px mockups, wide-screen layout and density, with Notes",
+      "answered": 0,
+      "agent": "upkeep"
+    },
+    {
+      "id": "upkeep-mission-control-panels-deck",
+      "name": "Mission Control Panels",
+      "url": "https://webermanapps.github.io/style-swipe/mission-control-panels-uz5g3f/",
+      "total": 10,
+      "topic": "upkeep-mission-control-panels-deck",
+      "added": "2026-10-20T21:10:00+07:00",
+      "tag": "UpKeep",
+      "pinned": true,
+      "blurb": "10 cards, ready now, 1920px mockups, which live panels earn a spot, with Notes",
+      "answered": 0,
+      "agent": "upkeep"
+    },
+    {
+      "id": "upkeep-team-boards-deck",
+      "name": "Team Boards",
+      "url": "https://webermanapps.github.io/style-swipe/team-boards-ei48l0/",
+      "total": 10,
+      "topic": "upkeep-team-boards-deck",
+      "added": "2026-10-20T21:10:00+07:00",
+      "tag": "UpKeep",
+      "pinned": true,
+      "blurb": "10 cards, ready now, 1920px mockups, Gen 2 Members, Technicians, Scheduling, Tools boards, with Notes",
+      "answered": 0,
+      "agent": "upkeep"
+    },
     {
       "id": "courtyard-shape",
       "name": "Courtyard Shape",
