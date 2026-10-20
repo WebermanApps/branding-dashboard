@@ -111,7 +111,7 @@
       "made": "2026-10-17"
     }
   ],
-  "updated": "2026-10-20T21:10:00+07:00",
+  "updated": "2026-10-20T20:47:56+07:00",
   "done": [
     {
       "id": "up-next-deck",
@@ -689,6 +689,13 @@
       "answered": 10,
       "total": 10,
       "made": "2026-10-20"
+    },
+    {
+      "id": "upkeep-command-center-info-flow-deck",
+      "at": "2026-10-20T20:39:18+07:00",
+      "name": "Command Center Info Flow",
+      "answered": 10,
+      "total": 10
     }
   ],
   "pinned": [
@@ -705,21 +712,6 @@
       "blurb": "10 cards, ready now, 1920px dark NASA-feel mockups (Command Center only), with Notes",
       "answered": 0,
       "agent": "upkeep"
-    },
-    {
-      "id": "upkeep-command-center-info-flow-deck",
-      "name": "Command Center Info Flow",
-      "url": "https://webermanapps.github.io/style-swipe/command-center-info-flow-ymuj9c/",
-      "total": 10,
-      "topic": "upkeep-command-center-info-flow-deck",
-      "added": "2026-10-20T21:10:00+07:00",
-      "tag": "UpKeep",
-      "pinned": true,
-      "blurb": "10 cards, ready now, 1920px mockups, pings, Needs Machan, refresh and ownership, with Notes",
-      "answered": 0,
-      "agent": "upkeep",
-      "requested": true,
-      "requested_by": "UpKeep Develop"
     },
     {
       "id": "upkeep-mission-control-layout-deck",
@@ -930,45 +922,6 @@
       "made": "2026-10-20"
     },
     {
-      "id": "ping-alerts",
-      "name": "Ping Alerts",
-      "url": "https://webermanapps.github.io/style-swipe/ping-alerts-a6fe77/",
-      "total": 6,
-      "answered": 0,
-      "tag": "Max's Picks",
-      "status": "open",
-      "requested_at": "2026-10-20T14:15:50+07:00",
-      "added": "2026-10-20T14:15:50+07:00",
-      "note": "Machan Oct 20 2026 ICT: 6 alert types, Ping me right away vs Board is fine (no ping), to really limit direct pings. Tap & Swipe, Machan Decides and Skip. Submits as agent 'branding'. Top of Max's Picks.",
-      "made": "2026-10-20"
-    },
-    {
-      "id": "thumbnail-remake-2a-quiet-editorial-newest-nvjs8v",
-      "name": "Thumbnail Remake 2A",
-      "url": "https://webermanapps.github.io/style-swipe/thumbnail-remake-2a-quiet-editorial-newest-nvjs8v/",
-      "total": 11,
-      "answered": 0,
-      "tag": "Max's Picks",
-      "status": "open",
-      "requested_at": "2026-10-20T14:40:00+07:00",
-      "added": "2026-10-20T14:40:00+07:00",
-      "note": "Machan Oct 20 2026 ICT: @AMomentInThai thumbnail remake pass 2. Same photo, two new quiet treatments: A editorial hook vs B film caption. 10 newest Shorts plus Raising a Family. Tap & Swipe, Machan Decides and Skip. Submits as agent 'branding'.",
-      "made": "2026-10-20"
-    },
-    {
-      "id": "thumbnail-remake-2b-quiet-editorial-older-eeqynl",
-      "name": "Thumbnail Remake 2B",
-      "url": "https://webermanapps.github.io/style-swipe/thumbnail-remake-2b-quiet-editorial-older-eeqynl/",
-      "total": 11,
-      "answered": 0,
-      "tag": "Max's Picks",
-      "status": "open",
-      "requested_at": "2026-10-20T14:40:00+07:00",
-      "added": "2026-10-20T14:40:00+07:00",
-      "note": "Machan Oct 20 2026 ICT: @AMomentInThai thumbnail remake pass 2. Same photo, two new quiet treatments: A editorial hook vs B film caption. the 11 older Shorts. Tap & Swipe, Machan Decides and Skip. Submits as agent 'branding'.",
-      "made": "2026-10-20"
-    },
-    {
       "id": "tap-swipe-transitions",
       "name": "Tap & Swipe Transitions",
       "url": "https://webermanapps.github.io/style-swipe/tap-swipe-transitions-lwj186/",
@@ -1008,19 +961,6 @@
       "added": "2026-10-20T13:17:20+07:00",
       "note": "Machan Oct 20 2026 ICT: @AMomentInThai thumbnail remake pass 1 of 3. Old left, new right. 10 newest Shorts plus Raising a Family. Notes and You decide. Submits as agent 'branding'.",
       "done_at": "2026-10-20T14:04:05+07:00",
-      "made": "2026-10-20"
-    },
-    {
-      "id": "thumbnail-remake-older-shorts-hd8r7l",
-      "name": "Thumbnail Remake 1B",
-      "url": "https://webermanapps.github.io/style-swipe/thumbnail-remake-older-shorts-hd8r7l/",
-      "total": 11,
-      "answered": 0,
-      "tag": "Max's Picks",
-      "status": "open",
-      "requested_at": "2026-10-20T13:17:20+07:00",
-      "added": "2026-10-20T13:17:20+07:00",
-      "note": "Machan Oct 20 2026 ICT: @AMomentInThai thumbnail remake pass 1 of 3. Old left, new right. The next 11 older Shorts (1 held for pass 2). Notes and You decide. Submits as agent 'branding'.",
       "made": "2026-10-20"
     },
     {
@@ -2823,6 +2763,74 @@
       "board": "branding-djqmb410#picks",
       "removed_by": "Max (one-click remove)",
       "made": "2026-10-17"
+    },
+    {
+      "id": "ping-alerts",
+      "name": "Ping Alerts",
+      "url": "https://webermanapps.github.io/style-swipe/ping-alerts-a6fe77/",
+      "total": 6,
+      "answered": 0,
+      "tag": "Max's Picks",
+      "status": "removed",
+      "requested_at": "2026-10-20T14:15:50+07:00",
+      "added": "2026-10-20T14:15:50+07:00",
+      "note": "Machan Oct 20 2026 ICT: 6 alert types, Ping me right away vs Board is fine (no ping), to really limit direct pings. Tap & Swipe, Machan Decides and Skip. Submits as agent 'branding'. Top of Max's Picks.",
+      "made": "2026-10-20",
+      "removed_at": "2026-10-20T20:25:56+07:00",
+      "removed_from": "requested",
+      "board": "branding-djqmb410#picks",
+      "removed_by": "Max (one-click remove)"
+    },
+    {
+      "id": "thumbnail-remake-2a-quiet-editorial-newest-nvjs8v",
+      "name": "Thumbnail Remake 2A",
+      "url": "https://webermanapps.github.io/style-swipe/thumbnail-remake-2a-quiet-editorial-newest-nvjs8v/",
+      "total": 11,
+      "answered": 0,
+      "tag": "Max's Picks",
+      "status": "removed",
+      "requested_at": "2026-10-20T14:40:00+07:00",
+      "added": "2026-10-20T14:40:00+07:00",
+      "note": "Machan Oct 20 2026 ICT: @AMomentInThai thumbnail remake pass 2. Same photo, two new quiet treatments: A editorial hook vs B film caption. 10 newest Shorts plus Raising a Family. Tap & Swipe, Machan Decides and Skip. Submits as agent 'branding'.",
+      "made": "2026-10-20",
+      "removed_at": "2026-10-20T20:25:52+07:00",
+      "removed_from": "requested",
+      "board": "branding-djqmb410#picks",
+      "removed_by": "Max (one-click remove)"
+    },
+    {
+      "id": "thumbnail-remake-2b-quiet-editorial-older-eeqynl",
+      "name": "Thumbnail Remake 2B",
+      "url": "https://webermanapps.github.io/style-swipe/thumbnail-remake-2b-quiet-editorial-older-eeqynl/",
+      "total": 11,
+      "answered": 0,
+      "tag": "Max's Picks",
+      "status": "removed",
+      "requested_at": "2026-10-20T14:40:00+07:00",
+      "added": "2026-10-20T14:40:00+07:00",
+      "note": "Machan Oct 20 2026 ICT: @AMomentInThai thumbnail remake pass 2. Same photo, two new quiet treatments: A editorial hook vs B film caption. the 11 older Shorts. Tap & Swipe, Machan Decides and Skip. Submits as agent 'branding'.",
+      "made": "2026-10-20",
+      "removed_at": "2026-10-20T20:25:53+07:00",
+      "removed_from": "requested",
+      "board": "branding-djqmb410#picks",
+      "removed_by": "Max (one-click remove)"
+    },
+    {
+      "id": "thumbnail-remake-older-shorts-hd8r7l",
+      "name": "Thumbnail Remake 1B",
+      "url": "https://webermanapps.github.io/style-swipe/thumbnail-remake-older-shorts-hd8r7l/",
+      "total": 11,
+      "answered": 0,
+      "tag": "Max's Picks",
+      "status": "removed",
+      "requested_at": "2026-10-20T13:17:20+07:00",
+      "added": "2026-10-20T13:17:20+07:00",
+      "note": "Machan Oct 20 2026 ICT: @AMomentInThai thumbnail remake pass 1 of 3. Old left, new right. The next 11 older Shorts (1 held for pass 2). Notes and You decide. Submits as agent 'branding'.",
+      "made": "2026-10-20",
+      "removed_at": "2026-10-20T20:25:59+07:00",
+      "removed_from": "requested",
+      "board": "branding-djqmb410#picks",
+      "removed_by": "Max (one-click remove)"
     }
   ]
 }
