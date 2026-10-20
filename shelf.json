@@ -553,6 +553,18 @@
  "queued_note": "Held back by the 5-deck cap (pinned + decks <= 5). Requested decks never count toward the cap and never show in the header shelf.",
  "requested": [
   {
+   "id": "story-name",
+   "name": "Story Name Deck",
+   "url": "https://webermanapps.github.io/style-swipe/story-name-m4c7tl/",
+   "total": 11,
+   "answered": 0,
+   "tag": "Max's Picks",
+   "status": "open",
+   "requested_at": "2026-10-20T14:45:00+07:00",
+   "added": "2026-10-20T14:45:00+07:00",
+   "note": "Machan Oct 20 2026 ICT: pick the title of Machan's story. 11 A vs B pairs, 14 titles; The Legend of Machan appears 3 times. Tap & Swipe, Machan Decides and Skip. Submits as agent 'branding'. Top of Max's Picks."
+  },
+  {
    "id": "ping-alerts",
    "name": "Ping Alerts",
    "url": "https://webermanapps.github.io/style-swipe/ping-alerts-a6fe77/",
