@@ -553,6 +553,18 @@
  "queued_note": "Held back by the 5-deck cap (pinned + decks <= 5). Requested decks never count toward the cap and never show in the header shelf.",
  "requested": [
   {
+   "id": "ping-alerts",
+   "name": "Ping Alerts",
+   "url": "https://webermanapps.github.io/style-swipe/ping-alerts-a6fe77/",
+   "total": 6,
+   "answered": 0,
+   "tag": "Max's Picks",
+   "status": "open",
+   "requested_at": "2026-10-20T14:15:50+07:00",
+   "added": "2026-10-20T14:15:50+07:00",
+   "note": "Machan Oct 20 2026 ICT: 6 alert types, Ping me right away vs Board is fine (no ping), to really limit direct pings. Tap & Swipe, Machan Decides and Skip. Submits as agent 'branding'. Top of Max's Picks."
+  },
+  {
    "id": "thumbnail-remake-2a-quiet-editorial-newest-nvjs8v",
    "name": "Thumbnail Remake 2A",
    "url": "https://webermanapps.github.io/style-swipe/thumbnail-remake-2a-quiet-editorial-newest-nvjs8v/",
