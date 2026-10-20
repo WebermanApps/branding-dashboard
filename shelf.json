@@ -111,7 +111,7 @@
    "made": "2026-10-17"
   }
  ],
- "updated": "2026-10-21T00:01:00+07:00",
+ "updated": "2026-10-21T00:20:00+07:00",
  "done": [
   {
    "id": "up-next-deck",
@@ -932,6 +932,48 @@
  ],
  "pinned": [
   {
+   "id": "cc-charts-panels",
+   "name": "Command Center: Charts and Panels",
+   "url": "https://webermanapps.github.io/style-swipe/cc-charts-and-panels-edxr4u/",
+   "total": 9,
+   "topic": "cc-charts-panels",
+   "added": "2026-10-21T00:20:00+07:00",
+   "made": "2026-10-20",
+   "tag": "UpKeep",
+   "pinned": true,
+   "blurb": "9 cards, ready now, slate TradingView-style mockups (first card: slate vs light mode), with Notes",
+   "answered": 0,
+   "agent": "upkeep"
+  },
+  {
+   "id": "cc-desktop-panels",
+   "name": "Command Center: Desktop Panels",
+   "url": "https://webermanapps.github.io/style-swipe/cc-desktop-panels-3zrrfq/",
+   "total": 9,
+   "topic": "cc-desktop-panels",
+   "added": "2026-10-21T00:20:00+07:00",
+   "made": "2026-10-20",
+   "tag": "UpKeep",
+   "pinned": true,
+   "blurb": "9 cards, ready now, move and resize panels like a desktop, with Notes",
+   "answered": 0,
+   "agent": "upkeep"
+  },
+  {
+   "id": "cc-band-ping-details",
+   "name": "Command Center: Needs Machan Band and Ping Log",
+   "url": "https://webermanapps.github.io/style-swipe/cc-needs-band-ping-log-si50sl/",
+   "total": 9,
+   "topic": "cc-band-ping-details",
+   "added": "2026-10-21T00:20:00+07:00",
+   "made": "2026-10-20",
+   "tag": "UpKeep",
+   "pinned": true,
+   "blurb": "9 cards, ready now, band, all-clear Machan, handoffs and Ping Log mockups, with Notes",
+   "answered": 0,
+   "agent": "upkeep"
+  },
+  {
    "id": "wandering-persimmon-cover-2",
    "name": "The Wandering Persimmon: Storybook Cover 2",
    "url": "https://webermanapps.github.io/style-swipe/wandering-persimmon-storybook-cover-2-ad4d96/",
@@ -1248,6 +1290,54 @@
    "agent": "branding",
    "blurb": "10 cards, ready now, pictures on every option, with Notes",
    "note": "The Wandering Persimmon. After the first stop, the road fills up. Pick the first travelers, the settings, and where someone says home is where you make it."
+  },
+  {
+   "id": "weberman-primary-suite",
+   "name": "Primary Suite and Bedrooms",
+   "url": "https://webermanapps.github.io/style-swipe/primary-suite-and-bedrooms-volydo/",
+   "total": 9,
+   "answered": 0,
+   "tag": "Blueprint",
+   "status": "open",
+   "pinned": true,
+   "requested_at": "2026-10-21T00:20:00+07:00",
+   "added": "2026-10-21T00:20:00+07:00",
+   "made": "2026-10-20",
+   "agent": "branding",
+   "blurb": "9 cards, ready now, construction drawings on every option, with Notes",
+   "note": "Weberman Residence (Blueprint agent's project; results route via branding). Bed wall, closet, bath, vanity, toilet, garden door, way in and a place to sit. Nine construction drawings."
+  },
+  {
+   "id": "weberman-living-courtyard",
+   "name": "Living Room and Courtyard Edge",
+   "url": "https://webermanapps.github.io/style-swipe/living-room-courtyard-edge-8esx2n/",
+   "total": 9,
+   "answered": 0,
+   "tag": "Blueprint",
+   "status": "open",
+   "pinned": true,
+   "requested_at": "2026-10-21T00:20:00+07:00",
+   "added": "2026-10-21T00:20:00+07:00",
+   "made": "2026-10-20",
+   "agent": "branding",
+   "blurb": "9 cards, ready now, construction drawings on every option, with Notes",
+   "note": "Weberman Residence (Blueprint agent's project; results route via branding). Size as drawn, flat floor. How the living room opens to the courtyard: glass wall, threshold, engawa, ceiling, stove, TV, seating."
+  },
+  {
+   "id": "weberman-roof-outdoor",
+   "name": "Roof, Eaves and Outdoor Rooms",
+   "url": "https://webermanapps.github.io/style-swipe/roof-eaves-outdoor-rooms-e6oh5j/",
+   "total": 9,
+   "answered": 0,
+   "tag": "Blueprint",
+   "status": "open",
+   "pinned": true,
+   "requested_at": "2026-10-21T00:20:00+07:00",
+   "added": "2026-10-21T00:20:00+07:00",
+   "made": "2026-10-20",
+   "agent": "branding",
+   "blurb": "9 cards, ready now, construction drawings on every option, with Notes",
+   "note": "Weberman Residence (Blueprint agent's project; results route via branding). Separate roofs and deep eaves are set. Pitch, finish, rain, eave underside, outdoor room, fire, outdoor dining, solar."
   },
   {
    "id": "weberman-entry-arrival",
