@@ -102,7 +102,7 @@
       "blurb": "10 cards, ready now"
     }
   ],
-  "updated": "2026-10-20T18:40:00+07:00",
+  "updated": "2026-10-20T19:40:00+07:00",
   "done": [
     {
       "id": "up-next-deck",
@@ -573,6 +573,18 @@
     }
   ],
   "pinned": [
+    {
+      "id": "gift-deck-plan",
+      "name": "Gift Deck Plan",
+      "url": "https://webermanapps.github.io/style-swipe/gift-deck-plan-1qh05z/",
+      "total": 11,
+      "topic": "gift-deck",
+      "added": "2026-10-20T19:40:00+07:00",
+      "tag": "Gift Deck",
+      "pinned": true,
+      "blurb": "11 cards, ready now, with Notes",
+      "answered": 0
+    },
     {
       "id": "thumbnail-pass-three",
       "name": "Thumbnail Pass Three",
