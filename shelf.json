@@ -111,7 +111,7 @@
    "made": "2026-10-17"
   }
  ],
- "updated": "2026-10-21T02:05:00+07:00",
+ "updated": "2026-10-21T03:10:00+07:00",
  "done": [
   {
    "id": "up-next-deck",
@@ -1001,23 +1001,33 @@
    "answered": 4,
    "total": 4,
    "made": "2026-10-21"
+  },
+  {
+   "id": "weberman-primary-suite",
+   "at": "2026-10-21T02:01:54+07:00",
+   "name": "Primary Suite and Bedrooms",
+   "answered": 6,
+   "total": 9,
+   "made": "2026-10-20"
+  },
+  {
+   "id": "swipe-style-computer-screen",
+   "at": "2026-10-21T02:07:36+07:00",
+   "name": "Swipe Style on Computer Screen",
+   "answered": 6,
+   "total": 6,
+   "made": "2026-10-21"
+  },
+  {
+   "id": "swipe-type-landing",
+   "at": "2026-10-21T02:12:18+07:00",
+   "name": "Swipe & Type: Landing Page",
+   "answered": 11,
+   "total": 13,
+   "made": "2026-10-20"
   }
  ],
  "pinned": [
-  {
-   "id": "swipe-style-computer-screen",
-   "name": "Swipe Style on Computer Screen",
-   "url": "https://webermanapps.github.io/style-swipe/swipe-style-computer-screen-q4m8tz/",
-   "total": 6,
-   "topic": "swipe-style-computer-screen",
-   "added": "2026-10-21T01:58:00+07:00",
-   "made": "2026-10-21",
-   "tag": "Branding",
-   "pinned": true,
-   "blurb": "6 cards, ready now: how swipe decks should look and work on a desktop or laptop, with mock screens and Notes",
-   "answered": 0,
-   "agent": "branding"
-  },
   {
    "id": "cc-band-ping-details",
    "name": "Command Center: Needs Machan Band and Ping Log",
@@ -1031,20 +1041,6 @@
    "blurb": "9 cards, ready now, band, all-clear Machan, handoffs and Ping Log mockups, with Notes",
    "answered": 0,
    "agent": "upkeep"
-  },
-  {
-   "id": "swipe-type-landing",
-   "name": "Swipe & Type: Landing Page",
-   "url": "https://webermanapps.github.io/style-swipe/swipe-type-landing-sqs0rc/",
-   "total": 13,
-   "topic": "swipe-type-landing",
-   "added": "2026-10-20T23:58:08+07:00",
-   "made": "2026-10-20",
-   "tag": "Swipe & Type",
-   "pinned": true,
-   "blurb": "13 cards, ready now: 10 landing-page phone mockups (hero, button, how it works, top 9, $100.01, 9 days, no app store, Home Screen, footer, occasions) + 3 settle cards (2 vs 3 decks, Chapter 1 first stop)",
-   "answered": 0,
-   "agent": "branding"
   },
   {
    "id": "wandering-persimmon-narrator-3",
@@ -1313,16 +1309,17 @@
    "name": "Primary Suite and Bedrooms",
    "url": "https://webermanapps.github.io/style-swipe/primary-suite-and-bedrooms-volydo/",
    "total": 9,
-   "answered": 0,
+   "answered": 6,
    "tag": "Blueprint",
-   "status": "open",
+   "status": "done",
    "pinned": true,
    "requested_at": "2026-10-21T00:20:00+07:00",
    "added": "2026-10-21T00:20:00+07:00",
    "made": "2026-10-20",
    "agent": "branding",
    "blurb": "9 cards, ready now, construction drawings on every option, with Notes",
-   "note": "Weberman Residence (Blueprint agent's project; results route via branding). Bed wall, closet, bath, vanity, toilet, garden door, way in and a place to sit. Nine construction drawings."
+   "note": "Weberman Residence (Blueprint agent's project; results route via branding). Bed wall, closet, bath, vanity, toilet, garden door, way in and a place to sit. Nine construction drawings.",
+   "done_at": "2026-10-21T02:01:54+07:00"
   },
   {
    "id": "weberman-living-courtyard",
