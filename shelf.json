@@ -736,6 +736,20 @@
   ],
   "pinned": [
     {
+      "id": "gift-group-play",
+      "name": "Group Play",
+      "url": "https://webermanapps.github.io/style-swipe/gift-group-play-a65mgs/",
+      "total": 10,
+      "topic": "gift-group-play",
+      "added": "2026-10-20T21:49:00+07:00",
+      "made": "2026-10-20",
+      "tag": "Gift Deck",
+      "pinned": true,
+      "blurb": "10 cards, ready now, group play and invite code mockups, with Notes",
+      "answered": 0,
+      "agent": "branding"
+    },
+    {
       "id": "gift-results-top5",
       "name": "Results and Top 5",
       "url": "https://webermanapps.github.io/style-swipe/gift-results-top5-iwth44/",
