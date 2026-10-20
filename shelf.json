@@ -111,7 +111,7 @@
    "made": "2026-10-17"
   }
  ],
- "updated": "2026-10-20T23:25:00+07:00",
+ "updated": "2026-10-20T23:30:00+07:00",
  "done": [
   {
    "id": "up-next-deck",
@@ -868,6 +868,20 @@
   }
  ],
  "pinned": [
+  {
+   "id": "wandering-persimmon-music",
+   "name": "Wandering Persimmon Music",
+   "url": "https://webermanapps.github.io/style-swipe/wandering-persimmon-music-wx479w/",
+   "total": 5,
+   "topic": "wandering-persimmon-music",
+   "added": "2026-10-20T23:30:00+07:00",
+   "made": "2026-10-20",
+   "tag": "The Wandering Persimmon",
+   "pinned": true,
+   "blurb": "5 cards, ready now, tap-to-play lullaby music samples, with Notes",
+   "answered": 0,
+   "agent": "branding"
+  },
   {
    "id": "wandering-persimmon-cover",
    "name": "The Wandering Persimmon: Storybook Cover",
