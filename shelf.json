@@ -111,7 +111,7 @@
    "made": "2026-10-17"
   }
  ],
- "updated": "2026-10-20T22:30:00+07:00",
+ "updated": "2026-10-20T23:05:37+07:00",
  "done": [
   {
    "id": "up-next-deck",
@@ -753,6 +753,118 @@
    "name": "Machan's Look Deck",
    "answered": 9,
    "total": 10
+  },
+  {
+   "id": "weberman-entry-arrival",
+   "at": "2026-10-20T22:54:17+07:00",
+   "name": "Entry and Arrival Deck",
+   "answered": 10,
+   "total": 10
+  },
+  {
+   "id": "weberman-kitchen-dining",
+   "at": "2026-10-20T22:56:06+07:00",
+   "name": "Kitchen and Dining Deck",
+   "answered": 10,
+   "total": 10
+  },
+  {
+   "id": "weberman-wellness-wing",
+   "at": "2026-10-20T22:20:00+07:00",
+   "name": "Wellness Wing Deck",
+   "answered": 8,
+   "total": 10
+  },
+  {
+   "id": "swipe-type-x-post",
+   "at": "2026-10-20T23:02:51+07:00",
+   "name": "Swipe & Type: X Post",
+   "answered": 8,
+   "total": 10
+  },
+  {
+   "id": "gift-send-flow",
+   "at": "2026-10-20T22:08:26+07:00",
+   "name": "Send as a Gift",
+   "answered": 10,
+   "total": 10
+  },
+  {
+   "id": "ch1-key-scenes",
+   "at": "2026-10-20T22:43:41+07:00",
+   "name": "Chapter 1 Scenes",
+   "answered": 10,
+   "total": 10
+  },
+  {
+   "id": "tree-and-walker",
+   "at": "2026-10-20T22:50:59+07:00",
+   "name": "The Tree and the Walker",
+   "answered": 5,
+   "total": 10
+  },
+  {
+   "id": "ch1-first-stop",
+   "at": "2026-10-20T22:46:34+07:00",
+   "name": "Chapter 1 Ending",
+   "answered": 8,
+   "total": 10
+  },
+  {
+   "id": "cc-needs-machan-ping-log",
+   "at": "2026-10-20T22:30:20+07:00",
+   "name": "Needs Machan and Ping Log",
+   "answered": 10,
+   "total": 10
+  },
+  {
+   "id": "cc-data-widgets",
+   "at": "2026-10-20T22:28:08+07:00",
+   "name": "Member and Tech Widgets",
+   "answered": 8,
+   "total": 10
+  },
+  {
+   "id": "cc-status-lights",
+   "at": "2026-10-20T22:25:52+07:00",
+   "name": "Alerts and Status Lights",
+   "answered": 9,
+   "total": 10
+  },
+  {
+   "id": "wellness-wing",
+   "at": "2026-10-20T22:59:51+07:00",
+   "name": "Wellness Wing",
+   "answered": 9,
+   "total": 10
+  },
+  {
+   "id": "command-center-theme",
+   "at": "2026-10-20T22:23:30+07:00",
+   "name": "Command Center Theme",
+   "answered": 10,
+   "total": 10
+  },
+  {
+   "id": "upkeep-mission-control-layout-deck",
+   "at": "2026-10-20T22:34:16+07:00",
+   "name": "Mission Control Layout",
+   "answered": 7,
+   "total": 10
+  },
+  {
+   "id": "upkeep-mission-control-panels-deck",
+   "at": "2026-10-20T22:37:20+07:00",
+   "name": "Mission Control Panels",
+   "answered": 10,
+   "total": 10
+  },
+  {
+   "id": "upkeep-team-boards-deck",
+   "at": "2026-10-20T22:41:06+07:00",
+   "name": "Team Boards",
+   "answered": 8,
+   "total": 10
   }
  ],
  "pinned": [
@@ -799,20 +911,6 @@
    "agent": "branding"
   },
   {
-   "id": "swipe-type-x-post",
-   "name": "Swipe & Type: X Post",
-   "url": "https://webermanapps.github.io/style-swipe/swipe-type-x-post-r6j1zb/",
-   "total": 10,
-   "topic": "swipe-type-x-post",
-   "added": "2026-10-20T22:30:00+07:00",
-   "made": "2026-10-20",
-   "tag": "Gift Deck",
-   "pinned": true,
-   "blurb": "10 cards, ready now, X post mockups (nothing posted), with Notes",
-   "answered": 0,
-   "agent": "branding"
-  },
-  {
    "id": "gift-setup",
    "name": "Swipe & Type: Gift Setup",
    "url": "https://webermanapps.github.io/style-swipe/gift-setup-c4thp4/",
@@ -855,104 +953,6 @@
    "agent": "branding"
   },
   {
-   "id": "gift-send-flow",
-   "name": "Send as a Gift",
-   "url": "https://webermanapps.github.io/style-swipe/gift-send-flow-rtkwgn/",
-   "total": 10,
-   "topic": "gift-send-flow",
-   "added": "2026-10-20T21:49:00+07:00",
-   "made": "2026-10-20",
-   "tag": "Gift Deck",
-   "pinned": true,
-   "blurb": "10 cards, ready now, send-as-gift screen mockups, with Notes",
-   "answered": 0,
-   "agent": "branding"
-  },
-  {
-   "id": "ch1-key-scenes",
-   "name": "Chapter 1 Scenes",
-   "url": "https://webermanapps.github.io/style-swipe/ch1-key-scenes-cmjc91/",
-   "total": 10,
-   "topic": "ch1-key-scenes",
-   "added": "2026-10-20T21:46:00+07:00",
-   "made": "2026-10-20",
-   "tag": "Story",
-   "pinned": true,
-   "blurb": "10 cards, ready now, Chapter 1 scene sketches, with Notes",
-   "answered": 0,
-   "agent": "branding"
-  },
-  {
-   "id": "tree-and-walker",
-   "name": "The Tree and the Walker",
-   "url": "https://webermanapps.github.io/style-swipe/tree-and-walker-cd696a/",
-   "total": 10,
-   "topic": "tree-and-walker",
-   "added": "2026-10-20T21:46:00+07:00",
-   "made": "2026-10-20",
-   "tag": "Story",
-   "pinned": true,
-   "blurb": "10 cards, ready now, tree and walker story sketches, with Notes",
-   "answered": 0,
-   "agent": "branding"
-  },
-  {
-   "id": "ch1-first-stop",
-   "name": "Chapter 1 Ending",
-   "url": "https://webermanapps.github.io/style-swipe/ch1-first-stop-rltjuq/",
-   "total": 10,
-   "topic": "ch1-first-stop",
-   "added": "2026-10-20T21:45:00+07:00",
-   "made": "2026-10-20",
-   "tag": "Story",
-   "pinned": true,
-   "blurb": "10 cards, ready now, first-stop story sketches, with Notes",
-   "answered": 0,
-   "agent": "branding"
-  },
-  {
-   "id": "cc-needs-machan-ping-log",
-   "name": "Needs Machan and Ping Log",
-   "url": "https://webermanapps.github.io/style-swipe/cc-needs-machan-ping-log-5w8vnb/",
-   "total": 10,
-   "topic": "cc-needs-machan-ping-log",
-   "added": "2026-10-20T21:43:00+07:00",
-   "made": "2026-10-20",
-   "tag": "UpKeep",
-   "pinned": true,
-   "blurb": "10 cards, ready now, Needs Machan band and Ping Log mockups (fake data), with Notes",
-   "answered": 0,
-   "agent": "upkeep"
-  },
-  {
-   "id": "cc-data-widgets",
-   "name": "Member and Tech Widgets",
-   "url": "https://webermanapps.github.io/style-swipe/cc-data-widgets-3px8nk/",
-   "total": 10,
-   "topic": "cc-data-widgets",
-   "added": "2026-10-20T21:43:00+07:00",
-   "made": "2026-10-20",
-   "tag": "UpKeep",
-   "pinned": true,
-   "blurb": "10 cards, ready now, member and technician widget mockups (fake data), with Notes",
-   "answered": 0,
-   "agent": "upkeep"
-  },
-  {
-   "id": "cc-status-lights",
-   "name": "Alerts and Status Lights",
-   "url": "https://webermanapps.github.io/style-swipe/cc-status-lights-hwvaqh/",
-   "total": 10,
-   "topic": "cc-status-lights",
-   "added": "2026-10-20T21:42:00+07:00",
-   "made": "2026-10-20",
-   "tag": "UpKeep",
-   "pinned": true,
-   "blurb": "10 cards, ready now, dark mission control mockups (fake data), with Notes",
-   "answered": 0,
-   "agent": "upkeep"
-  },
-  {
    "id": "facade-and-garden",
    "name": "Facade and Garden",
    "url": "https://webermanapps.github.io/style-swipe/facade-and-garden-hack27/",
@@ -979,73 +979,6 @@
    "blurb": "10 cards, ready now, wood, stone and finish sketches, with Notes",
    "answered": 0,
    "agent": "branding"
-  },
-  {
-   "id": "wellness-wing",
-   "name": "Wellness Wing",
-   "url": "https://webermanapps.github.io/style-swipe/wellness-wing-j5ydko/",
-   "total": 10,
-   "topic": "wellness-wing",
-   "added": "2026-10-20T21:36:00+07:00",
-   "made": "2026-10-20",
-   "tag": "Blueprint",
-   "pinned": true,
-   "blurb": "10 cards, ready now, wellness wing room sketches, with Notes",
-   "answered": 0,
-   "agent": "branding"
-  },
-  {
-   "id": "command-center-theme",
-   "name": "Command Center Theme",
-   "url": "https://webermanapps.github.io/style-swipe/command-center-theme-pc0ioh/",
-   "total": 10,
-   "topic": "command-center-theme",
-   "added": "2026-10-20T20:50:00+07:00",
-   "made": "2026-10-20",
-   "tag": "UpKeep",
-   "pinned": true,
-   "blurb": "10 cards, ready now, 1920px dark NASA-feel mockups (Command Center only), with Notes",
-   "answered": 0,
-   "agent": "upkeep"
-  },
-  {
-   "id": "upkeep-mission-control-layout-deck",
-   "name": "Mission Control Layout",
-   "url": "https://webermanapps.github.io/style-swipe/mission-control-layout-n0fc5v/",
-   "total": 10,
-   "topic": "upkeep-mission-control-layout-deck",
-   "added": "2026-10-20T21:10:00+07:00",
-   "tag": "UpKeep",
-   "pinned": true,
-   "blurb": "10 cards, ready now, 1920px mockups, wide-screen layout and density, with Notes",
-   "answered": 0,
-   "agent": "upkeep"
-  },
-  {
-   "id": "upkeep-mission-control-panels-deck",
-   "name": "Mission Control Panels",
-   "url": "https://webermanapps.github.io/style-swipe/mission-control-panels-uz5g3f/",
-   "total": 10,
-   "topic": "upkeep-mission-control-panels-deck",
-   "added": "2026-10-20T21:10:00+07:00",
-   "tag": "UpKeep",
-   "pinned": true,
-   "blurb": "10 cards, ready now, 1920px mockups, which live panels earn a spot, with Notes",
-   "answered": 0,
-   "agent": "upkeep"
-  },
-  {
-   "id": "upkeep-team-boards-deck",
-   "name": "Team Boards",
-   "url": "https://webermanapps.github.io/style-swipe/team-boards-ei48l0/",
-   "total": 10,
-   "topic": "upkeep-team-boards-deck",
-   "added": "2026-10-20T21:10:00+07:00",
-   "tag": "UpKeep",
-   "pinned": true,
-   "blurb": "10 cards, ready now, 1920px mockups, Gen 2 Members, Technicians, Scheduling, Tools boards, with Notes",
-   "answered": 0,
-   "agent": "upkeep"
   },
   {
    "id": "courtyard-shape",
@@ -1244,48 +1177,51 @@
    "name": "Entry and Arrival Deck",
    "url": "https://webermanapps.github.io/style-swipe/weberman-entry-and-arrival-ak7w2q/",
    "total": 10,
-   "answered": 0,
+   "answered": 10,
    "tag": "Blueprint",
-   "status": "open",
+   "status": "done",
    "pinned": true,
    "requested_at": "2026-10-20T21:35:57+07:00",
    "added": "2026-10-20T21:35:57+07:00",
    "made": "2026-10-20",
    "agent": "branding",
    "blurb": "10 cards, ready now, pictures on every option, with Notes",
-   "note": "Weberman Residence (Blueprint agent's project; results route via branding). Genkan, then the engawa is set. Ten choices on how you arrive: the path, the car, the door, the first view of the courtyard."
+   "note": "Weberman Residence (Blueprint agent's project; results route via branding). Genkan, then the engawa is set. Ten choices on how you arrive: the path, the car, the door, the first view of the courtyard.",
+   "done_at": "2026-10-20T22:54:17+07:00"
   },
   {
    "id": "weberman-kitchen-dining",
    "name": "Kitchen and Dining Deck",
    "url": "https://webermanapps.github.io/style-swipe/weberman-kitchen-and-dining-pbq2df/",
    "total": 10,
-   "answered": 0,
+   "answered": 10,
    "tag": "Blueprint",
-   "status": "open",
+   "status": "done",
    "pinned": true,
    "requested_at": "2026-10-20T21:35:57+07:00",
    "added": "2026-10-20T21:35:57+07:00",
    "made": "2026-10-20",
    "agent": "branding",
    "blurb": "10 cards, ready now, pictures on every option, with Notes",
-   "note": "Weberman Residence (Blueprint agent's project; results route via branding). Living and dining stay as drawn, with the walk-in pantry and the mudroom by the kitchen. Ten choices on how the kitchen works."
+   "note": "Weberman Residence (Blueprint agent's project; results route via branding). Living and dining stay as drawn, with the walk-in pantry and the mudroom by the kitchen. Ten choices on how the kitchen works.",
+   "done_at": "2026-10-20T22:56:06+07:00"
   },
   {
    "id": "weberman-wellness-wing",
    "name": "Wellness Wing Deck",
    "url": "https://webermanapps.github.io/style-swipe/weberman-wellness-wing-details-tconfm/",
    "total": 10,
-   "answered": 0,
+   "answered": 8,
    "tag": "Blueprint",
-   "status": "open",
+   "status": "done",
    "pinned": true,
    "requested_at": "2026-10-20T21:35:57+07:00",
    "added": "2026-10-20T21:35:57+07:00",
    "made": "2026-10-20",
    "agent": "branding",
    "blurb": "10 cards, ready now, pictures on every option, with Notes",
-   "note": "Weberman Residence (Blueprint agent's project; results route via branding). Wellness comes first, reached by the open south walkway, with the pool on both sides. Ten choices for the wing itself."
+   "note": "Weberman Residence (Blueprint agent's project; results route via branding). Wellness comes first, reached by the open south walkway, with the pool on both sides. Ten choices for the wing itself.",
+   "done_at": "2026-10-20T22:20:00+07:00"
   },
   {
    "id": "chapter-1-name",
