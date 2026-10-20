@@ -757,6 +757,20 @@
  ],
  "pinned": [
   {
+   "id": "gift-setup",
+   "name": "Swipe & Type: Gift Setup",
+   "url": "https://webermanapps.github.io/style-swipe/gift-setup-c4thp4/",
+   "total": 10,
+   "topic": "gift-setup",
+   "added": "2026-10-20T22:40:00+07:00",
+   "made": "2026-10-20",
+   "tag": "Gift Deck",
+   "pinned": true,
+   "blurb": "10 cards, ready now, sender setup screen phone mockups, with Notes",
+   "answered": 0,
+   "agent": "branding"
+  },
+  {
    "id": "gift-group-play",
    "name": "Group Play",
    "url": "https://webermanapps.github.io/style-swipe/gift-group-play-a65mgs/",
