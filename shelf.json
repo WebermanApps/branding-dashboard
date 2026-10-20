@@ -111,7 +111,7 @@
    "made": "2026-10-17"
   }
  ],
- "updated": "2026-10-20T23:36:25+07:00",
+ "updated": "2026-10-21T00:00:00+07:00",
  "done": [
   {
    "id": "up-next-deck",
@@ -924,6 +924,20 @@
   }
  ],
  "pinned": [
+  {
+   "id": "wandering-persimmon-narrator-3",
+   "name": "The Wandering Persimmon: Narrator Voice 3",
+   "url": "https://webermanapps.github.io/style-swipe/wandering-persimmon-narrator-voice-3-hw40eh/",
+   "total": 8,
+   "topic": "wandering-persimmon-narrator-3",
+   "added": "2026-10-21T00:00:00+07:00",
+   "made": "2026-10-20",
+   "tag": "The Wandering Persimmon",
+   "pinned": true,
+   "blurb": "8 cards, ready now, narrowing in on Andrew and Ava: speed, depth, pauses, warmth, tap to play, with Notes",
+   "answered": 0,
+   "agent": "branding"
+  },
   {
    "id": "wandering-persimmon-narrator-2",
    "name": "The Wandering Persimmon: Narrator Voice 2",
