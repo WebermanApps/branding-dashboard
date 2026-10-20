@@ -574,6 +574,18 @@
   ],
   "pinned": [
     {
+      "id": "chapter1-video",
+      "name": "Chapter 1 Video Deck",
+      "url": "https://webermanapps.github.io/style-swipe/chapter1-video-t8ofaw/",
+      "total": 10,
+      "topic": "chapter1-video",
+      "added": "2026-10-20T19:45:00+07:00",
+      "tag": "Video",
+      "pinned": true,
+      "blurb": "10 cards, ready now, 4 piano tracks to play, with Notes",
+      "answered": 0
+    },
+    {
       "id": "gift-deck-plan",
       "name": "Gift Deck Plan",
       "url": "https://webermanapps.github.io/style-swipe/gift-deck-plan-1qh05z/",
