@@ -102,7 +102,7 @@
    "blurb": "10 cards, ready now"
   }
  ],
- "updated": "2026-10-20T12:40:55+07:00",
+ "updated": "2026-10-20T13:17:20+07:00",
  "done": [
   {
    "id": "up-next-deck",
@@ -552,6 +552,30 @@
  "queued": [],
  "queued_note": "Held back by the 5-deck cap (pinned + decks <= 5). Requested decks never count toward the cap and never show in the header shelf.",
  "requested": [
+  {
+   "id": "thumbnail-remake-newest-shorts-krbvpg",
+   "name": "Thumbnail Remake 1A",
+   "url": "https://webermanapps.github.io/style-swipe/thumbnail-remake-newest-shorts-krbvpg/",
+   "total": 11,
+   "answered": 0,
+   "tag": "Max's Picks",
+   "status": "open",
+   "requested_at": "2026-10-20T13:17:20+07:00",
+   "added": "2026-10-20T13:17:20+07:00",
+   "note": "Machan Oct 20 2026 ICT: @AMomentInThai thumbnail remake pass 1 of 3. Old left, new right. 10 newest Shorts plus Raising a Family. Notes and You decide. Submits as agent 'branding'."
+  },
+  {
+   "id": "thumbnail-remake-older-shorts-hd8r7l",
+   "name": "Thumbnail Remake 1B",
+   "url": "https://webermanapps.github.io/style-swipe/thumbnail-remake-older-shorts-hd8r7l/",
+   "total": 11,
+   "answered": 0,
+   "tag": "Max's Picks",
+   "status": "open",
+   "requested_at": "2026-10-20T13:17:20+07:00",
+   "added": "2026-10-20T13:17:20+07:00",
+   "note": "Machan Oct 20 2026 ICT: @AMomentInThai thumbnail remake pass 1 of 3. Old left, new right. The next 11 older Shorts (1 held for pass 2). Notes and You decide. Submits as agent 'branding'."
+  },
   {
    "id": "rules-check",
    "name": "Rules Check",
