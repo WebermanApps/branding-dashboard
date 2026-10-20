@@ -102,7 +102,7 @@
    "blurb": "10 cards, ready now"
   }
  ],
- "updated": "2026-10-20T10:41:39+07:00",
+ "updated": "2026-10-20T11:38:59+07:00",
  "done": [
   {
    "id": "up-next-deck",
@@ -458,6 +458,76 @@
    "name": "Footer Fine Tuning",
    "answered": 6,
    "total": 10
+  },
+  {
+   "id": "branding-machan-alchemist-trailer-deck",
+   "at": "2026-10-20T11:26:52+07:00",
+   "name": "Machan Alchemist Trailer Deck",
+   "answered": 7,
+   "total": 11
+  },
+  {
+   "id": "branding-upkeep-status-colours-deck",
+   "at": "2026-10-20T09:56:36+07:00",
+   "name": "UpKeep Status Colours Deck",
+   "answered": 8,
+   "total": 11
+  },
+  {
+   "id": "branding-three-cultures-deck",
+   "at": "2026-10-20T10:00:33+07:00",
+   "name": "Three Cultures Deck",
+   "answered": 10,
+   "total": 11
+  },
+  {
+   "id": "upkeep-tech-app-check-in-and-before-photos-deck",
+   "at": "2026-10-18T10:06:50+07:00",
+   "name": "Tech App Check-In: Arrival And Before Photos",
+   "answered": 10,
+   "total": 10
+  },
+  {
+   "id": "upkeep-tech-app-moisture-readings-and-walk-recap-deck",
+   "at": "2026-10-18T10:24:51+07:00",
+   "name": "Tech App Readings: Moisture Scale And Walk Recap",
+   "answered": 10,
+   "total": 10
+  },
+  {
+   "id": "upkeep-investor-pitch-app-navigation-and-key-points-deck",
+   "at": "2026-10-18T15:33:27+07:00",
+   "name": "Investor Pitch App: Navigation And Key Points",
+   "answered": 10,
+   "total": 10
+  },
+  {
+   "id": "upkeep-investor-pitch-honest-valuation-and-blob-chart-deck",
+   "at": "2026-10-18T16:16:46+07:00",
+   "name": "Investor Pitch: Honest Valuation And Blob Chart",
+   "answered": 10,
+   "total": 10
+  },
+  {
+   "id": "upkeep-forecast-app-charts-scenarios-and-runway-deck",
+   "at": "2026-10-18T16:44:53+07:00",
+   "name": "Forecast App: Charts, Scenarios And Runway",
+   "answered": 10,
+   "total": 10
+  },
+  {
+   "id": "research-tech-certs-training-and-cool-tech-deck",
+   "at": "2026-10-19T16:07:03+07:00",
+   "name": "Tech Certs, Training And Cool Tech",
+   "answered": 10,
+   "total": 10
+  },
+  {
+   "id": "upkeep-crew-uniform-new-options-deck",
+   "at": "2026-10-18T16:13:34+07:00",
+   "name": "Crew Uniform: New Options",
+   "answered": 10,
+   "total": 10
   }
  ],
  "pinned": [
@@ -487,12 +557,13 @@
    "name": "Machan Alchemist Trailer Deck",
    "url": "https://webermanapps.github.io/style-swipe/machan-alchemist-trailer-deck-vqhzke/",
    "total": 11,
-   "answered": 0,
+   "answered": 7,
    "tag": "Max's Picks",
-   "status": "open",
+   "status": "done",
    "requested_at": "2026-10-20T10:35:00+07:00",
    "added": "2026-10-20T10:41:39+07:00",
-   "note": "Max Oct 20 2026 10:35 AM ICT: Machan intro as a movie-style trailer for Machan's The Alchemist; v2 was 'closer but still way off'. 11 pairs with real frames (swatch-v2 stills + generated stills), card 11 bonus (desert/omens vs Machan's own places). Top of Max's Picks."
+   "note": "Max Oct 20 2026 10:35 AM ICT: Machan intro as a movie-style trailer for Machan's The Alchemist; v2 was 'closer but still way off'. 11 pairs with real frames (swatch-v2 stills + generated stills), card 11 bonus (desert/omens vs Machan's own places). Top of Max's Picks.",
+   "done_at": "2026-10-20T11:26:52+07:00"
   },
   {
    "id": "branding-gift-swipe-big-idea-deck",
@@ -511,24 +582,26 @@
    "name": "UpKeep Status Colours Deck",
    "url": "https://webermanapps.github.io/style-swipe/upkeep-status-colours-deck-x4m8tw/",
    "total": 11,
-   "answered": 0,
+   "answered": 8,
    "tag": "Max's Picks",
-   "status": "open",
+   "status": "done",
    "requested_at": "2026-10-20T01:03:36+07:00",
    "added": "2026-10-20T01:03:37+07:00",
-   "note": "Nightly Reset Oct 20 2026: from Header Finishing Touches note (drafts/to-do yellow, confirmed green, alerts red) plus its 5 open skips; picks go to UpKeep Develop."
+   "note": "Nightly Reset Oct 20 2026: from Header Finishing Touches note (drafts/to-do yellow, confirmed green, alerts red) plus its 5 open skips; picks go to UpKeep Develop.",
+   "done_at": "2026-10-20T09:56:36+07:00"
   },
   {
    "id": "branding-three-cultures-deck",
    "name": "Three Cultures Deck",
    "url": "https://webermanapps.github.io/style-swipe/three-cultures-deck-r2v9hc/",
    "total": 11,
-   "answered": 0,
+   "answered": 10,
    "tag": "Max's Picks",
-   "status": "open",
+   "status": "done",
    "requested_at": "2026-10-20T01:03:35+07:00",
    "added": "2026-10-20T01:03:37+07:00",
-   "note": "Nightly Reset Oct 20 2026, fun branding: Japan, America and Thai touches in subtle places (Machan First Post note)."
+   "note": "Nightly Reset Oct 20 2026, fun branding: Japan, America and Thai touches in subtle places (Machan First Post note).",
+   "done_at": "2026-10-20T10:00:33+07:00"
   },
   {
    "id": "branding-machan-story-book-deck",
@@ -1027,124 +1100,69 @@
    "done_at": "2026-10-18T22:54:56+07:00"
   },
   {
-   "id": "upkeep-tech-app-walkthrough-full-list-and-step-screens-deck",
-   "name": "Tech App Walkthrough: Full List And Step Screens",
-   "url": "https://webermanapps.github.io/style-swipe/tech-app-walkthrough-unhu80/",
-   "total": 10,
-   "answered": 0,
-   "tag": "Max's Picks",
-   "status": "open",
-   "requested_at": "2026-10-18T03:11:00+07:00",
-   "added": "2026-10-18T03:42:16+07:00",
-   "note": "Max's morning decks request (Oct 18 2026, from the Oct 17 daily work report); results go to UpKeep (heavy)"
-  },
-  {
    "id": "upkeep-tech-app-check-in-and-before-photos-deck",
    "name": "Tech App Check-In: Arrival And Before Photos",
    "url": "https://webermanapps.github.io/style-swipe/tech-app-check-in-07bhbn/",
    "total": 10,
-   "answered": 0,
+   "answered": 10,
    "tag": "Max's Picks",
-   "status": "open",
+   "status": "done",
    "requested_at": "2026-10-18T03:11:00+07:00",
    "added": "2026-10-18T03:42:16+07:00",
-   "note": "Max's morning decks request (Oct 18 2026, from the Oct 17 daily work report); results go to UpKeep (heavy)"
+   "note": "Max's morning decks request (Oct 18 2026, from the Oct 17 daily work report); results go to UpKeep (heavy)",
+   "done_at": "2026-10-18T10:06:50+07:00"
   },
   {
    "id": "upkeep-tech-app-moisture-readings-and-walk-recap-deck",
    "name": "Tech App Readings: Moisture Scale And Walk Recap",
    "url": "https://webermanapps.github.io/style-swipe/tech-app-readings-123qgm/",
    "total": 10,
-   "answered": 0,
+   "answered": 10,
    "tag": "Max's Picks",
-   "status": "open",
+   "status": "done",
    "requested_at": "2026-10-18T03:11:00+07:00",
    "added": "2026-10-18T03:42:16+07:00",
-   "note": "Max's morning decks request (Oct 18 2026, from the Oct 17 daily work report); results go to UpKeep (heavy)"
-  },
-  {
-   "id": "upkeep-trust-tags-loop-wording-colour-and-motion-deck",
-   "name": "Trust Tags: Loop Wording, Colour And Motion",
-   "url": "https://webermanapps.github.io/style-swipe/trust-tags-loop-380nk2/",
-   "total": 10,
-   "answered": 0,
-   "tag": "Max's Picks",
-   "status": "open",
-   "requested_at": "2026-10-18T03:11:00+07:00",
-   "added": "2026-10-18T03:42:16+07:00",
-   "note": "Max's morning decks request (Oct 18 2026, from the Oct 17 daily work report); results go to UpKeep (heavy)"
-  },
-  {
-   "id": "upkeep-what-we-take-care-of-care-card-carousel-deck",
-   "name": "What We Take Care Of: Care Card Carousel",
-   "url": "https://webermanapps.github.io/style-swipe/wwtco-care-carousel-wzjhax/",
-   "total": 10,
-   "answered": 0,
-   "tag": "Max's Picks",
-   "status": "open",
-   "requested_at": "2026-10-18T03:11:00+07:00",
-   "added": "2026-10-18T03:42:16+07:00",
-   "note": "Max's morning decks request (Oct 18 2026, from the Oct 17 daily work report); results go to UpKeep (heavy)"
-  },
-  {
-   "id": "upkeep-home-page-trust-tags-and-care-cards-together-deck",
-   "name": "Home Page: Trust Tags And Care Cards Together",
-   "url": "https://webermanapps.github.io/style-swipe/home-tags-and-cards-rqz57r/",
-   "total": 10,
-   "answered": 0,
-   "tag": "Max's Picks",
-   "status": "open",
-   "requested_at": "2026-10-18T03:11:00+07:00",
-   "added": "2026-10-18T03:42:15+07:00",
-   "note": "Max's morning decks request (Oct 18 2026, from the Oct 17 daily work report); results go to UpKeep (heavy)"
+   "note": "Max's morning decks request (Oct 18 2026, from the Oct 17 daily work report); results go to UpKeep (heavy)",
+   "done_at": "2026-10-18T10:24:51+07:00"
   },
   {
    "id": "upkeep-investor-pitch-app-navigation-and-key-points-deck",
    "name": "Investor Pitch App: Navigation And Key Points",
    "url": "https://webermanapps.github.io/style-swipe/pitch-app-navigation-9ws19s/",
    "total": 10,
-   "answered": 0,
+   "answered": 10,
    "tag": "Max's Picks",
-   "status": "open",
+   "status": "done",
    "requested_at": "2026-10-18T03:11:00+07:00",
    "added": "2026-10-18T03:42:15+07:00",
-   "note": "Max's morning decks request (Oct 18 2026, from the Oct 17 daily work report); results go to UpKeep (heavy)"
+   "note": "Max's morning decks request (Oct 18 2026, from the Oct 17 daily work report); results go to UpKeep (heavy)",
+   "done_at": "2026-10-18T15:33:27+07:00"
   },
   {
    "id": "upkeep-investor-pitch-honest-valuation-and-blob-chart-deck",
    "name": "Investor Pitch: Honest Valuation And Blob Chart",
    "url": "https://webermanapps.github.io/style-swipe/pitch-valuation-blob-86f4g5/",
    "total": 10,
-   "answered": 0,
+   "answered": 10,
    "tag": "Max's Picks",
-   "status": "open",
+   "status": "done",
    "requested_at": "2026-10-18T03:11:00+07:00",
    "added": "2026-10-18T03:42:15+07:00",
-   "note": "Max's morning decks request (Oct 18 2026, from the Oct 17 daily work report); results go to UpKeep (heavy)"
+   "note": "Max's morning decks request (Oct 18 2026, from the Oct 17 daily work report); results go to UpKeep (heavy)",
+   "done_at": "2026-10-18T16:16:46+07:00"
   },
   {
    "id": "upkeep-forecast-app-charts-scenarios-and-runway-deck",
    "name": "Forecast App: Charts, Scenarios And Runway",
    "url": "https://webermanapps.github.io/style-swipe/forecast-app-charts-ezfxkt/",
    "total": 10,
-   "answered": 0,
+   "answered": 10,
    "tag": "Max's Picks",
-   "status": "open",
+   "status": "done",
    "requested_at": "2026-10-18T03:11:00+07:00",
    "added": "2026-10-18T03:42:15+07:00",
-   "note": "Max's morning decks request (Oct 18 2026, from the Oct 17 daily work report); results go to UpKeep (heavy)"
-  },
-  {
-   "id": "branding-max-s-picks-phone-carousel-deck",
-   "name": "Max's Picks: Phone Carousel",
-   "url": "https://webermanapps.github.io/style-swipe/max-picks-phone-carousel-x47ebp/",
-   "total": 10,
-   "answered": 0,
-   "tag": "Max's Picks",
-   "status": "open",
-   "requested_at": "2026-10-18T03:11:00+07:00",
-   "added": "2026-10-18T03:42:15+07:00",
-   "note": "Max's morning decks request (Oct 18 2026, from the Oct 17 daily work report); results go to Branding board, dashboard kit"
+   "note": "Max's morning decks request (Oct 18 2026, from the Oct 17 daily work report); results go to UpKeep (heavy)",
+   "done_at": "2026-10-18T16:44:53+07:00"
   },
   {
    "id": "dashboard-kit-carousel-standard-deck",
@@ -1187,12 +1205,13 @@
    "name": "Tech Certs, Training And Cool Tech",
    "url": "https://webermanapps.github.io/style-swipe/tech-certs-training-cool-tech-dqhtgs/",
    "total": 10,
-   "answered": 0,
+   "answered": 10,
    "tag": "Max's Picks",
-   "status": "open",
+   "status": "done",
    "requested_at": "2026-10-18T03:11:00+07:00",
    "added": "2026-10-18T03:42:15+07:00",
-   "note": "Max's morning decks request (Oct 18 2026, from the Oct 17 daily work report); results go to Research"
+   "note": "Max's morning decks request (Oct 18 2026, from the Oct 17 daily work report); results go to Research",
+   "done_at": "2026-10-19T16:07:03+07:00"
   },
   {
    "id": "upkeep-member-profile-all-good-sign-and-problems-deck",
@@ -1211,12 +1230,13 @@
    "name": "Crew Uniform: New Options",
    "url": "https://webermanapps.github.io/style-swipe/crew-uniform-new-options-a5szu0/",
    "total": 10,
-   "answered": 0,
+   "answered": 10,
    "tag": "Max's Picks",
-   "status": "open",
+   "status": "done",
    "requested_at": "2026-10-18T03:11:00+07:00",
    "added": "2026-10-18T03:42:15+07:00",
-   "note": "Max's morning decks request (Oct 18 2026, from the Oct 17 daily work report); results go to UpKeep"
+   "note": "Max's morning decks request (Oct 18 2026, from the Oct 17 daily work report); results go to UpKeep",
+   "done_at": "2026-10-18T16:13:34+07:00"
   },
   {
    "id": "upkeep-sign-up-form-cancel-notice-steps-and-pay-deck",
@@ -1268,18 +1288,6 @@
    "done_at": "2026-10-19T12:21:15+07:00"
   },
   {
-   "id": "upkeep-operator-dash-section-pages-deck",
-   "name": "Operator Dash: Section Pages And Chief Card",
-   "url": "https://webermanapps.github.io/style-swipe/operator-dash-section-pages-7locu2/",
-   "total": 10,
-   "answered": 0,
-   "tag": "Max's Picks",
-   "status": "open",
-   "requested_at": "2026-10-17T22:09:47+07:00",
-   "added": "2026-10-17T22:09:47+07:00",
-   "note": "Replaces the submitted Company Dashboard Hub Deck (21:49 ICT); next Operator Dash picks, A = live hub, B = one change (UpKeep)"
-  },
-  {
    "id": "upkeep-what-we-take-care-of-card-colors-and-finish-deck",
    "name": "What We Take Care Of: Card Colors And Finish",
    "url": "https://webermanapps.github.io/style-swipe/what-we-take-care-of-card-colors-and-finish-lyo47y/",
@@ -1295,54 +1303,6 @@
    "skipped": [
     "07"
    ]
-  },
-  {
-   "id": "mixed-upkeep-follow-up-lists-crew-and-lawn-deck",
-   "name": "Mixed UpKeep Follow-Up: Lists, Crew And Lawn Add-On",
-   "url": "https://webermanapps.github.io/style-swipe/mixed-upkeep-follow-up-dkayzq/",
-   "total": 10,
-   "answered": 0,
-   "tag": "Max's Picks",
-   "status": "open",
-   "requested_at": "2026-10-17T21:47:01+07:00",
-   "added": "2026-10-17T21:47:01+07:00",
-   "note": "Job 6 follow-up from Oct 17 results: Open items with divider lines, crew of three, the lawn add-on as ONE add-on (re-asked), big-number plan card, tech card details."
-  },
-  {
-   "id": "customer-visit-history-and-photos-reports-and-scan-deck",
-   "name": "Customer Visit History & Photos: Reports And Scan Results",
-   "url": "https://webermanapps.github.io/style-swipe/customer-visit-history-photos-ubacqk/",
-   "total": 10,
-   "answered": 0,
-   "tag": "Max's Picks",
-   "status": "open",
-   "requested_at": "2026-10-17T21:47:01+07:00",
-   "added": "2026-10-17T21:47:01+07:00",
-   "note": "Job 6 follow-up from Oct 17 results: All-good scan sign and problem-only results (Max's note), problem photo history re-asked, timeline rows, report photos, chat chips, recheck banner, tip, tech ca"
-  },
-  {
-   "id": "investor-numbers-and-market-ask-traction-and-size-deck",
-   "name": "Investor Numbers & Market: Ask, Traction And Market Size",
-   "url": "https://webermanapps.github.io/style-swipe/investor-numbers-market-lrzrco/",
-   "total": 10,
-   "answered": 0,
-   "tag": "Max's Picks",
-   "status": "open",
-   "requested_at": "2026-10-17T21:47:01+07:00",
-   "added": "2026-10-17T21:47:01+07:00",
-   "note": "Job 6 follow-up from Oct 17 results: Market size and use-of-funds re-asked, traction both ways, the 2x2 plot placed, funnel, scenarios, horizon, valuation on the ask, risk table."
-  },
-  {
-   "id": "upkeep-site-trust-and-launch-dates-deck",
-   "name": "Site: Trust And Launch Dates",
-   "url": "https://webermanapps.github.io/style-swipe/site-trust-and-launch-dates-560sh2/",
-   "total": 10,
-   "answered": 0,
-   "tag": "Max's Picks",
-   "status": "open",
-   "requested_at": "2026-10-17T21:43:00+07:00",
-   "added": "2026-10-17T22:18:43+07:00",
-   "note": "UpKeep full review (Max 21:43 ICT): 10 cards: site trust, launch dates and sign-up path; results go to UpKeep; style-swipe a2a5860"
   },
   {
    "id": "upkeep-member-app-account-and-empty-states-deck",
@@ -1452,18 +1412,6 @@
    "previous_round": "team-improvement-deck-round-three",
    "status": "open",
    "requested_at": "2026-10-17T21:07:54+07:00"
-  },
-  {
-   "id": "main-deck-board-polish",
-   "name": "Main Deck Board Polish Deck",
-   "url": "https://webermanapps.github.io/style-swipe/main-deck-board-polish-deck-yr7ghr/",
-   "total": 10,
-   "answered": 0,
-   "tag": "Max's Picks",
-   "status": "open",
-   "requested_at": "2026-10-17T21:06:12+07:00",
-   "added": "2026-10-17T21:06:12+07:00",
-   "note": "Max asked Oct 17 2026: replacement for the Main Deck Board Layout Deck (submitted 20:47 ICT, 9/10); polish details on the applied main deck board (R83 lifted for this deck)"
   },
   {
    "id": "main-deck-board-layout",
@@ -2044,6 +1992,182 @@
    "removed_at": "2026-10-18T23:14:59+07:00",
    "removed_from": "requested",
    "board": "branding-djqmb410#picks"
+  },
+  {
+   "id": "upkeep-tech-app-walkthrough-full-list-and-step-screens-deck",
+   "name": "Tech App Walkthrough: Full List And Step Screens",
+   "url": "https://webermanapps.github.io/style-swipe/tech-app-walkthrough-unhu80/",
+   "total": 10,
+   "answered": 0,
+   "tag": "Max's Picks",
+   "status": "removed",
+   "requested_at": "2026-10-18T03:11:00+07:00",
+   "added": "2026-10-18T03:42:16+07:00",
+   "note": "Max's morning decks request (Oct 18 2026, from the Oct 17 daily work report); results go to UpKeep (heavy)",
+   "removed_at": "2026-10-19T15:51:50+07:00",
+   "removed_from": "requested",
+   "board": "branding-djqmb410#picks",
+   "removed_by": "Max (one-click remove)"
+  },
+  {
+   "id": "upkeep-trust-tags-loop-wording-colour-and-motion-deck",
+   "name": "Trust Tags: Loop Wording, Colour And Motion",
+   "url": "https://webermanapps.github.io/style-swipe/trust-tags-loop-380nk2/",
+   "total": 10,
+   "answered": 0,
+   "tag": "Max's Picks",
+   "status": "removed",
+   "requested_at": "2026-10-18T03:11:00+07:00",
+   "added": "2026-10-18T03:42:16+07:00",
+   "note": "Max's morning decks request (Oct 18 2026, from the Oct 17 daily work report); results go to UpKeep (heavy)",
+   "removed_at": "2026-10-19T15:52:02+07:00",
+   "removed_from": "requested",
+   "board": "branding-djqmb410#picks",
+   "removed_by": "Max (one-click remove)"
+  },
+  {
+   "id": "upkeep-what-we-take-care-of-care-card-carousel-deck",
+   "name": "What We Take Care Of: Care Card Carousel",
+   "url": "https://webermanapps.github.io/style-swipe/wwtco-care-carousel-wzjhax/",
+   "total": 10,
+   "answered": 0,
+   "tag": "Max's Picks",
+   "status": "removed",
+   "requested_at": "2026-10-18T03:11:00+07:00",
+   "added": "2026-10-18T03:42:16+07:00",
+   "note": "Max's morning decks request (Oct 18 2026, from the Oct 17 daily work report); results go to UpKeep (heavy)",
+   "removed_at": "2026-10-19T15:52:06+07:00",
+   "removed_from": "requested",
+   "board": "branding-djqmb410#picks",
+   "removed_by": "Max (one-click remove)"
+  },
+  {
+   "id": "upkeep-home-page-trust-tags-and-care-cards-together-deck",
+   "name": "Home Page: Trust Tags And Care Cards Together",
+   "url": "https://webermanapps.github.io/style-swipe/home-tags-and-cards-rqz57r/",
+   "total": 10,
+   "answered": 0,
+   "tag": "Max's Picks",
+   "status": "removed",
+   "requested_at": "2026-10-18T03:11:00+07:00",
+   "added": "2026-10-18T03:42:15+07:00",
+   "note": "Max's morning decks request (Oct 18 2026, from the Oct 17 daily work report); results go to UpKeep (heavy)",
+   "removed_at": "2026-10-19T15:52:12+07:00",
+   "removed_from": "requested",
+   "board": "branding-djqmb410#picks",
+   "removed_by": "Max (one-click remove)"
+  },
+  {
+   "id": "branding-max-s-picks-phone-carousel-deck",
+   "name": "Max's Picks: Phone Carousel",
+   "url": "https://webermanapps.github.io/style-swipe/max-picks-phone-carousel-x47ebp/",
+   "total": 10,
+   "answered": 0,
+   "tag": "Max's Picks",
+   "status": "removed",
+   "requested_at": "2026-10-18T03:11:00+07:00",
+   "added": "2026-10-18T03:42:15+07:00",
+   "note": "Max's morning decks request (Oct 18 2026, from the Oct 17 daily work report); results go to Branding board, dashboard kit",
+   "removed_at": "2026-10-19T15:52:16+07:00",
+   "removed_from": "requested",
+   "board": "branding-djqmb410#picks",
+   "removed_by": "Max (one-click remove)"
+  },
+  {
+   "id": "upkeep-operator-dash-section-pages-deck",
+   "name": "Operator Dash: Section Pages And Chief Card",
+   "url": "https://webermanapps.github.io/style-swipe/operator-dash-section-pages-7locu2/",
+   "total": 10,
+   "answered": 0,
+   "tag": "Max's Picks",
+   "status": "removed",
+   "requested_at": "2026-10-17T22:09:47+07:00",
+   "added": "2026-10-17T22:09:47+07:00",
+   "note": "Replaces the submitted Company Dashboard Hub Deck (21:49 ICT); next Operator Dash picks, A = live hub, B = one change (UpKeep)",
+   "removed_at": "2026-10-19T12:18:01+07:00",
+   "removed_from": "requested",
+   "board": "branding-djqmb410#picks",
+   "removed_by": "Max (one-click remove)"
+  },
+  {
+   "id": "mixed-upkeep-follow-up-lists-crew-and-lawn-deck",
+   "name": "Mixed UpKeep Follow-Up: Lists, Crew And Lawn Add-On",
+   "url": "https://webermanapps.github.io/style-swipe/mixed-upkeep-follow-up-dkayzq/",
+   "total": 10,
+   "answered": 0,
+   "tag": "Max's Picks",
+   "status": "removed",
+   "requested_at": "2026-10-17T21:47:01+07:00",
+   "added": "2026-10-17T21:47:01+07:00",
+   "note": "Job 6 follow-up from Oct 17 results: Open items with divider lines, crew of three, the lawn add-on as ONE add-on (re-asked), big-number plan card, tech card details.",
+   "removed_at": "2026-10-19T12:18:01+07:00",
+   "removed_from": "requested",
+   "board": "branding-djqmb410#picks",
+   "removed_by": "Max (one-click remove)"
+  },
+  {
+   "id": "customer-visit-history-and-photos-reports-and-scan-deck",
+   "name": "Customer Visit History & Photos: Reports And Scan Results",
+   "url": "https://webermanapps.github.io/style-swipe/customer-visit-history-photos-ubacqk/",
+   "total": 10,
+   "answered": 0,
+   "tag": "Max's Picks",
+   "status": "removed",
+   "requested_at": "2026-10-17T21:47:01+07:00",
+   "added": "2026-10-17T21:47:01+07:00",
+   "note": "Job 6 follow-up from Oct 17 results: All-good scan sign and problem-only results (Max's note), problem photo history re-asked, timeline rows, report photos, chat chips, recheck banner, tip, tech ca",
+   "removed_at": "2026-10-19T12:17:58+07:00",
+   "removed_from": "requested",
+   "board": "branding-djqmb410#picks",
+   "removed_by": "Max (one-click remove)"
+  },
+  {
+   "id": "investor-numbers-and-market-ask-traction-and-size-deck",
+   "name": "Investor Numbers & Market: Ask, Traction And Market Size",
+   "url": "https://webermanapps.github.io/style-swipe/investor-numbers-market-lrzrco/",
+   "total": 10,
+   "answered": 0,
+   "tag": "Max's Picks",
+   "status": "removed",
+   "requested_at": "2026-10-17T21:47:01+07:00",
+   "added": "2026-10-17T21:47:01+07:00",
+   "note": "Job 6 follow-up from Oct 17 results: Market size and use-of-funds re-asked, traction both ways, the 2x2 plot placed, funnel, scenarios, horizon, valuation on the ask, risk table.",
+   "removed_at": "2026-10-19T12:17:51+07:00",
+   "removed_from": "requested",
+   "board": "branding-djqmb410#picks",
+   "removed_by": "Max (one-click remove)"
+  },
+  {
+   "id": "upkeep-site-trust-and-launch-dates-deck",
+   "name": "Site: Trust And Launch Dates",
+   "url": "https://webermanapps.github.io/style-swipe/site-trust-and-launch-dates-560sh2/",
+   "total": 10,
+   "answered": 0,
+   "tag": "Max's Picks",
+   "status": "removed",
+   "requested_at": "2026-10-17T21:43:00+07:00",
+   "added": "2026-10-17T22:18:43+07:00",
+   "note": "UpKeep full review (Max 21:43 ICT): 10 cards: site trust, launch dates and sign-up path; results go to UpKeep; style-swipe a2a5860",
+   "removed_at": "2026-10-19T12:17:48+07:00",
+   "removed_from": "requested",
+   "board": "branding-djqmb410#picks",
+   "removed_by": "Max (one-click remove)"
+  },
+  {
+   "id": "main-deck-board-polish",
+   "name": "Main Deck Board Polish Deck",
+   "url": "https://webermanapps.github.io/style-swipe/main-deck-board-polish-deck-yr7ghr/",
+   "total": 10,
+   "answered": 0,
+   "tag": "Max's Picks",
+   "status": "removed",
+   "requested_at": "2026-10-17T21:06:12+07:00",
+   "added": "2026-10-17T21:06:12+07:00",
+   "note": "Max asked Oct 17 2026: replacement for the Main Deck Board Layout Deck (submitted 20:47 ICT, 9/10); polish details on the applied main deck board (R83 lifted for this deck)",
+   "removed_at": "2026-10-19T12:17:44+07:00",
+   "removed_from": "requested",
+   "board": "branding-djqmb410#picks",
+   "removed_by": "Max (one-click remove)"
   }
  ]
 }
