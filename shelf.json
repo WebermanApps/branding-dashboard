@@ -111,7 +111,7 @@
    "made": "2026-10-17"
   }
  ],
- "updated": "2026-10-20T23:05:37+07:00",
+ "updated": "2026-10-20T23:20:00+07:00",
  "done": [
   {
    "id": "up-next-deck",
@@ -868,6 +868,34 @@
   }
  ],
  "pinned": [
+  {
+   "id": "wandering-persimmon-cover",
+   "name": "The Wandering Persimmon: Storybook Cover",
+   "url": "https://webermanapps.github.io/style-swipe/wandering-persimmon-storybook-cover-op9egj/",
+   "total": 10,
+   "topic": "wandering-persimmon-cover",
+   "added": "2026-10-20T23:20:00+07:00",
+   "made": "2026-10-20",
+   "tag": "The Wandering Persimmon",
+   "pinned": true,
+   "blurb": "10 cards, ready now, storybook cover drawings with Machan, first words and page turn, with Notes",
+   "answered": 0,
+   "agent": "branding"
+  },
+  {
+   "id": "wandering-persimmon-narrator",
+   "name": "The Wandering Persimmon: Narrator Voice",
+   "url": "https://webermanapps.github.io/style-swipe/wandering-persimmon-narrator-voice-ryf4ta/",
+   "total": 8,
+   "topic": "wandering-persimmon-narrator",
+   "added": "2026-10-20T23:20:00+07:00",
+   "made": "2026-10-20",
+   "tag": "The Wandering Persimmon",
+   "pinned": true,
+   "blurb": "8 cards, ready now, tap-to-play narrator voice samples, with Notes",
+   "answered": 0,
+   "agent": "branding"
+  },
   {
    "id": "swipe-type-name-logo",
    "name": "Swipe & Type: Name and Logo",
