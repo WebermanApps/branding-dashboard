@@ -102,7 +102,7 @@
    "blurb": "10 cards, ready now"
   }
  ],
- "updated": "2026-10-20T12:09:47+07:00",
+ "updated": "2026-10-20T12:40:55+07:00",
  "done": [
   {
    "id": "up-next-deck",
@@ -552,6 +552,18 @@
  "queued": [],
  "queued_note": "Held back by the 5-deck cap (pinned + decks <= 5). Requested decks never count toward the cap and never show in the header shelf.",
  "requested": [
+  {
+   "id": "rules-check",
+   "name": "Rules Check",
+   "url": "https://webermanapps.github.io/style-swipe/rules-check-b6ljxi/",
+   "total": 9,
+   "answered": 0,
+   "tag": "Max's Picks",
+   "status": "open",
+   "requested_at": "2026-10-20T12:40:55+07:00",
+   "added": "2026-10-20T12:40:55+07:00",
+   "note": "Machan Oct 20 2026 ICT: 9 yes/no rule cards (pings wake paused agents, Router retirement, Swatch telling owners, instant submit routine, Coach routines, draft pins, shelf refill). Yes/right = new rule, No/left = old rule. Submits as agent 'coach'."
+  },
   {
    "id": "branding-machan-alchemist-trailer-deck",
    "name": "Machan Alchemist Trailer Deck",
