@@ -102,7 +102,7 @@
       "blurb": "10 cards, ready now"
     }
   ],
-  "updated": "2026-10-20T20:12:11+07:00",
+  "updated": "2026-10-20T20:40:00+07:00",
   "done": [
     {
       "id": "up-next-deck",
@@ -615,6 +615,19 @@
     }
   ],
   "pinned": [
+    {
+      "id": "courtyard-shape",
+      "name": "Courtyard Shape",
+      "url": "https://webermanapps.github.io/style-swipe/courtyard-shape-vj2dp5/",
+      "total": 6,
+      "topic": "courtyard-shape",
+      "added": "2026-10-20T20:40:00+07:00",
+      "tag": "Blueprint",
+      "pinned": true,
+      "blurb": "6 cards, ready now, massing sketches, with Notes",
+      "answered": 0,
+      "agent": "branding"
+    },
     {
       "id": "swipe-polish",
       "name": "Swipe Polish",
