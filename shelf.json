@@ -102,7 +102,7 @@
    "blurb": "10 cards, ready now"
   }
  ],
- "updated": "2026-10-20T01:03:37+07:00",
+ "updated": "2026-10-20T10:41:39+07:00",
  "done": [
   {
    "id": "up-next-deck",
@@ -482,6 +482,18 @@
  "queued": [],
  "queued_note": "Held back by the 5-deck cap (pinned + decks <= 5). Requested decks never count toward the cap and never show in the header shelf.",
  "requested": [
+  {
+   "id": "branding-machan-alchemist-trailer-deck",
+   "name": "Machan Alchemist Trailer Deck",
+   "url": "https://webermanapps.github.io/style-swipe/machan-alchemist-trailer-deck-vqhzke/",
+   "total": 11,
+   "answered": 0,
+   "tag": "Max's Picks",
+   "status": "open",
+   "requested_at": "2026-10-20T10:35:00+07:00",
+   "added": "2026-10-20T10:41:39+07:00",
+   "note": "Max Oct 20 2026 10:35 AM ICT: Machan intro as a movie-style trailer for Machan's The Alchemist; v2 was 'closer but still way off'. 11 pairs with real frames (swatch-v2 stills + generated stills), card 11 bonus (desert/omens vs Machan's own places). Top of Max's Picks."
+  },
   {
    "id": "branding-gift-swipe-big-idea-deck",
    "name": "Gift Swipe Big Idea Deck",
