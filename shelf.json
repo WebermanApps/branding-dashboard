@@ -553,6 +553,18 @@
  "queued_note": "Held back by the 5-deck cap (pinned + decks <= 5). Requested decks never count toward the cap and never show in the header shelf.",
  "requested": [
   {
+   "id": "chapter1-plot",
+   "name": "Chapter 1 Plot Deck",
+   "url": "https://webermanapps.github.io/style-swipe/chapter1-plot-r8w2kd/",
+   "total": 11,
+   "answered": 0,
+   "tag": "Max's Picks",
+   "status": "open",
+   "requested_at": "2026-10-20T14:50:00+07:00",
+   "added": "2026-10-20T14:50:00+07:00",
+   "note": "Machan Oct 20 2026 ICT: Chapter 1 timeline and plot choices (urge, leaving, fear, the someone old, the sign). 11 A vs B pairs, tap-pop tiles, hold to unpick. Submits as agent 'branding'. Top of Max's Picks."
+  },
+  {
    "id": "story-name",
    "name": "Story Name Deck",
    "url": "https://webermanapps.github.io/style-swipe/story-name-m4c7tl/",
