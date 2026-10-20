@@ -553,6 +553,18 @@
  "queued_note": "Held back by the 5-deck cap (pinned + decks <= 5). Requested decks never count toward the cap and never show in the header shelf.",
  "requested": [
   {
+   "id": "wellnest-whats-included",
+   "name": "What's Included at the WellNest",
+   "url": "https://webermanapps.github.io/style-swipe/wellnest-whats-included-53dpzx/",
+   "total": 11,
+   "answered": 0,
+   "tag": "Max's Picks",
+   "status": "open",
+   "requested_at": "2026-10-20T13:30:00+07:00",
+   "added": "2026-10-20T13:30:00+07:00",
+   "note": "Machan Oct 20 2026 ICT: 11 this-or-that pairs on what the WellNest retreat or membership could include (spaces, food, services). Submits as agent 'wellnest'. Top of Max's Picks."
+  },
+  {
    "id": "thumbnail-remake-newest-shorts-krbvpg",
    "name": "Thumbnail Remake 1A",
    "url": "https://webermanapps.github.io/style-swipe/thumbnail-remake-newest-shorts-krbvpg/",
