@@ -111,7 +111,7 @@
       "made": "2026-10-17"
     }
   ],
-  "updated": "2026-10-20T21:46:00+07:00",
+  "updated": "2026-10-20T21:49:00+07:00",
   "done": [
     {
       "id": "up-next-deck",
@@ -735,6 +735,20 @@
     }
   ],
   "pinned": [
+    {
+      "id": "gift-send-flow",
+      "name": "Send as a Gift",
+      "url": "https://webermanapps.github.io/style-swipe/gift-send-flow-rtkwgn/",
+      "total": 10,
+      "topic": "gift-send-flow",
+      "added": "2026-10-20T21:49:00+07:00",
+      "made": "2026-10-20",
+      "tag": "Gift Deck",
+      "pinned": true,
+      "blurb": "10 cards, ready now, send-as-gift screen mockups, with Notes",
+      "answered": 0,
+      "agent": "branding"
+    },
     {
       "id": "ch1-key-scenes",
       "name": "Chapter 1 Scenes",
