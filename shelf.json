@@ -111,7 +111,7 @@
    "made": "2026-10-17"
   }
  ],
- "updated": "2026-10-20T22:05:06+07:00",
+ "updated": "2026-10-20T22:30:00+07:00",
  "done": [
   {
    "id": "up-next-deck",
@@ -756,6 +756,62 @@
   }
  ],
  "pinned": [
+  {
+   "id": "swipe-type-name-logo",
+   "name": "Swipe & Type: Name and Logo",
+   "url": "https://webermanapps.github.io/style-swipe/swipe-type-name-logo-k4v8tq/",
+   "total": 10,
+   "topic": "swipe-type-name-logo",
+   "added": "2026-10-20T22:30:00+07:00",
+   "made": "2026-10-20",
+   "tag": "Gift Deck",
+   "pinned": true,
+   "blurb": "10 cards, ready now, wordmark, logo, icon and colour drawings, with Notes",
+   "answered": 0,
+   "agent": "branding"
+  },
+  {
+   "id": "swipe-type-screens",
+   "name": "Swipe & Type: Screens",
+   "url": "https://webermanapps.github.io/style-swipe/swipe-type-screens-p2m7xd/",
+   "total": 10,
+   "topic": "swipe-type-screens",
+   "added": "2026-10-20T22:30:00+07:00",
+   "made": "2026-10-20",
+   "tag": "Gift Deck",
+   "pinned": true,
+   "blurb": "10 cards, ready now, recipient screen phone mockups, with Notes",
+   "answered": 0,
+   "agent": "branding"
+  },
+  {
+   "id": "swipe-type-overall",
+   "name": "Swipe & Type: Overall",
+   "url": "https://webermanapps.github.io/style-swipe/swipe-type-overall-w9c3hn/",
+   "total": 10,
+   "topic": "swipe-type-overall",
+   "added": "2026-10-20T22:30:00+07:00",
+   "made": "2026-10-20",
+   "tag": "Gift Deck",
+   "pinned": true,
+   "blurb": "10 cards, ready now, big-picture calls with mockups, with Notes",
+   "answered": 0,
+   "agent": "branding"
+  },
+  {
+   "id": "swipe-type-x-post",
+   "name": "Swipe & Type: X Post",
+   "url": "https://webermanapps.github.io/style-swipe/swipe-type-x-post-r6j1zb/",
+   "total": 10,
+   "topic": "swipe-type-x-post",
+   "added": "2026-10-20T22:30:00+07:00",
+   "made": "2026-10-20",
+   "tag": "Gift Deck",
+   "pinned": true,
+   "blurb": "10 cards, ready now, X post mockups (nothing posted), with Notes",
+   "answered": 0,
+   "agent": "branding"
+  },
   {
    "id": "gift-setup",
    "name": "Swipe & Type: Gift Setup",
