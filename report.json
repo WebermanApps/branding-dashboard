@@ -1,26 +1,14 @@
 {
   "type": "Morning Report",
   "report_type": "morning",
-  "date": "2026-10-15",
-  "updated": "2026-10-15T07:24:38+07:00",
-  "posted_at": "2026-10-15T07:24:38+07:00",
+  "date": "2026-10-20",
+  "updated": "2026-10-20T12:45:00+07:00",
+  "posted_at": "2026-10-20T12:45:00+07:00",
   "due": "2026-10-15T05:00:00+07:00",
   "late": true,
   "late_note": "Late: posted 7:24 AM ICT, due 5:00 AM ICT. Usage ran out overnight, so the 4:47 routine failed.",
-  "top3": [
-    "Late Morning Report (posted 07:24 ICT, due 5:00): overnight usage ran out, so the Morning Report, Daily Deck, Deck Bank Refill, Swipe Stats Sync and Close-of-Night refresh did not run on time.",
-    "Ready To Swipe shelf at the top has your waiting decks, starting with Ready To Swipe Deck Two and Agent Dashboards Deck Two.",
-    "Deck counters re-synced this morning; 0 decks finished so far today."
-  ],
-  "today": [
-    "Re-ran the missed jobs: swipe stats synced. No new Daily Deck or refill: the ready shelf is already full at 5 unplayed decks.",
-    "Auditing every active agent board against last night's rules (shelf of 3-5 decks at top, decks-only counts, Morning Report only, Routines at the bottom) and sending each owner their fix."
-  ],
-  "tomorrow": [
-    "Morning Report back on time before 5:00 AM ICT."
-  ],
-  "needs": [
-    "Play a waiting deck and tap Submit.",
-    "Still open: I vs We, and heading case for blog posts."
-  ]
+  "top3": [],
+  "today": [],
+  "tomorrow": [],
+  "needs": []
 }
