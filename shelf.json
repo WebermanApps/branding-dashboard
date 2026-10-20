@@ -111,7 +111,7 @@
    "made": "2026-10-17"
   }
  ],
- "updated": "2026-10-20T23:58:08+07:00",
+ "updated": "2026-10-21T00:01:00+07:00",
  "done": [
   {
    "id": "up-next-deck",
@@ -931,6 +931,48 @@
   }
  ],
  "pinned": [
+  {
+   "id": "wandering-persimmon-cover-2",
+   "name": "The Wandering Persimmon: Storybook Cover 2",
+   "url": "https://webermanapps.github.io/style-swipe/wandering-persimmon-storybook-cover-2-ad4d96/",
+   "total": 10,
+   "topic": "wandering-persimmon-cover-2",
+   "added": "2026-10-21T00:01:00+07:00",
+   "made": "2026-10-20",
+   "tag": "The Wandering Persimmon",
+   "pinned": true,
+   "blurb": "10 cards, ready now, finishing your cover picks: gold, sky, lettering, Machan's look back, spine, back cover, ribbon, texture, with Notes",
+   "answered": 0,
+   "agent": "branding"
+  },
+  {
+   "id": "wandering-persimmon-book-inside",
+   "name": "The Wandering Persimmon: The Book Inside",
+   "url": "https://webermanapps.github.io/style-swipe/wandering-persimmon-book-inside-b3ec52/",
+   "total": 10,
+   "topic": "wandering-persimmon-book-inside",
+   "added": "2026-10-21T00:01:00+07:00",
+   "made": "2026-10-20",
+   "tag": "The Wandering Persimmon",
+   "pinned": true,
+   "blurb": "10 cards, ready now, the pages: paper, pictures, words, drop cap, page turn, chapter title page, end page, with Notes",
+   "answered": 0,
+   "agent": "branding"
+  },
+  {
+   "id": "wandering-persimmon-ch1-moments",
+   "name": "The Wandering Persimmon: Chapter 1 Moments",
+   "url": "https://webermanapps.github.io/style-swipe/wandering-persimmon-ch1-moments-c602f5/",
+   "total": 10,
+   "topic": "wandering-persimmon-ch1-moments",
+   "added": "2026-10-21T00:01:00+07:00",
+   "made": "2026-10-20",
+   "tag": "The Wandering Persimmon",
+   "pinned": true,
+   "blurb": "10 cards, ready now, how the big Chapter 1 moments look and feel, plus 2 music cards with Play buttons, with Notes",
+   "answered": 0,
+   "agent": "branding"
+  },
   {
    "id": "swipe-type-landing",
    "name": "Swipe & Type: Landing Page",
