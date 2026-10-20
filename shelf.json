@@ -111,7 +111,7 @@
       "made": "2026-10-17"
     }
   ],
-  "updated": "2026-10-20T21:42:00+07:00",
+  "updated": "2026-10-20T21:43:00+07:00",
   "done": [
     {
       "id": "up-next-deck",
@@ -735,6 +735,20 @@
     }
   ],
   "pinned": [
+    {
+      "id": "cc-data-widgets",
+      "name": "Member and Tech Widgets",
+      "url": "https://webermanapps.github.io/style-swipe/cc-data-widgets-3px8nk/",
+      "total": 10,
+      "topic": "cc-data-widgets",
+      "added": "2026-10-20T21:43:00+07:00",
+      "made": "2026-10-20",
+      "tag": "UpKeep",
+      "pinned": true,
+      "blurb": "10 cards, ready now, member and technician widget mockups (fake data), with Notes",
+      "answered": 0,
+      "agent": "upkeep"
+    },
     {
       "id": "cc-status-lights",
       "name": "Alerts and Status Lights",
