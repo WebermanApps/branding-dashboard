@@ -102,7 +102,7 @@
       "blurb": "10 cards, ready now"
     }
   ],
-  "updated": "2026-10-20T19:50:00+07:00",
+  "updated": "2026-10-20T20:12:11+07:00",
   "done": [
     {
       "id": "up-next-deck",
@@ -570,6 +570,48 @@
       "name": "Machan Story Book Deck",
       "answered": 8,
       "total": 11
+    },
+    {
+      "id": "weberman-shaping",
+      "at": "2026-10-20T19:56:52+07:00",
+      "name": "Shaping",
+      "answered": 10,
+      "total": 10
+    },
+    {
+      "id": "weberman-extra-space",
+      "at": "2026-10-20T20:00:32+07:00",
+      "name": "Extra Space",
+      "answered": 9,
+      "total": 10
+    },
+    {
+      "id": "weberman-kids-wing",
+      "at": "2026-10-20T20:04:20+07:00",
+      "name": "Kids Wing",
+      "answered": 10,
+      "total": 10
+    },
+    {
+      "id": "weberman-living-and-guest",
+      "at": "2026-10-20T20:06:00+07:00",
+      "name": "Living and Guest",
+      "answered": 10,
+      "total": 10
+    },
+    {
+      "id": "weberman-flow-and-zoning",
+      "at": "2026-10-20T20:09:07+07:00",
+      "name": "Flow and Zoning",
+      "answered": 10,
+      "total": 10
+    },
+    {
+      "id": "story-name-final",
+      "at": "2026-10-20T19:29:10+07:00",
+      "name": "Story Name Final",
+      "answered": 10,
+      "total": 10
     }
   ],
   "pinned": [
@@ -612,66 +654,6 @@
       "agent": "household"
     },
     {
-      "id": "weberman-shaping",
-      "name": "Shaping",
-      "url": "https://webermanapps.github.io/style-swipe/weberman-shaping-mcsc10/",
-      "total": 10,
-      "topic": "weberman-residence",
-      "added": "2026-10-20T19:50:00+07:00",
-      "tag": "Residence",
-      "pinned": true,
-      "blurb": "10 cards, ready now, plan sketches, with Notes",
-      "answered": 0
-    },
-    {
-      "id": "weberman-extra-space",
-      "name": "Extra Space",
-      "url": "https://webermanapps.github.io/style-swipe/weberman-extra-space-jr5a6x/",
-      "total": 10,
-      "topic": "weberman-residence",
-      "added": "2026-10-20T19:50:00+07:00",
-      "tag": "Residence",
-      "pinned": true,
-      "blurb": "10 cards, ready now, plan sketches, with Notes",
-      "answered": 0
-    },
-    {
-      "id": "weberman-kids-wing",
-      "name": "Kids Wing",
-      "url": "https://webermanapps.github.io/style-swipe/weberman-kids-wing-2e96vw/",
-      "total": 10,
-      "topic": "weberman-residence",
-      "added": "2026-10-20T19:50:00+07:00",
-      "tag": "Residence",
-      "pinned": true,
-      "blurb": "10 cards, ready now, plan sketches, with Notes",
-      "answered": 0
-    },
-    {
-      "id": "weberman-living-and-guest",
-      "name": "Living and Guest",
-      "url": "https://webermanapps.github.io/style-swipe/weberman-living-and-guest-4jhhwm/",
-      "total": 10,
-      "topic": "weberman-residence",
-      "added": "2026-10-20T19:50:00+07:00",
-      "tag": "Residence",
-      "pinned": true,
-      "blurb": "10 cards, ready now, plan sketches, with Notes",
-      "answered": 0
-    },
-    {
-      "id": "weberman-flow-and-zoning",
-      "name": "Flow and Zoning",
-      "url": "https://webermanapps.github.io/style-swipe/weberman-flow-and-zoning-4hxezl/",
-      "total": 10,
-      "topic": "weberman-residence",
-      "added": "2026-10-20T19:50:00+07:00",
-      "tag": "Residence",
-      "pinned": true,
-      "blurb": "10 cards, ready now, plan sketches, with Notes",
-      "answered": 0
-    },
-    {
       "id": "chapter1-video",
       "name": "Chapter 1 Video Deck",
       "url": "https://webermanapps.github.io/style-swipe/chapter1-video-t8ofaw/",
@@ -711,18 +693,6 @@
       "id": "tap-swipe-motion",
       "name": "Tap Swipe Motion",
       "url": "https://webermanapps.github.io/style-swipe/tap-swipe-motion-ryxfpo/",
-      "total": 10,
-      "topic": "follow-up",
-      "added": "2026-10-20T18:40:00+07:00",
-      "tag": "Follow-up",
-      "pinned": true,
-      "blurb": "10 cards, ready now, with Notes",
-      "answered": 0
-    },
-    {
-      "id": "story-name-final",
-      "name": "Story Name Final",
-      "url": "https://webermanapps.github.io/style-swipe/story-name-final-15psv6/",
       "total": 10,
       "topic": "follow-up",
       "added": "2026-10-20T18:40:00+07:00",
