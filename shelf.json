@@ -111,7 +111,7 @@
    "made": "2026-10-17"
   }
  ],
- "updated": "2026-10-21T01:50:00+07:00",
+ "updated": "2026-10-21T01:58:00+07:00",
  "done": [
   {
    "id": "up-next-deck",
@@ -980,6 +980,20 @@
   }
  ],
  "pinned": [
+  {
+   "id": "swipe-style-computer-screen",
+   "name": "Swipe Style on Computer Screen",
+   "url": "https://webermanapps.github.io/style-swipe/swipe-style-computer-screen-q4m8tz/",
+   "total": 6,
+   "topic": "swipe-style-computer-screen",
+   "added": "2026-10-21T01:58:00+07:00",
+   "made": "2026-10-21",
+   "tag": "Branding",
+   "pinned": true,
+   "blurb": "6 cards, ready now: how swipe decks should look and work on a desktop or laptop, with mock screens and Notes",
+   "answered": 0,
+   "agent": "branding"
+  },
   {
    "id": "jakarta-weekend-art-markets",
    "name": "Jakarta Weekend: Art, Markets & Food",
