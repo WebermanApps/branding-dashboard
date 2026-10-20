@@ -111,7 +111,7 @@
       "made": "2026-10-17"
     }
   ],
-  "updated": "2026-10-20T20:47:56+07:00",
+  "updated": "2026-10-20T21:11:09+07:00",
   "done": [
     {
       "id": "up-next-deck",
@@ -696,6 +696,42 @@
       "name": "Command Center Info Flow",
       "answered": 10,
       "total": 10
+    },
+    {
+      "id": "the-ancient-one",
+      "at": "2026-10-20T21:08:04+07:00",
+      "name": "The Ancient One Deck",
+      "answered": 9,
+      "total": 10
+    },
+    {
+      "id": "the-goodbye",
+      "at": "2026-10-20T21:02:15+07:00",
+      "name": "The Goodbye Deck",
+      "answered": 10,
+      "total": 10
+    },
+    {
+      "id": "the-core-line",
+      "at": "2026-10-20T21:05:24+07:00",
+      "name": "The Core Line Deck",
+      "answered": 10,
+      "total": 10
+    },
+    {
+      "id": "story-name",
+      "at": "2026-10-20T20:54:02+07:00",
+      "name": "Story Name Deck",
+      "answered": 10,
+      "total": 11
+    },
+    {
+      "id": "chapter-1-name",
+      "at": "2026-10-20T20:59:06+07:00",
+      "name": "Chapter 1 Name Deck",
+      "total": 10,
+      "answered": 9,
+      "made": "2026-10-20"
     }
   ],
   "pinned": [
@@ -899,16 +935,18 @@
       "name": "Chapter 1 Name Deck",
       "url": "https://webermanapps.github.io/style-swipe/chapter-1-name-9dqjt6/",
       "total": 10,
-      "answered": 0,
+      "answered": 9,
       "tag": "Max's Picks",
-      "status": "open",
+      "status": "done",
       "pinned": true,
       "requested_at": "2026-10-20T21:05:00+07:00",
       "added": "2026-10-20T21:05:00+07:00",
       "made": "2026-10-20",
       "agent": "branding",
       "blurb": "10 cards, ready now, with Notes",
-      "note": "Machan Oct 20 2026 ICT: name Chapter 1 of The Wandering Persimmon. 10 A vs B title pairs (tree, pull, a little further, goodbye, looking back, the words), last card a final showdown. Submits as agent 'branding'. Top of Max's Picks."
+      "note": "Machan Oct 20 2026 ICT: name Chapter 1 of The Wandering Persimmon. 10 A vs B title pairs (tree, pull, a little further, goodbye, looking back, the words), last card a final showdown. Submits as agent 'branding'. Top of Max's Picks.",
+      "done_at": "2026-10-20T20:59:06+07:00",
+      "done_note": "Result row deck id 'chapter1-name' (in-page DECK id) sent 20:59 ICT; shelf 'added' was set 21:05, so sync skipped it. Moved by hand."
     },
     {
       "id": "machans-look",
@@ -931,48 +969,51 @@
       "name": "The Ancient One Deck",
       "url": "https://webermanapps.github.io/style-swipe/the-ancient-one-yxywl1/",
       "total": 10,
-      "answered": 0,
+      "answered": 9,
       "tag": "Max's Picks",
-      "status": "open",
+      "status": "done",
       "pinned": true,
       "requested_at": "2026-10-20T21:00:00+07:00",
       "added": "2026-10-20T21:00:00+07:00",
       "made": "2026-10-20",
       "agent": "branding",
       "blurb": "10 cards, ready now, with Notes",
-      "note": "Machan Oct 20 2026 ICT: The Wandering Persimmon, the ancient tree or creature: form, voice, setting, how it walks away. 10 A vs B pairs. Submits as agent 'branding'. Right after Chapter 1 Name Deck on Max's Picks."
+      "note": "Machan Oct 20 2026 ICT: The Wandering Persimmon, the ancient tree or creature: form, voice, setting, how it walks away. 10 A vs B pairs. Submits as agent 'branding'. Right after Chapter 1 Name Deck on Max's Picks.",
+      "done_at": "2026-10-20T21:08:04+07:00"
     },
     {
       "id": "the-goodbye",
       "name": "The Goodbye Deck",
       "url": "https://webermanapps.github.io/style-swipe/the-goodbye-xxem73/",
       "total": 10,
-      "answered": 0,
+      "answered": 10,
       "tag": "Max's Picks",
-      "status": "open",
+      "status": "done",
       "pinned": true,
       "requested_at": "2026-10-20T21:00:00+07:00",
       "added": "2026-10-20T21:00:00+07:00",
       "made": "2026-10-20",
       "agent": "branding",
       "blurb": "10 cards, ready now, with Notes",
-      "note": "Machan Oct 20 2026 ICT: The Wandering Persimmon, how leaving home is staged: mother, packing, looking back, time of day, mood. 10 A vs B pairs. Submits as agent 'branding'. Right after Chapter 1 Name Deck on Max's Picks."
+      "note": "Machan Oct 20 2026 ICT: The Wandering Persimmon, how leaving home is staged: mother, packing, looking back, time of day, mood. 10 A vs B pairs. Submits as agent 'branding'. Right after Chapter 1 Name Deck on Max's Picks.",
+      "done_at": "2026-10-20T21:02:15+07:00"
     },
     {
       "id": "the-core-line",
       "name": "The Core Line Deck",
       "url": "https://webermanapps.github.io/style-swipe/the-core-line-mnlx3f/",
       "total": 10,
-      "answered": 0,
+      "answered": 10,
       "tag": "Max's Picks",
-      "status": "open",
+      "status": "done",
       "pinned": true,
       "requested_at": "2026-10-20T21:00:00+07:00",
       "added": "2026-10-20T21:00:00+07:00",
       "made": "2026-10-20",
       "agent": "branding",
       "blurb": "10 cards, ready now, with Notes",
-      "note": "Machan Oct 20 2026 ICT: The Wandering Persimmon, candidate wordings for the one line the ancient one gives him; last card a final showdown. 10 A vs B pairs. Submits as agent 'branding'. Right after Chapter 1 Name Deck on Max's Picks."
+      "note": "Machan Oct 20 2026 ICT: The Wandering Persimmon, candidate wordings for the one line the ancient one gives him; last card a final showdown. 10 A vs B pairs. Submits as agent 'branding'. Right after Chapter 1 Name Deck on Max's Picks.",
+      "done_at": "2026-10-20T21:05:24+07:00"
     },
     {
       "id": "chapter1-plot",
@@ -993,13 +1034,14 @@
       "name": "Story Name Deck",
       "url": "https://webermanapps.github.io/style-swipe/story-name-m4c7tl/",
       "total": 11,
-      "answered": 0,
+      "answered": 10,
       "tag": "Max's Picks",
-      "status": "open",
+      "status": "done",
       "requested_at": "2026-10-20T14:45:00+07:00",
       "added": "2026-10-20T14:45:00+07:00",
       "note": "Machan Oct 20 2026 ICT: pick the title of Machan's story. 11 A vs B pairs, 14 titles; The Legend of Machan appears 3 times. Tap & Swipe, Machan Decides and Skip. Submits as agent 'branding'. Top of Max's Picks.",
-      "made": "2026-10-20"
+      "made": "2026-10-20",
+      "done_at": "2026-10-20T20:54:02+07:00"
     },
     {
       "id": "tap-swipe-transitions",
