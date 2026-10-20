@@ -111,7 +111,7 @@
    "made": "2026-10-17"
   }
  ],
- "updated": "2026-10-21T00:20:00+07:00",
+ "updated": "2026-10-21T00:16:16+07:00",
  "done": [
   {
    "id": "up-next-deck",
@@ -928,9 +928,51 @@
    "name": "The Wandering Persimmon: Narrator Voice 2",
    "answered": 6,
    "total": 8
+  },
+  {
+   "id": "wandering-persimmon-cover-2",
+   "at": "2026-10-21T00:10:00+07:00",
+   "name": "The Wandering Persimmon: Storybook Cover 2",
+   "answered": 8,
+   "total": 10
+  },
+  {
+   "id": "wandering-persimmon-book-inside",
+   "at": "2026-10-21T00:13:00+07:00",
+   "name": "The Wandering Persimmon: The Book Inside",
+   "answered": 10,
+   "total": 10
   }
  ],
  "pinned": [
+  {
+   "id": "wandering-persimmon-cover-3",
+   "name": "The Wandering Persimmon: Storybook Cover 3",
+   "url": "https://webermanapps.github.io/style-swipe/wandering-persimmon-storybook-cover-3-c354a5/",
+   "total": 10,
+   "topic": "wandering-persimmon-cover-3",
+   "added": "2026-10-21T00:16:16+07:00",
+   "made": "2026-10-21",
+   "tag": "The Wandering Persimmon",
+   "pinned": true,
+   "blurb": "10 cards, ready now, finishing the cover: title fit, arch, picture window, back stamp, spine, page edges, wear, with Notes",
+   "answered": 0,
+   "agent": "branding"
+  },
+  {
+   "id": "wandering-persimmon-book-inside-2",
+   "name": "The Wandering Persimmon: The Book Inside 2",
+   "url": "https://webermanapps.github.io/style-swipe/wandering-persimmon-book-inside-2-9a87bd/",
+   "total": 10,
+   "topic": "wandering-persimmon-book-inside-2",
+   "added": "2026-10-21T00:16:16+07:00",
+   "made": "2026-10-21",
+   "tag": "The Wandering Persimmon",
+   "pinned": true,
+   "blurb": "10 cards, ready now, finishing the pages: page-turn shadow, watercolour, text size and spacing, ornament, page numbers, gold dot, with Notes",
+   "answered": 0,
+   "agent": "branding"
+  },
   {
    "id": "cc-charts-panels",
    "name": "Command Center: Charts and Panels",
@@ -972,34 +1014,6 @@
    "blurb": "9 cards, ready now, band, all-clear Machan, handoffs and Ping Log mockups, with Notes",
    "answered": 0,
    "agent": "upkeep"
-  },
-  {
-   "id": "wandering-persimmon-cover-2",
-   "name": "The Wandering Persimmon: Storybook Cover 2",
-   "url": "https://webermanapps.github.io/style-swipe/wandering-persimmon-storybook-cover-2-ad4d96/",
-   "total": 10,
-   "topic": "wandering-persimmon-cover-2",
-   "added": "2026-10-21T00:01:00+07:00",
-   "made": "2026-10-20",
-   "tag": "The Wandering Persimmon",
-   "pinned": true,
-   "blurb": "10 cards, ready now, finishing your cover picks: gold, sky, lettering, Machan's look back, spine, back cover, ribbon, texture, with Notes",
-   "answered": 0,
-   "agent": "branding"
-  },
-  {
-   "id": "wandering-persimmon-book-inside",
-   "name": "The Wandering Persimmon: The Book Inside",
-   "url": "https://webermanapps.github.io/style-swipe/wandering-persimmon-book-inside-b3ec52/",
-   "total": 10,
-   "topic": "wandering-persimmon-book-inside",
-   "added": "2026-10-21T00:01:00+07:00",
-   "made": "2026-10-20",
-   "tag": "The Wandering Persimmon",
-   "pinned": true,
-   "blurb": "10 cards, ready now, the pages: paper, pictures, words, drop cap, page turn, chapter title page, end page, with Notes",
-   "answered": 0,
-   "agent": "branding"
   },
   {
    "id": "wandering-persimmon-ch1-moments",
