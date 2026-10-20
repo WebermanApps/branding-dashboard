@@ -574,6 +574,18 @@
   ],
   "pinned": [
     {
+      "id": "swipe-polish",
+      "name": "Swipe Polish",
+      "url": "https://webermanapps.github.io/style-swipe/swipe-polish-sbm5bs/",
+      "total": 10,
+      "topic": "swipe-polish",
+      "added": "2026-10-20T20:10:00+07:00",
+      "tag": "Tiles",
+      "pinned": true,
+      "blurb": "10 cards, ready now, live demo tiles, with Notes",
+      "answered": 0
+    },
+    {
       "id": "machan-domain-deck",
       "name": "Machan Domain Deck",
       "url": "https://webermanapps.github.io/style-swipe/machan-domain-deck-d2sfba/",
