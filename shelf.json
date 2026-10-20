@@ -895,6 +895,22 @@
   "queued_note": "Held back by the 5-deck cap (pinned + decks <= 5). Requested decks never count toward the cap and never show in the header shelf.",
   "requested": [
     {
+      "id": "chapter-1-name",
+      "name": "Chapter 1 Name Deck",
+      "url": "https://webermanapps.github.io/style-swipe/chapter-1-name-9dqjt6/",
+      "total": 10,
+      "answered": 0,
+      "tag": "Max's Picks",
+      "status": "open",
+      "pinned": true,
+      "requested_at": "2026-10-20T21:05:00+07:00",
+      "added": "2026-10-20T21:05:00+07:00",
+      "made": "2026-10-20",
+      "agent": "branding",
+      "blurb": "10 cards, ready now, with Notes",
+      "note": "Machan Oct 20 2026 ICT: name Chapter 1 of The Wandering Persimmon. 10 A vs B title pairs (tree, pull, a little further, goodbye, looking back, the words), last card a final showdown. Submits as agent 'branding'. Top of Max's Picks."
+    },
+    {
       "id": "chapter1-plot",
       "name": "Chapter 1 Plot Deck",
       "url": "https://webermanapps.github.io/style-swipe/chapter1-plot-r8w2kd/",
