@@ -574,6 +574,19 @@
   ],
   "pinned": [
     {
+      "id": "jakarta-trip",
+      "name": "Jakarta Trip",
+      "url": "https://webermanapps.github.io/style-swipe/jakarta-trip-j9018h/",
+      "total": 11,
+      "topic": "jakarta-trip",
+      "added": "2026-10-20T19:50:00+07:00",
+      "tag": "Trip",
+      "pinned": true,
+      "blurb": "11 cards, ready now, photos, with Notes",
+      "answered": 0,
+      "agent": "household"
+    },
+    {
       "id": "weberman-shaping",
       "name": "Shaping",
       "url": "https://webermanapps.github.io/style-swipe/weberman-shaping-mcsc10/",
