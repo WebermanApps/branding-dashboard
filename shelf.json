@@ -111,7 +111,7 @@
    "made": "2026-10-17"
   }
  ],
- "updated": "2026-10-21T03:10:00+07:00",
+ "updated": "2026-10-21T04:10:00+07:00",
  "done": [
   {
    "id": "up-next-deck",
@@ -1025,6 +1025,14 @@
    "answered": 11,
    "total": 13,
    "made": "2026-10-20"
+  },
+  {
+   "id": "weberman-roof-outdoor",
+   "at": "2026-10-21T03:09:26+07:00",
+   "name": "Roof, Eaves and Outdoor Rooms",
+   "answered": 9,
+   "total": 9,
+   "made": "2026-10-20"
   }
  ],
  "pinned": [
@@ -1342,16 +1350,17 @@
    "name": "Roof, Eaves and Outdoor Rooms",
    "url": "https://webermanapps.github.io/style-swipe/roof-eaves-outdoor-rooms-e6oh5j/",
    "total": 9,
-   "answered": 0,
+   "answered": 9,
    "tag": "Blueprint",
-   "status": "open",
+   "status": "done",
    "pinned": true,
    "requested_at": "2026-10-21T00:20:00+07:00",
    "added": "2026-10-21T00:20:00+07:00",
    "made": "2026-10-20",
    "agent": "branding",
    "blurb": "9 cards, ready now, construction drawings on every option, with Notes",
-   "note": "Weberman Residence (Blueprint agent's project; results route via branding). Separate roofs and deep eaves are set. Pitch, finish, rain, eave underside, outdoor room, fire, outdoor dining, solar."
+   "note": "Weberman Residence (Blueprint agent's project; results route via branding). Separate roofs and deep eaves are set. Pitch, finish, rain, eave underside, outdoor room, fire, outdoor dining, solar.",
+   "done_at": "2026-10-21T03:09:26+07:00"
   },
   {
    "id": "weberman-entry-arrival",
