@@ -111,7 +111,7 @@
    "made": "2026-10-17"
   }
  ],
- "updated": "2026-10-21T00:00:00+07:00",
+ "updated": "2026-10-20T23:58:08+07:00",
  "done": [
   {
    "id": "up-next-deck",
@@ -921,9 +921,30 @@
    "name": "Swipe & Type: Gift Setup",
    "answered": 9,
    "total": 10
+  },
+  {
+   "id": "wandering-persimmon-narrator-2",
+   "at": "2026-10-20T23:52:39+07:00",
+   "name": "The Wandering Persimmon: Narrator Voice 2",
+   "answered": 6,
+   "total": 8
   }
  ],
  "pinned": [
+  {
+   "id": "swipe-type-landing",
+   "name": "Swipe & Type: Landing Page",
+   "url": "https://webermanapps.github.io/style-swipe/swipe-type-landing-sqs0rc/",
+   "total": 13,
+   "topic": "swipe-type-landing",
+   "added": "2026-10-20T23:58:08+07:00",
+   "made": "2026-10-20",
+   "tag": "Swipe & Type",
+   "pinned": true,
+   "blurb": "13 cards, ready now: 10 landing-page phone mockups (hero, button, how it works, top 9, $100.01, 9 days, no app store, Home Screen, footer, occasions) + 3 settle cards (2 vs 3 decks, Chapter 1 first stop)",
+   "answered": 0,
+   "agent": "branding"
+  },
   {
    "id": "wandering-persimmon-narrator-3",
    "name": "The Wandering Persimmon: Narrator Voice 3",
@@ -935,20 +956,6 @@
    "tag": "The Wandering Persimmon",
    "pinned": true,
    "blurb": "8 cards, ready now, narrowing in on Andrew and Ava: speed, depth, pauses, warmth, tap to play, with Notes",
-   "answered": 0,
-   "agent": "branding"
-  },
-  {
-   "id": "wandering-persimmon-narrator-2",
-   "name": "The Wandering Persimmon: Narrator Voice 2",
-   "url": "https://webermanapps.github.io/style-swipe/wandering-persimmon-narrator-voice-2-s7auhm/",
-   "total": 8,
-   "topic": "wandering-persimmon-narrator-2",
-   "added": "2026-10-20T23:45:00+07:00",
-   "made": "2026-10-20",
-   "tag": "The Wandering Persimmon",
-   "pinned": true,
-   "blurb": "8 cards, ready now, deep warm narrator voices head to head, tap to play, with Notes",
    "answered": 0,
    "agent": "branding"
   },
