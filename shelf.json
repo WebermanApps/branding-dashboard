@@ -111,7 +111,7 @@
       "made": "2026-10-17"
     }
   ],
-  "updated": "2026-10-20T21:43:00+07:00",
+  "updated": "2026-10-20T21:45:00+07:00",
   "done": [
     {
       "id": "up-next-deck",
@@ -735,6 +735,20 @@
     }
   ],
   "pinned": [
+    {
+      "id": "ch1-first-stop",
+      "name": "Chapter 1 Ending",
+      "url": "https://webermanapps.github.io/style-swipe/ch1-first-stop-rltjuq/",
+      "total": 10,
+      "topic": "ch1-first-stop",
+      "added": "2026-10-20T21:45:00+07:00",
+      "made": "2026-10-20",
+      "tag": "Story",
+      "pinned": true,
+      "blurb": "10 cards, ready now, first-stop story sketches, with Notes",
+      "answered": 0,
+      "agent": "branding"
+    },
     {
       "id": "cc-needs-machan-ping-log",
       "name": "Needs Machan and Ping Log",
