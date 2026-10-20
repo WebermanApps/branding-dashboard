@@ -111,7 +111,7 @@
    "made": "2026-10-17"
   }
  ],
- "updated": "2026-10-21T01:58:00+07:00",
+ "updated": "2026-10-21T02:05:00+07:00",
  "done": [
   {
    "id": "up-next-deck",
@@ -977,6 +977,30 @@
    "name": "The Wandering Persimmon: Chapter 1 Moments",
    "answered": 6,
    "total": 10
+  },
+  {
+   "id": "jakarta-weekend-art-markets",
+   "at": "2026-10-21T01:36:19+07:00",
+   "name": "Jakarta Weekend: Art, Markets & Food",
+   "answered": 10,
+   "total": 11,
+   "made": "2026-10-21"
+  },
+  {
+   "id": "wandering-persimmon-narrator-deep",
+   "at": "2026-10-21T00:26:11+07:00",
+   "name": "The Wandering Persimmon: Narrator Voice Deep",
+   "answered": 4,
+   "total": 8,
+   "made": "2026-10-21"
+  },
+  {
+   "id": "wandering-persimmon-narrator-wise-original",
+   "at": "2026-10-21T01:39:27+07:00",
+   "name": "Wandering Persimmon Narrator Wise Original",
+   "answered": 4,
+   "total": 4,
+   "made": "2026-10-21"
   }
  ],
  "pinned": [
@@ -991,34 +1015,6 @@
    "tag": "Branding",
    "pinned": true,
    "blurb": "6 cards, ready now: how swipe decks should look and work on a desktop or laptop, with mock screens and Notes",
-   "answered": 0,
-   "agent": "branding"
-  },
-  {
-   "id": "jakarta-weekend-art-markets",
-   "name": "Jakarta Weekend: Art, Markets & Food",
-   "url": "https://webermanapps.github.io/style-swipe/jakarta-weekend-art-markets-k7w3pa/",
-   "total": 11,
-   "topic": "jakarta-weekend-art-markets",
-   "added": "2026-10-21T01:50:00+07:00",
-   "made": "2026-10-21",
-   "tag": "Trip",
-   "pinned": true,
-   "blurb": "11 cards, ready now, real Jakarta places for this weekend: art, architecture, markets, parks, the aquarium and refined Indonesian food, with Notes",
-   "answered": 0,
-   "agent": "branding"
-  },
-  {
-   "id": "wandering-persimmon-narrator-deep",
-   "name": "The Wandering Persimmon: Narrator Voice Deep",
-   "url": "https://webermanapps.github.io/style-swipe/wandering-persimmon-narrator-voice-deep-lspqc6/",
-   "total": 8,
-   "topic": "wandering-persimmon-narrator-deep",
-   "added": "2026-10-21T00:20:00+07:00",
-   "made": "2026-10-21",
-   "tag": "The Wandering Persimmon",
-   "pinned": true,
-   "blurb": "8 cards, ready now, darker and deeper narrator takes, tap to play, with Notes",
    "answered": 0,
    "agent": "branding"
   },
