@@ -574,6 +574,19 @@
   ],
   "pinned": [
     {
+      "id": "machan-domain-deck",
+      "name": "Machan Domain Deck",
+      "url": "https://webermanapps.github.io/style-swipe/machan-domain-deck-d2sfba/",
+      "total": 11,
+      "topic": "machan-domains",
+      "added": "2026-10-20T19:55:00+07:00",
+      "tag": "Domains",
+      "pinned": true,
+      "blurb": "11 cards, ready now, domain mocks, with Notes",
+      "answered": 0,
+      "agent": "branding"
+    },
+    {
       "id": "jakarta-trip",
       "name": "Jakarta Trip",
       "url": "https://webermanapps.github.io/style-swipe/jakarta-trip-j9018h/",
