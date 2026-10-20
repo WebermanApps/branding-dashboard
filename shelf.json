@@ -553,6 +553,18 @@
  "queued_note": "Held back by the 5-deck cap (pinned + decks <= 5). Requested decks never count toward the cap and never show in the header shelf.",
  "requested": [
   {
+   "id": "tap-swipe-transitions",
+   "name": "Tap & Swipe Transitions",
+   "url": "https://webermanapps.github.io/style-swipe/tap-swipe-transitions-lwj186/",
+   "total": 11,
+   "answered": 0,
+   "tag": "Max's Picks",
+   "status": "open",
+   "requested_at": "2026-10-20T14:10:00+07:00",
+   "added": "2026-10-20T14:10:00+07:00",
+   "note": "Machan Oct 20 2026 ICT: 11 transition-style pairs with live demos. The deck is the new model: tap selects, swipe only moves. Machan Decides and Skip. Submits as agent 'branding'. Top of Max's Picks."
+  },
+  {
    "id": "wellnest-whats-included",
    "name": "What's Included at the WellNest",
    "url": "https://webermanapps.github.io/style-swipe/wellnest-whats-included-53dpzx/",
