@@ -736,6 +736,20 @@
   ],
   "pinned": [
     {
+      "id": "cc-needs-machan-ping-log",
+      "name": "Needs Machan and Ping Log",
+      "url": "https://webermanapps.github.io/style-swipe/cc-needs-machan-ping-log-5w8vnb/",
+      "total": 10,
+      "topic": "cc-needs-machan-ping-log",
+      "added": "2026-10-20T21:43:00+07:00",
+      "made": "2026-10-20",
+      "tag": "UpKeep",
+      "pinned": true,
+      "blurb": "10 cards, ready now, Needs Machan band and Ping Log mockups (fake data), with Notes",
+      "answered": 0,
+      "agent": "upkeep"
+    },
+    {
       "id": "cc-data-widgets",
       "name": "Member and Tech Widgets",
       "url": "https://webermanapps.github.io/style-swipe/cc-data-widgets-3px8nk/",
