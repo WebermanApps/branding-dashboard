@@ -111,7 +111,7 @@
       "made": "2026-10-17"
     }
   ],
-  "updated": "2026-10-20T21:11:09+07:00",
+  "updated": "2026-10-20T21:36:00+07:00",
   "done": [
     {
       "id": "up-next-deck",
@@ -735,6 +735,20 @@
     }
   ],
   "pinned": [
+    {
+      "id": "wellness-wing",
+      "name": "Wellness Wing",
+      "url": "https://webermanapps.github.io/style-swipe/wellness-wing-j5ydko/",
+      "total": 10,
+      "topic": "wellness-wing",
+      "added": "2026-10-20T21:36:00+07:00",
+      "made": "2026-10-20",
+      "tag": "Blueprint",
+      "pinned": true,
+      "blurb": "10 cards, ready now, wellness wing room sketches, with Notes",
+      "answered": 0,
+      "agent": "branding"
+    },
     {
       "id": "command-center-theme",
       "name": "Command Center Theme",
