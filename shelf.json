@@ -111,7 +111,7 @@
    "made": "2026-10-17"
   }
  ],
- "updated": "2026-10-20T23:45:00+07:00",
+ "updated": "2026-10-20T23:36:25+07:00",
  "done": [
   {
    "id": "up-next-deck",
@@ -865,6 +865,62 @@
    "name": "Team Boards",
    "answered": 8,
    "total": 10
+  },
+  {
+   "id": "wandering-persimmon-music",
+   "at": "2026-10-20T23:31:35+07:00",
+   "name": "Wandering Persimmon Music",
+   "answered": 2,
+   "total": 5
+  },
+  {
+   "id": "wandering-persimmon-cover",
+   "at": "2026-10-20T23:24:10+07:00",
+   "name": "The Wandering Persimmon: Storybook Cover",
+   "answered": 10,
+   "total": 10
+  },
+  {
+   "id": "wandering-persimmon-narrator",
+   "at": "2026-10-20T23:26:13+07:00",
+   "name": "The Wandering Persimmon: Narrator Voice",
+   "answered": 4,
+   "total": 8
+  },
+  {
+   "id": "gift-app-smooth-flow",
+   "at": "2026-10-20T23:29:20+07:00",
+   "name": "Gift App: Smooth Flow",
+   "answered": 8,
+   "total": 8
+  },
+  {
+   "id": "swipe-type-name-logo",
+   "at": "2026-10-20T23:11:45+07:00",
+   "name": "Swipe & Type: Name and Logo",
+   "answered": 9,
+   "total": 10
+  },
+  {
+   "id": "swipe-type-screens",
+   "at": "2026-10-20T23:14:31+07:00",
+   "name": "Swipe & Type: Screens",
+   "answered": 10,
+   "total": 10
+  },
+  {
+   "id": "swipe-type-overall",
+   "at": "2026-10-20T23:18:14+07:00",
+   "name": "Swipe & Type: Overall",
+   "answered": 10,
+   "total": 10
+  },
+  {
+   "id": "gift-setup",
+   "at": "2026-10-20T23:22:02+07:00",
+   "name": "Swipe & Type: Gift Setup",
+   "answered": 9,
+   "total": 10
   }
  ],
  "pinned": [
@@ -879,118 +935,6 @@
    "tag": "The Wandering Persimmon",
    "pinned": true,
    "blurb": "8 cards, ready now, deep warm narrator voices head to head, tap to play, with Notes",
-   "answered": 0,
-   "agent": "branding"
-  },
-  {
-   "id": "wandering-persimmon-music",
-   "name": "Wandering Persimmon Music",
-   "url": "https://webermanapps.github.io/style-swipe/wandering-persimmon-music-wx479w/",
-   "total": 5,
-   "topic": "wandering-persimmon-music",
-   "added": "2026-10-20T23:30:00+07:00",
-   "made": "2026-10-20",
-   "tag": "The Wandering Persimmon",
-   "pinned": true,
-   "blurb": "5 cards, ready now, tap-to-play lullaby music samples, with Notes",
-   "answered": 0,
-   "agent": "branding"
-  },
-  {
-   "id": "wandering-persimmon-cover",
-   "name": "The Wandering Persimmon: Storybook Cover",
-   "url": "https://webermanapps.github.io/style-swipe/wandering-persimmon-storybook-cover-op9egj/",
-   "total": 10,
-   "topic": "wandering-persimmon-cover",
-   "added": "2026-10-20T23:20:00+07:00",
-   "made": "2026-10-20",
-   "tag": "The Wandering Persimmon",
-   "pinned": true,
-   "blurb": "10 cards, ready now, storybook cover drawings with Machan, first words and page turn, with Notes",
-   "answered": 0,
-   "agent": "branding"
-  },
-  {
-   "id": "wandering-persimmon-narrator",
-   "name": "The Wandering Persimmon: Narrator Voice",
-   "url": "https://webermanapps.github.io/style-swipe/wandering-persimmon-narrator-voice-ryf4ta/",
-   "total": 8,
-   "topic": "wandering-persimmon-narrator",
-   "added": "2026-10-20T23:20:00+07:00",
-   "made": "2026-10-20",
-   "tag": "The Wandering Persimmon",
-   "pinned": true,
-   "blurb": "8 cards, ready now, tap-to-play narrator voice samples, with Notes",
-   "answered": 0,
-   "agent": "branding"
-  },
-  {
-   "id": "gift-app-smooth-flow",
-   "name": "Gift App: Smooth Flow",
-   "url": "https://webermanapps.github.io/style-swipe/gift-app-smooth-flow-9fs7qt/",
-   "total": 8,
-   "topic": "gift-app-smooth-flow",
-   "added": "2026-10-20T23:25:00+07:00",
-   "made": "2026-10-20",
-   "tag": "Gift Deck",
-   "pinned": true,
-   "blurb": "8 cards, ready now, phone mockups for a smooth no-app-store flow, with Notes",
-   "answered": 0,
-   "agent": "branding"
-  },
-  {
-   "id": "swipe-type-name-logo",
-   "name": "Swipe & Type: Name and Logo",
-   "url": "https://webermanapps.github.io/style-swipe/swipe-type-name-logo-k4v8tq/",
-   "total": 10,
-   "topic": "swipe-type-name-logo",
-   "added": "2026-10-20T22:30:00+07:00",
-   "made": "2026-10-20",
-   "tag": "Gift Deck",
-   "pinned": true,
-   "blurb": "10 cards, ready now, wordmark, logo, icon and colour drawings, with Notes",
-   "answered": 0,
-   "agent": "branding"
-  },
-  {
-   "id": "swipe-type-screens",
-   "name": "Swipe & Type: Screens",
-   "url": "https://webermanapps.github.io/style-swipe/swipe-type-screens-p2m7xd/",
-   "total": 10,
-   "topic": "swipe-type-screens",
-   "added": "2026-10-20T22:30:00+07:00",
-   "made": "2026-10-20",
-   "tag": "Gift Deck",
-   "pinned": true,
-   "blurb": "10 cards, ready now, recipient screen phone mockups, with Notes",
-   "answered": 0,
-   "agent": "branding"
-  },
-  {
-   "id": "swipe-type-overall",
-   "name": "Swipe & Type: Overall",
-   "url": "https://webermanapps.github.io/style-swipe/swipe-type-overall-w9c3hn/",
-   "total": 10,
-   "topic": "swipe-type-overall",
-   "added": "2026-10-20T22:30:00+07:00",
-   "made": "2026-10-20",
-   "tag": "Gift Deck",
-   "pinned": true,
-   "blurb": "10 cards, ready now, big-picture calls with mockups, with Notes",
-   "answered": 0,
-   "agent": "branding"
-  },
-  {
-   "id": "gift-setup",
-   "name": "Swipe & Type: Gift Setup",
-   "url": "https://webermanapps.github.io/style-swipe/gift-setup-c4thp4/",
-   "total": 10,
-   "topic": "gift-setup",
-   "added": "2026-10-20T22:40:00+07:00",
-   "made": "2026-10-20",
-   "tag": "Gift Deck",
-   "pinned": true,
-   "blurb": "10 cards, ready now, sender setup screen phone mockups, with Notes",
    "answered": 0,
    "agent": "branding"
   },
