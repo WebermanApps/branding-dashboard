@@ -111,7 +111,7 @@
       "made": "2026-10-17"
     }
   ],
-  "updated": "2026-10-20T21:36:00+07:00",
+  "updated": "2026-10-20T21:38:00+07:00",
   "done": [
     {
       "id": "up-next-deck",
@@ -735,6 +735,20 @@
     }
   ],
   "pinned": [
+    {
+      "id": "house-materials",
+      "name": "House Materials",
+      "url": "https://webermanapps.github.io/style-swipe/house-materials-97q3xx/",
+      "total": 10,
+      "topic": "house-materials",
+      "added": "2026-10-20T21:38:00+07:00",
+      "made": "2026-10-20",
+      "tag": "Blueprint",
+      "pinned": true,
+      "blurb": "10 cards, ready now, wood, stone and finish sketches, with Notes",
+      "answered": 0,
+      "agent": "branding"
+    },
     {
       "id": "wellness-wing",
       "name": "Wellness Wing",
