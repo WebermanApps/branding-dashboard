@@ -111,7 +111,7 @@
       "made": "2026-10-17"
     }
   ],
-  "updated": "2026-10-21T20:04:52+07:00",
+  "updated": "2026-10-21T20:54:31+07:00",
   "done": [
     {
       "id": "up-next-deck",
@@ -1344,6 +1344,54 @@
   "queued": [],
   "queued_note": "Held back by the 5-deck cap (pinned + decks <= 5). Requested decks never count toward the cap and never show in the header shelf.",
   "requested": [
+    {
+      "id": "scene-5-sound-camera-and-motion-deck",
+      "name": "Scene 5 Sound, Camera and Motion Deck",
+      "url": "https://webermanapps.github.io/branding-djqmb410/decks/scene-5-sound-camera-and-motion-deck-vthd4w/",
+      "total": 8,
+      "answered": 0,
+      "tag": "Max's Picks",
+      "status": "open",
+      "requested_at": "2026-10-21T20:54:31+07:00",
+      "added": "2026-10-21T20:54:31+07:00",
+      "note": "Requested by Max: rest of Chapter 1 (Scene 5, The Ancient One)"
+    },
+    {
+      "id": "scene-5-characters-and-faces-deck",
+      "name": "Scene 5 Characters and Faces Deck",
+      "url": "https://webermanapps.github.io/branding-djqmb410/decks/scene-5-characters-and-faces-deck-3ernlj/",
+      "total": 8,
+      "answered": 0,
+      "tag": "Max's Picks",
+      "status": "open",
+      "requested_at": "2026-10-21T20:54:31+07:00",
+      "added": "2026-10-21T20:54:31+07:00",
+      "note": "Requested by Max: rest of Chapter 1 (Scene 5, The Ancient One)"
+    },
+    {
+      "id": "scene-5-world-and-places-deck",
+      "name": "Scene 5 World and Places Deck",
+      "url": "https://webermanapps.github.io/branding-djqmb410/decks/scene-5-world-and-places-deck-e9jc57/",
+      "total": 8,
+      "answered": 0,
+      "tag": "Max's Picks",
+      "status": "open",
+      "requested_at": "2026-10-21T20:54:31+07:00",
+      "added": "2026-10-21T20:54:31+07:00",
+      "note": "Requested by Max: rest of Chapter 1 (Scene 5, The Ancient One)"
+    },
+    {
+      "id": "scene-5-story-beats-deck",
+      "name": "Scene 5 Story Beats Deck",
+      "url": "https://webermanapps.github.io/branding-djqmb410/decks/scene-5-story-beats-deck-8brpr0/",
+      "total": 8,
+      "answered": 0,
+      "tag": "Max's Picks",
+      "status": "open",
+      "requested_at": "2026-10-21T20:54:31+07:00",
+      "added": "2026-10-21T20:54:31+07:00",
+      "note": "Requested by Max: rest of Chapter 1 (Scene 5, The Ancient One)"
+    },
     {
       "id": "scene-2-and-3-landscape-follow-up-deck",
       "name": "Scene 2 and 3 Landscape Follow-up",
