@@ -1077,7 +1077,8 @@
       "pinned": true,
       "blurb": "8 cards, ready now, narrowing in on Andrew and Ava: speed, depth, pauses, warmth, tap to play, with Notes",
       "answered": 0,
-      "agent": "branding"
+      "agent": "branding",
+      "status": "replaced"
     },
     {
       "id": "facade-and-garden",
@@ -1465,7 +1466,7 @@
       "blurb": "8 cards, ready now, narrowing in on Andrew and Ava: speed, depth, pauses, warmth, tap to play, with Notes",
       "answered": 0,
       "agent": "branding",
-      "status": "open",
+      "status": "replaced",
       "requested_at": "2026-10-21T12:50:00+07:00"
     },
     {
