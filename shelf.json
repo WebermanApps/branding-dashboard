@@ -1263,6 +1263,21 @@
   "queued_note": "Held back by the 5-deck cap (pinned + decks <= 5). Requested decks never count toward the cap and never show in the header shelf.",
   "requested": [
   {
+   "id": "ink-text-deck-2",
+   "name": "Ink Text Deck 2",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/ink-text-deck-2-udtq7d/",
+   "total": 8,
+   "answered": 0,
+   "tag": "Wandering Persimmon",
+   "status": "open",
+   "requested_at": "2026-10-21T13:30:00+07:00",
+   "added": "2026-10-21T13:30:00+07:00",
+   "made": "2026-10-21",
+   "agent": "branding",
+   "blurb": "8 cards, ready now, looping ink previews on the current meadow, with Notes",
+   "note": "Refines Ink Text Deck: letter size, line breaks, ellipsis, bleed, linger, soak direction, gold glint, position by the tree."
+  },
+  {
    "id": "fireside-music-deck-2",
    "name": "Fireside Music Deck 2",
    "url": "https://webermanapps.github.io/branding-djqmb410/decks/fireside-music-deck-2-u2ic3r/",
@@ -1314,7 +1329,7 @@
       "total": 8,
       "answered": 0,
       "tag": "Wandering Persimmon",
-      "status": "open",
+      "status": "done",
       "requested_at": "2026-10-21T13:20:00+07:00",
       "added": "2026-10-21T13:20:00+07:00",
       "made": "2026-10-21",
