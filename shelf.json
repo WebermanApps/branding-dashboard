@@ -111,7 +111,7 @@
    "made": "2026-10-17"
   }
  ],
- "updated": "2026-10-21T21:38:01+07:00",
+ "updated": "2026-10-21T21:46:22+07:00",
  "done": [
   {
    "id": "up-next-deck",
@@ -1377,6 +1377,41 @@
    "name": "Scene 5 Sound, Camera and Motion Deck",
    "answered": 8,
    "total": 8
+  },
+  {
+   "id": "scene-6-story-beats-deck",
+   "at": "2026-10-21T21:46:22+07:00",
+   "name": "Scene 6 Story Beats Deck",
+   "answered": 8,
+   "total": 8
+  },
+  {
+   "id": "scene-6-world-and-places-deck",
+   "at": "2026-10-21T21:46:22+07:00",
+   "name": "Scene 6 World and Places Deck",
+   "answered": 8,
+   "total": 8
+  },
+  {
+   "id": "scene-6-sound-camera-and-motion-deck",
+   "at": "2026-10-21T21:46:22+07:00",
+   "name": "Scene 6 Sound, Camera and Motion Deck",
+   "answered": 8,
+   "total": 8
+  },
+  {
+   "id": "page-turn-deck",
+   "at": "2026-10-21T21:46:22+07:00",
+   "name": "Page Turn Deck",
+   "answered": 16,
+   "total": 17
+  },
+  {
+   "id": "scene-0-real-life-deck",
+   "at": "2026-10-21T21:46:22+07:00",
+   "name": "Scene 0 Real Life Deck",
+   "answered": 14,
+   "total": 14
   }
  ],
  "pinned": [
@@ -1527,6 +1562,18 @@
  "queued_note": "Held back by the 5-deck cap (pinned + decks <= 5). Requested decks never count toward the cap and never show in the header shelf.",
  "requested": [
   {
+   "id": "page-turn-grip-and-room-sway-clips-deck",
+   "name": "Page Turn Grip and Room Sway Clips",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/page-turn-grip-and-room-sway-clips-deck-4rgw9k/",
+   "total": 2,
+   "answered": 0,
+   "tag": "Max's Picks",
+   "status": "open",
+   "requested_at": "2026-10-21T21:43:00+07:00",
+   "added": "2026-10-21T21:46:22+07:00",
+   "note": "Round 4 follow-up: grandpa's cover grip, room sway (moving clips)"
+  },
+  {
    "id": "fire-birds-and-roll-sound-check-deck",
    "name": "Fire, Birds and Roll Sound Check",
    "url": "https://webermanapps.github.io/branding-djqmb410/decks/fire-birds-and-roll-sound-check-deck-vp8q6o/",
@@ -1563,18 +1610,6 @@
    "note": "Round 3 follow-up: haze, neighbour gold, moss start (pictures)"
   },
   {
-   "id": "scene-6-sound-camera-and-motion-deck",
-   "name": "Scene 6 Sound, Camera and Motion Deck",
-   "url": "https://webermanapps.github.io/branding-djqmb410/decks/scene-6-sound-camera-and-motion-deck-01kewg/",
-   "total": 8,
-   "answered": 0,
-   "tag": "Max's Picks",
-   "status": "open",
-   "requested_at": "2026-10-21T20:56:32+07:00",
-   "added": "2026-10-21T20:56:32+07:00",
-   "note": "Requested by Max: rest of Chapter 1 (Scene 6, The Gold Leaf)"
-  },
-  {
    "id": "scene-6-characters-and-faces-deck",
    "name": "Scene 6 Characters and Faces Deck",
    "url": "https://webermanapps.github.io/branding-djqmb410/decks/scene-6-characters-and-faces-deck-2wkjff/",
@@ -1585,42 +1620,6 @@
    "requested_at": "2026-10-21T20:56:32+07:00",
    "added": "2026-10-21T20:56:32+07:00",
    "note": "Requested by Max: rest of Chapter 1 (Scene 6, The Gold Leaf)"
-  },
-  {
-   "id": "scene-6-world-and-places-deck",
-   "name": "Scene 6 World and Places Deck",
-   "url": "https://webermanapps.github.io/branding-djqmb410/decks/scene-6-world-and-places-deck-f9p69r/",
-   "total": 8,
-   "answered": 0,
-   "tag": "Max's Picks",
-   "status": "open",
-   "requested_at": "2026-10-21T20:56:32+07:00",
-   "added": "2026-10-21T20:56:32+07:00",
-   "note": "Requested by Max: rest of Chapter 1 (Scene 6, The Gold Leaf)"
-  },
-  {
-   "id": "scene-6-story-beats-deck",
-   "name": "Scene 6 Story Beats Deck",
-   "url": "https://webermanapps.github.io/branding-djqmb410/decks/scene-6-story-beats-deck-evq7iy/",
-   "total": 8,
-   "answered": 0,
-   "tag": "Max's Picks",
-   "status": "open",
-   "requested_at": "2026-10-21T20:56:32+07:00",
-   "added": "2026-10-21T20:56:32+07:00",
-   "note": "Requested by Max: rest of Chapter 1 (Scene 6, The Gold Leaf)"
-  },
-  {
-   "id": "scene-0-real-life-deck",
-   "name": "Scene 0 Real Life Deck",
-   "url": "https://webermanapps.github.io/branding-djqmb410/decks/scene-0-real-life-deck-12kw7y/",
-   "total": 14,
-   "answered": 0,
-   "tag": "Max's Picks",
-   "status": "open",
-   "requested_at": "2026-10-21T20:49:00+07:00",
-   "added": "2026-10-21T21:07:45+07:00",
-   "note": "Requested by Max: what makes Scene 0 feel real, plus Machan peeking from behind grandpa's chair"
   },
   {
    "id": "share-image-colour-around-machan-deck",
@@ -1669,18 +1668,6 @@
    "requested_at": "2026-10-21T20:49:00+07:00",
    "added": "2026-10-21T20:55:59+07:00",
    "note": "Round 2 follow-up from Max's Oct 21 night results"
-  },
-  {
-   "id": "page-turn-deck",
-   "name": "Page Turn Deck",
-   "url": "https://webermanapps.github.io/branding-djqmb410/decks/page-turn-deck-68i7sx/",
-   "total": 17,
-   "answered": 0,
-   "tag": "Max's Picks",
-   "status": "open",
-   "requested_at": "2026-10-21T20:42:00+07:00",
-   "added": "2026-10-21T21:07:45+07:00",
-   "note": "Requested by Max: the page turn only, moving A/B clips, plus the golden story glow"
   },
   {
    "id": "meeting-machan-deck",
@@ -2088,6 +2075,45 @@
    "made": "2026-10-17"
   },
   {
+   "id": "scene-6-sound-camera-and-motion-deck",
+   "name": "Scene 6 Sound, Camera and Motion Deck",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/scene-6-sound-camera-and-motion-deck-01kewg/",
+   "total": 8,
+   "answered": 8,
+   "tag": "Max's Picks",
+   "status": "done",
+   "requested_at": "2026-10-21T20:56:32+07:00",
+   "added": "2026-10-21T20:56:32+07:00",
+   "note": "Requested by Max: rest of Chapter 1 (Scene 6, The Gold Leaf)",
+   "done_at": "2026-10-21T21:46:22+07:00"
+  },
+  {
+   "id": "scene-6-world-and-places-deck",
+   "name": "Scene 6 World and Places Deck",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/scene-6-world-and-places-deck-f9p69r/",
+   "total": 8,
+   "answered": 8,
+   "tag": "Max's Picks",
+   "status": "done",
+   "requested_at": "2026-10-21T20:56:32+07:00",
+   "added": "2026-10-21T20:56:32+07:00",
+   "note": "Requested by Max: rest of Chapter 1 (Scene 6, The Gold Leaf)",
+   "done_at": "2026-10-21T21:46:22+07:00"
+  },
+  {
+   "id": "scene-6-story-beats-deck",
+   "name": "Scene 6 Story Beats Deck",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/scene-6-story-beats-deck-evq7iy/",
+   "total": 8,
+   "answered": 8,
+   "tag": "Max's Picks",
+   "status": "done",
+   "requested_at": "2026-10-21T20:56:32+07:00",
+   "added": "2026-10-21T20:56:32+07:00",
+   "note": "Requested by Max: rest of Chapter 1 (Scene 6, The Gold Leaf)",
+   "done_at": "2026-10-21T21:46:22+07:00"
+  },
+  {
    "id": "scene-5-sound-camera-and-motion-deck",
    "name": "Scene 5 Sound, Camera and Motion Deck",
    "url": "https://webermanapps.github.io/branding-djqmb410/decks/scene-5-sound-camera-and-motion-deck-vthd4w/",
@@ -2138,6 +2164,19 @@
    "added": "2026-10-21T20:54:31+07:00",
    "note": "Requested by Max: rest of Chapter 1 (Scene 5, The Ancient One)",
    "done_at": "2026-10-21T21:38:01+07:00"
+  },
+  {
+   "id": "scene-0-real-life-deck",
+   "name": "Scene 0 Real Life Deck",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/scene-0-real-life-deck-12kw7y/",
+   "total": 14,
+   "answered": 14,
+   "tag": "Max's Picks",
+   "status": "done",
+   "requested_at": "2026-10-21T20:49:00+07:00",
+   "added": "2026-10-21T21:07:45+07:00",
+   "note": "Requested by Max: what makes Scene 0 feel real, plus Machan peeking from behind grandpa's chair",
+   "done_at": "2026-10-21T21:46:22+07:00"
   },
   {
    "id": "scene-4-narrator-voice-alone-deck",
@@ -2356,6 +2395,22 @@
    "added": "2026-10-21T20:55:59+07:00",
    "note": "Round 2 follow-up from Max's Oct 21 night results",
    "done_at": "2026-10-21T21:38:00+07:00"
+  },
+  {
+   "id": "page-turn-deck",
+   "name": "Page Turn Deck",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/page-turn-deck-68i7sx/",
+   "total": 17,
+   "answered": 16,
+   "tag": "Max's Picks",
+   "status": "done",
+   "requested_at": "2026-10-21T20:42:00+07:00",
+   "added": "2026-10-21T21:07:45+07:00",
+   "note": "Requested by Max: the page turn only, moving A/B clips, plus the golden story glow",
+   "done_at": "2026-10-21T21:46:22+07:00",
+   "skipped": [
+    "02"
+   ]
   },
   {
    "id": "scene-2-and-3-landscape-follow-up-deck",
