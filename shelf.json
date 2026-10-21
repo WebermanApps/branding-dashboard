@@ -1198,6 +1198,21 @@
   "queued_note": "Held back by the 5-deck cap (pinned + decks <= 5). Requested decks never count toward the cap and never show in the header shelf.",
   "requested": [
   {
+   "id": "phone-frame-deck-4",
+   "name": "Phone Frame Deck 4: Gold Rim and Glow",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/phone-frame-deck-4-gld2rm/",
+   "total": 8,
+   "answered": 0,
+   "tag": "Wandering Persimmon",
+   "status": "open",
+   "requested_at": "2026-10-21T14:28:00+07:00",
+   "added": "2026-10-21T14:28:00+07:00",
+   "made": "2026-10-21",
+   "agent": "branding",
+   "blurb": "8 cards, ready now, gold on the outside, glow, vignette, the new-world frame and Machan's nudge, with Notes",
+   "note": "Single rim vs two lines, flat vs polished gold, glow strength, vignette strength, new-world vignette and frame, Machan peek vs pop-up, leaf button spot."
+  },
+  {
    "id": "fireside-scene-deck-2",
    "name": "Fireside Scene Deck 2: Camera From Above",
    "url": "https://webermanapps.github.io/branding-djqmb410/decks/fireside-scene-deck-2-abv3fz/",
