@@ -1197,6 +1197,21 @@
   "queued": [],
   "queued_note": "Held back by the 5-deck cap (pinned + decks <= 5). Requested decks never count toward the cap and never show in the header shelf.",
   "requested": [
+  {
+   "id": "narrator-final-voice-deck",
+   "name": "Narrator Final Voice Deck",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/narrator-final-voice-deck-dv1n7q/",
+   "total": 7,
+   "answered": 0,
+   "tag": "Wandering Persimmon",
+   "status": "open",
+   "requested_at": "2026-10-21T14:12:00+07:00",
+   "added": "2026-10-21T14:12:00+07:00",
+   "made": "2026-10-21",
+   "agent": "branding",
+   "blurb": "7 cards, ready now, your Designed one voice, fine tuning only, with Notes",
+   "note": "Designed one as the base: warmer vs darker, pace, crisp vs rounded, whispered vs full, clarity checks, and how it says Mah-Chan."
+  },
     {
       "id": "oz-reveal-deck",
       "name": "Oz Reveal Deck",
