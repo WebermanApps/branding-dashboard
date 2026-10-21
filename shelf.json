@@ -2876,8 +2876,8 @@
       "made": "2026-10-16"
     }
   ],
-  "cap": 10,
-  "cap_note": "R86 (Max Oct 17 2026 07:50 ICT): every shelf shows up to 10 decks (pinned included), 10 picks per deck; in-progress first, done last (kit deck-shelf.js sort)",
+  "cap": 0,
+  "cap_note": "Max Oct 21 2026 12:53 ICT: no limit on the Max's Picks section of the Branding board; show every open deck (replaces R86 cap of 10 for this board).",
   "held": [],
   "requested_removed": [
     {
