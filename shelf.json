@@ -111,7 +111,7 @@
    "made": "2026-10-17"
   }
  ],
- "updated": "2026-10-21T20:56:32+07:00",
+ "updated": "2026-10-21T21:07:45+07:00",
  "done": [
   {
    "id": "up-next-deck",
@@ -1483,6 +1483,18 @@
    "note": "Requested by Max: rest of Chapter 1 (Scene 5, The Ancient One)"
   },
   {
+   "id": "scene-0-real-life-deck",
+   "name": "Scene 0 Real Life Deck",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/scene-0-real-life-deck-12kw7y/",
+   "total": 14,
+   "answered": 0,
+   "tag": "Max's Picks",
+   "status": "open",
+   "requested_at": "2026-10-21T20:49:00+07:00",
+   "added": "2026-10-21T21:07:45+07:00",
+   "note": "Requested by Max: what makes Scene 0 feel real, plus Machan peeking from behind grandpa's chair"
+  },
+  {
    "id": "scene-4-narrator-voice-alone-deck",
    "name": "Scene 4 Narrator Voice Alone",
    "url": "https://webermanapps.github.io/branding-djqmb410/decks/scene-4-narrator-voice-alone-deck-l7dl52/",
@@ -1721,6 +1733,18 @@
    "requested_at": "2026-10-21T20:49:00+07:00",
    "added": "2026-10-21T20:55:59+07:00",
    "note": "Round 2 follow-up from Max's Oct 21 night results"
+  },
+  {
+   "id": "page-turn-deck",
+   "name": "Page Turn Deck",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/page-turn-deck-68i7sx/",
+   "total": 17,
+   "answered": 0,
+   "tag": "Max's Picks",
+   "status": "open",
+   "requested_at": "2026-10-21T20:42:00+07:00",
+   "added": "2026-10-21T21:07:45+07:00",
+   "note": "Requested by Max: the page turn only, moving A/B clips, plus the golden story glow"
   },
   {
    "id": "meeting-machan-deck",
