@@ -3133,6 +3133,21 @@
       "blurb": "10 cards, ready now, with Notes",
       "answered": 0,
       "made": "2026-10-20"
+    },
+    {
+      "id": "share-thumbnail-deck",
+      "name": "Share Thumbnail Deck",
+      "url": "https://webermanapps.github.io/branding-djqmb410/decks/share-thumbnail-deck-yyxj3n/",
+      "total": 8,
+      "answered": 0,
+      "tag": "Wandering Persimmon",
+      "status": "open",
+      "requested_at": "2026-10-21T16:48:00+07:00",
+      "added": "2026-10-21T17:10:00+07:00",
+      "made": "2026-10-21",
+      "agent": "branding",
+      "blurb": "8 cards, ready now, how The Wandering Persimmon looks when shared, with Notes",
+      "note": "Machan vs fireside preview, title wording, gold frame vs full-bleed, Machan vs 工 T icon, Machan vs leaf favicon, cream vs scene, desktop shortcut vs saved page, sepia vs colour."
     }
   ],
   "requested_note": "Max Oct 16 2026 12:36 ICT (R77): decks Max specifically asks for go in 'requested' and show in the board's Requested Decks section, not the header shelf. status open|done; on results set status done, answered, done_at (tools/requested.py). Order (R90, Max Oct 17 2026 10:59 ICT): newest request first by requested_at (when Max asked), open before done; requested.py add stamps requested_at and every write re-sorts.",
