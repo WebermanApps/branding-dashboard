@@ -1263,6 +1263,21 @@
  "queued_note": "Held back by the 5-deck cap (pinned + decks <= 5). Requested decks never count toward the cap and never show in the header shelf.",
  "requested": [
   {
+   "id": "portfolio-inspiration-deck",
+   "name": "Portfolio Inspiration Deck",
+   "url": "https://webermanapps.github.io/style-swipe/portfolio-inspiration-deck-xhunj6/",
+   "total": 20,
+   "answered": 0,
+   "tag": "Machan Studio",
+   "status": "open",
+   "requested_at": "2026-10-21T12:40:00+07:00",
+   "added": "2026-10-21T12:40:00+07:00",
+   "made": "2026-10-21",
+   "agent": "branding",
+   "blurb": "20 cards, ready now, real portfolio site screenshots on every option, with Notes",
+   "note": "machan.studio personal brand site: 40 real live portfolio sites (heroes, grids, lists, scroll stories, playful colour, a few dark/3D wildcards), tagged so results show the lean."
+  },
+  {
    "id": "chapter1-ending",
    "name": "Chapter 1 Ending Deck",
    "url": "https://webermanapps.github.io/style-swipe/chapter-1-ending-first-stop-0fq2x7/",
