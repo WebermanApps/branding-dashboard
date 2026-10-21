@@ -1263,6 +1263,21 @@
   "queued_note": "Held back by the 5-deck cap (pinned + decks <= 5). Requested decks never count toward the cap and never show in the header shelf.",
   "requested": [
   {
+   "id": "fireside-music-deck-2",
+   "name": "Fireside Music Deck 2",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/fireside-music-deck-2-u2ic3r/",
+   "total": 7,
+   "answered": 0,
+   "tag": "Wandering Persimmon",
+   "status": "open",
+   "requested_at": "2026-10-21T13:25:00+07:00",
+   "added": "2026-10-21T13:25:00+07:00",
+   "made": "2026-10-21",
+   "agent": "branding",
+   "blurb": "7 cards, ready now, 9-second solo piano clips, with Notes",
+   "note": "Remake of Fireside Music Deck: same solo-piano comparisons, clips cut to 9 s at the key moment; fire-crackle card dropped."
+  },
+  {
    "id": "phone-frame-deck-2",
    "name": "Phone Frame Deck 2",
    "url": "https://webermanapps.github.io/branding-djqmb410/decks/phone-frame-deck-2-xtmej4/",
@@ -1314,7 +1329,7 @@
       "total": 8,
       "answered": 0,
       "tag": "Wandering Persimmon",
-      "status": "open",
+      "status": "done",
       "requested_at": "2026-10-21T13:20:00+07:00",
       "added": "2026-10-21T13:20:00+07:00",
       "made": "2026-10-21",
