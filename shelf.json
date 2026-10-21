@@ -1263,6 +1263,21 @@
   "queued_note": "Held back by the 5-deck cap (pinned + decks <= 5). Requested decks never count toward the cap and never show in the header shelf.",
   "requested": [
   {
+   "id": "kanji-t-deck",
+   "name": "Kanji T Deck",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/kanji-t-deck-p5nd2x/",
+   "total": 8,
+   "answered": 0,
+   "tag": "Wandering Persimmon",
+   "status": "open",
+   "requested_at": "2026-10-21T13:55:00+07:00",
+   "added": "2026-10-21T13:55:00+07:00",
+   "made": "2026-10-21",
+   "agent": "branding",
+   "blurb": "8 cards, ready now, your 工 as the storybook T, crisp vector renders, with Notes",
+   "note": "工 as the drop-cap T: how much 工 shows, weight, ink vs gold, persimmon leaf, carved wood vs digital, framed vs free, stroke-by-stroke vs fade, placement with the title."
+  },
+  {
    "id": "fireside-music-deck-4",
    "name": "Fireside Music Deck 4",
    "url": "https://webermanapps.github.io/branding-djqmb410/decks/fireside-music-deck-4-v8h3tc/",
