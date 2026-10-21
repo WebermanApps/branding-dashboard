@@ -1198,6 +1198,21 @@
   "queued_note": "Held back by the 5-deck cap (pinned + decks <= 5). Requested decks never count toward the cap and never show in the header shelf.",
   "requested": [
   {
+   "id": "motion-effects-deck",
+   "name": "Motion Effects Deck: Old World to New",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/motion-effects-deck-mtn4ow/",
+   "total": 8,
+   "answered": 0,
+   "tag": "Wandering Persimmon",
+   "status": "open",
+   "requested_at": "2026-10-21T14:36:00+07:00",
+   "added": "2026-10-21T14:36:00+07:00",
+   "made": "2026-10-21",
+   "agent": "branding",
+   "blurb": "8 cards, ready now, looping motion previews, soft old world vs crisp new world, with Notes",
+   "note": "Zoom to grandpa drift vs sway, tree push crisp vs glide, gyro amount, book opening, ink write-on and soak speed, leaf blink, shake nudge, old-to-new pace."
+  },
+  {
    "id": "phone-frame-deck-4",
    "name": "Phone Frame Deck 4: Gold Rim and Glow",
    "url": "https://webermanapps.github.io/branding-djqmb410/decks/phone-frame-deck-4-gld2rm/",
