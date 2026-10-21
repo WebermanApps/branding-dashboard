@@ -1198,6 +1198,36 @@
   "queued_note": "Held back by the 5-deck cap (pinned + decks <= 5). Requested decks never count toward the cap and never show in the header shelf.",
   "requested": [
   {
+   "id": "portfolio-inspiration-deck-3",
+   "name": "Portfolio Inspiration Deck 3: Into Machan's World",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/portfolio-inspiration-deck-3-wrl8dz/",
+   "total": 8,
+   "answered": 0,
+   "tag": "Machan Studio",
+   "status": "open",
+   "requested_at": "2026-10-21T15:00:00+07:00",
+   "added": "2026-10-21T15:00:00+07:00",
+   "made": "2026-10-21",
+   "agent": "branding",
+   "blurb": "8 cards, ready now, hero, the screen-zoom way in, grids, story scroll, 3D, with Notes",
+   "note": "Bold type vs serif hero, laptop vs phone zoom-in, tight vs playful grid, colour blocks vs devices, sideways vs down scroll, 3D on homepage, colour, menu."
+  },
+  {
+   "id": "portfolio-art-deck-2",
+   "name": "Portfolio Art Deck 2: Mascot and Make",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/portfolio-art-deck-2-msc6tk/",
+   "total": 8,
+   "answered": 0,
+   "tag": "Machan Studio",
+   "status": "open",
+   "requested_at": "2026-10-21T15:00:00+07:00",
+   "added": "2026-10-21T15:00:00+07:00",
+   "made": "2026-10-21",
+   "agent": "branding",
+   "blurb": "8 cards, ready now, Machan mascot, 3D clay, type, Gen 1 to final passes, with Notes",
+   "note": "Flat vs clay mascot, people vs mascots, grotesk vs mono, passes strip vs flip-book, paper grain, palette, corners, hero motion."
+  },
+  {
    "id": "ink-text-deck-4",
    "name": "Ink Text Deck 4: Diary Ink",
    "url": "https://webermanapps.github.io/branding-djqmb410/decks/ink-text-deck-4-dry3nk/",
