@@ -1198,6 +1198,21 @@
   "queued_note": "Held back by the 5-deck cap (pinned + decks <= 5). Requested decks never count toward the cap and never show in the header shelf.",
   "requested": [
   {
+   "id": "ink-text-deck-4",
+   "name": "Ink Text Deck 4: Diary Ink",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/ink-text-deck-4-dry3nk/",
+   "total": 7,
+   "answered": 0,
+   "tag": "Wandering Persimmon",
+   "status": "open",
+   "requested_at": "2026-10-21T14:50:00+07:00",
+   "added": "2026-10-21T14:50:00+07:00",
+   "made": "2026-10-21",
+   "agent": "branding",
+   "blurb": "7 cards, ready now, diary-style ink in the upper left, clear of the tree, no hand or pen, with Notes",
+   "note": "60% vs 75%, letter by letter vs ink wipe, soak timing, soak ripple speed in written order, sepia vs charcoal, hand-lettered vs book serif, corner vs further in."
+  },
+  {
    "id": "kanji-t-deck-2",
    "name": "Kanji T Deck 2: Carved Gold 工",
    "url": "https://webermanapps.github.io/branding-djqmb410/decks/kanji-t-deck-2-crv5gd/",
