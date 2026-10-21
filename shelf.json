@@ -1263,6 +1263,21 @@
   "queued_note": "Held back by the 5-deck cap (pinned + decks <= 5). Requested decks never count toward the cap and never show in the header shelf.",
   "requested": [
   {
+   "id": "fireside-music-deck-4",
+   "name": "Fireside Music Deck 4",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/fireside-music-deck-4-v8h3tc/",
+   "total": 7,
+   "answered": 0,
+   "tag": "Wandering Persimmon",
+   "status": "open",
+   "requested_at": "2026-10-21T13:50:00+07:00",
+   "added": "2026-10-21T13:50:00+07:00",
+   "made": "2026-10-21",
+   "agent": "branding",
+   "blurb": "7 cards, ready now, old-world fireside vs new-world piano, clips under 9 s, with Notes",
+   "note": "Round 4: worn upright vs grand, felt vs upright, crisp vs romantic new world, Oz shift motif, tempo after the shift, ostinato vs flowing, held-note vs immediate bloom."
+  },
+  {
    "id": "ink-text-deck-3",
    "name": "Ink Text Deck 3",
    "url": "https://webermanapps.github.io/branding-djqmb410/decks/ink-text-deck-3-r4wq8n/",
@@ -1284,7 +1299,7 @@
    "total": 7,
    "answered": 0,
    "tag": "Wandering Persimmon",
-   "status": "open",
+   "status": "done",
    "requested_at": "2026-10-21T13:40:00+07:00",
    "added": "2026-10-21T13:40:00+07:00",
    "made": "2026-10-21",
