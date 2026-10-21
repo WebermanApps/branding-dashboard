@@ -1263,6 +1263,21 @@
   "queued_note": "Held back by the 5-deck cap (pinned + decks <= 5). Requested decks never count toward the cap and never show in the header shelf.",
   "requested": [
   {
+   "id": "fireside-music-deck-3",
+   "name": "Fireside Music Deck 3",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/fireside-music-deck-3-k7m2qa/",
+   "total": 7,
+   "answered": 0,
+   "tag": "Wandering Persimmon",
+   "status": "open",
+   "requested_at": "2026-10-21T13:40:00+07:00",
+   "added": "2026-10-21T13:40:00+07:00",
+   "made": "2026-10-21",
+   "agent": "branding",
+   "blurb": "7 cards, ready now, solo-piano clips under 9 s, with Notes",
+   "note": "Round 3: theme motif, arpeggios vs block chords, low vs high, pedal wash vs dry, Oz colour reveal (swell, open chord, key change), ending resolve vs question."
+  },
+  {
    "id": "phone-frame-deck-3",
    "name": "Phone Frame Deck 3",
    "url": "https://webermanapps.github.io/branding-djqmb410/decks/phone-frame-deck-3-z60iwt/",
@@ -1299,7 +1314,7 @@
    "total": 7,
    "answered": 0,
    "tag": "Wandering Persimmon",
-   "status": "open",
+   "status": "done",
    "requested_at": "2026-10-21T13:25:00+07:00",
    "added": "2026-10-21T13:25:00+07:00",
    "made": "2026-10-21",
