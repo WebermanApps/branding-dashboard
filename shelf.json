@@ -111,7 +111,7 @@
    "made": "2026-10-17"
   }
  ],
- "updated": "2026-10-21T21:07:45+07:00",
+ "updated": "2026-10-21T21:38:01+07:00",
  "done": [
   {
    "id": "up-next-deck",
@@ -1237,6 +1237,146 @@
    "name": "Scene 2 and 3 Landscape Follow-up",
    "answered": 7,
    "total": 8
+  },
+  {
+   "id": "scene-4-startle-note-redo-deck",
+   "at": "2026-10-21T21:38:00+07:00",
+   "name": "Scene 4 Startle Note Redo",
+   "answered": 6,
+   "total": 6
+  },
+  {
+   "id": "scene-4-bold-roll-music-deck",
+   "at": "2026-10-21T21:38:00+07:00",
+   "name": "Scene 4 Bold Roll Music",
+   "answered": 6,
+   "total": 6
+  },
+  {
+   "id": "three-stones-lintel-build-deck",
+   "at": "2026-10-21T21:38:00+07:00",
+   "name": "Three Stones Lintel Build",
+   "answered": 6,
+   "total": 6
+  },
+  {
+   "id": "scene-2-old-trail-clouds-deck",
+   "at": "2026-10-21T21:38:00+07:00",
+   "name": "Scene 2 Old Trail Clouds",
+   "answered": 6,
+   "total": 6
+  },
+  {
+   "id": "scene-2-faint-haze-check-deck",
+   "at": "2026-10-21T21:38:00+07:00",
+   "name": "Scene 2 Faint Haze Check",
+   "answered": 4,
+   "total": 6
+  },
+  {
+   "id": "scene-1-glint-and-motif-deck",
+   "at": "2026-10-21T21:38:00+07:00",
+   "name": "Scene 1 Glint and Motif",
+   "answered": 6,
+   "total": 6
+  },
+  {
+   "id": "scene-1-push-in-and-tilt-deck",
+   "at": "2026-10-21T21:38:00+07:00",
+   "name": "Scene 1 Push-in and Tilt",
+   "answered": 6,
+   "total": 6
+  },
+  {
+   "id": "grandpa-chair-red-weave-deck",
+   "at": "2026-10-21T21:38:00+07:00",
+   "name": "Grandpa Chair Red Weave",
+   "answered": 6,
+   "total": 6
+  },
+  {
+   "id": "girl-taps-the-leaf-deck",
+   "at": "2026-10-21T21:38:00+07:00",
+   "name": "Girl Taps the Leaf",
+   "answered": 6,
+   "total": 6
+  },
+  {
+   "id": "opening-fire-level-check-deck",
+   "at": "2026-10-21T21:38:00+07:00",
+   "name": "Opening Fire Level Check",
+   "answered": 5,
+   "total": 6
+  },
+  {
+   "id": "scene-2-hug-birds-far-off-deck",
+   "at": "2026-10-21T21:38:00+07:00",
+   "name": "Scene 2 Hug Birds Far Off",
+   "answered": 6,
+   "total": 6
+  },
+  {
+   "id": "scene-3-spring-to-moss-pace-deck",
+   "at": "2026-10-21T21:38:00+07:00",
+   "name": "Scene 3 Spring to Moss Pace",
+   "answered": 6,
+   "total": 6
+  },
+  {
+   "id": "scene-2-neighbours-around-the-tree-deck",
+   "at": "2026-10-21T21:38:01+07:00",
+   "name": "Scene 2 Neighbours Around the Tree",
+   "answered": 6,
+   "total": 6
+  },
+  {
+   "id": "tablet-and-desktop-frame-deck",
+   "at": "2026-10-21T21:38:01+07:00",
+   "name": "Tablet and Desktop Frame",
+   "answered": 5,
+   "total": 6
+  },
+  {
+   "id": "scene-4-camera-details-deck",
+   "at": "2026-10-21T21:38:01+07:00",
+   "name": "Scene 4 Camera Details",
+   "answered": 6,
+   "total": 6
+  },
+  {
+   "id": "scene-4-narrator-voice-alone-deck",
+   "at": "2026-10-21T21:38:01+07:00",
+   "name": "Scene 4 Narrator Voice Alone",
+   "answered": 6,
+   "total": 6
+  },
+  {
+   "id": "scene-5-story-beats-deck",
+   "at": "2026-10-21T21:38:01+07:00",
+   "name": "Scene 5 Story Beats Deck",
+   "answered": 8,
+   "total": 8
+  },
+  {
+   "id": "scene-5-world-and-places-deck",
+   "at": "2026-10-21T21:38:01+07:00",
+   "name": "Scene 5 World and Places Deck",
+   "answered": 8,
+   "total": 8
+  },
+  {
+   "id": "scene-5-characters-and-faces-deck",
+   "at": "2026-10-21T21:38:01+07:00",
+   "name": "Scene 5 Characters and Faces Deck",
+   "answered": 8,
+   "total": 8
+  },
+  {
+   "id": "scene-5-sound-camera-and-motion-deck",
+   "at": "2026-10-21T21:38:01+07:00",
+   "name": "Scene 5 Sound, Camera and Motion Deck",
+   "answered": 8,
+   "total": 8
   }
  ],
  "pinned": [
@@ -1387,6 +1527,42 @@
  "queued_note": "Held back by the 5-deck cap (pinned + decks <= 5). Requested decks never count toward the cap and never show in the header shelf.",
  "requested": [
   {
+   "id": "fire-birds-and-roll-sound-check-deck",
+   "name": "Fire, Birds and Roll Sound Check",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/fire-birds-and-roll-sound-check-deck-vp8q6o/",
+   "total": 3,
+   "answered": 0,
+   "tag": "Max's Picks",
+   "status": "open",
+   "requested_at": "2026-10-21T21:27:00+07:00",
+   "added": "2026-10-21T21:38:01+07:00",
+   "note": "Round 3 follow-up: later fire level, birdsong kind, roll loudness (Play A/B)"
+  },
+  {
+   "id": "desktop-screen-frame-pictures-deck",
+   "name": "Desktop Screen Frame Pictures",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/desktop-screen-frame-pictures-deck-mbpukj/",
+   "total": 2,
+   "answered": 0,
+   "tag": "Max's Picks",
+   "status": "open",
+   "requested_at": "2026-10-21T21:27:00+07:00",
+   "added": "2026-10-21T21:38:01+07:00",
+   "note": "Round 3 follow-up: which iPad frame on desktop, and size (pictures)"
+  },
+  {
+   "id": "scene-2-and-3-haze-gold-and-moss-pictures-deck",
+   "name": "Scene 2 and 3 Haze, Gold and Moss Pictures",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/scene-2-and-3-haze-gold-and-moss-pictures-deck-gov14c/",
+   "total": 4,
+   "answered": 0,
+   "tag": "Max's Picks",
+   "status": "open",
+   "requested_at": "2026-10-21T21:27:00+07:00",
+   "added": "2026-10-21T21:38:01+07:00",
+   "note": "Round 3 follow-up: haze, neighbour gold, moss start (pictures)"
+  },
+  {
    "id": "scene-6-sound-camera-and-motion-deck",
    "name": "Scene 6 Sound, Camera and Motion Deck",
    "url": "https://webermanapps.github.io/branding-djqmb410/decks/scene-6-sound-camera-and-motion-deck-01kewg/",
@@ -1435,54 +1611,6 @@
    "note": "Requested by Max: rest of Chapter 1 (Scene 6, The Gold Leaf)"
   },
   {
-   "id": "scene-5-sound-camera-and-motion-deck",
-   "name": "Scene 5 Sound, Camera and Motion Deck",
-   "url": "https://webermanapps.github.io/branding-djqmb410/decks/scene-5-sound-camera-and-motion-deck-vthd4w/",
-   "total": 8,
-   "answered": 0,
-   "tag": "Max's Picks",
-   "status": "open",
-   "requested_at": "2026-10-21T20:54:31+07:00",
-   "added": "2026-10-21T20:54:31+07:00",
-   "note": "Requested by Max: rest of Chapter 1 (Scene 5, The Ancient One)"
-  },
-  {
-   "id": "scene-5-characters-and-faces-deck",
-   "name": "Scene 5 Characters and Faces Deck",
-   "url": "https://webermanapps.github.io/branding-djqmb410/decks/scene-5-characters-and-faces-deck-3ernlj/",
-   "total": 8,
-   "answered": 0,
-   "tag": "Max's Picks",
-   "status": "open",
-   "requested_at": "2026-10-21T20:54:31+07:00",
-   "added": "2026-10-21T20:54:31+07:00",
-   "note": "Requested by Max: rest of Chapter 1 (Scene 5, The Ancient One)"
-  },
-  {
-   "id": "scene-5-world-and-places-deck",
-   "name": "Scene 5 World and Places Deck",
-   "url": "https://webermanapps.github.io/branding-djqmb410/decks/scene-5-world-and-places-deck-e9jc57/",
-   "total": 8,
-   "answered": 0,
-   "tag": "Max's Picks",
-   "status": "open",
-   "requested_at": "2026-10-21T20:54:31+07:00",
-   "added": "2026-10-21T20:54:31+07:00",
-   "note": "Requested by Max: rest of Chapter 1 (Scene 5, The Ancient One)"
-  },
-  {
-   "id": "scene-5-story-beats-deck",
-   "name": "Scene 5 Story Beats Deck",
-   "url": "https://webermanapps.github.io/branding-djqmb410/decks/scene-5-story-beats-deck-8brpr0/",
-   "total": 8,
-   "answered": 0,
-   "tag": "Max's Picks",
-   "status": "open",
-   "requested_at": "2026-10-21T20:54:31+07:00",
-   "added": "2026-10-21T20:54:31+07:00",
-   "note": "Requested by Max: rest of Chapter 1 (Scene 5, The Ancient One)"
-  },
-  {
    "id": "scene-0-real-life-deck",
    "name": "Scene 0 Real Life Deck",
    "url": "https://webermanapps.github.io/branding-djqmb410/decks/scene-0-real-life-deck-12kw7y/",
@@ -1495,117 +1623,9 @@
    "note": "Requested by Max: what makes Scene 0 feel real, plus Machan peeking from behind grandpa's chair"
   },
   {
-   "id": "scene-4-narrator-voice-alone-deck",
-   "name": "Scene 4 Narrator Voice Alone",
-   "url": "https://webermanapps.github.io/branding-djqmb410/decks/scene-4-narrator-voice-alone-deck-l7dl52/",
-   "total": 6,
-   "answered": 0,
-   "tag": "Max's Picks",
-   "status": "open",
-   "requested_at": "2026-10-21T20:49:00+07:00",
-   "added": "2026-10-21T20:56:00+07:00",
-   "note": "Round 2 follow-up from Max's Oct 21 night results"
-  },
-  {
-   "id": "scene-4-camera-details-deck",
-   "name": "Scene 4 Camera Details",
-   "url": "https://webermanapps.github.io/branding-djqmb410/decks/scene-4-camera-details-deck-3kv86w/",
-   "total": 6,
-   "answered": 0,
-   "tag": "Max's Picks",
-   "status": "open",
-   "requested_at": "2026-10-21T20:49:00+07:00",
-   "added": "2026-10-21T20:56:00+07:00",
-   "note": "Round 2 follow-up from Max's Oct 21 night results"
-  },
-  {
-   "id": "tablet-and-desktop-frame-deck",
-   "name": "Tablet and Desktop Frame",
-   "url": "https://webermanapps.github.io/branding-djqmb410/decks/tablet-and-desktop-frame-deck-2fugxd/",
-   "total": 6,
-   "answered": 0,
-   "tag": "Max's Picks",
-   "status": "open",
-   "requested_at": "2026-10-21T20:49:00+07:00",
-   "added": "2026-10-21T20:56:00+07:00",
-   "note": "Round 2 follow-up from Max's Oct 21 night results"
-  },
-  {
-   "id": "scene-2-neighbours-around-the-tree-deck",
-   "name": "Scene 2 Neighbours Around the Tree",
-   "url": "https://webermanapps.github.io/branding-djqmb410/decks/scene-2-neighbours-around-the-tree-deck-o593ly/",
-   "total": 6,
-   "answered": 0,
-   "tag": "Max's Picks",
-   "status": "open",
-   "requested_at": "2026-10-21T20:49:00+07:00",
-   "added": "2026-10-21T20:56:00+07:00",
-   "note": "Round 2 follow-up from Max's Oct 21 night results"
-  },
-  {
-   "id": "scene-3-spring-to-moss-pace-deck",
-   "name": "Scene 3 Spring to Moss Pace",
-   "url": "https://webermanapps.github.io/branding-djqmb410/decks/scene-3-spring-to-moss-pace-deck-ir1vsk/",
-   "total": 6,
-   "answered": 0,
-   "tag": "Max's Picks",
-   "status": "open",
-   "requested_at": "2026-10-21T20:49:00+07:00",
-   "added": "2026-10-21T20:56:00+07:00",
-   "note": "Round 2 follow-up from Max's Oct 21 night results"
-  },
-  {
-   "id": "scene-2-hug-birds-far-off-deck",
-   "name": "Scene 2 Hug Birds Far Off",
-   "url": "https://webermanapps.github.io/branding-djqmb410/decks/scene-2-hug-birds-far-off-deck-4fkqhq/",
-   "total": 6,
-   "answered": 0,
-   "tag": "Max's Picks",
-   "status": "open",
-   "requested_at": "2026-10-21T20:49:00+07:00",
-   "added": "2026-10-21T20:56:00+07:00",
-   "note": "Round 2 follow-up from Max's Oct 21 night results"
-  },
-  {
-   "id": "opening-fire-level-check-deck",
-   "name": "Opening Fire Level Check",
-   "url": "https://webermanapps.github.io/branding-djqmb410/decks/opening-fire-level-check-deck-353en5/",
-   "total": 6,
-   "answered": 0,
-   "tag": "Max's Picks",
-   "status": "open",
-   "requested_at": "2026-10-21T20:49:00+07:00",
-   "added": "2026-10-21T20:56:00+07:00",
-   "note": "Round 2 follow-up from Max's Oct 21 night results"
-  },
-  {
    "id": "share-image-colour-around-machan-deck",
    "name": "Share Image Colour Around Machan",
    "url": "https://webermanapps.github.io/branding-djqmb410/decks/share-image-colour-around-machan-deck-tnu115/",
-   "total": 6,
-   "answered": 0,
-   "tag": "Max's Picks",
-   "status": "open",
-   "requested_at": "2026-10-21T20:49:00+07:00",
-   "added": "2026-10-21T20:56:00+07:00",
-   "note": "Round 2 follow-up from Max's Oct 21 night results"
-  },
-  {
-   "id": "girl-taps-the-leaf-deck",
-   "name": "Girl Taps the Leaf",
-   "url": "https://webermanapps.github.io/branding-djqmb410/decks/girl-taps-the-leaf-deck-9lik3y/",
-   "total": 6,
-   "answered": 0,
-   "tag": "Max's Picks",
-   "status": "open",
-   "requested_at": "2026-10-21T20:49:00+07:00",
-   "added": "2026-10-21T20:56:00+07:00",
-   "note": "Round 2 follow-up from Max's Oct 21 night results"
-  },
-  {
-   "id": "grandpa-chair-red-weave-deck",
-   "name": "Grandpa Chair Red Weave",
-   "url": "https://webermanapps.github.io/branding-djqmb410/decks/grandpa-chair-red-weave-deck-i78ivq/",
    "total": 6,
    "answered": 0,
    "tag": "Max's Picks",
@@ -1642,90 +1662,6 @@
    "id": "scene-4-dream-of-home-deck",
    "name": "Scene 4 Dream of Home",
    "url": "https://webermanapps.github.io/branding-djqmb410/decks/scene-4-dream-of-home-deck-e5hll9/",
-   "total": 6,
-   "answered": 0,
-   "tag": "Max's Picks",
-   "status": "open",
-   "requested_at": "2026-10-21T20:49:00+07:00",
-   "added": "2026-10-21T20:55:59+07:00",
-   "note": "Round 2 follow-up from Max's Oct 21 night results"
-  },
-  {
-   "id": "scene-1-push-in-and-tilt-deck",
-   "name": "Scene 1 Push-in and Tilt",
-   "url": "https://webermanapps.github.io/branding-djqmb410/decks/scene-1-push-in-and-tilt-deck-ai70pa/",
-   "total": 6,
-   "answered": 0,
-   "tag": "Max's Picks",
-   "status": "open",
-   "requested_at": "2026-10-21T20:49:00+07:00",
-   "added": "2026-10-21T20:55:59+07:00",
-   "note": "Round 2 follow-up from Max's Oct 21 night results"
-  },
-  {
-   "id": "scene-1-glint-and-motif-deck",
-   "name": "Scene 1 Glint and Motif",
-   "url": "https://webermanapps.github.io/branding-djqmb410/decks/scene-1-glint-and-motif-deck-iz36wv/",
-   "total": 6,
-   "answered": 0,
-   "tag": "Max's Picks",
-   "status": "open",
-   "requested_at": "2026-10-21T20:49:00+07:00",
-   "added": "2026-10-21T20:55:59+07:00",
-   "note": "Round 2 follow-up from Max's Oct 21 night results"
-  },
-  {
-   "id": "scene-2-faint-haze-check-deck",
-   "name": "Scene 2 Faint Haze Check",
-   "url": "https://webermanapps.github.io/branding-djqmb410/decks/scene-2-faint-haze-check-deck-2wkknk/",
-   "total": 6,
-   "answered": 0,
-   "tag": "Max's Picks",
-   "status": "open",
-   "requested_at": "2026-10-21T20:49:00+07:00",
-   "added": "2026-10-21T20:55:59+07:00",
-   "note": "Round 2 follow-up from Max's Oct 21 night results"
-  },
-  {
-   "id": "scene-2-old-trail-clouds-deck",
-   "name": "Scene 2 Old Trail Clouds",
-   "url": "https://webermanapps.github.io/branding-djqmb410/decks/scene-2-old-trail-clouds-deck-ydnj2r/",
-   "total": 6,
-   "answered": 0,
-   "tag": "Max's Picks",
-   "status": "open",
-   "requested_at": "2026-10-21T20:49:00+07:00",
-   "added": "2026-10-21T20:55:59+07:00",
-   "note": "Round 2 follow-up from Max's Oct 21 night results"
-  },
-  {
-   "id": "three-stones-lintel-build-deck",
-   "name": "Three Stones Lintel Build",
-   "url": "https://webermanapps.github.io/branding-djqmb410/decks/three-stones-lintel-build-deck-6794dv/",
-   "total": 6,
-   "answered": 0,
-   "tag": "Max's Picks",
-   "status": "open",
-   "requested_at": "2026-10-21T20:49:00+07:00",
-   "added": "2026-10-21T20:55:59+07:00",
-   "note": "Round 2 follow-up from Max's Oct 21 night results"
-  },
-  {
-   "id": "scene-4-bold-roll-music-deck",
-   "name": "Scene 4 Bold Roll Music",
-   "url": "https://webermanapps.github.io/branding-djqmb410/decks/scene-4-bold-roll-music-deck-7y1lok/",
-   "total": 6,
-   "answered": 0,
-   "tag": "Max's Picks",
-   "status": "open",
-   "requested_at": "2026-10-21T20:49:00+07:00",
-   "added": "2026-10-21T20:55:59+07:00",
-   "note": "Round 2 follow-up from Max's Oct 21 night results"
-  },
-  {
-   "id": "scene-4-startle-note-redo-deck",
-   "name": "Scene 4 Startle Note Redo",
-   "url": "https://webermanapps.github.io/branding-djqmb410/decks/scene-4-startle-note-redo-deck-5je3m0/",
    "total": 6,
    "answered": 0,
    "tag": "Max's Picks",
@@ -2150,6 +2086,276 @@
    "status": "open",
    "requested_at": "2026-10-17T21:07:54+07:00",
    "made": "2026-10-17"
+  },
+  {
+   "id": "scene-5-sound-camera-and-motion-deck",
+   "name": "Scene 5 Sound, Camera and Motion Deck",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/scene-5-sound-camera-and-motion-deck-vthd4w/",
+   "total": 8,
+   "answered": 8,
+   "tag": "Max's Picks",
+   "status": "done",
+   "requested_at": "2026-10-21T20:54:31+07:00",
+   "added": "2026-10-21T20:54:31+07:00",
+   "note": "Requested by Max: rest of Chapter 1 (Scene 5, The Ancient One)",
+   "done_at": "2026-10-21T21:38:01+07:00"
+  },
+  {
+   "id": "scene-5-characters-and-faces-deck",
+   "name": "Scene 5 Characters and Faces Deck",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/scene-5-characters-and-faces-deck-3ernlj/",
+   "total": 8,
+   "answered": 8,
+   "tag": "Max's Picks",
+   "status": "done",
+   "requested_at": "2026-10-21T20:54:31+07:00",
+   "added": "2026-10-21T20:54:31+07:00",
+   "note": "Requested by Max: rest of Chapter 1 (Scene 5, The Ancient One)",
+   "done_at": "2026-10-21T21:38:01+07:00"
+  },
+  {
+   "id": "scene-5-world-and-places-deck",
+   "name": "Scene 5 World and Places Deck",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/scene-5-world-and-places-deck-e9jc57/",
+   "total": 8,
+   "answered": 8,
+   "tag": "Max's Picks",
+   "status": "done",
+   "requested_at": "2026-10-21T20:54:31+07:00",
+   "added": "2026-10-21T20:54:31+07:00",
+   "note": "Requested by Max: rest of Chapter 1 (Scene 5, The Ancient One)",
+   "done_at": "2026-10-21T21:38:01+07:00"
+  },
+  {
+   "id": "scene-5-story-beats-deck",
+   "name": "Scene 5 Story Beats Deck",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/scene-5-story-beats-deck-8brpr0/",
+   "total": 8,
+   "answered": 8,
+   "tag": "Max's Picks",
+   "status": "done",
+   "requested_at": "2026-10-21T20:54:31+07:00",
+   "added": "2026-10-21T20:54:31+07:00",
+   "note": "Requested by Max: rest of Chapter 1 (Scene 5, The Ancient One)",
+   "done_at": "2026-10-21T21:38:01+07:00"
+  },
+  {
+   "id": "scene-4-narrator-voice-alone-deck",
+   "name": "Scene 4 Narrator Voice Alone",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/scene-4-narrator-voice-alone-deck-l7dl52/",
+   "total": 6,
+   "answered": 6,
+   "tag": "Max's Picks",
+   "status": "done",
+   "requested_at": "2026-10-21T20:49:00+07:00",
+   "added": "2026-10-21T20:56:00+07:00",
+   "note": "Round 2 follow-up from Max's Oct 21 night results",
+   "done_at": "2026-10-21T21:38:01+07:00"
+  },
+  {
+   "id": "scene-4-camera-details-deck",
+   "name": "Scene 4 Camera Details",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/scene-4-camera-details-deck-3kv86w/",
+   "total": 6,
+   "answered": 6,
+   "tag": "Max's Picks",
+   "status": "done",
+   "requested_at": "2026-10-21T20:49:00+07:00",
+   "added": "2026-10-21T20:56:00+07:00",
+   "note": "Round 2 follow-up from Max's Oct 21 night results",
+   "done_at": "2026-10-21T21:38:01+07:00"
+  },
+  {
+   "id": "tablet-and-desktop-frame-deck",
+   "name": "Tablet and Desktop Frame",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/tablet-and-desktop-frame-deck-2fugxd/",
+   "total": 6,
+   "answered": 5,
+   "tag": "Max's Picks",
+   "status": "done",
+   "requested_at": "2026-10-21T20:49:00+07:00",
+   "added": "2026-10-21T20:56:00+07:00",
+   "note": "Round 2 follow-up from Max's Oct 21 night results",
+   "done_at": "2026-10-21T21:38:01+07:00",
+   "skipped": [
+    "04"
+   ]
+  },
+  {
+   "id": "scene-2-neighbours-around-the-tree-deck",
+   "name": "Scene 2 Neighbours Around the Tree",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/scene-2-neighbours-around-the-tree-deck-o593ly/",
+   "total": 6,
+   "answered": 6,
+   "tag": "Max's Picks",
+   "status": "done",
+   "requested_at": "2026-10-21T20:49:00+07:00",
+   "added": "2026-10-21T20:56:00+07:00",
+   "note": "Round 2 follow-up from Max's Oct 21 night results",
+   "done_at": "2026-10-21T21:38:01+07:00"
+  },
+  {
+   "id": "scene-3-spring-to-moss-pace-deck",
+   "name": "Scene 3 Spring to Moss Pace",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/scene-3-spring-to-moss-pace-deck-ir1vsk/",
+   "total": 6,
+   "answered": 6,
+   "tag": "Max's Picks",
+   "status": "done",
+   "requested_at": "2026-10-21T20:49:00+07:00",
+   "added": "2026-10-21T20:56:00+07:00",
+   "note": "Round 2 follow-up from Max's Oct 21 night results",
+   "done_at": "2026-10-21T21:38:00+07:00"
+  },
+  {
+   "id": "scene-2-hug-birds-far-off-deck",
+   "name": "Scene 2 Hug Birds Far Off",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/scene-2-hug-birds-far-off-deck-4fkqhq/",
+   "total": 6,
+   "answered": 6,
+   "tag": "Max's Picks",
+   "status": "done",
+   "requested_at": "2026-10-21T20:49:00+07:00",
+   "added": "2026-10-21T20:56:00+07:00",
+   "note": "Round 2 follow-up from Max's Oct 21 night results",
+   "done_at": "2026-10-21T21:38:00+07:00"
+  },
+  {
+   "id": "opening-fire-level-check-deck",
+   "name": "Opening Fire Level Check",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/opening-fire-level-check-deck-353en5/",
+   "total": 6,
+   "answered": 5,
+   "tag": "Max's Picks",
+   "status": "done",
+   "requested_at": "2026-10-21T20:49:00+07:00",
+   "added": "2026-10-21T20:56:00+07:00",
+   "note": "Round 2 follow-up from Max's Oct 21 night results",
+   "done_at": "2026-10-21T21:38:00+07:00",
+   "skipped": [
+    "06"
+   ]
+  },
+  {
+   "id": "girl-taps-the-leaf-deck",
+   "name": "Girl Taps the Leaf",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/girl-taps-the-leaf-deck-9lik3y/",
+   "total": 6,
+   "answered": 6,
+   "tag": "Max's Picks",
+   "status": "done",
+   "requested_at": "2026-10-21T20:49:00+07:00",
+   "added": "2026-10-21T20:56:00+07:00",
+   "note": "Round 2 follow-up from Max's Oct 21 night results",
+   "done_at": "2026-10-21T21:38:00+07:00"
+  },
+  {
+   "id": "grandpa-chair-red-weave-deck",
+   "name": "Grandpa Chair Red Weave",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/grandpa-chair-red-weave-deck-i78ivq/",
+   "total": 6,
+   "answered": 6,
+   "tag": "Max's Picks",
+   "status": "done",
+   "requested_at": "2026-10-21T20:49:00+07:00",
+   "added": "2026-10-21T20:56:00+07:00",
+   "note": "Round 2 follow-up from Max's Oct 21 night results",
+   "done_at": "2026-10-21T21:38:00+07:00"
+  },
+  {
+   "id": "scene-1-push-in-and-tilt-deck",
+   "name": "Scene 1 Push-in and Tilt",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/scene-1-push-in-and-tilt-deck-ai70pa/",
+   "total": 6,
+   "answered": 6,
+   "tag": "Max's Picks",
+   "status": "done",
+   "requested_at": "2026-10-21T20:49:00+07:00",
+   "added": "2026-10-21T20:55:59+07:00",
+   "note": "Round 2 follow-up from Max's Oct 21 night results",
+   "done_at": "2026-10-21T21:38:00+07:00"
+  },
+  {
+   "id": "scene-1-glint-and-motif-deck",
+   "name": "Scene 1 Glint and Motif",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/scene-1-glint-and-motif-deck-iz36wv/",
+   "total": 6,
+   "answered": 6,
+   "tag": "Max's Picks",
+   "status": "done",
+   "requested_at": "2026-10-21T20:49:00+07:00",
+   "added": "2026-10-21T20:55:59+07:00",
+   "note": "Round 2 follow-up from Max's Oct 21 night results",
+   "done_at": "2026-10-21T21:38:00+07:00"
+  },
+  {
+   "id": "scene-2-faint-haze-check-deck",
+   "name": "Scene 2 Faint Haze Check",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/scene-2-faint-haze-check-deck-2wkknk/",
+   "total": 6,
+   "answered": 4,
+   "tag": "Max's Picks",
+   "status": "done",
+   "requested_at": "2026-10-21T20:49:00+07:00",
+   "added": "2026-10-21T20:55:59+07:00",
+   "note": "Round 2 follow-up from Max's Oct 21 night results",
+   "done_at": "2026-10-21T21:38:00+07:00",
+   "skipped": [
+    "01",
+    "02"
+   ]
+  },
+  {
+   "id": "scene-2-old-trail-clouds-deck",
+   "name": "Scene 2 Old Trail Clouds",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/scene-2-old-trail-clouds-deck-ydnj2r/",
+   "total": 6,
+   "answered": 6,
+   "tag": "Max's Picks",
+   "status": "done",
+   "requested_at": "2026-10-21T20:49:00+07:00",
+   "added": "2026-10-21T20:55:59+07:00",
+   "note": "Round 2 follow-up from Max's Oct 21 night results",
+   "done_at": "2026-10-21T21:38:00+07:00"
+  },
+  {
+   "id": "three-stones-lintel-build-deck",
+   "name": "Three Stones Lintel Build",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/three-stones-lintel-build-deck-6794dv/",
+   "total": 6,
+   "answered": 6,
+   "tag": "Max's Picks",
+   "status": "done",
+   "requested_at": "2026-10-21T20:49:00+07:00",
+   "added": "2026-10-21T20:55:59+07:00",
+   "note": "Round 2 follow-up from Max's Oct 21 night results",
+   "done_at": "2026-10-21T21:38:00+07:00"
+  },
+  {
+   "id": "scene-4-bold-roll-music-deck",
+   "name": "Scene 4 Bold Roll Music",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/scene-4-bold-roll-music-deck-7y1lok/",
+   "total": 6,
+   "answered": 6,
+   "tag": "Max's Picks",
+   "status": "done",
+   "requested_at": "2026-10-21T20:49:00+07:00",
+   "added": "2026-10-21T20:55:59+07:00",
+   "note": "Round 2 follow-up from Max's Oct 21 night results",
+   "done_at": "2026-10-21T21:38:00+07:00"
+  },
+  {
+   "id": "scene-4-startle-note-redo-deck",
+   "name": "Scene 4 Startle Note Redo",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/scene-4-startle-note-redo-deck-5je3m0/",
+   "total": 6,
+   "answered": 6,
+   "tag": "Max's Picks",
+   "status": "done",
+   "requested_at": "2026-10-21T20:49:00+07:00",
+   "added": "2026-10-21T20:55:59+07:00",
+   "note": "Round 2 follow-up from Max's Oct 21 night results",
+   "done_at": "2026-10-21T21:38:00+07:00"
   },
   {
    "id": "scene-2-and-3-landscape-follow-up-deck",
