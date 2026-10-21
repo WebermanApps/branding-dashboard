@@ -1263,6 +1263,21 @@
   "queued_note": "Held back by the 5-deck cap (pinned + decks <= 5). Requested decks never count toward the cap and never show in the header shelf.",
   "requested": [
   {
+   "id": "phone-frame-deck-3",
+   "name": "Phone Frame Deck 3",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/phone-frame-deck-3-z60iwt/",
+   "total": 10,
+   "answered": 0,
+   "tag": "Wandering Persimmon",
+   "status": "open",
+   "requested_at": "2026-10-21T13:35:00+07:00",
+   "added": "2026-10-21T13:35:00+07:00",
+   "made": "2026-10-21",
+   "agent": "branding",
+   "blurb": "10 cards, ready now, new frame comparisons at phone and tablet size, with Notes",
+   "note": "Round 3: tablet corners and bezel, sepia surround, vignette, gold hairline, shadow direction, wink badge, Expand button, tablet height and margin."
+  },
+  {
    "id": "ink-text-deck-2",
    "name": "Ink Text Deck 2",
    "url": "https://webermanapps.github.io/branding-djqmb410/decks/ink-text-deck-2-udtq7d/",
@@ -1299,7 +1314,7 @@
    "total": 10,
    "answered": 0,
    "tag": "Wandering Persimmon",
-   "status": "open",
+   "status": "done",
    "requested_at": "2026-10-21T13:20:00+07:00",
    "added": "2026-10-21T13:20:00+07:00",
    "made": "2026-10-21",
