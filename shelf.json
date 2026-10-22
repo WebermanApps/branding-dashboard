@@ -111,7 +111,7 @@
    "made": "2026-10-17"
   }
  ],
- "updated": "2026-10-22T12:16:03+07:00",
+ "updated": "2026-10-22T12:35:01+07:00",
  "done": [
   {
    "id": "up-next-deck",
@@ -1561,6 +1561,18 @@
  "queued": [],
  "queued_note": "Held back by the 5-deck cap (pinned + decks <= 5). Requested decks never count toward the cap and never show in the header shelf.",
  "requested": [
+  {
+   "id": "machan-mom-and-dad-deck-voewig",
+   "name": "Machan Mom And Dad Deck",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/machan-mom-and-dad-deck-voewig/",
+   "total": 14,
+   "answered": 0,
+   "tag": "Max's Picks",
+   "status": "open",
+   "requested_at": "2026-10-22T12:14:00+07:00",
+   "added": "2026-10-22T12:35:01+07:00",
+   "note": "Wandering Persimmon final pass, lock Mom and Dad's looks"
+  },
   {
    "id": "machan-maple-banner-refine-deck-xph7ch",
    "name": "Machan Maple Banner Refine Deck",
