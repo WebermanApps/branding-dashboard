@@ -111,7 +111,7 @@
    "made": "2026-10-17"
   }
  ],
- "updated": "2026-10-22T12:08:11+07:00",
+ "updated": "2026-10-22T12:16:03+07:00",
  "done": [
   {
    "id": "up-next-deck",
@@ -1572,6 +1572,32 @@
    "requested_at": "2026-10-22T12:30:00+07:00",
    "added": "2026-10-22T12:30:00+07:00",
    "note": "Machan X profile setup, final maple banner refine"
+  },
+  {
+   "id": "kintsugi-teapot-deck-mq40zt",
+   "name": "Kintsugi Teapot Deck",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/kintsugi-teapot-deck-mq40zt/",
+   "total": 13,
+   "answered": 0,
+   "tag": "Max's Picks",
+   "status": "open",
+   "requested_at": "2026-10-22T12:15:00+07:00",
+   "added": "2026-10-22T12:15:00+07:00",
+   "made": "2026-10-22",
+   "agent": "branding",
+   "note": "Scene 0 mantel teapot: photoreal kintsugi takes, close-up and in place, one difference per card"
+  },
+  {
+   "id": "machan-stem-deck-ox8zim",
+   "name": "Machan Stem Deck",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/machan-stem-deck-ox8zim/",
+   "total": 5,
+   "answered": 0,
+   "tag": "Max's Picks",
+   "status": "open",
+   "requested_at": "2026-10-22T12:14:00+07:00",
+   "added": "2026-10-22T12:16:03+07:00",
+   "note": "Machan official look: settle the stem"
   },
   {
    "id": "machan-maple-book-scene-banner-deck-1b5sz2",
@@ -4623,20 +4649,6 @@
    "requested_at": "2026-10-16T03:32:35+07:00",
    "requested_at_src": "git 822e2a1 (first in history)",
    "made": "2026-10-16"
-  },
-  {
-   "id": "kintsugi-teapot-deck-mq40zt",
-   "name": "Kintsugi Teapot Deck",
-   "url": "https://webermanapps.github.io/branding-djqmb410/decks/kintsugi-teapot-deck-mq40zt/",
-   "total": 13,
-   "answered": 0,
-   "tag": "Max's Picks",
-   "status": "open",
-   "requested_at": "2026-10-22T12:15:00+07:00",
-   "added": "2026-10-22T12:15:00+07:00",
-   "made": "2026-10-22",
-   "agent": "branding",
-   "note": "Scene 0 mantel teapot: photoreal kintsugi takes, close-up and in place, one difference per card"
   }
  ],
  "requested_note": "Max Oct 16 2026 12:36 ICT (R77): decks Max specifically asks for go in 'requested' and show in the board's Requested Decks section, not the header shelf. status open|done; on results set status done, answered, done_at (tools/requested.py). Order (R90, Max Oct 17 2026 10:59 ICT): newest request first by requested_at (when Max asked), open before done; requested.py add stamps requested_at and every write re-sorts.",
