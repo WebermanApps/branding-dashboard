@@ -111,7 +111,7 @@
    "made": "2026-10-17"
   }
  ],
- "updated": "2026-10-22T11:48:19+07:00",
+ "updated": "2026-10-22T12:08:11+07:00",
  "done": [
   {
    "id": "up-next-deck",
@@ -1572,6 +1572,18 @@
    "requested_at": "2026-10-22T12:10:00+07:00",
    "added": "2026-10-22T12:10:00+07:00",
    "note": "Machan X profile setup, full-colour book scene banner"
+  },
+  {
+   "id": "machan-x-profile-picture-lock-deck-roz42s",
+   "name": "Machan X Profile Picture Lock Deck",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/machan-x-profile-picture-lock-deck-roz42s/",
+   "total": 6,
+   "answered": 0,
+   "tag": "Max's Picks",
+   "status": "open",
+   "requested_at": "2026-10-22T12:06:00+07:00",
+   "added": "2026-10-22T12:08:11+07:00",
+   "note": "Machan X profile setup, lock the avatar (two leaves)"
   },
   {
    "id": "machan-x-final-profile-picture-deck-sad9yc",
