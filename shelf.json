@@ -111,7 +111,7 @@
    "made": "2026-10-17"
   }
  ],
- "updated": "2026-10-22T13:56:34+07:00",
+ "updated": "2026-10-22T14:27:16+07:00",
  "done": [
   {
    "id": "up-next-deck",
@@ -1561,6 +1561,18 @@
  "queued": [],
  "queued_note": "Held back by the 5-deck cap (pinned + decks <= 5). Requested decks never count toward the cap and never show in the header shelf.",
  "requested": [
+  {
+   "id": "family-look-final-deck-lps9ei",
+   "name": "Family Look Final Deck",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/family-look-final-deck-lps9ei/",
+   "total": 4,
+   "answered": 0,
+   "tag": "Max's Picks",
+   "status": "open",
+   "requested_at": "2026-10-22T14:27:16+07:00",
+   "added": "2026-10-22T14:27:16+07:00",
+   "note": "The Wandering Persimmon: final family look (previous look, Dad's straw hat, golden hour, Machan bigger and lifted) with four one-change checks"
+  },
   {
    "id": "book-light-sound-deck-d6ib8w",
    "name": "Book Light Sound Deck",
