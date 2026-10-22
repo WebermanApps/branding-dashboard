@@ -1562,16 +1562,16 @@
  "queued_note": "Held back by the 5-deck cap (pinned + decks <= 5). Requested decks never count toward the cap and never show in the header shelf.",
  "requested": [
   {
-   "id": "machan-maple-tree-banner-deck-b2omfc",
-   "name": "Machan Maple Tree Banner Deck",
-   "url": "https://webermanapps.github.io/branding-djqmb410/decks/machan-maple-tree-banner-deck-b2omfc/",
-   "total": 16,
+   "id": "machan-under-the-maple-banner-deck-wzgnk9",
+   "name": "Machan Under The Maple Banner Deck",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/machan-under-the-maple-banner-deck-wzgnk9/",
+   "total": 15,
    "answered": 0,
    "tag": "Max's Picks",
    "status": "open",
-   "requested_at": "2026-10-22T11:22:57+07:00",
-   "added": "2026-10-22T11:22:57+07:00",
-   "note": "Machan X profile setup, maple tree banner"
+   "requested_at": "2026-10-22T11:45:00+07:00",
+   "added": "2026-10-22T11:45:00+07:00",
+   "note": "Machan X profile setup, under the maple banner"
   },
   {
    "id": "machan-x-book-banner-deck-76wc98",
