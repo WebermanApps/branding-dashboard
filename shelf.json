@@ -1562,6 +1562,18 @@
  "queued_note": "Held back by the 5-deck cap (pinned + decks <= 5). Requested decks never count toward the cap and never show in the header shelf.",
  "requested": [
   {
+   "id": "machan-maple-book-scene-banner-deck-1b5sz2",
+   "name": "Machan Maple Book Scene Banner Deck",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/machan-maple-book-scene-banner-deck-1b5sz2/",
+   "total": 12,
+   "answered": 0,
+   "tag": "Max's Picks",
+   "status": "open",
+   "requested_at": "2026-10-22T12:10:00+07:00",
+   "added": "2026-10-22T12:10:00+07:00",
+   "note": "Machan X profile setup, full-colour book scene banner"
+  },
+  {
    "id": "machan-x-final-profile-picture-deck-sad9yc",
    "name": "Machan X Final Profile Picture Deck",
    "url": "https://webermanapps.github.io/branding-djqmb410/decks/machan-x-final-profile-picture-deck-sad9yc/",
