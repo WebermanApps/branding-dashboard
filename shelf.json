@@ -111,7 +111,7 @@
    "made": "2026-10-17"
   }
  ],
- "updated": "2026-10-22T08:17:25+07:00",
+ "updated": "2026-10-22T09:22:41+07:00",
  "done": [
   {
    "id": "up-next-deck",
@@ -1561,6 +1561,18 @@
  "queued": [],
  "queued_note": "Held back by the 5-deck cap (pinned + decks <= 5). Requested decks never count toward the cap and never show in the header shelf.",
  "requested": [
+  {
+   "id": "open-questions-grip-burst-meadow-shadow-and-end-card-deck-lowpbg",
+   "name": "Open Questions Grip, Burst, Meadow, Shadow and End Card",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/open-questions-grip-burst-meadow-shadow-and-end-card-deck-lowpbg/",
+   "total": 7,
+   "answered": 0,
+   "tag": "Max's Picks",
+   "status": "open",
+   "requested_at": "2026-10-22T09:22:41+07:00",
+   "added": "2026-10-22T09:22:41+07:00",
+   "note": "Persimmon Round 6 follow-up"
+  },
   {
    "id": "end-card-deck-4gqhth",
    "name": "End Card",
