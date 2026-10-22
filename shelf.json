@@ -111,7 +111,7 @@
    "made": "2026-10-17"
   }
  ],
- "updated": "2026-10-22T14:27:16+07:00",
+ "updated": "2026-10-23T00:31:22+07:00",
  "done": [
   {
    "id": "up-next-deck",
@@ -1561,6 +1561,18 @@
  "queued": [],
  "queued_note": "Held back by the 5-deck cap (pinned + decks <= 5). Requested decks never count toward the cap and never show in the header shelf.",
  "requested": [
+  {
+   "id": "stem-regen-deck-f6c4pe",
+   "name": "Stem Regen Deck",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/stem-regen-deck-f6c4pe/",
+   "total": 7,
+   "answered": 0,
+   "tag": "Max's Picks",
+   "status": "open",
+   "requested_at": "2026-10-23T00:31:22+07:00",
+   "added": "2026-10-23T00:31:22+07:00",
+   "note": "Machan green stem options (stills) for the overnight regen"
+  },
   {
    "id": "family-look-final-deck-lps9ei",
    "name": "Family Look Final Deck",
