@@ -111,7 +111,7 @@
    "made": "2026-10-17"
   }
  ],
- "updated": "2026-10-22T09:33:23+07:00",
+ "updated": "2026-10-22T09:33:58+07:00",
  "done": [
   {
    "id": "up-next-deck",
@@ -1561,6 +1561,18 @@
  "queued": [],
  "queued_note": "Held back by the 5-deck cap (pinned + decks <= 5). Requested decks never count toward the cap and never show in the header shelf.",
  "requested": [
+  {
+   "id": "scene-1-and-2-deeper-waking-hug-and-goodbye-deck-z28dbw",
+   "name": "Scene 1 and 2 Deeper Waking, Hug and Goodbye",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/scene-1-and-2-deeper-waking-hug-and-goodbye-deck-z28dbw/",
+   "total": 7,
+   "answered": 0,
+   "tag": "Max's Picks",
+   "status": "open",
+   "requested_at": "2026-10-22T09:33:58+07:00",
+   "added": "2026-10-22T09:33:58+07:00",
+   "note": "Persimmon Round 6 follow-up"
+  },
   {
    "id": "scene-5-and-6-deeper-leaf-face-and-the-lilac-lake-deck-bw802g",
    "name": "Scene 5 and 6 Deeper Leaf, Face and the Lilac Lake",
