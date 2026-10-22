@@ -111,7 +111,7 @@
    "made": "2026-10-17"
   }
  ],
- "updated": "2026-10-22T08:10:49+07:00",
+ "updated": "2026-10-22T08:13:35+07:00",
  "done": [
   {
    "id": "up-next-deck",
@@ -1561,6 +1561,18 @@
  "queued": [],
  "queued_note": "Held back by the 5-deck cap (pinned + decks <= 5). Requested decks never count toward the cap and never show in the header shelf.",
  "requested": [
+  {
+   "id": "scene-5-and-6-stillness-leaf-and-new-horizon-deck-rhjmbm",
+   "name": "Scene 5 and 6 Stillness, Leaf and New Horizon",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/scene-5-and-6-stillness-leaf-and-new-horizon-deck-rhjmbm/",
+   "total": 5,
+   "answered": 0,
+   "tag": "Max's Picks",
+   "status": "open",
+   "requested_at": "2026-10-22T08:13:35+07:00",
+   "added": "2026-10-22T08:13:35+07:00",
+   "note": "Final polish: no-smile stillness, leaf notice, new horizon"
+  },
   {
    "id": "scene-4-cave-tiger-roll-and-dream-deck-n6utrj",
    "name": "Scene 4 Cave, Tiger, Roll and Dream",
