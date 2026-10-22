@@ -111,7 +111,7 @@
    "made": "2026-10-17"
   }
  ],
- "updated": "2026-10-22T09:33:58+07:00",
+ "updated": "2026-10-22T10:06:38+07:00",
  "done": [
   {
    "id": "up-next-deck",
@@ -1561,6 +1561,54 @@
  "queued": [],
  "queued_note": "Held back by the 5-deck cap (pinned + decks <= 5). Requested decks never count toward the cap and never show in the header shelf.",
  "requested": [
+  {
+   "id": "machan-x-profile-picture-deck-arbg4g",
+   "name": "Machan X Profile Picture Deck",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/machan-x-profile-picture-deck-arbg4g/",
+   "total": 22,
+   "answered": 0,
+   "tag": "Max's Picks",
+   "status": "open",
+   "requested_at": "2026-10-22T10:06:38+07:00",
+   "added": "2026-10-22T10:06:38+07:00",
+   "note": "Machan X profile setup"
+  },
+  {
+   "id": "machan-x-banner-deck-lwgt56",
+   "name": "Machan X Banner Deck",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/machan-x-banner-deck-lwgt56/",
+   "total": 21,
+   "answered": 0,
+   "tag": "Max's Picks",
+   "status": "open",
+   "requested_at": "2026-10-22T10:06:38+07:00",
+   "added": "2026-10-22T10:06:38+07:00",
+   "note": "Machan X profile setup"
+  },
+  {
+   "id": "machan-x-location-deck-k133od",
+   "name": "Machan X Location Deck",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/machan-x-location-deck-k133od/",
+   "total": 17,
+   "answered": 0,
+   "tag": "Max's Picks",
+   "status": "open",
+   "requested_at": "2026-10-22T10:06:38+07:00",
+   "added": "2026-10-22T10:06:38+07:00",
+   "note": "Machan X profile setup"
+  },
+  {
+   "id": "machan-x-bio-deck-jzewu9",
+   "name": "Machan X Bio Deck",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/machan-x-bio-deck-jzewu9/",
+   "total": 20,
+   "answered": 0,
+   "tag": "Max's Picks",
+   "status": "open",
+   "requested_at": "2026-10-22T10:06:38+07:00",
+   "added": "2026-10-22T10:06:38+07:00",
+   "note": "Machan X profile setup"
+  },
   {
    "id": "scene-1-and-2-deeper-waking-hug-and-goodbye-deck-z28dbw",
    "name": "Scene 1 and 2 Deeper Waking, Hug and Goodbye",
