@@ -111,7 +111,7 @@
    "made": "2026-10-17"
   }
  ],
- "updated": "2026-10-22T07:53:01+07:00",
+ "updated": "2026-10-22T08:00:35+07:00",
  "done": [
   {
    "id": "up-next-deck",
@@ -1561,6 +1561,18 @@
  "queued": [],
  "queued_note": "Held back by the 5-deck cap (pinned + decks <= 5). Requested decks never count toward the cap and never show in the header shelf.",
  "requested": [
+  {
+   "id": "scene-1-and-2-neighbours-and-the-gold-leaf-deck-eze0wr",
+   "name": "Scene 1 and 2 Neighbours and the Gold Leaf",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/scene-1-and-2-neighbours-and-the-gold-leaf-deck-eze0wr/",
+   "total": 7,
+   "answered": 0,
+   "tag": "Max's Picks",
+   "status": "open",
+   "requested_at": "2026-10-22T08:00:35+07:00",
+   "added": "2026-10-22T08:00:35+07:00",
+   "note": "Final polish: sleeping neighbours, motion, gold leaf slip"
+  },
   {
    "id": "opening-kids-light-burst-and-title-deck-beigvx",
    "name": "Opening Kids, Light Burst and Title",
