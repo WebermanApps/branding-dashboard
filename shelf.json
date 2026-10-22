@@ -111,7 +111,7 @@
    "made": "2026-10-17"
   }
  ],
- "updated": "2026-10-22T11:22:57+07:00",
+ "updated": "2026-10-22T11:48:19+07:00",
  "done": [
   {
    "id": "up-next-deck",
@@ -1561,6 +1561,18 @@
  "queued": [],
  "queued_note": "Held back by the 5-deck cap (pinned + decks <= 5). Requested decks never count toward the cap and never show in the header shelf.",
  "requested": [
+  {
+   "id": "machan-x-final-profile-picture-deck-sad9yc",
+   "name": "Machan X Final Profile Picture Deck",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/machan-x-final-profile-picture-deck-sad9yc/",
+   "total": 11,
+   "answered": 0,
+   "tag": "Max's Picks",
+   "status": "open",
+   "requested_at": "2026-10-22T11:45:00+07:00",
+   "added": "2026-10-22T11:48:19+07:00",
+   "note": "Machan X profile setup, final avatar details"
+  },
   {
    "id": "machan-under-the-maple-banner-deck-wzgnk9",
    "name": "Machan Under The Maple Banner Deck",
