@@ -1562,6 +1562,18 @@
  "queued_note": "Held back by the 5-deck cap (pinned + decks <= 5). Requested decks never count toward the cap and never show in the header shelf.",
  "requested": [
   {
+   "id": "machan-maple-banner-refine-deck-xph7ch",
+   "name": "Machan Maple Banner Refine Deck",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/machan-maple-banner-refine-deck-xph7ch/",
+   "total": 9,
+   "answered": 0,
+   "tag": "Max's Picks",
+   "status": "open",
+   "requested_at": "2026-10-22T12:45:00+07:00",
+   "added": "2026-10-22T12:45:00+07:00",
+   "note": "Machan X profile setup, maple banner refine with final candidate"
+  },
+  {
    "id": "machan-maple-banner-final-deck-bg0k7a",
    "name": "Machan Maple Banner Final Deck",
    "url": "https://webermanapps.github.io/branding-djqmb410/decks/machan-maple-banner-final-deck-bg0k7a/",
