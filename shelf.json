@@ -111,7 +111,7 @@
    "made": "2026-10-17"
   }
  ],
- "updated": "2026-10-22T08:13:35+07:00",
+ "updated": "2026-10-22T08:17:25+07:00",
  "done": [
   {
    "id": "up-next-deck",
@@ -1561,6 +1561,30 @@
  "queued": [],
  "queued_note": "Held back by the 5-deck cap (pinned + decks <= 5). Requested decks never count toward the cap and never show in the header shelf.",
  "requested": [
+  {
+   "id": "end-card-deck-4gqhth",
+   "name": "End Card",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/end-card-deck-4gqhth/",
+   "total": 5,
+   "answered": 0,
+   "tag": "Max's Picks",
+   "status": "open",
+   "requested_at": "2026-10-22T08:17:25+07:00",
+   "added": "2026-10-22T08:17:25+07:00",
+   "note": "Persimmon 10% polish"
+  },
+  {
+   "id": "machan-depth-shadow-and-finish-deck-557mqo",
+   "name": "Machan Depth, Shadow and Finish",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/machan-depth-shadow-and-finish-deck-557mqo/",
+   "total": 10,
+   "answered": 0,
+   "tag": "Max's Picks",
+   "status": "open",
+   "requested_at": "2026-10-22T08:17:25+07:00",
+   "added": "2026-10-22T08:17:25+07:00",
+   "note": "Persimmon 10% polish"
+  },
   {
    "id": "scene-5-and-6-stillness-leaf-and-new-horizon-deck-rhjmbm",
    "name": "Scene 5 and 6 Stillness, Leaf and New Horizon",
