@@ -111,7 +111,7 @@
    "made": "2026-10-17"
   }
  ],
- "updated": "2026-10-22T12:58:16+07:00",
+ "updated": "2026-10-22T13:15:36+07:00",
  "done": [
   {
    "id": "up-next-deck",
@@ -1561,6 +1561,18 @@
  "queued": [],
  "queued_note": "Held back by the 5-deck cap (pinned + decks <= 5). Requested decks never count toward the cap and never show in the header shelf.",
  "requested": [
+  {
+   "id": "book-opening-sound-deck-5komrd",
+   "name": "Book Opening Sound Deck",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/book-opening-sound-deck-5komrd/",
+   "total": 7,
+   "answered": 0,
+   "tag": "Max's Picks",
+   "status": "open",
+   "requested_at": "2026-10-22T13:15:36+07:00",
+   "added": "2026-10-22T13:15:36+07:00",
+   "note": "The Wandering Persimmon Scene 0: soft book-opening sounds to replace the ping, played over the real scene audio"
+  },
   {
    "id": "machan-maple-banner-decider-deck-lrt86d",
    "name": "Machan Maple Banner Decider Deck",
