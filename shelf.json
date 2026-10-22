@@ -111,7 +111,7 @@
    "made": "2026-10-17"
   }
  ],
- "updated": "2026-10-22T10:35:15+07:00",
+ "updated": "2026-10-22T10:40:38+07:00",
  "done": [
   {
    "id": "up-next-deck",
@@ -1561,6 +1561,18 @@
  "queued": [],
  "queued_note": "Held back by the 5-deck cap (pinned + decks <= 5). Requested decks never count toward the cap and never show in the header shelf.",
  "requested": [
+  {
+   "id": "machan-x-profile-picture-deck-clearer-rrgxdt",
+   "name": "Machan X Profile Picture Deck, Clearer",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/machan-x-profile-picture-deck-clearer-rrgxdt/",
+   "total": 13,
+   "answered": 0,
+   "tag": "Max's Picks",
+   "status": "open",
+   "requested_at": "2026-10-22T10:40:38+07:00",
+   "added": "2026-10-22T10:40:38+07:00",
+   "note": "Machan X profile setup, clearer redo"
+  },
   {
    "id": "tiger-sound-deck-iz3v49",
    "name": "Tiger Sound Deck",
