@@ -1,7 +1,7 @@
 {
  "agent": "branding",
  "decks": [],
- "updated": "2026-10-27T15:34:46+07:00",
+ "updated": "2026-10-27T15:39:33+07:00",
  "done": [
   {
    "id": "up-next-deck",
@@ -1355,6 +1355,42 @@
  "queued": [],
  "queued_note": "Held back by the 5-deck cap (pinned + decks <= 5). Requested decks never count toward the cap and never show in the header shelf.",
  "requested": [
+  {
+   "id": "household-maple-play-learning-deck-52opn9",
+   "name": "Maple Play & Learning",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/household-maple-play-learning-deck-52opn9/",
+   "total": 10,
+   "answered": 0,
+   "tag": "Max's Picks",
+   "status": "open",
+   "requested_at": "2026-10-27T15:39:15+07:00",
+   "added": "2026-10-27T15:39:33+07:00",
+   "note": "Machan Oct 27 ~3:30 ICT continue Household: Maple Play & Learning, Rainy-Day Kit Chiang Mai, Day Trips Chiang Mai. Agent=household. Schedule Setup already live — not rebuilt."
+  },
+  {
+   "id": "household-rainy-day-kit-chiang-mai-deck-8ixe50",
+   "name": "Rainy-Day Kit — Chiang Mai",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/household-rainy-day-kit-chiang-mai-deck-8ixe50/",
+   "total": 10,
+   "answered": 0,
+   "tag": "Max's Picks",
+   "status": "open",
+   "requested_at": "2026-10-27T15:39:15+07:00",
+   "added": "2026-10-27T15:39:33+07:00",
+   "note": "Machan Oct 27 ~3:30 ICT continue Household: Maple Play & Learning, Rainy-Day Kit Chiang Mai, Day Trips Chiang Mai. Agent=household. Schedule Setup already live — not rebuilt."
+  },
+  {
+   "id": "household-day-trips-chiang-mai-deck-x1qga4",
+   "name": "Day Trips — Chiang Mai",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/household-day-trips-chiang-mai-deck-x1qga4/",
+   "total": 10,
+   "answered": 0,
+   "tag": "Max's Picks",
+   "status": "open",
+   "requested_at": "2026-10-27T15:39:15+07:00",
+   "added": "2026-10-27T15:39:33+07:00",
+   "note": "Machan Oct 27 ~3:30 ICT continue Household: Maple Play & Learning, Rainy-Day Kit Chiang Mai, Day Trips Chiang Mai. Agent=household. Schedule Setup already live — not rebuilt."
+  },
   {
    "id": "member-home-visit-deck-a029p2",
    "name": "Member Home & Visit",
