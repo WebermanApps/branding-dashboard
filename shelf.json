@@ -1,7 +1,7 @@
 {
  "agent": "branding",
  "decks": [],
- "updated": "2026-10-27T16:01:27+07:00",
+ "updated": "2026-10-27T16:16:23+07:00",
  "done": [
   {
    "id": "up-next-deck",
@@ -1370,6 +1370,54 @@
  "queued_note": "Held back by the 5-deck cap (pinned + decks <= 5). Requested decks never count toward the cap and never show in the header shelf.",
  "requested": [
   {
+   "id": "member-home-layout-deck-pm3muj",
+   "name": "Member Home Layout",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/member-home-layout-deck-pm3muj/",
+   "total": 8,
+   "answered": 0,
+   "tag": "Max's Picks",
+   "status": "open",
+   "requested_at": "2026-10-27T16:15:00+07:00",
+   "added": "2026-10-27T16:16:23+07:00",
+   "note": "Machan via UpKeep Develop Oct 27 ~4:15 PM ICT — edge-safe crop fix: full-bleed phone UI, no clipped words/pills."
+  },
+  {
+   "id": "member-plan-chat-layout-deck-dgcotr",
+   "name": "Member Plan & Chat Layout",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/member-plan-chat-layout-deck-dgcotr/",
+   "total": 8,
+   "answered": 0,
+   "tag": "Max's Picks",
+   "status": "open",
+   "requested_at": "2026-10-27T16:15:00+07:00",
+   "added": "2026-10-27T16:16:23+07:00",
+   "note": "Machan via UpKeep Develop Oct 27 ~4:15 PM ICT — edge-safe crop fix: full-bleed phone UI, no clipped words/pills."
+  },
+  {
+   "id": "tech-today-layout-deck-n56qsp",
+   "name": "Tech Today Layout",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/tech-today-layout-deck-n56qsp/",
+   "total": 8,
+   "answered": 0,
+   "tag": "Max's Picks",
+   "status": "open",
+   "requested_at": "2026-10-27T16:15:00+07:00",
+   "added": "2026-10-27T16:16:23+07:00",
+   "note": "Machan via UpKeep Develop Oct 27 ~4:15 PM ICT — edge-safe crop fix: full-bleed phone UI, no clipped words/pills."
+  },
+  {
+   "id": "tech-van-tools-layout-deck-shiinw",
+   "name": "Tech Van & Tools Layout",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/tech-van-tools-layout-deck-shiinw/",
+   "total": 8,
+   "answered": 0,
+   "tag": "Max's Picks",
+   "status": "open",
+   "requested_at": "2026-10-27T16:15:00+07:00",
+   "added": "2026-10-27T16:16:23+07:00",
+   "note": "Machan via UpKeep Develop Oct 27 ~4:15 PM ICT — edge-safe crop fix: full-bleed phone UI, no clipped words/pills."
+  },
+  {
    "id": "member-computer-look-tight-cream-deck-ph7w6b",
    "name": "Computer Look — Tight Cream",
    "url": "https://webermanapps.github.io/branding-djqmb410/decks/member-computer-look-tight-cream-deck-ph7w6b/",
@@ -1428,54 +1476,6 @@
    "requested_at": "2026-10-27T16:00:00+07:00",
    "added": "2026-10-27T16:01:27+07:00",
    "note": "Follow-up remakes from Oct 27 style-swipe submits (picks + notes)."
-  },
-  {
-   "id": "member-home-layout-deck-g4zmrm",
-   "name": "Member Home Layout",
-   "url": "https://webermanapps.github.io/branding-djqmb410/decks/member-home-layout-deck-g4zmrm/",
-   "total": 8,
-   "answered": 0,
-   "tag": "Max's Picks",
-   "status": "open",
-   "requested_at": "2026-10-27T15:45:00+07:00",
-   "added": "2026-10-27T15:49:13+07:00",
-   "note": "Machan via UpKeep Develop Oct 27 ~3:45 PM ICT — fresh-start Member/Tech phone layout decks (look + function of existing sections)."
-  },
-  {
-   "id": "member-plan-chat-layout-deck-rq4ykh",
-   "name": "Member Plan & Chat Layout",
-   "url": "https://webermanapps.github.io/branding-djqmb410/decks/member-plan-chat-layout-deck-rq4ykh/",
-   "total": 8,
-   "answered": 0,
-   "tag": "Max's Picks",
-   "status": "open",
-   "requested_at": "2026-10-27T15:45:00+07:00",
-   "added": "2026-10-27T15:49:13+07:00",
-   "note": "Machan via UpKeep Develop Oct 27 ~3:45 PM ICT — fresh-start Member/Tech phone layout decks (look + function of existing sections)."
-  },
-  {
-   "id": "tech-today-layout-deck-3ck7me",
-   "name": "Tech Today Layout",
-   "url": "https://webermanapps.github.io/branding-djqmb410/decks/tech-today-layout-deck-3ck7me/",
-   "total": 8,
-   "answered": 0,
-   "tag": "Max's Picks",
-   "status": "open",
-   "requested_at": "2026-10-27T15:45:00+07:00",
-   "added": "2026-10-27T15:49:13+07:00",
-   "note": "Machan via UpKeep Develop Oct 27 ~3:45 PM ICT — fresh-start Member/Tech phone layout decks (look + function of existing sections)."
-  },
-  {
-   "id": "tech-van-tools-layout-deck-5raljl",
-   "name": "Tech Van & Tools Layout",
-   "url": "https://webermanapps.github.io/branding-djqmb410/decks/tech-van-tools-layout-deck-5raljl/",
-   "total": 8,
-   "answered": 0,
-   "tag": "Max's Picks",
-   "status": "open",
-   "requested_at": "2026-10-27T15:45:00+07:00",
-   "added": "2026-10-27T15:49:13+07:00",
-   "note": "Machan via UpKeep Develop Oct 27 ~3:45 PM ICT — fresh-start Member/Tech phone layout decks (look + function of existing sections)."
   },
   {
    "id": "household-maple-play-learning-deck-52opn9",
@@ -6501,6 +6501,58 @@
    "removed_from": "requested",
    "board": "branding-djqmb410#picks",
    "removed_by": "Max (one-click remove)"
+  },
+  {
+   "id": "member-home-layout-deck-g4zmrm",
+   "name": "Member Home Layout",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/member-home-layout-deck-g4zmrm/",
+   "total": 8,
+   "answered": 0,
+   "tag": "Max's Picks",
+   "status": "removed_for_edge_safe_crop_fix",
+   "requested_at": "2026-10-27T15:45:00+07:00",
+   "added": "2026-10-27T15:49:13+07:00",
+   "note": "Machan via UpKeep Develop Oct 27 ~3:45 PM ICT — fresh-start Member/Tech phone layout decks (look + function of existing sections).",
+   "cleared_at": "2026-10-27T16:16:21+07:00"
+  },
+  {
+   "id": "member-plan-chat-layout-deck-rq4ykh",
+   "name": "Member Plan & Chat Layout",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/member-plan-chat-layout-deck-rq4ykh/",
+   "total": 8,
+   "answered": 0,
+   "tag": "Max's Picks",
+   "status": "removed_for_edge_safe_crop_fix",
+   "requested_at": "2026-10-27T15:45:00+07:00",
+   "added": "2026-10-27T15:49:13+07:00",
+   "note": "Machan via UpKeep Develop Oct 27 ~3:45 PM ICT — fresh-start Member/Tech phone layout decks (look + function of existing sections).",
+   "cleared_at": "2026-10-27T16:16:21+07:00"
+  },
+  {
+   "id": "tech-today-layout-deck-3ck7me",
+   "name": "Tech Today Layout",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/tech-today-layout-deck-3ck7me/",
+   "total": 8,
+   "answered": 0,
+   "tag": "Max's Picks",
+   "status": "removed_for_edge_safe_crop_fix",
+   "requested_at": "2026-10-27T15:45:00+07:00",
+   "added": "2026-10-27T15:49:13+07:00",
+   "note": "Machan via UpKeep Develop Oct 27 ~3:45 PM ICT — fresh-start Member/Tech phone layout decks (look + function of existing sections).",
+   "cleared_at": "2026-10-27T16:16:21+07:00"
+  },
+  {
+   "id": "tech-van-tools-layout-deck-5raljl",
+   "name": "Tech Van & Tools Layout",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/tech-van-tools-layout-deck-5raljl/",
+   "total": 8,
+   "answered": 0,
+   "tag": "Max's Picks",
+   "status": "removed_for_edge_safe_crop_fix",
+   "requested_at": "2026-10-27T15:45:00+07:00",
+   "added": "2026-10-27T15:49:13+07:00",
+   "note": "Machan via UpKeep Develop Oct 27 ~3:45 PM ICT — fresh-start Member/Tech phone layout decks (look + function of existing sections).",
+   "cleared_at": "2026-10-27T16:16:21+07:00"
   }
  ],
  "requested_cleared": [
