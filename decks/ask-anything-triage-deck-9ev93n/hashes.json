@@ -1,0 +1,62 @@
+{
+  "c1": {
+    "A": {
+      "label": "Composer first",
+      "sha12": "06aae4c2a9c2"
+    },
+    "B": {
+      "label": "Chips first",
+      "sha12": "1bf5d53c93e8"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Bubble chat",
+      "sha12": "d524be0f3523"
+    },
+    "B": {
+      "label": "Triage card",
+      "sha12": "47393a263134"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "Urgent banner",
+      "sha12": "89752cd4f363"
+    },
+    "B": {
+      "label": "Handoff sheet",
+      "sha12": "fbb451a68a78"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "Office handoff",
+      "sha12": "b5e345a87eb1"
+    },
+    "B": {
+      "label": "Same-day slots",
+      "sha12": "2655d973834e"
+    }
+  },
+  "c5": {
+    "A": {
+      "label": "Waiting status",
+      "sha12": "bc1ad67e8ec9"
+    },
+    "B": {
+      "label": "Safe steps",
+      "sha12": "c2b2c18cdd12"
+    }
+  },
+  "c6": {
+    "A": {
+      "label": "Composer · bubbles · sheet",
+      "sha12": "06aae4c2a9c2"
+    },
+    "B": {
+      "label": "Chips · cards · banner",
+      "sha12": "1bf5d53c93e8"
+    }
+  }
+}

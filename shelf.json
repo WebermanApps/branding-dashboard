@@ -1,7 +1,7 @@
 {
  "agent": "branding",
  "decks": [],
- "updated": "2026-10-27T22:00:24+07:00",
+ "updated": "2026-10-27T22:01:35+07:00",
  "done": [
   {
    "id": "up-next-deck",
@@ -1370,6 +1370,54 @@
  "queued_note": "Held back by the 5-deck cap (pinned + decks <= 5). Requested decks never count toward the cap and never show in the header shelf.",
  "requested": [
   {
+   "id": "member-onboarding-equipment-deck-nglyjj",
+   "name": "Member Onboarding & Equipment Capture",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/member-onboarding-equipment-deck-nglyjj/",
+   "total": 6,
+   "answered": 0,
+   "tag": "Max's Picks",
+   "status": "open",
+   "requested_at": "2026-10-27T21:55:00+07:00",
+   "added": "2026-10-27T22:00:24+07:00",
+   "note": "Machan via UpKeep Develop Oct 27 9:51 PM ICT — next phone-only flows."
+  },
+  {
+   "id": "quote-accept-membership-deck-cws91m",
+   "name": "Quote & Accept Membership",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/quote-accept-membership-deck-cws91m/",
+   "total": 6,
+   "answered": 0,
+   "tag": "Max's Picks",
+   "status": "open",
+   "requested_at": "2026-10-27T21:54:59+07:00",
+   "added": "2026-10-27T22:00:24+07:00",
+   "note": "Machan via UpKeep Develop Oct 27 9:51 PM ICT — next phone-only flows."
+  },
+  {
+   "id": "ask-anything-triage-deck-9ev93n",
+   "name": "Ask Anything Triage & Urgency Handoff",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/ask-anything-triage-deck-9ev93n/",
+   "total": 6,
+   "answered": 0,
+   "tag": "Max's Picks",
+   "status": "open",
+   "requested_at": "2026-10-27T21:54:58+07:00",
+   "added": "2026-10-27T22:00:24+07:00",
+   "note": "Machan via UpKeep Develop Oct 27 9:51 PM ICT — next phone-only flows."
+  },
+  {
+   "id": "tech-visit-report-deck-55lm5y",
+   "name": "Tech Visit Report",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/tech-visit-report-deck-55lm5y/",
+   "total": 7,
+   "answered": 0,
+   "tag": "Max's Picks",
+   "status": "open",
+   "requested_at": "2026-10-27T21:54:57+07:00",
+   "added": "2026-10-27T22:00:24+07:00",
+   "note": "Machan via UpKeep Develop Oct 27 9:51 PM ICT — next phone-only flows."
+  },
+  {
    "id": "tech-today-route-deck-w7m3nb",
    "name": "Tech Today & Route",
    "url": "https://webermanapps.github.io/branding-djqmb410/decks/tech-today-route-deck-w7m3nb/",
@@ -1432,54 +1480,6 @@
    "made": "2026-10-27",
    "note": "Edge-safe crop-fixed layout deck.",
    "tag": "UpKeep Member"
-  },
-  {
-   "id": "member-onboarding-equipment-deck-nglyjj",
-   "name": "Member Onboarding & Equipment Capture",
-   "url": "https://webermanapps.github.io/branding-djqmb410/decks/member-onboarding-equipment-deck-nglyjj/",
-   "total": 6,
-   "answered": 0,
-   "tag": "Max's Picks",
-   "status": "open",
-   "requested_at": "2026-10-27T21:51:00+07:00",
-   "added": "2026-10-27T22:00:24+07:00",
-   "note": "Machan via UpKeep Develop Oct 27 9:51 PM ICT — next phone-only flows: onboarding+capture, quote/accept, Ask Anything triage, tech visit report. Distinct rendered phone mockups (not crop-reuse)."
-  },
-  {
-   "id": "quote-accept-membership-deck-cws91m",
-   "name": "Quote & Accept Membership",
-   "url": "https://webermanapps.github.io/branding-djqmb410/decks/quote-accept-membership-deck-cws91m/",
-   "total": 6,
-   "answered": 0,
-   "tag": "Max's Picks",
-   "status": "open",
-   "requested_at": "2026-10-27T21:51:00+07:00",
-   "added": "2026-10-27T22:00:24+07:00",
-   "note": "Machan via UpKeep Develop Oct 27 9:51 PM ICT — next phone-only flows: onboarding+capture, quote/accept, Ask Anything triage, tech visit report. Distinct rendered phone mockups (not crop-reuse)."
-  },
-  {
-   "id": "ask-anything-triage-deck-9ev93n",
-   "name": "Ask Anything Triage & Urgency Handoff",
-   "url": "https://webermanapps.github.io/branding-djqmb410/decks/ask-anything-triage-deck-9ev93n/",
-   "total": 6,
-   "answered": 0,
-   "tag": "Max's Picks",
-   "status": "open",
-   "requested_at": "2026-10-27T21:51:00+07:00",
-   "added": "2026-10-27T22:00:24+07:00",
-   "note": "Machan via UpKeep Develop Oct 27 9:51 PM ICT — next phone-only flows: onboarding+capture, quote/accept, Ask Anything triage, tech visit report. Distinct rendered phone mockups (not crop-reuse)."
-  },
-  {
-   "id": "tech-visit-report-deck-55lm5y",
-   "name": "Tech Visit Report",
-   "url": "https://webermanapps.github.io/branding-djqmb410/decks/tech-visit-report-deck-55lm5y/",
-   "total": 7,
-   "answered": 0,
-   "tag": "Max's Picks",
-   "status": "open",
-   "requested_at": "2026-10-27T21:51:00+07:00",
-   "added": "2026-10-27T22:00:24+07:00",
-   "note": "Machan via UpKeep Develop Oct 27 9:51 PM ICT — next phone-only flows: onboarding+capture, quote/accept, Ask Anything triage, tech visit report. Distinct rendered phone mockups (not crop-reuse)."
   },
   {
    "id": "member-home-visit-deck-7kvm8b",
@@ -1602,6 +1602,22 @@
    "note": "Machan Oct 27 ~3:30 ICT continue Household: Maple Play & Learning, Rainy-Day Kit Chiang Mai, Day Trips Chiang Mai. Agent=household. Schedule Setup already live — not rebuilt."
   },
   {
+   "id": "team-improvement-deck-round-four",
+   "name": "Team Improvement Deck",
+   "url": "https://webermanapps.github.io/style-swipe/team-improvement-6908cr/",
+   "total": 10,
+   "permanent": true,
+   "added": "2026-10-17T21:07:54+07:00",
+   "tag": "Max's Picks",
+   "blurb": "10 cards, ready now. Permanent (R75): team workflow and the deck and board look",
+   "answered": 0,
+   "note": "Permanently pinned (R75); round four, 10 picks. Round three results applied Oct 17 (R112-R116)",
+   "previous_round": "team-improvement-deck-round-three",
+   "status": "open",
+   "requested_at": "2026-10-17T21:07:54+07:00",
+   "made": "2026-10-17"
+  },
+  {
    "id": "fireside-music-deck-4",
    "name": "Fireside Music Deck 4",
    "url": "https://webermanapps.github.io/branding-djqmb410/decks/fireside-music-deck-4-v8h3tc/",
@@ -1631,22 +1647,6 @@
    "agent": "branding",
    "status": "replaced",
    "requested_at": "2026-10-21T12:50:00+07:00"
-  },
-  {
-   "id": "team-improvement-deck-round-four",
-   "name": "Team Improvement Deck",
-   "url": "https://webermanapps.github.io/style-swipe/team-improvement-6908cr/",
-   "total": 10,
-   "permanent": true,
-   "added": "2026-10-17T21:07:54+07:00",
-   "tag": "Max's Picks",
-   "blurb": "10 cards, ready now. Permanent (R75): team workflow and the deck and board look",
-   "answered": 0,
-   "note": "Permanently pinned (R75); round four, 10 picks. Round three results applied Oct 17 (R112-R116)",
-   "previous_round": "team-improvement-deck-round-three",
-   "status": "open",
-   "requested_at": "2026-10-17T21:07:54+07:00",
-   "made": "2026-10-17"
   },
   {
    "id": "household-rainy-day-kit-chiang-mai-deck-8ixe50",

@@ -1,0 +1,18 @@
+{
+  "category": "ui-phone-mockups",
+  "ui_screenshots": true,
+  "bleed_mode": "edge-safe",
+  "asset_paths": [
+    "/workspace/next-phone-decks-1027/mocks/qt_price_hero.jpg",
+    "/workspace/next-phone-decks-1027/mocks/qt_line_items.jpg",
+    "/workspace/next-phone-decks-1027/mocks/qt_plans_side.jpg",
+    "/workspace/next-phone-decks-1027/mocks/qt_plans_stack.jpg",
+    "/workspace/next-phone-decks-1027/mocks/qt_accept_sticky.jpg",
+    "/workspace/next-phone-decks-1027/mocks/qt_accept_full.jpg",
+    "/workspace/next-phone-decks-1027/mocks/qt_inc_check.jpg",
+    "/workspace/next-phone-decks-1027/mocks/qt_inc_icons.jpg",
+    "/workspace/next-phone-decks-1027/mocks/qt_ok_receipt.jpg",
+    "/workspace/next-phone-decks-1027/mocks/qt_ok_next.jpg"
+  ],
+  "agent": "upkeep"
+}

@@ -1,0 +1,18 @@
+{
+  "category": "ui-phone-mockups",
+  "asset_paths": [
+    "/workspace/next-phone-decks-1027/mocks/ask_composer.jpg",
+    "/workspace/next-phone-decks-1027/mocks/ask_chips.jpg",
+    "/workspace/next-phone-decks-1027/mocks/ask_bubbles.jpg",
+    "/workspace/next-phone-decks-1027/mocks/ask_cards.jpg",
+    "/workspace/next-phone-decks-1027/mocks/ask_urg_banner.jpg",
+    "/workspace/next-phone-decks-1027/mocks/ask_urg_sheet.jpg",
+    "/workspace/next-phone-decks-1027/mocks/ask_hoff_office.jpg",
+    "/workspace/next-phone-decks-1027/mocks/ask_hoff_sched.jpg",
+    "/workspace/next-phone-decks-1027/mocks/ask_waiting.jpg",
+    "/workspace/next-phone-decks-1027/mocks/ask_suggest.jpg"
+  ],
+  "ui_screenshots": true,
+  "bleed_mode": "edge-safe",
+  "title": "Ask Anything Triage & Urgency Handoff"
+}

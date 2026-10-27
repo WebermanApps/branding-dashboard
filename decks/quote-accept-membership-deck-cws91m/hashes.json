@@ -1,0 +1,62 @@
+{
+  "c1": {
+    "A": {
+      "label": "Price hero",
+      "sha12": "f3b96ee7ff5d"
+    },
+    "B": {
+      "label": "Line items",
+      "sha12": "cd77408bc8c8"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Side-by-side",
+      "sha12": "899cebdee576"
+    },
+    "B": {
+      "label": "Stacked tiers",
+      "sha12": "b89d5de6b08a"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "Sticky Accept",
+      "sha12": "ee96dc8ab0b2"
+    },
+    "B": {
+      "label": "Full-bleed accept",
+      "sha12": "093cd5a04201"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "Checklist rows",
+      "sha12": "a8d219995b3c"
+    },
+    "B": {
+      "label": "Icon grid",
+      "sha12": "ee93b58f94f9"
+    }
+  },
+  "c5": {
+    "A": {
+      "label": "Receipt card",
+      "sha12": "635cb50dd803"
+    },
+    "B": {
+      "label": "Next steps",
+      "sha12": "9e4a94d8df67"
+    }
+  },
+  "c6": {
+    "A": {
+      "label": "Hero price · sticky accept",
+      "sha12": "f3b96ee7ff5d"
+    },
+    "B": {
+      "label": "Compare first · full accept",
+      "sha12": "899cebdee576"
+    }
+  }
+}

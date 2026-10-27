@@ -1,0 +1,20 @@
+{
+  "category": "ui-phone-mockups",
+  "asset_paths": [
+    "/workspace/next-phone-decks-1027/mocks/tr_photo_first.jpg",
+    "/workspace/next-phone-decks-1027/mocks/tr_check_first.jpg",
+    "/workspace/next-phone-decks-1027/mocks/tr_grid.jpg",
+    "/workspace/next-phone-decks-1027/mocks/tr_strip.jpg",
+    "/workspace/next-phone-decks-1027/mocks/tr_check_compact.jpg",
+    "/workspace/next-phone-decks-1027/mocks/tr_check_detail.jpg",
+    "/workspace/next-phone-decks-1027/mocks/tr_flags_inline.jpg",
+    "/workspace/next-phone-decks-1027/mocks/tr_flags_sect.jpg",
+    "/workspace/next-phone-decks-1027/mocks/tr_sum_short.jpg",
+    "/workspace/next-phone-decks-1027/mocks/tr_sum_narr.jpg",
+    "/workspace/next-phone-decks-1027/mocks/tr_sub_sticky.jpg",
+    "/workspace/next-phone-decks-1027/mocks/tr_sub_end.jpg"
+  ],
+  "ui_screenshots": true,
+  "bleed_mode": "edge-safe",
+  "title": "Tech Visit Report"
+}

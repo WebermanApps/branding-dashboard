@@ -1,0 +1,72 @@
+{
+  "c1": {
+    "A": {
+      "label": "Photo-first",
+      "sha12": "ba3a5e2d0ba5"
+    },
+    "B": {
+      "label": "Checklist-first",
+      "sha12": "31480a8cb9aa"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "2×2 grid",
+      "sha12": "ff9002d48a4a"
+    },
+    "B": {
+      "label": "Filmstrip",
+      "sha12": "3c3e6df999ef"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "Compact grid",
+      "sha12": "32dfa6fe2345"
+    },
+    "B": {
+      "label": "Detailed task",
+      "sha12": "74ac2684d91b"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "Inline flags",
+      "sha12": "3a0d98fa93ae"
+    },
+    "B": {
+      "label": "Flags section",
+      "sha12": "ba4878902b8a"
+    }
+  },
+  "c5": {
+    "A": {
+      "label": "Short card",
+      "sha12": "74e55bcf421c"
+    },
+    "B": {
+      "label": "Narrative",
+      "sha12": "f5862a211ab0"
+    }
+  },
+  "c6": {
+    "A": {
+      "label": "Sticky Submit",
+      "sha12": "a7ca309908e4"
+    },
+    "B": {
+      "label": "End confirm",
+      "sha12": "5ce691d26ac4"
+    }
+  },
+  "c7": {
+    "A": {
+      "label": "Photo-led · sticky submit",
+      "sha12": "ba3a5e2d0ba5"
+    },
+    "B": {
+      "label": "Checklist-led · end confirm",
+      "sha12": "31480a8cb9aa"
+    }
+  }
+}
