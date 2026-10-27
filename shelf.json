@@ -111,7 +111,7 @@
    "made": "2026-10-17"
   }
  ],
- "updated": "2026-10-27T14:02:25+07:00",
+ "updated": "2026-10-27T14:22:20+07:00",
  "done": [
   {
    "id": "up-next-deck",
@@ -1589,6 +1589,30 @@
  "queued": [],
  "queued_note": "Held back by the 5-deck cap (pinned + decks <= 5). Requested decks never count toward the cap and never show in the header shelf.",
  "requested": [
+  {
+   "id": "brand-type-voice-and-applications-deck-rp380i",
+   "name": "Brand Type Voice & Applications",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/brand-type-voice-and-applications-deck-rp380i/",
+   "total": 13,
+   "answered": 0,
+   "tag": "Max's Picks",
+   "status": "open",
+   "requested_at": "2026-10-27T14:22:20+07:00",
+   "added": "2026-10-27T14:22:20+07:00",
+   "note": "WellNest Company Brand Deck B: type, voice, applications for Roselle/PowerHaus/Farm Basket. Results -> wellnest."
+  },
+  {
+   "id": "brand-logo-and-houses-deck-f3ggda",
+   "name": "Brand Logo & Houses",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/brand-logo-and-houses-deck-f3ggda/",
+   "total": 12,
+   "answered": 0,
+   "tag": "Max's Picks",
+   "status": "open",
+   "requested_at": "2026-10-27T14:22:20+07:00",
+   "added": "2026-10-27T14:22:20+07:00",
+   "note": "WellNest Company Brand Deck A: locked nest-circle in use across houses/spaces. Results -> wellnest."
+  },
   {
    "id": "wellnest-mark-deck-ce5w0f",
    "name": "WellNest Mark Deck",
