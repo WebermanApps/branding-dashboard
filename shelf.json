@@ -111,7 +111,7 @@
    "made": "2026-10-17"
   }
  ],
- "updated": "2026-10-27T14:23:06+07:00",
+ "updated": "2026-10-27T14:23:33+07:00",
  "done": [
   {
    "id": "up-next-deck",
@@ -1589,6 +1589,30 @@
  "queued": [],
  "queued_note": "Held back by the 5-deck cap (pinned + decks <= 5). Requested decks never count toward the cap and never show in the header shelf.",
  "requested": [
+  {
+   "id": "farm-basket-fresh-look-deck-wjksov",
+   "name": "Farm Basket Fresh Look",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/farm-basket-fresh-look-deck-wjksov/",
+   "total": 20,
+   "answered": 0,
+   "tag": "Max's Picks",
+   "status": "open",
+   "requested_at": "2026-10-27T14:23:33+07:00",
+   "added": "2026-10-27T14:23:33+07:00",
+   "note": "Farm Basket fresh look 20 cards: pack ingredients week feel branding taglines. Results -> wellnest."
+  },
+  {
+   "id": "powerhaus-fresh-start-deck-2x7jlx",
+   "name": "PowerHaus Fresh Start",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/powerhaus-fresh-start-deck-2x7jlx/",
+   "total": 20,
+   "answered": 0,
+   "tag": "Max's Picks",
+   "status": "open",
+   "requested_at": "2026-10-27T14:23:33+07:00",
+   "added": "2026-10-27T14:23:33+07:00",
+   "note": "PowerHaus fresh-start 20 cards: pack colour name tagline ingredients. Results -> wellnest."
+  },
   {
    "id": "roselle-pack-confirm-deck-2oj6la",
    "name": "Roselle Pack Confirm",
