@@ -1,7 +1,7 @@
 {
  "agent": "branding",
  "decks": [],
- "updated": "2026-10-27T17:22:13+07:00",
+ "updated": "2026-10-27T21:53:36+07:00",
  "done": [
   {
    "id": "up-next-deck",
@@ -1369,6 +1369,58 @@
  "queued": [],
  "queued_note": "Held back by the 5-deck cap (pinned + decks <= 5). Requested decks never count toward the cap and never show in the header shelf.",
  "requested": [
+  {
+   "id": "tech-van-tools-layout-deck-shiinw",
+   "name": "Tech Van & Tools Layout",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/tech-van-tools-layout-deck-shiinw/",
+   "total": 8,
+   "added": "2026-10-27T21:53:36+07:00",
+   "requested": true,
+   "requested_at": "2026-10-27T21:53:36+07:00",
+   "blurb": "8 cards · phone-only · crop-fixed",
+   "made": "2026-10-27",
+   "note": "Edge-safe crop-fixed layout deck.",
+   "tag": "UpKeep Tech"
+  },
+  {
+   "id": "tech-today-layout-deck-n56qsp",
+   "name": "Tech Today Layout",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/tech-today-layout-deck-n56qsp/",
+   "total": 8,
+   "added": "2026-10-27T21:53:36+07:00",
+   "requested": true,
+   "requested_at": "2026-10-27T21:53:36+07:00",
+   "blurb": "8 cards · phone-only · crop-fixed",
+   "made": "2026-10-27",
+   "note": "Edge-safe crop-fixed layout deck.",
+   "tag": "UpKeep Tech"
+  },
+  {
+   "id": "member-plan-chat-layout-deck-dgcotr",
+   "name": "Member Plan & Chat Layout",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/member-plan-chat-layout-deck-dgcotr/",
+   "total": 8,
+   "added": "2026-10-27T21:53:36+07:00",
+   "requested": true,
+   "requested_at": "2026-10-27T21:53:36+07:00",
+   "blurb": "8 cards · phone-only · crop-fixed",
+   "made": "2026-10-27",
+   "note": "Edge-safe crop-fixed layout deck.",
+   "tag": "UpKeep Member"
+  },
+  {
+   "id": "member-home-layout-deck-pm3muj",
+   "name": "Member Home Layout",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/member-home-layout-deck-pm3muj/",
+   "total": 8,
+   "added": "2026-10-27T21:53:36+07:00",
+   "requested": true,
+   "requested_at": "2026-10-27T21:53:36+07:00",
+   "blurb": "8 cards · phone-only · crop-fixed",
+   "made": "2026-10-27",
+   "note": "Edge-safe crop-fixed layout deck.",
+   "tag": "UpKeep Member"
+  },
   {
    "id": "member-home-visit-deck-7kvm8b",
    "name": "Member Home & Visit",
