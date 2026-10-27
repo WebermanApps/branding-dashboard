@@ -111,7 +111,7 @@
    "made": "2026-10-17"
   }
  ],
- "updated": "2026-10-27T14:23:33+07:00",
+ "updated": "2026-10-27T14:38:43+07:00",
  "done": [
   {
    "id": "up-next-deck",
@@ -1589,6 +1589,138 @@
  "queued": [],
  "queued_note": "Held back by the 5-deck cap (pinned + decks <= 5). Requested decks never count toward the cap and never show in the header shelf.",
  "requested": [
+  {
+   "id": "member-header-section-deck-bhf85o",
+   "name": "Header Section",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/member-header-section-deck-bhf85o/",
+   "total": 10,
+   "answered": 0,
+   "tag": "Max's Picks",
+   "status": "open",
+   "requested_at": "2026-10-27T14:24:00+07:00",
+   "added": "2026-10-27T14:38:43+07:00",
+   "note": "Requested by Max Oct 27 ~2:24 PM ICT: one deck per member-app section (+ device looks). Refine look/feel; keep sections. Develop: nothing required for decks unless asked."
+  },
+  {
+   "id": "member-visit-reports-section-deck-a07c66",
+   "name": "Visit Reports Section",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/member-visit-reports-section-deck-a07c66/",
+   "total": 10,
+   "answered": 0,
+   "tag": "Max's Picks",
+   "status": "open",
+   "requested_at": "2026-10-27T14:24:00+07:00",
+   "added": "2026-10-27T14:38:43+07:00",
+   "note": "Requested by Max Oct 27 ~2:24 PM ICT: one deck per member-app section (+ device looks). Refine look/feel; keep sections. Develop: nothing required for decks unless asked."
+  },
+  {
+   "id": "member-reschedule-section-deck-dqxr4d",
+   "name": "Reschedule Section",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/member-reschedule-section-deck-dqxr4d/",
+   "total": 10,
+   "answered": 0,
+   "tag": "Max's Picks",
+   "status": "open",
+   "requested_at": "2026-10-27T14:24:00+07:00",
+   "added": "2026-10-27T14:38:43+07:00",
+   "note": "Requested by Max Oct 27 ~2:24 PM ICT: one deck per member-app section (+ device looks). Refine look/feel; keep sections. Develop: nothing required for decks unless asked."
+  },
+  {
+   "id": "member-message-chat-section-deck-yfge7r",
+   "name": "Message Chat Section",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/member-message-chat-section-deck-yfge7r/",
+   "total": 10,
+   "answered": 0,
+   "tag": "Max's Picks",
+   "status": "open",
+   "requested_at": "2026-10-27T14:24:00+07:00",
+   "added": "2026-10-27T14:38:43+07:00",
+   "note": "Requested by Max Oct 27 ~2:24 PM ICT: one deck per member-app section (+ device looks). Refine look/feel; keep sections. Develop: nothing required for decks unless asked."
+  },
+  {
+   "id": "member-your-plan-section-deck-ta27xz",
+   "name": "Your Plan Section",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/member-your-plan-section-deck-ta27xz/",
+   "total": 10,
+   "answered": 0,
+   "tag": "Max's Picks",
+   "status": "open",
+   "requested_at": "2026-10-27T14:24:00+07:00",
+   "added": "2026-10-27T14:38:43+07:00",
+   "note": "Requested by Max Oct 27 ~2:24 PM ICT: one deck per member-app section (+ device looks). Refine look/feel; keep sections. Develop: nothing required for decks unless asked."
+  },
+  {
+   "id": "member-next-visit-section-deck-5m03cg",
+   "name": "Next Visit Section",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/member-next-visit-section-deck-5m03cg/",
+   "total": 10,
+   "answered": 0,
+   "tag": "Max's Picks",
+   "status": "open",
+   "requested_at": "2026-10-27T14:24:00+07:00",
+   "added": "2026-10-27T14:38:43+07:00",
+   "note": "Requested by Max Oct 27 ~2:24 PM ICT: one deck per member-app section (+ device looks). Refine look/feel; keep sections. Develop: nothing required for decks unless asked."
+  },
+  {
+   "id": "member-bottom-bar-deck-7jjss8",
+   "name": "Bottom Bar",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/member-bottom-bar-deck-7jjss8/",
+   "total": 10,
+   "answered": 0,
+   "tag": "Max's Picks",
+   "status": "open",
+   "requested_at": "2026-10-27T14:24:00+07:00",
+   "added": "2026-10-27T14:38:43+07:00",
+   "note": "Requested by Max Oct 27 ~2:24 PM ICT: one deck per member-app section (+ device looks). Refine look/feel; keep sections. Develop: nothing required for decks unless asked."
+  },
+  {
+   "id": "member-footer-section-deck-ajy32u",
+   "name": "Footer",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/member-footer-section-deck-ajy32u/",
+   "total": 10,
+   "answered": 0,
+   "tag": "Max's Picks",
+   "status": "open",
+   "requested_at": "2026-10-27T14:24:00+07:00",
+   "added": "2026-10-27T14:38:43+07:00",
+   "note": "Requested by Max Oct 27 ~2:24 PM ICT: one deck per member-app section (+ device looks). Refine look/feel; keep sections. Develop: nothing required for decks unless asked."
+  },
+  {
+   "id": "member-app-look-phone-deck-ygikc2",
+   "name": "Member App Look — Phone",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/member-app-look-phone-deck-ygikc2/",
+   "total": 10,
+   "answered": 0,
+   "tag": "Max's Picks",
+   "status": "open",
+   "requested_at": "2026-10-27T14:24:00+07:00",
+   "added": "2026-10-27T14:38:43+07:00",
+   "note": "Requested by Max Oct 27 ~2:24 PM ICT: one deck per member-app section (+ device looks). Refine look/feel; keep sections. Develop: nothing required for decks unless asked."
+  },
+  {
+   "id": "member-app-look-tablet-deck-djgh48",
+   "name": "Member App Look — Tablet",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/member-app-look-tablet-deck-djgh48/",
+   "total": 10,
+   "answered": 0,
+   "tag": "Max's Picks",
+   "status": "open",
+   "requested_at": "2026-10-27T14:24:00+07:00",
+   "added": "2026-10-27T14:38:43+07:00",
+   "note": "Requested by Max Oct 27 ~2:24 PM ICT: one deck per member-app section (+ device looks). Refine look/feel; keep sections. Develop: nothing required for decks unless asked."
+  },
+  {
+   "id": "member-app-look-computer-deck-p4chc8",
+   "name": "Member App Look — Computer",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/member-app-look-computer-deck-p4chc8/",
+   "total": 10,
+   "answered": 0,
+   "tag": "Max's Picks",
+   "status": "open",
+   "requested_at": "2026-10-27T14:24:00+07:00",
+   "added": "2026-10-27T14:38:43+07:00",
+   "note": "Requested by Max Oct 27 ~2:24 PM ICT: one deck per member-app section (+ device looks). Refine look/feel; keep sections. Develop: nothing required for decks unless asked."
+  },
   {
    "id": "farm-basket-fresh-look-deck-wjksov",
    "name": "Farm Basket Fresh Look",
