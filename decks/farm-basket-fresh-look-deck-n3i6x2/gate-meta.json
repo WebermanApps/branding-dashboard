@@ -1,0 +1,16 @@
+{
+  "category": null,
+  "asset_paths": [
+    "/workspace/high-remake-1027/assets/wn/farm-v2-a.jpg",
+    "/workspace/high-remake-1027/assets/wn/farm-v2-b.jpg",
+    "/workspace/high-remake-1027/assets/wn/farm-0-a.jpg",
+    "/workspace/high-remake-1027/assets/wn/farm-0-b.jpg",
+    "/workspace/high-remake-1027/assets/wn/farm-1-a.jpg",
+    "/workspace/high-remake-1027/assets/wn/farm-1-b.jpg",
+    "/workspace/high-remake-1027/assets/wn/farm-2-a.jpg",
+    "/workspace/high-remake-1027/assets/wn/farm-2-b.jpg"
+  ],
+  "ui_screenshots": false,
+  "bleed_mode": "edge-safe",
+  "title": "Farm Basket Fresh Look"
+}

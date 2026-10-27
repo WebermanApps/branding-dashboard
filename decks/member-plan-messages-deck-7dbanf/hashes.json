@@ -1,0 +1,72 @@
+{
+  "c1": {
+    "A": {
+      "label": "Your Plan on home",
+      "sha12": "a40858a31c0f"
+    },
+    "B": {
+      "label": "Visit Reports",
+      "sha12": "690cdf2a4436"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Summary report header",
+      "sha12": "255b2ce3f212"
+    },
+    "B": {
+      "label": "More findings page",
+      "sha12": "675575bb21b8"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "Items to Watch",
+      "sha12": "c3166621643a"
+    },
+    "B": {
+      "label": "More findings scroll",
+      "sha12": "f9a5bb5b6611"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "Full Menu sheet",
+      "sha12": "25ca14bc2c5a"
+    },
+    "B": {
+      "label": "Action grid",
+      "sha12": "86e91423b4cf"
+    }
+  },
+  "c5": {
+    "A": {
+      "label": "Chat footer",
+      "sha12": "2b5d1b6b6457"
+    },
+    "B": {
+      "label": "Home dock",
+      "sha12": "a456a78d634f"
+    }
+  },
+  "c6": {
+    "A": {
+      "label": "Confirm sheet",
+      "sha12": "8b7f80911d92"
+    },
+    "B": {
+      "label": "Longer plan crop",
+      "sha12": "f59337374560"
+    }
+  },
+  "c7": {
+    "A": {
+      "label": "Plan + Reports pair",
+      "sha12": "a40858a31c0f"
+    },
+    "B": {
+      "label": "Watch + Menu pair",
+      "sha12": "c3166621643a"
+    }
+  }
+}

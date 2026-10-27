@@ -1,0 +1,16 @@
+{
+  "category": null,
+  "asset_paths": [
+    "/workspace/high-remake-1027/assets/wn/power-v2-a.jpg",
+    "/workspace/high-remake-1027/assets/wn/power-v2-b.jpg",
+    "/workspace/high-remake-1027/assets/wn/power-0-a.jpg",
+    "/workspace/high-remake-1027/assets/wn/power-0-b.jpg",
+    "/workspace/high-remake-1027/assets/wn/power-1-a.jpg",
+    "/workspace/high-remake-1027/assets/wn/power-1-b.jpg",
+    "/workspace/high-remake-1027/assets/wn/power-2-a.jpg",
+    "/workspace/high-remake-1027/assets/wn/power-2-b.jpg"
+  ],
+  "ui_screenshots": false,
+  "bleed_mode": "edge-safe",
+  "title": "PowerHaus Fresh Start"
+}

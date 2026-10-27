@@ -1,0 +1,62 @@
+{
+  "c1": {
+    "A": {
+      "label": "Full Van Stock",
+      "sha12": "2f568dfe6238"
+    },
+    "B": {
+      "label": "Filters + Scan",
+      "sha12": "5e870129fafa"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Short for the day",
+      "sha12": "962395ceea45"
+    },
+    "B": {
+      "label": "Running Low",
+      "sha12": "b32845f57973"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "Today quick links",
+      "sha12": "a86d305c0b44"
+    },
+    "B": {
+      "label": "Slide to start",
+      "sha12": "b9c97d0a5cef"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "Route map",
+      "sha12": "2f4eb05557b1"
+    },
+    "B": {
+      "label": "Stop card",
+      "sha12": "e83b6faa659c"
+    }
+  },
+  "c5": {
+    "A": {
+      "label": "Today route tags",
+      "sha12": "071f5fff8575"
+    },
+    "B": {
+      "label": "Today dock",
+      "sha12": "4be5b22dcbec"
+    }
+  },
+  "c6": {
+    "A": {
+      "label": "Van-led · short items first",
+      "sha12": "2f568dfe6238"
+    },
+    "B": {
+      "label": "Today-linked · quick link + tags",
+      "sha12": "a86d305c0b44"
+    }
+  }
+}

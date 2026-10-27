@@ -1,0 +1,72 @@
+{
+  "c1": {
+    "A": {
+      "label": "Hero-led home",
+      "sha12": "2b88f5142495"
+    },
+    "B": {
+      "label": "Visit stack first",
+      "sha12": "f296193a9e33"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Next Visit card",
+      "sha12": "45328a3f86ac"
+    },
+    "B": {
+      "label": "Items to Watch",
+      "sha12": "c3166621643a"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "Home + Reschedule CTA",
+      "sha12": "48bf297544ab"
+    },
+    "B": {
+      "label": "Open reschedule sheet",
+      "sha12": "4a0b457f4477"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "Day + time chips",
+      "sha12": "94d95f574922"
+    },
+    "B": {
+      "label": "Calendar day pick",
+      "sha12": "de045175d8e4"
+    }
+  },
+  "c5": {
+    "A": {
+      "label": "Selected slot",
+      "sha12": "bd86c74ad9a1"
+    },
+    "B": {
+      "label": "Confirm sheet",
+      "sha12": "8b7f80911d92"
+    }
+  },
+  "c6": {
+    "A": {
+      "label": "Done confirmation",
+      "sha12": "b2d3819ac7e2"
+    },
+    "B": {
+      "label": "Chat footer after",
+      "sha12": "a910e8acb49b"
+    }
+  },
+  "c7": {
+    "A": {
+      "label": "Home-first · reschedule on tap",
+      "sha12": "2b88f5142495"
+    },
+    "B": {
+      "label": "Sheet-first · slots lead",
+      "sha12": "4a0b457f4477"
+    }
+  }
+}

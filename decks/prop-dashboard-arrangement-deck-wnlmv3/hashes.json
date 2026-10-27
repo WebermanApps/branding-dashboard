@@ -1,0 +1,72 @@
+{
+  "c1": {
+    "A": {
+      "label": "Shelf first",
+      "sha12": "0f9648d2c784"
+    },
+    "B": {
+      "label": "To-Do under header",
+      "sha12": "8835baf17392"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Properties high",
+      "sha12": "d0be1588590d"
+    },
+    "B": {
+      "label": "Properties mid",
+      "sha12": "d54cd2fb1dea"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "To-Do + alerts together",
+      "sha12": "9ef0f96cfee3"
+    },
+    "B": {
+      "label": "Separate stacks",
+      "sha12": "dd5878351902"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "Shelf near top",
+      "sha12": "605326d15e2a"
+    },
+    "B": {
+      "label": "Shelf after work",
+      "sha12": "daa1a19ca8ab"
+    }
+  },
+  "c5": {
+    "A": {
+      "label": "Keep Document Center",
+      "sha12": "0002b74c9c91"
+    },
+    "B": {
+      "label": "Drop from home",
+      "sha12": "311d32b5efae"
+    }
+  },
+  "c6": {
+    "A": {
+      "label": "Dense tall To-Do",
+      "sha12": "ca57bf0bb03d"
+    },
+    "B": {
+      "label": "Airier stack",
+      "sha12": "f6bb98bb611c"
+    }
+  },
+  "c7": {
+    "A": {
+      "label": "Shelf · alerts · To-Do · props",
+      "sha12": "3f82538d9093"
+    },
+    "B": {
+      "label": "To-Do · props · shelf",
+      "sha12": "aa1391f5262a"
+    }
+  }
+}

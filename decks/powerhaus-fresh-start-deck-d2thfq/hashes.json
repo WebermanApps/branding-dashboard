@@ -1,0 +1,82 @@
+{
+  "c1": {
+    "A": {
+      "label": "Short white caddy",
+      "sha12": "dbedcee1907e"
+    },
+    "B": {
+      "label": "Slim tall can",
+      "sha12": "5fe6e5474a98"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Blue spine",
+      "sha12": "f8616cdff1a4"
+    },
+    "B": {
+      "label": "Blue in the name",
+      "sha12": "81a29669397f"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "Plain white",
+      "sha12": "18a729ba376c"
+    },
+    "B": {
+      "label": "Soft arc pattern",
+      "sha12": "3978b03b395b"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "Gold kiss",
+      "sha12": "5a9c4c641a68"
+    },
+    "B": {
+      "label": "No gold",
+      "sha12": "4cbaa87126a3"
+    }
+  },
+  "c5": {
+    "A": {
+      "label": "Twelve sachets",
+      "sha12": "e6dde2e95403"
+    },
+    "B": {
+      "label": "Twenty sachets",
+      "sha12": "13949ab6ca26"
+    }
+  },
+  "c6": {
+    "A": {
+      "label": "After-class reset",
+      "sha12": "437e4425e50c"
+    },
+    "B": {
+      "label": "Balanced energy",
+      "sha12": "ad7f9d5c4055"
+    }
+  },
+  "c7": {
+    "A": {
+      "label": "Gold lid badge",
+      "sha12": "4986c2036056"
+    },
+    "B": {
+      "label": "Plain lid",
+      "sha12": "65445d07b7ff"
+    }
+  },
+  "c8": {
+    "A": {
+      "label": "Clean studio caddy",
+      "sha12": "1b05f1a0869a"
+    },
+    "B": {
+      "label": "Softer home can",
+      "sha12": "182127cc53f6"
+    }
+  }
+}

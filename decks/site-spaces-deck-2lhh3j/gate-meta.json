@@ -1,0 +1,28 @@
+{
+  "category": "site-spaces",
+  "asset_paths": [
+    "/workspace/high-remake-1027/assets/spaces/cafe_open.jpg",
+    "/workspace/high-remake-1027/assets/spaces/cafe_booth.jpg",
+    "/workspace/high-remake-1027/assets/spaces/cafe_table.jpg",
+    "/workspace/high-remake-1027/assets/spaces/cafe_quiet.jpg",
+    "/workspace/high-remake-1027/assets/spaces/eq_rows.jpg",
+    "/workspace/high-remake-1027/assets/spaces/eq_mix.jpg",
+    "/workspace/high-remake-1027/assets/spaces/pil_day.jpg",
+    "/workspace/high-remake-1027/assets/spaces/pil_lamp.jpg",
+    "/workspace/high-remake-1027/assets/spaces/mass_wood.jpg",
+    "/workspace/high-remake-1027/assets/spaces/mass_linen.jpg",
+    "/workspace/high-remake-1027/assets/spaces/lou_chair.jpg",
+    "/workspace/high-remake-1027/assets/spaces/lou_cowork.jpg",
+    "/workspace/high-remake-1027/assets/spaces/rent3.jpg",
+    "/workspace/high-remake-1027/assets/spaces/rent4.jpg",
+    "/workspace/high-remake-1027/assets/spaces/pool_lag.jpg",
+    "/workspace/high-remake-1027/assets/spaces/pool_rect.jpg",
+    "/workspace/high-remake-1027/assets/spaces/int_cabin.jpg",
+    "/workspace/high-remake-1027/assets/spaces/wn_site/r3cabins.jpg",
+    "/workspace/high-remake-1027/assets/spaces/wn_site/r3pool.jpg",
+    "/workspace/high-remake-1027/assets/spaces/wn_site/r3sala.jpg"
+  ],
+  "ui_screenshots": false,
+  "bleed_mode": "edge-safe",
+  "title": "Site Spaces"
+}

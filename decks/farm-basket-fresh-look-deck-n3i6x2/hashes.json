@@ -1,0 +1,82 @@
+{
+  "c1": {
+    "A": {
+      "label": "Kraft box",
+      "sha12": "c49ec237099c"
+    },
+    "B": {
+      "label": "Woven basket",
+      "sha12": "48e90e77b022"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Banana leaf",
+      "sha12": "ae597a468dfe"
+    },
+    "B": {
+      "label": "Cotton cloth",
+      "sha12": "c787d913f21f"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "Nest + name",
+      "sha12": "12286a39cbfb"
+    },
+    "B": {
+      "label": "Week recipe card",
+      "sha12": "b3c577384982"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "Nest strands",
+      "sha12": "f978a64d11e8"
+    },
+    "B": {
+      "label": "Cream sleeve",
+      "sha12": "7c028ac8a550"
+    }
+  },
+  "c5": {
+    "A": {
+      "label": "Seven-day band",
+      "sha12": "30e99e54e13d"
+    },
+    "B": {
+      "label": "Harvest recipe insert",
+      "sha12": "a881e41aa302"
+    }
+  },
+  "c6": {
+    "A": {
+      "label": "A basket for your week",
+      "sha12": "f986d163c72b"
+    },
+    "B": {
+      "label": "From our farm to your table",
+      "sha12": "0f6e25945ece"
+    }
+  },
+  "c7": {
+    "A": {
+      "label": "Two sizes",
+      "sha12": "79bcb385d39c"
+    },
+    "B": {
+      "label": "Three sizes",
+      "sha12": "da4ae3390712"
+    }
+  },
+  "c8": {
+    "A": {
+      "label": "Kraft week-box",
+      "sha12": "bbbf0a04ca1f"
+    },
+    "B": {
+      "label": "Basket classic",
+      "sha12": "6c8cb65ec880"
+    }
+  }
+}

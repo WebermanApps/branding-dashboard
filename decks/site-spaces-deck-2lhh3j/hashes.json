@@ -1,0 +1,102 @@
+{
+  "c1": {
+    "A": {
+      "label": "Open farm kitchen",
+      "sha12": "52ae4c63005c"
+    },
+    "B": {
+      "label": "Quiet tea corner",
+      "sha12": "a306d1c3515e"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Long communal table",
+      "sha12": "8dde505a445a"
+    },
+    "B": {
+      "label": "Soft booth seats",
+      "sha12": "ce6c899c1872"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "Reformer rows",
+      "sha12": "665ec5b9207f"
+    },
+    "B": {
+      "label": "Tower plus mats",
+      "sha12": "c67d0d2e609e"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "Soft daylight",
+      "sha12": "91c9e248d2f7"
+    },
+    "B": {
+      "label": "Warm lamps",
+      "sha12": "a6517629d807"
+    }
+  },
+  "c5": {
+    "A": {
+      "label": "Quiet wood room",
+      "sha12": "181fb8f93149"
+    },
+    "B": {
+      "label": "Cream linen room",
+      "sha12": "7791b8009790"
+    }
+  },
+  "c6": {
+    "A": {
+      "label": "Deep lounge chairs",
+      "sha12": "319b2f554874"
+    },
+    "B": {
+      "label": "Cowork tables",
+      "sha12": "9071e660c989"
+    }
+  },
+  "c7": {
+    "A": {
+      "label": "Three cabins",
+      "sha12": "3166d3fa42fa"
+    },
+    "B": {
+      "label": "Four cabins",
+      "sha12": "59a94aff3498"
+    }
+  },
+  "c8": {
+    "A": {
+      "label": "Lagoon edge",
+      "sha12": "83f9cddc70bf"
+    },
+    "B": {
+      "label": "Classic rectangle",
+      "sha12": "6a467e921b8c"
+    }
+  },
+  "c9": {
+    "A": {
+      "label": "Interior cabin nest",
+      "sha12": "3a5a0a953c43"
+    },
+    "B": {
+      "label": "Cabin cluster from path",
+      "sha12": "797ca5367ce2"
+    }
+  },
+  "c10": {
+    "A": {
+      "label": "Farm home first",
+      "sha12": "cd8d913fb405"
+    },
+    "B": {
+      "label": "Wellness campus",
+      "sha12": "935762d6dea1"
+    }
+  }
+}
