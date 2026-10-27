@@ -1,7 +1,7 @@
 {
  "agent": "branding",
  "decks": [],
- "updated": "2026-10-27T15:16:23+07:00",
+ "updated": "2026-10-27T15:20:24+07:00",
  "done": [
   {
    "id": "up-next-deck",
@@ -1355,6 +1355,66 @@
  "queued": [],
  "queued_note": "Held back by the 5-deck cap (pinned + decks <= 5). Requested decks never count toward the cap and never show in the header shelf.",
  "requested": [
+  {
+   "id": "tech-header-deck-cyp59h",
+   "name": "Tech Header",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/tech-header-deck-cyp59h/",
+   "total": 10,
+   "answered": 0,
+   "tag": "Max's Picks",
+   "status": "open",
+   "requested_at": "2026-10-27T15:08:00+07:00",
+   "added": "2026-10-27T15:20:24+07:00",
+   "note": "Machan full deck redo Oct 27: remake UpKeep Tech section decks from real phone screenshots, no device frames, distinct A/B, Machan Decides visible, Built by Machan."
+  },
+  {
+   "id": "today-route-deck-cnvopg",
+   "name": "Today / Today's Route",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/today-route-deck-cnvopg/",
+   "total": 10,
+   "answered": 0,
+   "tag": "Max's Picks",
+   "status": "open",
+   "requested_at": "2026-10-27T15:08:00+07:00",
+   "added": "2026-10-27T15:20:24+07:00",
+   "note": "Machan full deck redo Oct 27: remake UpKeep Tech section decks from real phone screenshots, no device frames, distinct A/B, Machan Decides visible, Built by Machan."
+  },
+  {
+   "id": "tech-schedule-deck-w4xd2b",
+   "name": "Schedule",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/tech-schedule-deck-w4xd2b/",
+   "total": 10,
+   "answered": 0,
+   "tag": "Max's Picks",
+   "status": "open",
+   "requested_at": "2026-10-27T15:08:00+07:00",
+   "added": "2026-10-27T15:20:24+07:00",
+   "note": "Machan full deck redo Oct 27: remake UpKeep Tech section decks from real phone screenshots, no device frames, distinct A/B, Machan Decides visible, Built by Machan."
+  },
+  {
+   "id": "van-supplies-deck-jgq817",
+   "name": "Van Supplies",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/van-supplies-deck-jgq817/",
+   "total": 10,
+   "answered": 0,
+   "tag": "Max's Picks",
+   "status": "open",
+   "requested_at": "2026-10-27T15:08:00+07:00",
+   "added": "2026-10-27T15:20:24+07:00",
+   "note": "Machan full deck redo Oct 27: remake UpKeep Tech section decks from real phone screenshots, no device frames, distinct A/B, Machan Decides visible, Built by Machan."
+  },
+  {
+   "id": "tech-hr-deck-uu2e2m",
+   "name": "HR",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/tech-hr-deck-uu2e2m/",
+   "total": 10,
+   "answered": 0,
+   "tag": "Max's Picks",
+   "status": "open",
+   "requested_at": "2026-10-27T15:08:00+07:00",
+   "added": "2026-10-27T15:20:24+07:00",
+   "note": "Machan full deck redo Oct 27: remake UpKeep Tech section decks from real phone screenshots, no device frames, distinct A/B, Machan Decides visible, Built by Machan."
+  },
   {
    "id": "header-section-deck-abma1v",
    "name": "Header Section",
