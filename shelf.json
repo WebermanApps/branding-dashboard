@@ -1,7 +1,7 @@
 {
  "agent": "branding",
  "decks": [],
- "updated": "2026-10-27T15:22:34+07:00",
+ "updated": "2026-10-27T15:28:19+07:00",
  "done": [
   {
    "id": "up-next-deck",
@@ -1355,6 +1355,18 @@
  "queued": [],
  "queued_note": "Held back by the 5-deck cap (pinned + decks <= 5). Requested decks never count toward the cap and never show in the header shelf.",
  "requested": [
+  {
+   "id": "household-schedule-setup-deck-b78018",
+   "name": "Household Schedule Setup",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/household-schedule-setup-deck-b78018/",
+   "total": 10,
+   "answered": 0,
+   "tag": "Max's Picks",
+   "status": "open",
+   "requested_at": "2026-10-27T15:22:00+07:00",
+   "added": "2026-10-27T15:28:19+07:00",
+   "note": "Requested by Max via Household Oct 27 2026 ~3:22 PM ICT: replace Jakarta trip section with Schedule. Clarification cards on Max's Picks. Owning submit = household. Do NOT change the Household board itself."
+  },
   {
    "id": "header-section-deck-abma1v",
    "name": "Header Section",
