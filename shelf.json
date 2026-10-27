@@ -111,7 +111,7 @@
    "made": "2026-10-17"
   }
  ],
- "updated": "2026-10-27T14:22:20+07:00",
+ "updated": "2026-10-27T14:23:06+07:00",
  "done": [
   {
    "id": "up-next-deck",
@@ -1589,6 +1589,30 @@
  "queued": [],
  "queued_note": "Held back by the 5-deck cap (pinned + decks <= 5). Requested decks never count toward the cap and never show in the header shelf.",
  "requested": [
+  {
+   "id": "roselle-pack-confirm-deck-2oj6la",
+   "name": "Roselle Pack Confirm",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/roselle-pack-confirm-deck-2oj6la/",
+   "total": 12,
+   "answered": 0,
+   "tag": "Max's Picks",
+   "status": "open",
+   "requested_at": "2026-10-27T14:23:06+07:00",
+   "added": "2026-10-27T14:23:06+07:00",
+   "note": "Confirm loved Roselle packaging character + sizes. Results -> wellnest."
+  },
+  {
+   "id": "site-spaces-deck-r6zj3h",
+   "name": "Site Spaces",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/site-spaces-deck-r6zj3h/",
+   "total": 12,
+   "answered": 0,
+   "tag": "Max's Picks",
+   "status": "open",
+   "requested_at": "2026-10-27T14:23:06+07:00",
+   "added": "2026-10-27T14:23:06+07:00",
+   "note": "WellNest site spaces: cafe, equipment, pilates, massage, lounge/cowork, rentals+pool. Results -> wellnest."
+  },
   {
    "id": "brand-type-voice-and-applications-deck-rp380i",
    "name": "Brand Type Voice & Applications",
