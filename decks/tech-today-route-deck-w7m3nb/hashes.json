@@ -1,0 +1,82 @@
+{
+  "c1": {
+    "A": {
+      "label": "Today + Slide",
+      "sha12": "992327ca4c6f"
+    },
+    "B": {
+      "label": "Slide sheet focus",
+      "sha12": "dd2ce5c2dea4"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Four metric tiles",
+      "sha12": "4170b2469a7f"
+    },
+    "B": {
+      "label": "Short-items banner",
+      "sha12": "5d38606e64ef"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "Route map",
+      "sha12": "2f4eb05557b1"
+    },
+    "B": {
+      "label": "Stop card",
+      "sha12": "980e754e5592"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "Full route screen",
+      "sha12": "b0df91e0cd9d"
+    },
+    "B": {
+      "label": "Map-only focus",
+      "sha12": "3f16087485ee"
+    }
+  },
+  "c5": {
+    "A": {
+      "label": "Full stop screen",
+      "sha12": "fd6f39e61217"
+    },
+    "B": {
+      "label": "Stop card core",
+      "sha12": "8c000a2230bb"
+    }
+  },
+  "c6": {
+    "A": {
+      "label": "Route tags",
+      "sha12": "bf31c61c1a9f"
+    },
+    "B": {
+      "label": "Start area",
+      "sha12": "feafd5456837"
+    }
+  },
+  "c7": {
+    "A": {
+      "label": "One viewport Today",
+      "sha12": "1086e1e5c776"
+    },
+    "B": {
+      "label": "Tall scroll top",
+      "sha12": "00faf8e7d986"
+    }
+  },
+  "c8": {
+    "A": {
+      "label": "Today-first · slide + metrics",
+      "sha12": "1086e1e5c776"
+    },
+    "B": {
+      "label": "Map-first · stop detail",
+      "sha12": "2f4eb05557b1"
+    }
+  }
+}

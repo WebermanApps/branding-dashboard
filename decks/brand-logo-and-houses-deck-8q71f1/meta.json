@@ -1,0 +1,11 @@
+{
+  "category": null,
+  "asset_paths": [
+    "/workspace/medium-remake-1027/assets/nest-logo.png",
+    "/workspace/medium-remake-1027/assets/wn/brand-v2-a.jpg",
+    "/workspace/medium-remake-1027/assets/wn/brand-v2-b.jpg"
+  ],
+  "ui_screenshots": false,
+  "bleed_mode": "edge-safe",
+  "title": "Brand Logo & Houses"
+}

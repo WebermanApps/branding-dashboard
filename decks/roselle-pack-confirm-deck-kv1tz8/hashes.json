@@ -1,0 +1,82 @@
+{
+  "c1": {
+    "A": {
+      "label": "Keep this design",
+      "sha12": "9de255c2d0c9"
+    },
+    "B": {
+      "label": "Fresh tweak",
+      "sha12": "77214bb04309"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Cream tin can",
+      "sha12": "8cc38b17c778"
+    },
+    "B": {
+      "label": "Kraft pouch feel",
+      "sha12": "438cfb772d3a"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "Short ~40 g",
+      "sha12": "ea9bdf78ade6"
+    },
+    "B": {
+      "label": "Tall ~70 g",
+      "sha12": "510b01ffe2e2"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "Typewriter ROSELLE",
+      "sha12": "161a5431c547"
+    },
+    "B": {
+      "label": "Softer story tin",
+      "sha12": "7617d15d3f86"
+    }
+  },
+  "c5": {
+    "A": {
+      "label": "Kraft with rose band",
+      "sha12": "329c47a762e3"
+    },
+    "B": {
+      "label": "Plain kraft lid",
+      "sha12": "e8c596b882ae"
+    }
+  },
+  "c6": {
+    "A": {
+      "label": "Hot ruby cup",
+      "sha12": "31d2064f404f"
+    },
+    "B": {
+      "label": "Name leads",
+      "sha12": "91a7fbf6bb06"
+    }
+  },
+  "c7": {
+    "A": {
+      "label": "New guests and gifts",
+      "sha12": "a71a1f942d66"
+    },
+    "B": {
+      "label": "Regulars too",
+      "sha12": "7907f458dd34"
+    }
+  },
+  "c8": {
+    "A": {
+      "label": "Tin · loved look",
+      "sha12": "d1114920774d"
+    },
+    "B": {
+      "label": "Story tin · cup lead",
+      "sha12": "8fd7cd400b75"
+    }
+  }
+}

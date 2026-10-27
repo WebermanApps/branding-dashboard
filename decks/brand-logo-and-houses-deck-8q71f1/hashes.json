@@ -1,0 +1,102 @@
+{
+  "c1": {
+    "A": {
+      "label": "Cream wall nest",
+      "sha12": "a10091f80c5e"
+    },
+    "B": {
+      "label": "Wood plaque nest",
+      "sha12": "0dc363765826"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Window etching",
+      "sha12": "30783a113479"
+    },
+    "B": {
+      "label": "Door welcome",
+      "sha12": "678fe11fabb3"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "Large wall lockup",
+      "sha12": "f247f8dc71d1"
+    },
+    "B": {
+      "label": "Small stamp only",
+      "sha12": "404979b90ce7"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "Nest above the name",
+      "sha12": "0f452cc310db"
+    },
+    "B": {
+      "label": "Nest beside the name",
+      "sha12": "880a17d80862"
+    }
+  },
+  "c5": {
+    "A": {
+      "label": "Airy clear space",
+      "sha12": "a80bc684a088"
+    },
+    "B": {
+      "label": "Snug clear space",
+      "sha12": "6424bad5bb67"
+    }
+  },
+  "c6": {
+    "A": {
+      "label": "Ink stamp nest",
+      "sha12": "416e724c4b8e"
+    },
+    "B": {
+      "label": "Hang-tag nest",
+      "sha12": "abf02188ce46"
+    }
+  },
+  "c7": {
+    "A": {
+      "label": "Soft WellNest shine",
+      "sha12": "c975a445ab8d"
+    },
+    "B": {
+      "label": "Matte nest only",
+      "sha12": "77707d9af186"
+    }
+  },
+  "c8": {
+    "A": {
+      "label": "Nest green mono",
+      "sha12": "7096cc0a2b84"
+    },
+    "B": {
+      "label": "Ink charcoal mono",
+      "sha12": "81bb3443884c"
+    }
+  },
+  "c9": {
+    "A": {
+      "label": "Card + tote + tin",
+      "sha12": "d80a4444afc8"
+    },
+    "B": {
+      "label": "Suite alternate angle",
+      "sha12": "f5d65d5b8b6b"
+    }
+  },
+  "c10": {
+    "A": {
+      "label": "Wall + stacked lockup",
+      "sha12": "03aa89977da1"
+    },
+    "B": {
+      "label": "Stamp + mono green",
+      "sha12": "83c5515db3aa"
+    }
+  }
+}

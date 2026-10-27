@@ -1,0 +1,102 @@
+{
+  "c1": {
+    "A": {
+      "label": "Finance first",
+      "sha12": "08e62bcac79d"
+    },
+    "B": {
+      "label": "Shelf + alerts",
+      "sha12": "52691aaab396"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Open Items first",
+      "sha12": "152eb77430d3"
+    },
+    "B": {
+      "label": "After finance",
+      "sha12": "d0c09baf2385"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "Documents high",
+      "sha12": "509c7eea035a"
+    },
+    "B": {
+      "label": "Below Open Items",
+      "sha12": "fbf785220651"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "Keep shelf",
+      "sha12": "5bc34203d0db"
+    },
+    "B": {
+      "label": "Drop shelf here",
+      "sha12": "82ff28d8273a"
+    }
+  },
+  "c5": {
+    "A": {
+      "label": "Tall finance",
+      "sha12": "81129abd3b6e"
+    },
+    "B": {
+      "label": "Compact KPIs",
+      "sha12": "b01cdec5381c"
+    }
+  },
+  "c6": {
+    "A": {
+      "label": "Open + Docs paired",
+      "sha12": "0a3259fbe984"
+    },
+    "B": {
+      "label": "Finance between",
+      "sha12": "7ff60f7f988d"
+    }
+  },
+  "c7": {
+    "A": {
+      "label": "Dense stack",
+      "sha12": "00c87ed06369"
+    },
+    "B": {
+      "label": "Airier",
+      "sha12": "9fe02886909d"
+    }
+  },
+  "c8": {
+    "A": {
+      "label": "Keep folds",
+      "sha12": "c666bd29e091"
+    },
+    "B": {
+      "label": "Hide on property",
+      "sha12": "59036d79a346"
+    }
+  },
+  "c9": {
+    "A": {
+      "label": "Footer routines",
+      "sha12": "4a82fedb076b"
+    },
+    "B": {
+      "label": "Without routines",
+      "sha12": "903fbd661ff4"
+    }
+  },
+  "c10": {
+    "A": {
+      "label": "Finance · Open · Docs",
+      "sha12": "798929f036bc"
+    },
+    "B": {
+      "label": "Shelf · Finance · Open",
+      "sha12": "9ffb1fa437f4"
+    }
+  }
+}
