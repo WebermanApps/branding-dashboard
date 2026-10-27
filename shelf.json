@@ -1,7 +1,7 @@
 {
  "agent": "branding",
  "decks": [],
- "updated": "2026-10-27T15:49:13+07:00",
+ "updated": "2026-10-27T16:01:27+07:00",
  "done": [
   {
    "id": "up-next-deck",
@@ -1330,6 +1330,20 @@
    "name": "Visit Report Deck",
    "answered": 10,
    "total": 10
+  },
+  {
+   "id": "household-schedule-setup-deck-b78018",
+   "at": "2026-10-27T16:01:27+07:00",
+   "name": "Household Schedule Setup",
+   "answered": 10,
+   "total": 10
+  },
+  {
+   "id": "household-rainy-day-kit-chiang-mai-deck-8ixe50",
+   "at": "2026-10-27T16:01:27+07:00",
+   "name": "Rainy-Day Kit — Chiang Mai",
+   "answered": 10,
+   "total": 10
   }
  ],
  "pinned": [
@@ -1355,6 +1369,66 @@
  "queued": [],
  "queued_note": "Held back by the 5-deck cap (pinned + decks <= 5). Requested decks never count toward the cap and never show in the header shelf.",
  "requested": [
+  {
+   "id": "member-computer-look-tight-cream-deck-ph7w6b",
+   "name": "Computer Look — Tight Cream",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/member-computer-look-tight-cream-deck-ph7w6b/",
+   "total": 10,
+   "answered": 0,
+   "tag": "Max's Picks",
+   "status": "open",
+   "requested_at": "2026-10-27T16:00:00+07:00",
+   "added": "2026-10-27T16:01:27+07:00",
+   "note": "Follow-up remakes from Oct 27 style-swipe submits (picks + notes)."
+  },
+  {
+   "id": "member-tablet-look-soft-cream-deck-57yavk",
+   "name": "Tablet Look — Soft Cream",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/member-tablet-look-soft-cream-deck-57yavk/",
+   "total": 10,
+   "answered": 0,
+   "tag": "Max's Picks",
+   "status": "open",
+   "requested_at": "2026-10-27T16:00:00+07:00",
+   "added": "2026-10-27T16:01:27+07:00",
+   "note": "Follow-up remakes from Oct 27 style-swipe submits (picks + notes)."
+  },
+  {
+   "id": "weberman-shaping-loft-engawa-deck-o1o7fe",
+   "name": "Shaping — Loft & Engawa",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/weberman-shaping-loft-engawa-deck-o1o7fe/",
+   "total": 10,
+   "answered": 0,
+   "tag": "Max's Picks",
+   "status": "open",
+   "requested_at": "2026-10-27T16:00:00+07:00",
+   "added": "2026-10-27T16:01:27+07:00",
+   "note": "Follow-up remakes from Oct 27 style-swipe submits (picks + notes)."
+  },
+  {
+   "id": "household-schedule-week-sync-deck-b78018",
+   "name": "Schedule — Week & Sync",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/household-schedule-week-sync-deck-b78018/",
+   "total": 10,
+   "answered": 0,
+   "tag": "Max's Picks",
+   "status": "open",
+   "requested_at": "2026-10-27T16:00:00+07:00",
+   "added": "2026-10-27T16:01:27+07:00",
+   "note": "Follow-up remakes from Oct 27 style-swipe submits (picks + notes)."
+  },
+  {
+   "id": "household-rainy-day-fresh-outings-deck-4xomdy",
+   "name": "Rainy Day — Fresh Outings",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/household-rainy-day-fresh-outings-deck-4xomdy/",
+   "total": 10,
+   "answered": 0,
+   "tag": "Max's Picks",
+   "status": "open",
+   "requested_at": "2026-10-27T16:00:00+07:00",
+   "added": "2026-10-27T16:01:27+07:00",
+   "note": "Follow-up remakes from Oct 27 style-swipe submits (picks + notes)."
+  },
   {
    "id": "member-home-layout-deck-g4zmrm",
    "name": "Member Home Layout",
@@ -1416,18 +1490,6 @@
    "note": "Machan Oct 27 ~3:30 ICT continue Household: Maple Play & Learning, Rainy-Day Kit Chiang Mai, Day Trips Chiang Mai. Agent=household. Schedule Setup already live — not rebuilt."
   },
   {
-   "id": "household-rainy-day-kit-chiang-mai-deck-8ixe50",
-   "name": "Rainy-Day Kit — Chiang Mai",
-   "url": "https://webermanapps.github.io/branding-djqmb410/decks/household-rainy-day-kit-chiang-mai-deck-8ixe50/",
-   "total": 10,
-   "answered": 0,
-   "tag": "Max's Picks",
-   "status": "open",
-   "requested_at": "2026-10-27T15:39:15+07:00",
-   "added": "2026-10-27T15:39:33+07:00",
-   "note": "Machan Oct 27 ~3:30 ICT continue Household: Maple Play & Learning, Rainy-Day Kit Chiang Mai, Day Trips Chiang Mai. Agent=household. Schedule Setup already live — not rebuilt."
-  },
-  {
    "id": "household-day-trips-chiang-mai-deck-x1qga4",
    "name": "Day Trips — Chiang Mai",
    "url": "https://webermanapps.github.io/branding-djqmb410/decks/household-day-trips-chiang-mai-deck-x1qga4/",
@@ -1438,18 +1500,6 @@
    "requested_at": "2026-10-27T15:39:15+07:00",
    "added": "2026-10-27T15:39:33+07:00",
    "note": "Machan Oct 27 ~3:30 ICT continue Household: Maple Play & Learning, Rainy-Day Kit Chiang Mai, Day Trips Chiang Mai. Agent=household. Schedule Setup already live — not rebuilt."
-  },
-  {
-   "id": "household-schedule-setup-deck-b78018",
-   "name": "Household Schedule Setup",
-   "url": "https://webermanapps.github.io/branding-djqmb410/decks/household-schedule-setup-deck-b78018/",
-   "total": 10,
-   "answered": 0,
-   "tag": "Max's Picks",
-   "status": "open",
-   "requested_at": "2026-10-27T15:22:00+07:00",
-   "added": "2026-10-27T15:28:19+07:00",
-   "note": "Requested by Max via Household Oct 27 2026 ~3:22 PM ICT: replace Jakarta trip section with Schedule. Clarification cards on Max's Picks. Owning submit = household. Do NOT change the Household board itself."
   },
   {
    "id": "fireside-music-deck-4",
@@ -1497,6 +1547,32 @@
    "status": "open",
    "requested_at": "2026-10-17T21:07:54+07:00",
    "made": "2026-10-17"
+  },
+  {
+   "id": "household-rainy-day-kit-chiang-mai-deck-8ixe50",
+   "name": "Rainy-Day Kit — Chiang Mai",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/household-rainy-day-kit-chiang-mai-deck-8ixe50/",
+   "total": 10,
+   "answered": 10,
+   "tag": "Max's Picks",
+   "status": "done",
+   "requested_at": "2026-10-27T15:39:15+07:00",
+   "added": "2026-10-27T15:39:33+07:00",
+   "note": "Machan Oct 27 ~3:30 ICT continue Household: Maple Play & Learning, Rainy-Day Kit Chiang Mai, Day Trips Chiang Mai. Agent=household. Schedule Setup already live — not rebuilt.",
+   "done_at": "2026-10-27T16:01:27+07:00"
+  },
+  {
+   "id": "household-schedule-setup-deck-b78018",
+   "name": "Household Schedule Setup",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/household-schedule-setup-deck-b78018/",
+   "total": 10,
+   "answered": 10,
+   "tag": "Max's Picks",
+   "status": "done",
+   "requested_at": "2026-10-27T15:22:00+07:00",
+   "added": "2026-10-27T15:28:19+07:00",
+   "note": "Requested by Max via Household Oct 27 2026 ~3:22 PM ICT: replace Jakarta trip section with Schedule. Clarification cards on Max's Picks. Owning submit = household. Do NOT change the Household board itself.",
+   "done_at": "2026-10-27T16:01:27+07:00"
   },
   {
    "id": "home-desk-deck-cn7pbs",
