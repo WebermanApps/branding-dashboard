@@ -1,7 +1,7 @@
 {
  "agent": "branding",
  "decks": [],
- "updated": "2026-10-27T21:54:55+07:00",
+ "updated": "2026-10-27T22:00:24+07:00",
  "done": [
   {
    "id": "up-next-deck",
@@ -1432,6 +1432,54 @@
    "made": "2026-10-27",
    "note": "Edge-safe crop-fixed layout deck.",
    "tag": "UpKeep Member"
+  },
+  {
+   "id": "member-onboarding-equipment-deck-nglyjj",
+   "name": "Member Onboarding & Equipment Capture",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/member-onboarding-equipment-deck-nglyjj/",
+   "total": 6,
+   "answered": 0,
+   "tag": "Max's Picks",
+   "status": "open",
+   "requested_at": "2026-10-27T21:51:00+07:00",
+   "added": "2026-10-27T22:00:24+07:00",
+   "note": "Machan via UpKeep Develop Oct 27 9:51 PM ICT — next phone-only flows: onboarding+capture, quote/accept, Ask Anything triage, tech visit report. Distinct rendered phone mockups (not crop-reuse)."
+  },
+  {
+   "id": "quote-accept-membership-deck-cws91m",
+   "name": "Quote & Accept Membership",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/quote-accept-membership-deck-cws91m/",
+   "total": 6,
+   "answered": 0,
+   "tag": "Max's Picks",
+   "status": "open",
+   "requested_at": "2026-10-27T21:51:00+07:00",
+   "added": "2026-10-27T22:00:24+07:00",
+   "note": "Machan via UpKeep Develop Oct 27 9:51 PM ICT — next phone-only flows: onboarding+capture, quote/accept, Ask Anything triage, tech visit report. Distinct rendered phone mockups (not crop-reuse)."
+  },
+  {
+   "id": "ask-anything-triage-deck-9ev93n",
+   "name": "Ask Anything Triage & Urgency Handoff",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/ask-anything-triage-deck-9ev93n/",
+   "total": 6,
+   "answered": 0,
+   "tag": "Max's Picks",
+   "status": "open",
+   "requested_at": "2026-10-27T21:51:00+07:00",
+   "added": "2026-10-27T22:00:24+07:00",
+   "note": "Machan via UpKeep Develop Oct 27 9:51 PM ICT — next phone-only flows: onboarding+capture, quote/accept, Ask Anything triage, tech visit report. Distinct rendered phone mockups (not crop-reuse)."
+  },
+  {
+   "id": "tech-visit-report-deck-55lm5y",
+   "name": "Tech Visit Report",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/tech-visit-report-deck-55lm5y/",
+   "total": 7,
+   "answered": 0,
+   "tag": "Max's Picks",
+   "status": "open",
+   "requested_at": "2026-10-27T21:51:00+07:00",
+   "added": "2026-10-27T22:00:24+07:00",
+   "note": "Machan via UpKeep Develop Oct 27 9:51 PM ICT — next phone-only flows: onboarding+capture, quote/accept, Ask Anything triage, tech visit report. Distinct rendered phone mockups (not crop-reuse)."
   },
   {
    "id": "member-home-visit-deck-7kvm8b",
