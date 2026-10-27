@@ -111,7 +111,7 @@
    "made": "2026-10-17"
   }
  ],
- "updated": "2026-10-23T08:50:03+07:00",
+ "updated": "2026-10-27T14:02:25+07:00",
  "done": [
   {
    "id": "up-next-deck",
@@ -1412,6 +1412,34 @@
    "name": "Scene 0 Real Life Deck",
    "answered": 14,
    "total": 14
+  },
+  {
+   "id": "home-desk-deck-cn7pbs",
+   "at": "2026-10-27T14:02:25+07:00",
+   "name": "Home Desk Deck",
+   "answered": 8,
+   "total": 10
+  },
+  {
+   "id": "route-plan-deck-wgpiyg",
+   "at": "2026-10-27T14:02:25+07:00",
+   "name": "Route Plan Deck",
+   "answered": 10,
+   "total": 10
+  },
+  {
+   "id": "launch-area-deck-3dtx5s",
+   "at": "2026-10-27T14:02:25+07:00",
+   "name": "Launch Area Deck",
+   "answered": 8,
+   "total": 10
+  },
+  {
+   "id": "visit-report-deck-kj6ef5",
+   "at": "2026-10-27T14:02:25+07:00",
+   "name": "Visit Report Deck",
+   "answered": 10,
+   "total": 10
   }
  ],
  "pinned": [
@@ -1598,18 +1626,6 @@
    "note": "WellNest: PowerHaus tea can choices left open after the Can Look deck went unanswered."
   },
   {
-   "id": "home-desk-deck-cn7pbs",
-   "name": "Home Desk Deck",
-   "url": "https://webermanapps.github.io/branding-djqmb410/decks/home-desk-deck-cn7pbs/",
-   "total": 10,
-   "answered": 0,
-   "tag": "Max's Picks",
-   "status": "open",
-   "requested_at": "2026-10-23T08:50:03+07:00",
-   "added": "2026-10-23T08:50:03+07:00",
-   "note": "General: Workspace setup."
-  },
-  {
    "id": "daily-rhythm-deck-sksa7i",
    "name": "Daily Rhythm Deck",
    "url": "https://webermanapps.github.io/branding-djqmb410/decks/daily-rhythm-deck-sksa7i/",
@@ -1730,18 +1746,6 @@
    "note": "UpKeep: The member app's AI helper: tone and look."
   },
   {
-   "id": "visit-report-deck-kj6ef5",
-   "name": "Visit Report Deck",
-   "url": "https://webermanapps.github.io/branding-djqmb410/decks/visit-report-deck-kj6ef5/",
-   "total": 10,
-   "answered": 0,
-   "tag": "Max's Picks",
-   "status": "open",
-   "requested_at": "2026-10-23T08:50:02+07:00",
-   "added": "2026-10-23T08:50:02+07:00",
-   "note": "UpKeep: How a finished visit report reads for the member."
-  },
-  {
    "id": "member-home-screen-deck-x04i0x",
    "name": "Member Home Screen Deck",
    "url": "https://webermanapps.github.io/branding-djqmb410/decks/member-home-screen-deck-x04i0x/",
@@ -1754,18 +1758,6 @@
    "note": "UpKeep: The member app's first screen: order and feel of the top sections."
   },
   {
-   "id": "launch-area-deck-3dtx5s",
-   "name": "Launch Area Deck",
-   "url": "https://webermanapps.github.io/branding-djqmb410/decks/launch-area-deck-3dtx5s/",
-   "total": 10,
-   "answered": 0,
-   "tag": "Max's Picks",
-   "status": "open",
-   "requested_at": "2026-10-23T08:50:02+07:00",
-   "added": "2026-10-23T08:50:02+07:00",
-   "note": "UpKeep: Where and how the pilot starts. Launch areas and date are still open."
-  },
-  {
    "id": "crew-capacity-deck-644uhl",
    "name": "Crew Capacity Deck",
    "url": "https://webermanapps.github.io/branding-djqmb410/decks/crew-capacity-deck-644uhl/",
@@ -1776,18 +1768,6 @@
    "requested_at": "2026-10-23T08:50:02+07:00",
    "added": "2026-10-23T08:50:02+07:00",
    "note": "UpKeep: How much one tech takes on. Capacity is still open; picks shape the plan."
-  },
-  {
-   "id": "route-plan-deck-wgpiyg",
-   "name": "Route Plan Deck",
-   "url": "https://webermanapps.github.io/branding-djqmb410/decks/route-plan-deck-wgpiyg/",
-   "total": 10,
-   "answered": 0,
-   "tag": "Max's Picks",
-   "status": "open",
-   "requested_at": "2026-10-23T08:50:02+07:00",
-   "added": "2026-10-23T08:50:02+07:00",
-   "note": "UpKeep: How the day's route is built. Routing is still open; this sets the first approach."
   },
   {
    "id": "visit-window-deck-rwigyz",
@@ -2759,6 +2739,66 @@
    "status": "open",
    "requested_at": "2026-10-17T21:07:54+07:00",
    "made": "2026-10-17"
+  },
+  {
+   "id": "home-desk-deck-cn7pbs",
+   "name": "Home Desk Deck",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/home-desk-deck-cn7pbs/",
+   "total": 10,
+   "answered": 8,
+   "tag": "Max's Picks",
+   "status": "done",
+   "requested_at": "2026-10-23T08:50:03+07:00",
+   "added": "2026-10-23T08:50:03+07:00",
+   "note": "General: Workspace setup.",
+   "done_at": "2026-10-27T14:02:25+07:00",
+   "skipped": [
+    "05",
+    "10"
+   ]
+  },
+  {
+   "id": "visit-report-deck-kj6ef5",
+   "name": "Visit Report Deck",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/visit-report-deck-kj6ef5/",
+   "total": 10,
+   "answered": 10,
+   "tag": "Max's Picks",
+   "status": "done",
+   "requested_at": "2026-10-23T08:50:02+07:00",
+   "added": "2026-10-23T08:50:02+07:00",
+   "note": "UpKeep: How a finished visit report reads for the member.",
+   "done_at": "2026-10-27T14:02:25+07:00"
+  },
+  {
+   "id": "launch-area-deck-3dtx5s",
+   "name": "Launch Area Deck",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/launch-area-deck-3dtx5s/",
+   "total": 10,
+   "answered": 8,
+   "tag": "Max's Picks",
+   "status": "done",
+   "requested_at": "2026-10-23T08:50:02+07:00",
+   "added": "2026-10-23T08:50:02+07:00",
+   "note": "UpKeep: Where and how the pilot starts. Launch areas and date are still open.",
+   "done_at": "2026-10-27T14:02:25+07:00",
+   "skipped": [
+    "02",
+    "09"
+   ]
+  },
+  {
+   "id": "route-plan-deck-wgpiyg",
+   "name": "Route Plan Deck",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/route-plan-deck-wgpiyg/",
+   "total": 10,
+   "answered": 10,
+   "tag": "Max's Picks",
+   "status": "done",
+   "requested_at": "2026-10-23T08:50:02+07:00",
+   "added": "2026-10-23T08:50:02+07:00",
+   "note": "UpKeep: How the day's route is built. Routing is still open; this sets the first approach.",
+   "done_at": "2026-10-27T14:02:25+07:00"
   },
   {
    "id": "scene-6-sound-camera-and-motion-deck",
