@@ -372,7 +372,7 @@
    "done_at": "2026-10-28T14:35:24+07:00"
   }
  ],
- "updated": "2026-10-28T21:39:31+07:00",
+ "updated": "2026-10-28T22:15:29+07:00",
  "done": [
   {
    "id": "command-center-tools-equipment-tile-deck-9ilqo3",
@@ -1834,6 +1834,83 @@
    "name": "Account Menu",
    "total": 6,
    "answered": 5
+  },
+  {
+   "id": "command-center-shell-alternatives-deck-r8tml5",
+   "at": "2026-10-28T21:52:23+07:00",
+   "name": "Command Center Shell Alternatives",
+   "answered": 10,
+   "total": 10
+  },
+  {
+   "id": "command-center-function-improvements-deck-z7cble",
+   "at": "2026-10-28T22:09:57+07:00",
+   "name": "Command Center Function Improvements",
+   "answered": 4,
+   "total": 8
+  },
+  {
+   "id": "command-center-visual-polish-deck-9z4q38",
+   "at": "2026-10-28T21:54:56+07:00",
+   "name": "Command Center Visual Polish",
+   "answered": 7,
+   "total": 7
+  },
+  {
+   "id": "tech-function-improvements-deck-0805ki",
+   "at": "2026-10-28T22:06:40+07:00",
+   "name": "Tech Function Improvements",
+   "answered": 7,
+   "total": 8
+  },
+  {
+   "id": "tech-visual-polish-deck-uey0a6",
+   "at": "2026-10-28T22:03:58+07:00",
+   "name": "Tech Visual Polish",
+   "answered": 8,
+   "total": 8
+  },
+  {
+   "id": "member-function-improvements-deck-j8qi2x",
+   "at": "2026-10-28T21:58:58+07:00",
+   "name": "Member Function Improvements",
+   "answered": 8,
+   "total": 9
+  },
+  {
+   "id": "member-visual-polish-deck-r1w5ec",
+   "at": "2026-10-28T22:02:19+07:00",
+   "name": "Member Visual Polish",
+   "answered": 8,
+   "total": 8
+  },
+  {
+   "id": "command-center-members-tile-deck-v7bucs",
+   "at": "2026-10-28T21:06:56+07:00",
+   "name": "Command Center Members Tile",
+   "answered": 7,
+   "total": 7
+  },
+  {
+   "id": "command-center-technicians-tile-deck-u3tf3p",
+   "at": "2026-10-28T21:08:46+07:00",
+   "name": "Command Center Technicians Tile",
+   "answered": 4,
+   "total": 6
+  },
+  {
+   "id": "command-center-scheduling-tile-deck-hqq4gd",
+   "at": "2026-10-28T21:10:30+07:00",
+   "name": "Command Center Scheduling Tile",
+   "answered": 4,
+   "total": 6
+  },
+  {
+   "id": "command-center-ping-log-tile-deck-l8sm55",
+   "at": "2026-10-28T21:14:14+07:00",
+   "name": "Command Center Ping Log Tile",
+   "answered": 7,
+   "total": 8
   }
  ],
  "pinned": [
@@ -1864,12 +1941,13 @@
    "name": "Command Center Shell Alternatives",
    "url": "https://webermanapps.github.io/branding-djqmb410/decks/command-center-shell-alternatives-deck-r8tml5/",
    "total": 10,
-   "answered": 0,
+   "answered": 10,
    "tag": "Max's Picks",
-   "status": "open",
+   "status": "done",
    "requested_at": "2026-10-28T21:30:00+07:00",
    "added": "2026-10-28T21:39:31+07:00",
-   "note": "Machan via UpKeep Develop Oct 28 ~9:30 PM ICT — post-publish improvement decks after uk11h publish done. CC appearance is the STAR: richer Shell Alternatives + Light Dashboard decks ADD beside open Color Tone 7bj9b4 + Appearance b54c65 (not wiped). Light/warm/parchment/slate/all-cream contenders vs current dark. Member+Tech function/visual still ship. Do NOT clear Marketing 18vb3b or Tools 9o9eqp."
+   "note": "Machan via UpKeep Develop Oct 28 ~9:30 PM ICT — post-publish improvement decks after uk11h publish done. CC appearance is the STAR: richer Shell Alternatives + Light Dashboard decks ADD beside open Color Tone 7bj9b4 + Appearance b54c65 (not wiped). Light/warm/parchment/slate/all-cream contenders vs current dark. Member+Tech function/visual still ship. Do NOT clear Marketing 18vb3b or Tools 9o9eqp.",
+   "done_at": "2026-10-28T21:52:23+07:00"
   },
   {
    "id": "command-center-light-dashboard-deck-bozbb8",
@@ -1888,72 +1966,78 @@
    "name": "Command Center Function Improvements",
    "url": "https://webermanapps.github.io/branding-djqmb410/decks/command-center-function-improvements-deck-z7cble/",
    "total": 8,
-   "answered": 0,
+   "answered": 4,
    "tag": "Max's Picks",
-   "status": "open",
+   "status": "done",
    "requested_at": "2026-10-28T21:30:00+07:00",
    "added": "2026-10-28T21:39:31+07:00",
-   "note": "Machan via UpKeep Develop Oct 28 ~9:30 PM ICT — post-publish improvement decks after uk11h publish done. CC appearance is the STAR: richer Shell Alternatives + Light Dashboard decks ADD beside open Color Tone 7bj9b4 + Appearance b54c65 (not wiped). Light/warm/parchment/slate/all-cream contenders vs current dark. Member+Tech function/visual still ship. Do NOT clear Marketing 18vb3b or Tools 9o9eqp."
+   "note": "Machan via UpKeep Develop Oct 28 ~9:30 PM ICT — post-publish improvement decks after uk11h publish done. CC appearance is the STAR: richer Shell Alternatives + Light Dashboard decks ADD beside open Color Tone 7bj9b4 + Appearance b54c65 (not wiped). Light/warm/parchment/slate/all-cream contenders vs current dark. Member+Tech function/visual still ship. Do NOT clear Marketing 18vb3b or Tools 9o9eqp.",
+   "done_at": "2026-10-28T22:09:57+07:00"
   },
   {
    "id": "command-center-visual-polish-deck-9z4q38",
    "name": "Command Center Visual Polish",
    "url": "https://webermanapps.github.io/branding-djqmb410/decks/command-center-visual-polish-deck-9z4q38/",
    "total": 7,
-   "answered": 0,
+   "answered": 7,
    "tag": "Max's Picks",
-   "status": "open",
+   "status": "done",
    "requested_at": "2026-10-28T21:30:00+07:00",
    "added": "2026-10-28T21:39:30+07:00",
-   "note": "Machan via UpKeep Develop Oct 28 ~9:30 PM ICT — post-publish improvement decks after uk11h publish done. CC appearance is the STAR: richer Shell Alternatives + Light Dashboard decks ADD beside open Color Tone 7bj9b4 + Appearance b54c65 (not wiped). Light/warm/parchment/slate/all-cream contenders vs current dark. Member+Tech function/visual still ship. Do NOT clear Marketing 18vb3b or Tools 9o9eqp."
+   "note": "Machan via UpKeep Develop Oct 28 ~9:30 PM ICT — post-publish improvement decks after uk11h publish done. CC appearance is the STAR: richer Shell Alternatives + Light Dashboard decks ADD beside open Color Tone 7bj9b4 + Appearance b54c65 (not wiped). Light/warm/parchment/slate/all-cream contenders vs current dark. Member+Tech function/visual still ship. Do NOT clear Marketing 18vb3b or Tools 9o9eqp.",
+   "done_at": "2026-10-28T21:54:56+07:00"
   },
   {
    "id": "tech-function-improvements-deck-0805ki",
    "name": "Tech Function Improvements",
    "url": "https://webermanapps.github.io/branding-djqmb410/decks/tech-function-improvements-deck-0805ki/",
    "total": 8,
-   "answered": 0,
+   "answered": 7,
    "tag": "Max's Picks",
-   "status": "open",
+   "status": "done",
    "requested_at": "2026-10-28T21:30:00+07:00",
    "added": "2026-10-28T21:39:30+07:00",
-   "note": "Machan via UpKeep Develop Oct 28 ~9:30 PM ICT — post-publish improvement decks after uk11h publish done. CC appearance is the STAR: richer Shell Alternatives + Light Dashboard decks ADD beside open Color Tone 7bj9b4 + Appearance b54c65 (not wiped). Light/warm/parchment/slate/all-cream contenders vs current dark. Member+Tech function/visual still ship. Do NOT clear Marketing 18vb3b or Tools 9o9eqp."
+   "note": "Machan via UpKeep Develop Oct 28 ~9:30 PM ICT — post-publish improvement decks after uk11h publish done. CC appearance is the STAR: richer Shell Alternatives + Light Dashboard decks ADD beside open Color Tone 7bj9b4 + Appearance b54c65 (not wiped). Light/warm/parchment/slate/all-cream contenders vs current dark. Member+Tech function/visual still ship. Do NOT clear Marketing 18vb3b or Tools 9o9eqp.",
+   "done_at": "2026-10-28T22:06:40+07:00"
   },
   {
    "id": "tech-visual-polish-deck-uey0a6",
    "name": "Tech Visual Polish",
    "url": "https://webermanapps.github.io/branding-djqmb410/decks/tech-visual-polish-deck-uey0a6/",
    "total": 8,
-   "answered": 0,
+   "answered": 8,
    "tag": "Max's Picks",
-   "status": "open",
+   "status": "done",
    "requested_at": "2026-10-28T21:30:00+07:00",
    "added": "2026-10-28T21:39:30+07:00",
-   "note": "Machan via UpKeep Develop Oct 28 ~9:30 PM ICT — post-publish improvement decks after uk11h publish done. CC appearance is the STAR: richer Shell Alternatives + Light Dashboard decks ADD beside open Color Tone 7bj9b4 + Appearance b54c65 (not wiped). Light/warm/parchment/slate/all-cream contenders vs current dark. Member+Tech function/visual still ship. Do NOT clear Marketing 18vb3b or Tools 9o9eqp."
+   "note": "Machan via UpKeep Develop Oct 28 ~9:30 PM ICT — post-publish improvement decks after uk11h publish done. CC appearance is the STAR: richer Shell Alternatives + Light Dashboard decks ADD beside open Color Tone 7bj9b4 + Appearance b54c65 (not wiped). Light/warm/parchment/slate/all-cream contenders vs current dark. Member+Tech function/visual still ship. Do NOT clear Marketing 18vb3b or Tools 9o9eqp.",
+   "done_at": "2026-10-28T22:03:58+07:00"
   },
   {
    "id": "member-function-improvements-deck-j8qi2x",
    "name": "Member Function Improvements",
    "url": "https://webermanapps.github.io/branding-djqmb410/decks/member-function-improvements-deck-j8qi2x/",
    "total": 9,
-   "answered": 0,
+   "answered": 8,
    "tag": "Max's Picks",
-   "status": "open",
+   "status": "done",
    "requested_at": "2026-10-28T21:30:00+07:00",
    "added": "2026-10-28T21:39:30+07:00",
-   "note": "Machan via UpKeep Develop Oct 28 ~9:30 PM ICT — post-publish improvement decks after uk11h publish done. CC appearance is the STAR: richer Shell Alternatives + Light Dashboard decks ADD beside open Color Tone 7bj9b4 + Appearance b54c65 (not wiped). Light/warm/parchment/slate/all-cream contenders vs current dark. Member+Tech function/visual still ship. Do NOT clear Marketing 18vb3b or Tools 9o9eqp."
+   "note": "Machan via UpKeep Develop Oct 28 ~9:30 PM ICT — post-publish improvement decks after uk11h publish done. CC appearance is the STAR: richer Shell Alternatives + Light Dashboard decks ADD beside open Color Tone 7bj9b4 + Appearance b54c65 (not wiped). Light/warm/parchment/slate/all-cream contenders vs current dark. Member+Tech function/visual still ship. Do NOT clear Marketing 18vb3b or Tools 9o9eqp.",
+   "done_at": "2026-10-28T21:58:58+07:00"
   },
   {
    "id": "member-visual-polish-deck-r1w5ec",
    "name": "Member Visual Polish",
    "url": "https://webermanapps.github.io/branding-djqmb410/decks/member-visual-polish-deck-r1w5ec/",
    "total": 8,
-   "answered": 0,
+   "answered": 8,
    "tag": "Max's Picks",
-   "status": "open",
+   "status": "done",
    "requested_at": "2026-10-28T21:30:00+07:00",
    "added": "2026-10-28T21:39:30+07:00",
-   "note": "Machan via UpKeep Develop Oct 28 ~9:30 PM ICT — post-publish improvement decks after uk11h publish done. CC appearance is the STAR: richer Shell Alternatives + Light Dashboard decks ADD beside open Color Tone 7bj9b4 + Appearance b54c65 (not wiped). Light/warm/parchment/slate/all-cream contenders vs current dark. Member+Tech function/visual still ship. Do NOT clear Marketing 18vb3b or Tools 9o9eqp."
+   "note": "Machan via UpKeep Develop Oct 28 ~9:30 PM ICT — post-publish improvement decks after uk11h publish done. CC appearance is the STAR: richer Shell Alternatives + Light Dashboard decks ADD beside open Color Tone 7bj9b4 + Appearance b54c65 (not wiped). Light/warm/parchment/slate/all-cream contenders vs current dark. Member+Tech function/visual still ship. Do NOT clear Marketing 18vb3b or Tools 9o9eqp.",
+   "done_at": "2026-10-28T22:02:19+07:00"
   },
   {
    "id": "command-center-tools-van-shop-tile-deck-9o9eqp",
@@ -1972,36 +2056,39 @@
    "name": "Command Center Members Tile",
    "url": "https://webermanapps.github.io/branding-djqmb410/decks/command-center-members-tile-deck-v7bucs/",
    "total": 7,
-   "answered": 0,
+   "answered": 7,
    "tag": "Max's Picks",
-   "status": "open",
+   "status": "done",
    "requested_at": "2026-10-28T20:30:00+07:00",
    "added": "2026-10-28T20:43:42+07:00",
-   "note": "Machan via UpKeep Develop Oct 28 evening ICT — Command Center section TILE CONTENT / info hierarchy (Members, Technicians, Scheduling, Tools & Equipment, Marketing, Ping Log). Glance-only; Ping Log expandable; Marketing summary-only (dashboard later). Separate from Color Tone + Appearance. Fixed dark shell + cream tiles."
+   "note": "Machan via UpKeep Develop Oct 28 evening ICT — Command Center section TILE CONTENT / info hierarchy (Members, Technicians, Scheduling, Tools & Equipment, Marketing, Ping Log). Glance-only; Ping Log expandable; Marketing summary-only (dashboard later). Separate from Color Tone + Appearance. Fixed dark shell + cream tiles.",
+   "done_at": "2026-10-28T21:06:56+07:00"
   },
   {
    "id": "command-center-technicians-tile-deck-u3tf3p",
    "name": "Command Center Technicians Tile",
    "url": "https://webermanapps.github.io/branding-djqmb410/decks/command-center-technicians-tile-deck-u3tf3p/",
    "total": 6,
-   "answered": 0,
+   "answered": 4,
    "tag": "Max's Picks",
-   "status": "open",
+   "status": "done",
    "requested_at": "2026-10-28T20:30:00+07:00",
    "added": "2026-10-28T20:43:42+07:00",
-   "note": "Machan via UpKeep Develop Oct 28 evening ICT — Command Center section TILE CONTENT / info hierarchy (Members, Technicians, Scheduling, Tools & Equipment, Marketing, Ping Log). Glance-only; Ping Log expandable; Marketing summary-only (dashboard later). Separate from Color Tone + Appearance. Fixed dark shell + cream tiles."
+   "note": "Machan via UpKeep Develop Oct 28 evening ICT — Command Center section TILE CONTENT / info hierarchy (Members, Technicians, Scheduling, Tools & Equipment, Marketing, Ping Log). Glance-only; Ping Log expandable; Marketing summary-only (dashboard later). Separate from Color Tone + Appearance. Fixed dark shell + cream tiles.",
+   "done_at": "2026-10-28T21:08:46+07:00"
   },
   {
    "id": "command-center-scheduling-tile-deck-hqq4gd",
    "name": "Command Center Scheduling Tile",
    "url": "https://webermanapps.github.io/branding-djqmb410/decks/command-center-scheduling-tile-deck-hqq4gd/",
    "total": 6,
-   "answered": 0,
+   "answered": 4,
    "tag": "Max's Picks",
-   "status": "open",
+   "status": "done",
    "requested_at": "2026-10-28T20:30:00+07:00",
    "added": "2026-10-28T20:43:42+07:00",
-   "note": "Machan via UpKeep Develop Oct 28 evening ICT — Command Center section TILE CONTENT / info hierarchy (Members, Technicians, Scheduling, Tools & Equipment, Marketing, Ping Log). Glance-only; Ping Log expandable; Marketing summary-only (dashboard later). Separate from Color Tone + Appearance. Fixed dark shell + cream tiles."
+   "note": "Machan via UpKeep Develop Oct 28 evening ICT — Command Center section TILE CONTENT / info hierarchy (Members, Technicians, Scheduling, Tools & Equipment, Marketing, Ping Log). Glance-only; Ping Log expandable; Marketing summary-only (dashboard later). Separate from Color Tone + Appearance. Fixed dark shell + cream tiles.",
+   "done_at": "2026-10-28T21:10:30+07:00"
   },
   {
    "id": "command-center-marketing-tile-deck-18vb3b",
@@ -2020,12 +2107,13 @@
    "name": "Command Center Ping Log Tile",
    "url": "https://webermanapps.github.io/branding-djqmb410/decks/command-center-ping-log-tile-deck-l8sm55/",
    "total": 8,
-   "answered": 0,
+   "answered": 7,
    "tag": "Max's Picks",
-   "status": "open",
+   "status": "done",
    "requested_at": "2026-10-28T20:30:00+07:00",
    "added": "2026-10-28T20:43:42+07:00",
-   "note": "Machan via UpKeep Develop Oct 28 evening ICT — Command Center section TILE CONTENT / info hierarchy (Members, Technicians, Scheduling, Tools & Equipment, Marketing, Ping Log). Glance-only; Ping Log expandable; Marketing summary-only (dashboard later). Separate from Color Tone + Appearance. Fixed dark shell + cream tiles."
+   "note": "Machan via UpKeep Develop Oct 28 evening ICT — Command Center section TILE CONTENT / info hierarchy (Members, Technicians, Scheduling, Tools & Equipment, Marketing, Ping Log). Glance-only; Ping Log expandable; Marketing summary-only (dashboard later). Separate from Color Tone + Appearance. Fixed dark shell + cream tiles.",
+   "done_at": "2026-10-28T21:14:14+07:00"
   },
   {
    "id": "command-center-color-tone-deck-7bj9b4",
