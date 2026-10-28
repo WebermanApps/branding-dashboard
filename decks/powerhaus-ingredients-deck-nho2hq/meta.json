@@ -1,0 +1,28 @@
+{
+  "category": "product-ingredients",
+  "asset_paths": [
+    "/workspace/powerhaus-ingredients-1028/assets/c10a.jpg",
+    "/workspace/powerhaus-ingredients-1028/assets/c10b.jpg",
+    "/workspace/powerhaus-ingredients-1028/assets/c1a.jpg",
+    "/workspace/powerhaus-ingredients-1028/assets/c1b.jpg",
+    "/workspace/powerhaus-ingredients-1028/assets/c2a.jpg",
+    "/workspace/powerhaus-ingredients-1028/assets/c2b.jpg",
+    "/workspace/powerhaus-ingredients-1028/assets/c3a.jpg",
+    "/workspace/powerhaus-ingredients-1028/assets/c3b.jpg",
+    "/workspace/powerhaus-ingredients-1028/assets/c4a.jpg",
+    "/workspace/powerhaus-ingredients-1028/assets/c4b.jpg",
+    "/workspace/powerhaus-ingredients-1028/assets/c5a.jpg",
+    "/workspace/powerhaus-ingredients-1028/assets/c5b.jpg",
+    "/workspace/powerhaus-ingredients-1028/assets/c6a.jpg",
+    "/workspace/powerhaus-ingredients-1028/assets/c6b.jpg",
+    "/workspace/powerhaus-ingredients-1028/assets/c7a.jpg",
+    "/workspace/powerhaus-ingredients-1028/assets/c7b.jpg",
+    "/workspace/powerhaus-ingredients-1028/assets/c8a.jpg",
+    "/workspace/powerhaus-ingredients-1028/assets/c8b.jpg",
+    "/workspace/powerhaus-ingredients-1028/assets/c9a.jpg",
+    "/workspace/powerhaus-ingredients-1028/assets/c9b.jpg"
+  ],
+  "ui_screenshots": false,
+  "bleed_mode": "flush-cream",
+  "title": "PowerHaus Ingredients"
+}

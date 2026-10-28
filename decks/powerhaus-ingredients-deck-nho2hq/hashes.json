@@ -1,0 +1,102 @@
+{
+  "c1": {
+    "A": {
+      "label": "Fresh grassy green",
+      "sha12": "e17e581b1237"
+    },
+    "B": {
+      "label": "Roasted oolong",
+      "sha12": "cc1071aa695e"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Silver-tips white",
+      "sha12": "a4f931a9ed67"
+    },
+    "B": {
+      "label": "Light sencha green",
+      "sha12": "9973441a4093"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "Light caffeine green",
+      "sha12": "a92818465978"
+    },
+    "B": {
+      "label": "Nearly caffeine-free white",
+      "sha12": "ef254f9d3ec6"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "Ginger + lemongrass",
+      "sha12": "47285a1f94e7"
+    },
+    "B": {
+      "label": "Ginger + holy basil",
+      "sha12": "0cc7943acd87"
+    }
+  },
+  "c5": {
+    "A": {
+      "label": "Kaffir lime leaf + mint",
+      "sha12": "5de0378b4cfa"
+    },
+    "B": {
+      "label": "Lemongrass + mint",
+      "sha12": "74a05d7fe7e8"
+    }
+  },
+  "c6": {
+    "A": {
+      "label": "Chrysanthemum + jasmine",
+      "sha12": "b1eaa147f1ae"
+    },
+    "B": {
+      "label": "Holy basil + chrysanthemum",
+      "sha12": "fbbe061b736e"
+    }
+  },
+  "c7": {
+    "A": {
+      "label": "After-class reset",
+      "sha12": "0872cdcc9b3d"
+    },
+    "B": {
+      "label": "Balanced all-day",
+      "sha12": "09918d8fe332"
+    }
+  },
+  "c8": {
+    "A": {
+      "label": "Reform lean",
+      "sha12": "6f9e900962c7"
+    },
+    "B": {
+      "label": "Core Reset lean",
+      "sha12": "fe7ac8583fe2"
+    }
+  },
+  "c9": {
+    "A": {
+      "label": "Lengthen lean",
+      "sha12": "260f471c9914"
+    },
+    "B": {
+      "label": "Fresh Balanced",
+      "sha12": "411762e9c977"
+    }
+  },
+  "c10": {
+    "A": {
+      "label": "Base tea first, then herbs",
+      "sha12": "dc1551f1dc60"
+    },
+    "B": {
+      "label": "Feel first, then name",
+      "sha12": "17e524604799"
+    }
+  }
+}
