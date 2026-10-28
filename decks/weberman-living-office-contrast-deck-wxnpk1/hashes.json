@@ -1,0 +1,102 @@
+{
+  "c1": {
+    "A": {
+      "label": "Warmer wood-forward",
+      "sha12": "0357071d6208"
+    },
+    "B": {
+      "label": "Cooler plaster · soft textiles",
+      "sha12": "1956a8bba1eb"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Warm oak beam canopy",
+      "sha12": "2452f8909a92"
+    },
+    "B": {
+      "label": "Quieter timber canopy",
+      "sha12": "b896d064f92b"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "Warm oatmeal sofa",
+      "sha12": "4b43765500d6"
+    },
+    "B": {
+      "label": "Softer cooler textiles",
+      "sha12": "f8bb7d4f4808"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "Warm plaster fireplace",
+      "sha12": "99362bf9eb82"
+    },
+    "B": {
+      "label": "Cooler plaster fireplace",
+      "sha12": "a02360c2d322"
+    }
+  },
+  "c5": {
+    "A": {
+      "label": "Warm herringbone oak",
+      "sha12": "816b61175add"
+    },
+    "B": {
+      "label": "Quieter floor + textiles",
+      "sha12": "990664502256"
+    }
+  },
+  "c6": {
+    "A": {
+      "label": "Honey oak · brighter",
+      "sha12": "ce7f3eb77648"
+    },
+    "B": {
+      "label": "Darker walnut · quieter",
+      "sha12": "335ba28cf28a"
+    }
+  },
+  "c7": {
+    "A": {
+      "label": "Bright honey desk",
+      "sha12": "1cfdd8bfe87e"
+    },
+    "B": {
+      "label": "Quieter walnut desk",
+      "sha12": "8eb099aa2d2e"
+    }
+  },
+  "c8": {
+    "A": {
+      "label": "Bright music wall",
+      "sha12": "e9fc175ee454"
+    },
+    "B": {
+      "label": "Quieter music wall",
+      "sha12": "4e7d0cdc46e5"
+    }
+  },
+  "c9": {
+    "A": {
+      "label": "Bright clouds + skylight",
+      "sha12": "1a2f84996326"
+    },
+    "B": {
+      "label": "Quieter clouds + light",
+      "sha12": "90f410deb72d"
+    }
+  },
+  "c10": {
+    "A": {
+      "label": "Warm bright wings",
+      "sha12": "0fc36d4bb3c0"
+    },
+    "B": {
+      "label": "Cooler quieter wings",
+      "sha12": "323a6b787979"
+    }
+  }
+}

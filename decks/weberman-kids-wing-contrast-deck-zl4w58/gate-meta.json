@@ -1,0 +1,28 @@
+{
+  "category": "residence-finishes",
+  "asset_paths": [
+    "/workspace/wing-ab-1028/assets/b1a.jpg",
+    "/workspace/wing-ab-1028/assets/b1b.jpg",
+    "/workspace/wing-ab-1028/assets/b2a.jpg",
+    "/workspace/wing-ab-1028/assets/b2b.jpg",
+    "/workspace/wing-ab-1028/assets/e1a.jpg",
+    "/workspace/wing-ab-1028/assets/e1b.jpg",
+    "/workspace/wing-ab-1028/assets/e2a.jpg",
+    "/workspace/wing-ab-1028/assets/e2b.jpg",
+    "/workspace/wing-ab-1028/assets/r10a.jpg",
+    "/workspace/wing-ab-1028/assets/r10b.jpg",
+    "/workspace/wing-ab-1028/assets/r1a.jpg",
+    "/workspace/wing-ab-1028/assets/r1b.jpg",
+    "/workspace/wing-ab-1028/assets/r2a.jpg",
+    "/workspace/wing-ab-1028/assets/r2b.jpg",
+    "/workspace/wing-ab-1028/assets/r3a.jpg",
+    "/workspace/wing-ab-1028/assets/r3b.jpg",
+    "/workspace/wing-ab-1028/assets/r4a.jpg",
+    "/workspace/wing-ab-1028/assets/r4b.jpg",
+    "/workspace/wing-ab-1028/assets/r5a.jpg",
+    "/workspace/wing-ab-1028/assets/r5b.jpg"
+  ],
+  "ui_screenshots": false,
+  "bleed_mode": "flush-cream",
+  "title": "Weberman Kids Wing Contrast"
+}

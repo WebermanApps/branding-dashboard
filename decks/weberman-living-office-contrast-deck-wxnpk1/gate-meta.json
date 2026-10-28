@@ -1,0 +1,28 @@
+{
+  "category": "residence-finishes",
+  "asset_paths": [
+    "/workspace/wing-ab-1028/assets/l1a.jpg",
+    "/workspace/wing-ab-1028/assets/l1b.jpg",
+    "/workspace/wing-ab-1028/assets/l2a.jpg",
+    "/workspace/wing-ab-1028/assets/l2b.jpg",
+    "/workspace/wing-ab-1028/assets/l3a.jpg",
+    "/workspace/wing-ab-1028/assets/l3b.jpg",
+    "/workspace/wing-ab-1028/assets/l4a.jpg",
+    "/workspace/wing-ab-1028/assets/l4b.jpg",
+    "/workspace/wing-ab-1028/assets/l5a.jpg",
+    "/workspace/wing-ab-1028/assets/l5b.jpg",
+    "/workspace/wing-ab-1028/assets/lo10a.jpg",
+    "/workspace/wing-ab-1028/assets/lo10b.jpg",
+    "/workspace/wing-ab-1028/assets/o1a.jpg",
+    "/workspace/wing-ab-1028/assets/o1b.jpg",
+    "/workspace/wing-ab-1028/assets/o2a.jpg",
+    "/workspace/wing-ab-1028/assets/o2b.jpg",
+    "/workspace/wing-ab-1028/assets/o3a.jpg",
+    "/workspace/wing-ab-1028/assets/o3b.jpg",
+    "/workspace/wing-ab-1028/assets/o4a.jpg",
+    "/workspace/wing-ab-1028/assets/o4b.jpg"
+  ],
+  "ui_screenshots": false,
+  "bleed_mode": "flush-cream",
+  "title": "Weberman Living Office Contrast"
+}

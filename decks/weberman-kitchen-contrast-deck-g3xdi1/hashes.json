@@ -1,0 +1,102 @@
+{
+  "c1": {
+    "A": {
+      "label": "Warm honey oak · all-neutral",
+      "sha12": "641b35220813"
+    },
+    "B": {
+      "label": "Cooler plaster · lagoon stools",
+      "sha12": "1dac63d4f07a"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Sculpted honey oak stools",
+      "sha12": "6c28454aeff1"
+    },
+    "B": {
+      "label": "Oak legs · lagoon seat",
+      "sha12": "799c84bf3a21"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "Warm cream plaster",
+      "sha12": "4ff0f7be7ef8"
+    },
+    "B": {
+      "label": "Cooler off-white plaster",
+      "sha12": "d161ab8fe2ae"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "Honey oak range wall",
+      "sha12": "05a71dc52426"
+    },
+    "B": {
+      "label": "Oak against cool plaster",
+      "sha12": "ed233413f236"
+    }
+  },
+  "c5": {
+    "A": {
+      "label": "Paper orbs · warm wash",
+      "sha12": "300bacd82e41"
+    },
+    "B": {
+      "label": "Paper orbs · cooler air",
+      "sha12": "d8b451616682"
+    }
+  },
+  "c6": {
+    "A": {
+      "label": "Warm-neutral island",
+      "sha12": "e9430f3d3687"
+    },
+    "B": {
+      "label": "Island + lagoon accent",
+      "sha12": "01b991d76929"
+    }
+  },
+  "c7": {
+    "A": {
+      "label": "Warm sink wall",
+      "sha12": "a4df4c690cbf"
+    },
+    "B": {
+      "label": "Cooler sink wall",
+      "sha12": "8fa1a29a0900"
+    }
+  },
+  "c8": {
+    "A": {
+      "label": "Warm range niche",
+      "sha12": "d4eec8363b8f"
+    },
+    "B": {
+      "label": "Cooler range niche",
+      "sha12": "88dbe360aed2"
+    }
+  },
+  "c9": {
+    "A": {
+      "label": "Warm dining continuity",
+      "sha12": "3acef8ffbd57"
+    },
+    "B": {
+      "label": "Cooler dining continuity",
+      "sha12": "8c92ee0812f5"
+    }
+  },
+  "c10": {
+    "A": {
+      "label": "All-neutral · no accent",
+      "sha12": "8ca2da28a7cd"
+    },
+    "B": {
+      "label": "One lagoon accent",
+      "sha12": "16c2ad9e1ae5"
+    }
+  }
+}

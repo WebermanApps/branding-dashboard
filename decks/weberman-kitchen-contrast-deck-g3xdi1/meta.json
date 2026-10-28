@@ -1,0 +1,28 @@
+{
+  "category": "residence-finishes",
+  "asset_paths": [
+    "/workspace/wing-ab-1028/assets/k10a.jpg",
+    "/workspace/wing-ab-1028/assets/k10b.jpg",
+    "/workspace/wing-ab-1028/assets/k1a.jpg",
+    "/workspace/wing-ab-1028/assets/k1b.jpg",
+    "/workspace/wing-ab-1028/assets/k2a.jpg",
+    "/workspace/wing-ab-1028/assets/k2b.jpg",
+    "/workspace/wing-ab-1028/assets/k3a.jpg",
+    "/workspace/wing-ab-1028/assets/k3b.jpg",
+    "/workspace/wing-ab-1028/assets/k4a.jpg",
+    "/workspace/wing-ab-1028/assets/k4b.jpg",
+    "/workspace/wing-ab-1028/assets/k5a.jpg",
+    "/workspace/wing-ab-1028/assets/k5b.jpg",
+    "/workspace/wing-ab-1028/assets/k6a.jpg",
+    "/workspace/wing-ab-1028/assets/k6b.jpg",
+    "/workspace/wing-ab-1028/assets/k7a.jpg",
+    "/workspace/wing-ab-1028/assets/k7b.jpg",
+    "/workspace/wing-ab-1028/assets/k8a.jpg",
+    "/workspace/wing-ab-1028/assets/k8b.jpg",
+    "/workspace/wing-ab-1028/assets/k9a.jpg",
+    "/workspace/wing-ab-1028/assets/k9b.jpg"
+  ],
+  "ui_screenshots": false,
+  "bleed_mode": "flush-cream",
+  "title": "Weberman Kitchen Contrast"
+}

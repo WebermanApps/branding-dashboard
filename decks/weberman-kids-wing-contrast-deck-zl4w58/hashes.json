@@ -1,0 +1,102 @@
+{
+  "c1": {
+    "A": {
+      "label": "Warm oak loft · all-neutral",
+      "sha12": "6ed782fb6f66"
+    },
+    "B": {
+      "label": "Cooler plaster · quiet tint",
+      "sha12": "49abca68e347"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Oak loft rail",
+      "sha12": "4cb590b42103"
+    },
+    "B": {
+      "label": "Terracotta loft rail",
+      "sha12": "d1abe1ca8c8f"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "Warm oak play bench",
+      "sha12": "81add2ec975f"
+    },
+    "B": {
+      "label": "Tinted play bench",
+      "sha12": "5f477fe7ad93"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "Warm desk niche",
+      "sha12": "ba91b04af7e2"
+    },
+    "B": {
+      "label": "Cooler desk niche",
+      "sha12": "141227cc44ce"
+    }
+  },
+  "c5": {
+    "A": {
+      "label": "Warm sleep platform",
+      "sha12": "f6fde7b37cb9"
+    },
+    "B": {
+      "label": "Cooler sleep platform",
+      "sha12": "303cc2b8ee0a"
+    }
+  },
+  "c6": {
+    "A": {
+      "label": "Warm oak vanity",
+      "sha12": "8280802982b0"
+    },
+    "B": {
+      "label": "Cooler bath plaster",
+      "sha12": "4ba1e3783b11"
+    }
+  },
+  "c7": {
+    "A": {
+      "label": "Warm shower niche",
+      "sha12": "075dd683d1a3"
+    },
+    "B": {
+      "label": "Cooler shower niche",
+      "sha12": "3bea9d206fb6"
+    }
+  },
+  "c8": {
+    "A": {
+      "label": "Oak-lined cubbies",
+      "sha12": "006dfb43984c"
+    },
+    "B": {
+      "label": "Painted cubbies",
+      "sha12": "ee6f89076e6b"
+    }
+  },
+  "c9": {
+    "A": {
+      "label": "Warm window seat",
+      "sha12": "e68cc09e4090"
+    },
+    "B": {
+      "label": "Cooler window seat",
+      "sha12": "21da41ae0e01"
+    }
+  },
+  "c10": {
+    "A": {
+      "label": "Warm oak everywhere",
+      "sha12": "8bdbe07f59bb"
+    },
+    "B": {
+      "label": "Cooler + quiet tint",
+      "sha12": "5e0b2594b673"
+    }
+  }
+}
