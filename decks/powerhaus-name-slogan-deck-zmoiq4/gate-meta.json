@@ -1,0 +1,28 @@
+{
+  "category": "product-packaging",
+  "asset_paths": [
+    "/workspace/wellnest-pack-seals-1028/assets/ph-name/c10a.jpg",
+    "/workspace/wellnest-pack-seals-1028/assets/ph-name/c10b.jpg",
+    "/workspace/wellnest-pack-seals-1028/assets/ph-name/c1a.jpg",
+    "/workspace/wellnest-pack-seals-1028/assets/ph-name/c1b.jpg",
+    "/workspace/wellnest-pack-seals-1028/assets/ph-name/c2a.jpg",
+    "/workspace/wellnest-pack-seals-1028/assets/ph-name/c2b.jpg",
+    "/workspace/wellnest-pack-seals-1028/assets/ph-name/c3a.jpg",
+    "/workspace/wellnest-pack-seals-1028/assets/ph-name/c3b.jpg",
+    "/workspace/wellnest-pack-seals-1028/assets/ph-name/c4a.jpg",
+    "/workspace/wellnest-pack-seals-1028/assets/ph-name/c4b.jpg",
+    "/workspace/wellnest-pack-seals-1028/assets/ph-name/c5a.jpg",
+    "/workspace/wellnest-pack-seals-1028/assets/ph-name/c5b.jpg",
+    "/workspace/wellnest-pack-seals-1028/assets/ph-name/c6a.jpg",
+    "/workspace/wellnest-pack-seals-1028/assets/ph-name/c6b.jpg",
+    "/workspace/wellnest-pack-seals-1028/assets/ph-name/c7a.jpg",
+    "/workspace/wellnest-pack-seals-1028/assets/ph-name/c7b.jpg",
+    "/workspace/wellnest-pack-seals-1028/assets/ph-name/c8a.jpg",
+    "/workspace/wellnest-pack-seals-1028/assets/ph-name/c8b.jpg",
+    "/workspace/wellnest-pack-seals-1028/assets/ph-name/c9a.jpg",
+    "/workspace/wellnest-pack-seals-1028/assets/ph-name/c9b.jpg"
+  ],
+  "ui_screenshots": false,
+  "bleed_mode": "flush-cream",
+  "title": "PowerHaus Name & Slogan"
+}

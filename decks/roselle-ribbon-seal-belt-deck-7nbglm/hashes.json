@@ -1,0 +1,102 @@
+{
+  "c1": {
+    "A": {
+      "label": "Flat kraft belt",
+      "sha12": "08e35be8e311"
+    },
+    "B": {
+      "label": "Rose ribbon + bow",
+      "sha12": "93ef5eb62d9e"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Kraft + gold foil seal",
+      "sha12": "c8b71fd806e3"
+    },
+    "B": {
+      "label": "Thin gold foil belt",
+      "sha12": "9d94d0484fbe"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "Twine + kraft tag",
+      "sha12": "65dde29f9580"
+    },
+    "B": {
+      "label": "Fine gold twine",
+      "sha12": "cda3553c3cf1"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "Cream round sticker",
+      "sha12": "9e82205b42fd"
+    },
+    "B": {
+      "label": "Soft rose belt",
+      "sha12": "5bab67457078"
+    }
+  },
+  "c5": {
+    "A": {
+      "label": "Rose double lines",
+      "sha12": "e52e5400c424"
+    },
+    "B": {
+      "label": "Kraft double lines",
+      "sha12": "7f799ec05b35"
+    }
+  },
+  "c6": {
+    "A": {
+      "label": "Wide kraft band",
+      "sha12": "c398b91c74df"
+    },
+    "B": {
+      "label": "Wide rose + bow",
+      "sha12": "66189ab752c1"
+    }
+  },
+  "c7": {
+    "A": {
+      "label": "Gold sticker seal",
+      "sha12": "b7a02ceec10d"
+    },
+    "B": {
+      "label": "Deep rose wax",
+      "sha12": "8d492d7213c0"
+    }
+  },
+  "c8": {
+    "A": {
+      "label": "Soft rose bow",
+      "sha12": "8b83f4f56782"
+    },
+    "B": {
+      "label": "Kraft belt + tag",
+      "sha12": "aa83f3d2b2e9"
+    }
+  },
+  "c9": {
+    "A": {
+      "label": "Wide kraft + foil",
+      "sha12": "03be7677a034"
+    },
+    "B": {
+      "label": "Twine + sticker",
+      "sha12": "23345ea478f2"
+    }
+  },
+  "c10": {
+    "A": {
+      "label": "Quiet kraft belt",
+      "sha12": "c92be57f7090"
+    },
+    "B": {
+      "label": "Rose bow statement",
+      "sha12": "733b5d98e840"
+    }
+  }
+}

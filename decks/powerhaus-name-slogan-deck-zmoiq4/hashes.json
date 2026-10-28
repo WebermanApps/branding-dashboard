@@ -1,0 +1,102 @@
+{
+  "c1": {
+    "A": {
+      "label": "REFORM (draft)",
+      "sha12": "e23664563098"
+    },
+    "B": {
+      "label": "AFTER CLASS",
+      "sha12": "1835dab4f4c7"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Sans, all caps",
+      "sha12": "a2fb748a0b2e"
+    },
+    "B": {
+      "label": "Serif, title case",
+      "sha12": "6e6ef5e6a750"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "REFORM",
+      "sha12": "401d2c844466"
+    },
+    "B": {
+      "label": "HAUS BREW",
+      "sha12": "8beb13fc2290"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "The cup after the class",
+      "sha12": "35d2c64cac9c"
+    },
+    "B": {
+      "label": "Everyday studio pour",
+      "sha12": "86158c9eeff9"
+    }
+  },
+  "c5": {
+    "A": {
+      "label": "Sip when the room settles",
+      "sha12": "8fa64dac7ffc"
+    },
+    "B": {
+      "label": "After the mat, a quiet cup",
+      "sha12": "e1ec17a93b42"
+    }
+  },
+  "c6": {
+    "A": {
+      "label": "STUDIO CUP",
+      "sha12": "f0388c4b207e"
+    },
+    "B": {
+      "label": "CLASS POUR",
+      "sha12": "bc9d58e94365"
+    }
+  },
+  "c7": {
+    "A": {
+      "label": "Split left / right (draft)",
+      "sha12": "dfdfb447daf0"
+    },
+    "B": {
+      "label": "Centered WellNesT × PowerHaus",
+      "sha12": "a4c0d6276065"
+    }
+  },
+  "c8": {
+    "A": {
+      "label": "WellNesT lead",
+      "sha12": "1755814b60cc"
+    },
+    "B": {
+      "label": "PowerHaus lead",
+      "sha12": "73fbd0ea2ef0"
+    }
+  },
+  "c9": {
+    "A": {
+      "label": "STEADY CUP",
+      "sha12": "4c2df51b1bae"
+    },
+    "B": {
+      "label": "SOFT BREW",
+      "sha12": "141fbe49947d"
+    }
+  },
+  "c10": {
+    "A": {
+      "label": "Closest to draft",
+      "sha12": "541b85e31792"
+    },
+    "B": {
+      "label": "Freshest soft pair",
+      "sha12": "dfe5a74ee7ca"
+    }
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "c1": {
+    "A": {
+      "label": "Flat kraft belt",
+      "sha12": "21b4f2db2459"
+    },
+    "B": {
+      "label": "Kraft belt with flat bow",
+      "sha12": "253c73896e6d"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Navy ribbon + wax W",
+      "sha12": "39cde976e8f4"
+    },
+    "B": {
+      "label": "Navy ribbon + gold foil",
+      "sha12": "6f6dd45aa52a"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "Twine + kraft tag",
+      "sha12": "3e0b7ace119d"
+    },
+    "B": {
+      "label": "Twine + round sticker",
+      "sha12": "931b2878c336"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "Gold foil on kraft belt",
+      "sha12": "2d1a11e76fb9"
+    },
+    "B": {
+      "label": "Cream sticker seal",
+      "sha12": "a08f884094be"
+    }
+  },
+  "c5": {
+    "A": {
+      "label": "Solid blue belt",
+      "sha12": "ef89a3396a19"
+    },
+    "B": {
+      "label": "Double thin blue lines",
+      "sha12": "a7ba26431b3e"
+    }
+  },
+  "c6": {
+    "A": {
+      "label": "Wide kraft band",
+      "sha12": "6883e0a63149"
+    },
+    "B": {
+      "label": "Wide kraft + sticker",
+      "sha12": "1baba10f138e"
+    }
+  },
+  "c7": {
+    "A": {
+      "label": "Bare twine only",
+      "sha12": "b764fed6fa73"
+    },
+    "B": {
+      "label": "Thin double kraft",
+      "sha12": "7d473e7f71c4"
+    }
+  },
+  "c8": {
+    "A": {
+      "label": "Deep navy wax",
+      "sha12": "8916fa3e1967"
+    },
+    "B": {
+      "label": "Kraft belt + tag",
+      "sha12": "f4ccaec37dc8"
+    }
+  },
+  "c9": {
+    "A": {
+      "label": "Soft cream bow",
+      "sha12": "d351cc4dc086"
+    },
+    "B": {
+      "label": "Studio blue bow",
+      "sha12": "fb1f4ed2c80a"
+    }
+  },
+  "c10": {
+    "A": {
+      "label": "Quiet kraft belt",
+      "sha12": "2ec85e45c307"
+    },
+    "B": {
+      "label": "Navy seal statement",
+      "sha12": "68ac9cde6eff"
+    }
+  }
+}
