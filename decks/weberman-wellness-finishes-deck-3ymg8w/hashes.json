@@ -1,0 +1,102 @@
+{
+  "c1": {
+    "A": {
+      "label": "Warm oak plank",
+      "sha12": "31cc401a486b"
+    },
+    "B": {
+      "label": "Charcoal rubber tile",
+      "sha12": "075345410a1e"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Clay plaster calm",
+      "sha12": "90811f7b9700"
+    },
+    "B": {
+      "label": "Wood acoustic slats",
+      "sha12": "11c51137928b"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "Warm cove + wall wash",
+      "sha12": "d8c8b4b9237c"
+    },
+    "B": {
+      "label": "Soft pendant pools",
+      "sha12": "1c46550ef5e6"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "Pale hinoki / cedar",
+      "sha12": "5c170c4a0ca4"
+    },
+    "B": {
+      "label": "Smoked dark cedar",
+      "sha12": "c46b9e9521fa"
+    }
+  },
+  "c5": {
+    "A": {
+      "label": "Warm under-bench LED",
+      "sha12": "f626650fc5b4"
+    },
+    "B": {
+      "label": "Soft overhead glow",
+      "sha12": "b6ce0f9f1c4e"
+    }
+  },
+  "c6": {
+    "A": {
+      "label": "Pale limestone tile",
+      "sha12": "79084774c6cc"
+    },
+    "B": {
+      "label": "Sage handmade tile",
+      "sha12": "d1c8dfe82d12"
+    }
+  },
+  "c7": {
+    "A": {
+      "label": "Round stainless tub",
+      "sha12": "3281120281fe"
+    },
+    "B": {
+      "label": "Stone-clad rectangle",
+      "sha12": "1e5f7540f7b7"
+    }
+  },
+  "c8": {
+    "A": {
+      "label": "Warm teak grate",
+      "sha12": "41a7d1f87dd2"
+    },
+    "B": {
+      "label": "Honed stone + drain",
+      "sha12": "0d5a45fb2cc4"
+    }
+  },
+  "c9": {
+    "A": {
+      "label": "Sunk stone soaking tub",
+      "sha12": "c2fd9741c764"
+    },
+    "B": {
+      "label": "Freestanding deep tub",
+      "sha12": "0486770452a8"
+    }
+  },
+  "c10": {
+    "A": {
+      "label": "Brushed warm brass",
+      "sha12": "4c60d5e225a9"
+    },
+    "B": {
+      "label": "Matte black metal",
+      "sha12": "8283001b1966"
+    }
+  }
+}
