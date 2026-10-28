@@ -1,0 +1,62 @@
+{
+  "c1": {
+    "A": {
+      "label": "Primary metric row",
+      "sha12": "0273cd72b227"
+    },
+    "B": {
+      "label": "Narrative requests line",
+      "sha12": "142cdd2b9f1b"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Needs Machan on",
+      "sha12": "274c74e956e5"
+    },
+    "B": {
+      "label": "Clear / no callout",
+      "sha12": "3ffc6cccbc37"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "List of open requests",
+      "sha12": "56f0f35f2f56"
+    },
+    "B": {
+      "label": "Count / status chips only",
+      "sha12": "738f516b79e3"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "Two rows then more",
+      "sha12": "fc07072050b4"
+    },
+    "B": {
+      "label": "Four rows then more",
+      "sha12": "55a9fce7f9d6"
+    }
+  },
+  "c5": {
+    "A": {
+      "label": "Collapsed dense",
+      "sha12": "4c4c414f0526"
+    },
+    "B": {
+      "label": "Roomier glance",
+      "sha12": "f326799e3dcd"
+    }
+  },
+  "c6": {
+    "A": {
+      "label": "Metrics + Needs + list",
+      "sha12": "eea5af0c7abb"
+    },
+    "B": {
+      "label": "Narrative + chips",
+      "sha12": "e352ece698c4"
+    }
+  }
+}

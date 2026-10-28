@@ -1,0 +1,20 @@
+{
+  "category": "cc-tile-content",
+  "asset_paths": [
+    "/workspace/cc-tile-content-1028/mocks/tec_primary_metrics.jpg",
+    "/workspace/cc-tile-content-1028/mocks/tec_primary_narrative.jpg",
+    "/workspace/cc-tile-content-1028/mocks/tec_needs_on.jpg",
+    "/workspace/cc-tile-content-1028/mocks/tec_needs_off.jpg",
+    "/workspace/cc-tile-content-1028/mocks/tec_folds_on.jpg",
+    "/workspace/cc-tile-content-1028/mocks/tec_folds_off.jpg",
+    "/workspace/cc-tile-content-1028/mocks/tec_week_bars.jpg",
+    "/workspace/cc-tile-content-1028/mocks/tec_week_chips.jpg",
+    "/workspace/cc-tile-content-1028/mocks/tec_dense.jpg",
+    "/workspace/cc-tile-content-1028/mocks/tec_roomy.jpg",
+    "/workspace/cc-tile-content-1028/mocks/tec_overall_a.jpg",
+    "/workspace/cc-tile-content-1028/mocks/tec_overall_b.jpg"
+  ],
+  "ui_screenshots": true,
+  "bleed_mode": "edge-safe",
+  "title": "Command Center Technicians Tile"
+}

@@ -1,0 +1,62 @@
+{
+  "c1": {
+    "A": {
+      "label": "Primary metric row",
+      "sha12": "78c423217769"
+    },
+    "B": {
+      "label": "Narrative below-min line",
+      "sha12": "bb1e3eb7df8c"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Full Needs callouts",
+      "sha12": "aa5125ca9d5f"
+    },
+    "B": {
+      "label": "Collapsed “2 need you” chip",
+      "sha12": "f7e165d50a49"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "List of open lines",
+      "sha12": "607523856092"
+    },
+    "B": {
+      "label": "Count / status chips only",
+      "sha12": "c84aafea630b"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "Tabs peek on tile",
+      "sha12": "0c53184fbb59"
+    },
+    "B": {
+      "label": "Stats only — no tabs",
+      "sha12": "9c8fd1dedac9"
+    }
+  },
+  "c5": {
+    "A": {
+      "label": "Collapsed dense",
+      "sha12": "e919c9e0c16d"
+    },
+    "B": {
+      "label": "Roomier glance",
+      "sha12": "c5f69bc4fa7e"
+    }
+  },
+  "c6": {
+    "A": {
+      "label": "Metrics + full Needs + list",
+      "sha12": "7b6fffa442c7"
+    },
+    "B": {
+      "label": "Narrative + chips",
+      "sha12": "d0f535983452"
+    }
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "c1": {
+    "A": {
+      "label": "Collapsed counts strip",
+      "sha12": "8879c6d42858"
+    },
+    "B": {
+      "label": "Always expanded panel",
+      "sha12": "ea4386096151"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Count chips / summary",
+      "sha12": "a66e37b6242f"
+    },
+    "B": {
+      "label": "Latest ping one-liner",
+      "sha12": "8e98469d9788"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "Mini ticker line",
+      "sha12": "05faefc8598d"
+    },
+    "B": {
+      "label": "Counts summary",
+      "sha12": "5a2a69cf5aa0"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "Compact table",
+      "sha12": "20a24987f9ab"
+    },
+    "B": {
+      "label": "Compact list rows",
+      "sha12": "3edfa28e269c"
+    }
+  },
+  "c5": {
+    "A": {
+      "label": "Tabs on (All / teams)",
+      "sha12": "01f8623f077d"
+    },
+    "B": {
+      "label": "Tabs off — All only",
+      "sha12": "4bcef9a92100"
+    }
+  },
+  "c6": {
+    "A": {
+      "label": "Three rows",
+      "sha12": "42c8d263e8b0"
+    },
+    "B": {
+      "label": "Five rows",
+      "sha12": "a8b7bf3be37d"
+    }
+  },
+  "c7": {
+    "A": {
+      "label": "Chevron / Expand ▾",
+      "sha12": "144d84234060"
+    },
+    "B": {
+      "label": "Expand button",
+      "sha12": "778c512e05f5"
+    }
+  },
+  "c8": {
+    "A": {
+      "label": "Collapsed counts → expand",
+      "sha12": "a64130991472"
+    },
+    "B": {
+      "label": "Always-expanded table",
+      "sha12": "4934f685c088"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "category": "cc-tile-content",
+  "ui_screenshots": true,
+  "bleed_mode": "edge-safe",
+  "asset_paths": [
+    "/workspace/cc-tile-content-1028/mocks/png_collapsed_counts.jpg",
+    "/workspace/cc-tile-content-1028/mocks/png_expanded_table.jpg",
+    "/workspace/cc-tile-content-1028/mocks/png_collapsed_counts_pulse.jpg",
+    "/workspace/cc-tile-content-1028/mocks/png_collapsed_latest.jpg",
+    "/workspace/cc-tile-content-1028/mocks/png_collapsed_ticker.jpg",
+    "/workspace/cc-tile-content-1028/mocks/png_collapsed_counts_c.jpg",
+    "/workspace/cc-tile-content-1028/mocks/png_expanded_table_body.jpg",
+    "/workspace/cc-tile-content-1028/mocks/png_expanded_list.jpg",
+    "/workspace/cc-tile-content-1028/mocks/png_tabs_on.jpg",
+    "/workspace/cc-tile-content-1028/mocks/png_tabs_off.jpg",
+    "/workspace/cc-tile-content-1028/mocks/png_rows_3.jpg",
+    "/workspace/cc-tile-content-1028/mocks/png_rows_5.jpg",
+    "/workspace/cc-tile-content-1028/mocks/png_afford_chevron.jpg",
+    "/workspace/cc-tile-content-1028/mocks/png_afford_button.jpg",
+    "/workspace/cc-tile-content-1028/mocks/png_overall_a.jpg",
+    "/workspace/cc-tile-content-1028/mocks/png_overall_b.jpg"
+  ],
+  "agent": "upkeep"
+}

@@ -1,0 +1,22 @@
+{
+  "category": "cc-tile-content",
+  "asset_paths": [
+    "/workspace/cc-tile-content-1028/mocks/mem_primary_metrics.jpg",
+    "/workspace/cc-tile-content-1028/mocks/mem_primary_narrative.jpg",
+    "/workspace/cc-tile-content-1028/mocks/mem_stats_four.jpg",
+    "/workspace/cc-tile-content-1028/mocks/mem_stats_hero2.jpg",
+    "/workspace/cc-tile-content-1028/mocks/mem_needs_on.jpg",
+    "/workspace/cc-tile-content-1028/mocks/mem_needs_off.jpg",
+    "/workspace/cc-tile-content-1028/mocks/mem_list_rows.jpg",
+    "/workspace/cc-tile-content-1028/mocks/mem_list_chips.jpg",
+    "/workspace/cc-tile-content-1028/mocks/mem_rows_2.jpg",
+    "/workspace/cc-tile-content-1028/mocks/mem_rows_4.jpg",
+    "/workspace/cc-tile-content-1028/mocks/mem_dense.jpg",
+    "/workspace/cc-tile-content-1028/mocks/mem_roomy.jpg",
+    "/workspace/cc-tile-content-1028/mocks/mem_overall_a.jpg",
+    "/workspace/cc-tile-content-1028/mocks/mem_overall_b.jpg"
+  ],
+  "ui_screenshots": true,
+  "bleed_mode": "edge-safe",
+  "title": "Command Center Members Tile"
+}

@@ -1,0 +1,20 @@
+{
+  "category": "cc-tile-content",
+  "asset_paths": [
+    "/workspace/cc-tile-content-1028/mocks/mkt_placeholder.jpg",
+    "/workspace/cc-tile-content-1028/mocks/mkt_kpis.jpg",
+    "/workspace/cc-tile-content-1028/mocks/mkt_kpis_lite.jpg",
+    "/workspace/cc-tile-content-1028/mocks/mkt_signals.jpg",
+    "/workspace/cc-tile-content-1028/mocks/mkt_placeholder_quiet.jpg",
+    "/workspace/cc-tile-content-1028/mocks/mkt_cta.jpg",
+    "/workspace/cc-tile-content-1028/mocks/mkt_split.jpg",
+    "/workspace/cc-tile-content-1028/mocks/mkt_signals_b.jpg",
+    "/workspace/cc-tile-content-1028/mocks/mkt_dense_placeholder.jpg",
+    "/workspace/cc-tile-content-1028/mocks/mkt_dense_kpis.jpg",
+    "/workspace/cc-tile-content-1028/mocks/mkt_overall_a.jpg",
+    "/workspace/cc-tile-content-1028/mocks/mkt_overall_b.jpg"
+  ],
+  "ui_screenshots": true,
+  "bleed_mode": "edge-safe",
+  "title": "Command Center Marketing Tile"
+}

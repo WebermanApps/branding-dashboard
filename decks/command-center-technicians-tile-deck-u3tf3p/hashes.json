@@ -1,0 +1,62 @@
+{
+  "c1": {
+    "A": {
+      "label": "Primary metric row",
+      "sha12": "70c3f002df15"
+    },
+    "B": {
+      "label": "Narrative routes line",
+      "sha12": "e82abc856d55"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Clear green Needs band",
+      "sha12": "7c3bbad5cfa8"
+    },
+    "B": {
+      "label": "Omit Needs when clear",
+      "sha12": "9a9bf4d76ac4"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "Folds on the tile",
+      "sha12": "9e041b11b182"
+    },
+    "B": {
+      "label": "Folds off the tile",
+      "sha12": "c19f7448d93d"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "Stop bars per TD",
+      "sha12": "83417bfb7225"
+    },
+    "B": {
+      "label": "Stop count chips",
+      "sha12": "7a93d319b99c"
+    }
+  },
+  "c5": {
+    "A": {
+      "label": "Collapsed dense",
+      "sha12": "1d621804ef61"
+    },
+    "B": {
+      "label": "Roomier glance",
+      "sha12": "8ddb2a063416"
+    }
+  },
+  "c6": {
+    "A": {
+      "label": "Metrics + clear + bars",
+      "sha12": "c3f161744535"
+    },
+    "B": {
+      "label": "Narrative + chips",
+      "sha12": "4516ec8f94eb"
+    }
+  }
+}

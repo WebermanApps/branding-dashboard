@@ -1,0 +1,72 @@
+{
+  "c1": {
+    "A": {
+      "label": "Primary metric row",
+      "sha12": "b8c7423733a0"
+    },
+    "B": {
+      "label": "Narrative lead line",
+      "sha12": "d538ae94acdc"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Four count pills",
+      "sha12": "62c0c73b74f2"
+    },
+    "B": {
+      "label": "Two hero metrics",
+      "sha12": "be6a1724486b"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "Needs Machan on",
+      "sha12": "25fa9a3cd2b0"
+    },
+    "B": {
+      "label": "Needs Machan off",
+      "sha12": "6d382933db34"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "List of open messages",
+      "sha12": "3e19cbc9cb26"
+    },
+    "B": {
+      "label": "Count / status chips only",
+      "sha12": "4d1767df4da1"
+    }
+  },
+  "c5": {
+    "A": {
+      "label": "Two rows then more",
+      "sha12": "a7c1e9407907"
+    },
+    "B": {
+      "label": "Four rows then more",
+      "sha12": "6bfec817792d"
+    }
+  },
+  "c6": {
+    "A": {
+      "label": "Collapsed dense",
+      "sha12": "6fafa1c0fa97"
+    },
+    "B": {
+      "label": "Roomier glance",
+      "sha12": "ea2a7aac7837"
+    }
+  },
+  "c7": {
+    "A": {
+      "label": "Metrics + Needs + list",
+      "sha12": "4c1ec813b11b"
+    },
+    "B": {
+      "label": "Narrative + chips",
+      "sha12": "70fcd12693f9"
+    }
+  }
+}

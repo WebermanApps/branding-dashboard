@@ -1,0 +1,20 @@
+{
+  "category": "cc-tile-content",
+  "asset_paths": [
+    "/workspace/cc-tile-content-1028/mocks/sch_primary_metrics.jpg",
+    "/workspace/cc-tile-content-1028/mocks/sch_primary_narrative.jpg",
+    "/workspace/cc-tile-content-1028/mocks/sch_needs_on.jpg",
+    "/workspace/cc-tile-content-1028/mocks/sch_needs_off.jpg",
+    "/workspace/cc-tile-content-1028/mocks/sch_list_rows.jpg",
+    "/workspace/cc-tile-content-1028/mocks/sch_list_chips.jpg",
+    "/workspace/cc-tile-content-1028/mocks/sch_rows_2.jpg",
+    "/workspace/cc-tile-content-1028/mocks/sch_rows_4.jpg",
+    "/workspace/cc-tile-content-1028/mocks/sch_dense.jpg",
+    "/workspace/cc-tile-content-1028/mocks/sch_roomy.jpg",
+    "/workspace/cc-tile-content-1028/mocks/sch_overall_a.jpg",
+    "/workspace/cc-tile-content-1028/mocks/sch_overall_b.jpg"
+  ],
+  "ui_screenshots": true,
+  "bleed_mode": "edge-safe",
+  "title": "Command Center Scheduling Tile"
+}

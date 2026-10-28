@@ -1,0 +1,62 @@
+{
+  "c1": {
+    "A": {
+      "label": "Placeholder-lite",
+      "sha12": "e14c38c6fc9d"
+    },
+    "B": {
+      "label": "Early KPIs only",
+      "sha12": "30b70bbe7bfa"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "KPI count pills",
+      "sha12": "61219d5f5dde"
+    },
+    "B": {
+      "label": "Channel status dots",
+      "sha12": "7d306f8ceafb"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "Quiet coming-soon",
+      "sha12": "bf899b9bfe70"
+    },
+    "B": {
+      "label": "Soft CTA affordance",
+      "sha12": "0deaff649057"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "Split: glance vs later",
+      "sha12": "c827422bc8ca"
+    },
+    "B": {
+      "label": "Channel status on tile",
+      "sha12": "31309748a7cf"
+    }
+  },
+  "c5": {
+    "A": {
+      "label": "Placeholder with spark",
+      "sha12": "1916bb85ba78"
+    },
+    "B": {
+      "label": "KPI strip only",
+      "sha12": "e9fe19d14b53"
+    }
+  },
+  "c6": {
+    "A": {
+      "label": "Keep placeholder-lite",
+      "sha12": "f8b7875faf89"
+    },
+    "B": {
+      "label": "Early KPIs only",
+      "sha12": "2ab327b8cd7b"
+    }
+  }
+}
