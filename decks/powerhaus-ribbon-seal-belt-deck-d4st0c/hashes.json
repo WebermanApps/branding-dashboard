@@ -1,102 +1,102 @@
 {
   "c1": {
     "A": {
-      "label": "Flat kraft belt",
-      "sha12": "21b4f2db2459"
+      "label": "Soft navy satin",
+      "sha12": "6e38150e73ce"
     },
     "B": {
-      "label": "Kraft belt with flat bow",
-      "sha12": "253c73896e6d"
+      "label": "Quiet kraft paper",
+      "sha12": "8266f5642649"
     }
   },
   "c2": {
     "A": {
-      "label": "Navy ribbon + wax W",
-      "sha12": "39cde976e8f4"
+      "label": "Thin gold-edge organza",
+      "sha12": "378254613215"
     },
     "B": {
-      "label": "Navy ribbon + gold foil",
-      "sha12": "6f6dd45aa52a"
+      "label": "Matte navy grosgrain",
+      "sha12": "8f273c96339e"
     }
   },
   "c3": {
     "A": {
-      "label": "Twine + kraft tag",
-      "sha12": "3e0b7ace119d"
+      "label": "Narrow delicate",
+      "sha12": "0a3799556827"
     },
     "B": {
-      "label": "Twine + round sticker",
-      "sha12": "931b2878c336"
+      "label": "Slightly fuller soft wrap",
+      "sha12": "da7f05adde22"
     }
   },
   "c4": {
     "A": {
-      "label": "Gold foil on kraft belt",
-      "sha12": "2d1a11e76fb9"
+      "label": "Subtle front bow",
+      "sha12": "894cdaf59780"
     },
     "B": {
-      "label": "Cream sticker seal",
-      "sha12": "a08f884094be"
+      "label": "Clean wrap, no bow",
+      "sha12": "eb723777ed5e"
     }
   },
   "c5": {
     "A": {
-      "label": "Solid blue belt",
-      "sha12": "ef89a3396a19"
+      "label": "Cream / ivory ribbon",
+      "sha12": "95209f04f7db"
     },
     "B": {
-      "label": "Double thin blue lines",
-      "sha12": "a7ba26431b3e"
+      "label": "Deep navy ribbon",
+      "sha12": "5c46b720d74f"
     }
   },
   "c6": {
     "A": {
-      "label": "Wide kraft band",
-      "sha12": "6883e0a63149"
+      "label": "Double soft strands",
+      "sha12": "a91dbfacb8d9"
     },
     "B": {
-      "label": "Wide kraft + sticker",
-      "sha12": "1baba10f138e"
+      "label": "Single soft band",
+      "sha12": "a9789ef35ef5"
     }
   },
   "c7": {
     "A": {
-      "label": "Bare twine only",
-      "sha12": "b764fed6fa73"
+      "label": "Ribbon + tiny kraft tag",
+      "sha12": "2cf396cacac6"
     },
     "B": {
-      "label": "Thin double kraft",
-      "sha12": "7d473e7f71c4"
+      "label": "Plain soft wrap",
+      "sha12": "f502680dd189"
     }
   },
   "c8": {
     "A": {
-      "label": "Deep navy wax",
-      "sha12": "8916fa3e1967"
+      "label": "Warmer kraft–navy mix",
+      "sha12": "3e187605d9d7"
     },
     "B": {
-      "label": "Kraft belt + tag",
-      "sha12": "f4ccaec37dc8"
+      "label": "Cooler navy",
+      "sha12": "b79cae2e8f8d"
     }
   },
   "c9": {
     "A": {
-      "label": "Soft cream bow",
-      "sha12": "d351cc4dc086"
+      "label": "Quiet understated",
+      "sha12": "6a9fab161428"
     },
     "B": {
-      "label": "Studio blue bow",
-      "sha12": "fb1f4ed2c80a"
+      "label": "A little more present",
+      "sha12": "fe37bb204fb5"
     }
   },
   "c10": {
     "A": {
-      "label": "Quiet kraft belt",
-      "sha12": "2ec85e45c307"
+      "label": "Closest quiet ribbon",
+      "sha12": "1fef468336ed"
     },
     "B": {
-      "label": "Navy seal statement",
-      "sha12": "68ac9cde6eff"
+      "label": "Soft statement ribbon",
+      "sha12": "35b228585eb3"
     }
   }
 }
