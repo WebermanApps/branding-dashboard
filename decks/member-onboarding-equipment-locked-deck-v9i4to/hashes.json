@@ -1,0 +1,62 @@
+{
+  "c1": {
+    "A": {
+      "label": "Checklist steps",
+      "sha12": "692a7753ee1c"
+    },
+    "B": {
+      "label": "Chatty welcome",
+      "sha12": "a356cab73588"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "One at a time",
+      "sha12": "1fb1a952fbd6"
+    },
+    "B": {
+      "label": "Multi-field form",
+      "sha12": "ef49d16660c4"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "Vertical list · guided capture",
+      "sha12": "44587d0fae62"
+    },
+    "B": {
+      "label": "Chip cloud · camera-first",
+      "sha12": "b328cf746023"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "Guided list",
+      "sha12": "883b7e3ecf07"
+    },
+    "B": {
+      "label": "Camera-first",
+      "sha12": "17e0bffb83f1"
+    }
+  },
+  "c5": {
+    "A": {
+      "label": "One-by-one",
+      "sha12": "afcb95a2ea20"
+    },
+    "B": {
+      "label": "Photo grid",
+      "sha12": "7f4f515898e2"
+    }
+  },
+  "c6": {
+    "A": {
+      "label": "Lock structured · list-led",
+      "sha12": "9bfc4006e4ee"
+    },
+    "B": {
+      "label": "Prefer friendly · camera-led",
+      "sha12": "afc141e75661"
+    }
+  }
+}

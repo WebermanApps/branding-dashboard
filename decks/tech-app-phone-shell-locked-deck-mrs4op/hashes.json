@@ -1,0 +1,52 @@
+{
+  "c1": {
+    "A": {
+      "label": "Compact · Today · all closed",
+      "sha12": "e92fc0a6a58d"
+    },
+    "B": {
+      "label": "Portrait · Next Session",
+      "sha12": "01d1d8f8bd1a"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "All default closed",
+      "sha12": "5a5302bb0300"
+    },
+    "B": {
+      "label": "Today open first",
+      "sha12": "69ebdfc472fc"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "Today · Stop · Van · Messages",
+      "sha12": "6c408031beb5"
+    },
+    "B": {
+      "label": "Home · Route · Stock · More",
+      "sha12": "e7c8ee29940c"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "HR open demo",
+      "sha12": "b4a9e1f43433"
+    },
+    "B": {
+      "label": "Schedule open demo",
+      "sha12": "4f0ea0a3cbdd"
+    }
+  },
+  "c5": {
+    "A": {
+      "label": "Lock compact · Today · all closed · classic dock",
+      "sha12": "2133474addd4"
+    },
+    "B": {
+      "label": "Prefer portrait · Next Session",
+      "sha12": "91ba49f0d861"
+    }
+  }
+}

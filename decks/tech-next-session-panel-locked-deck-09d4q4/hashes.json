@@ -1,0 +1,72 @@
+{
+  "c1": {
+    "A": {
+      "label": "Expanded · Live when clocked in",
+      "sha12": "079d889ed08f"
+    },
+    "B": {
+      "label": "Collapsed · Saved",
+      "sha12": "5460d2cae6cc"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Four tiles + clock",
+      "sha12": "772f0058dcef"
+    },
+    "B": {
+      "label": "Compact + big clock",
+      "sha12": "f5f7f98f67c8"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "Map under · Slide To Start",
+      "sha12": "bb2dcd246666"
+    },
+    "B": {
+      "label": "Map hero · Big Start",
+      "sha12": "c14271664298"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "Slide To Start Route",
+      "sha12": "248dec84029b"
+    },
+    "B": {
+      "label": "Big Start · synced",
+      "sha12": "87fab37088e3"
+    }
+  },
+  "c5": {
+    "A": {
+      "label": "Horizontal carousel",
+      "sha12": "ef9847144f93"
+    },
+    "B": {
+      "label": "Vertical list",
+      "sha12": "4bf4233d7b1c"
+    }
+  },
+  "c6": {
+    "A": {
+      "label": "Driving → Arrive · start visit",
+      "sha12": "f988f21736ec"
+    },
+    "B": {
+      "label": "Complete → next stop",
+      "sha12": "6c11b5e9f963"
+    }
+  },
+  "c7": {
+    "A": {
+      "label": "Lock tiles · map under · slide · carousel",
+      "sha12": "ec0a60d80836"
+    },
+    "B": {
+      "label": "Prefer clock-led · map hero · big start",
+      "sha12": "15071c06c81f"
+    }
+  }
+}

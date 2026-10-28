@@ -1,0 +1,22 @@
+{
+  "category": "ui-phone-mockups",
+  "ui_screenshots": true,
+  "bleed_mode": "edge-safe",
+  "asset_paths": [
+    "/workspace/swipe-lock-1028/mocks/lk_ns_expanded.jpg",
+    "/workspace/swipe-lock-1028/mocks/lk_ns_collapsed.jpg",
+    "/workspace/swipe-lock-1028/mocks/lk_ns_tiles_four.jpg",
+    "/workspace/swipe-lock-1028/mocks/lk_ns_tiles_clock.jpg",
+    "/workspace/swipe-lock-1028/mocks/lk_ns_map_under.jpg",
+    "/workspace/swipe-lock-1028/mocks/lk_ns_map_hero.jpg",
+    "/workspace/swipe-lock-1028/mocks/lk_ns_slide.jpg",
+    "/workspace/swipe-lock-1028/mocks/lk_ns_big_start.jpg",
+    "/workspace/swipe-lock-1028/mocks/lk_ns_car_horiz.jpg",
+    "/workspace/swipe-lock-1028/mocks/lk_ns_car_vert.jpg",
+    "/workspace/swipe-lock-1028/mocks/lk_ns_flow_drive.jpg",
+    "/workspace/swipe-lock-1028/mocks/lk_ns_flow_next.jpg",
+    "/workspace/swipe-lock-1028/mocks/lk_ns_overall_lock.jpg",
+    "/workspace/swipe-lock-1028/mocks/lk_ns_overall_alt.jpg"
+  ],
+  "agent": "upkeep"
+}

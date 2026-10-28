@@ -1,0 +1,18 @@
+{
+  "category": "ui-phone-mockups",
+  "asset_paths": [
+    "/workspace/swipe-lock-1028/mocks/lk_sh_compact_today.jpg",
+    "/workspace/swipe-lock-1028/mocks/lk_sh_portrait_next.jpg",
+    "/workspace/swipe-lock-1028/mocks/lk_sh_all_closed.jpg",
+    "/workspace/swipe-lock-1028/mocks/lk_sh_session_open.jpg",
+    "/workspace/swipe-lock-1028/mocks/lk_sh_dock_classic.jpg",
+    "/workspace/swipe-lock-1028/mocks/lk_sh_dock_alt.jpg",
+    "/workspace/swipe-lock-1028/mocks/lk_sh_hr_open.jpg",
+    "/workspace/swipe-lock-1028/mocks/lk_sh_sched_open.jpg",
+    "/workspace/swipe-lock-1028/mocks/lk_sh_overall_lock.jpg",
+    "/workspace/swipe-lock-1028/mocks/lk_sh_overall_alt.jpg"
+  ],
+  "ui_screenshots": true,
+  "bleed_mode": "edge-safe",
+  "title": "Tech App Phone Shell (locked)"
+}

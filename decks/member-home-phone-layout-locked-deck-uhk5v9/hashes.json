@@ -1,0 +1,72 @@
+{
+  "c1": {
+    "A": {
+      "label": "Locked dense shell",
+      "sha12": "78f972e5827f"
+    },
+    "B": {
+      "label": "Airier alt on same facts",
+      "sha12": "aaf3f582dfd5"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Expanded Next Visit + Reschedule",
+      "sha12": "9e651f96f999"
+    },
+    "B": {
+      "label": "Compact Next Visit pill",
+      "sha12": "11c0bc60d00f"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "Inline pills meta",
+      "sha12": "313bd7b714ce"
+    },
+    "B": {
+      "label": "Stacked meta + divider",
+      "sha12": "c6b185c493f6"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "Facade-tight · words on photo",
+      "sha12": "e30d3623c26a"
+    },
+    "B": {
+      "label": "Scoot-up · less sky",
+      "sha12": "d82484891ecd"
+    }
+  },
+  "c5": {
+    "A": {
+      "label": "Medium-small hero",
+      "sha12": "0dcf6568beaa"
+    },
+    "B": {
+      "label": "Compact smaller hero",
+      "sha12": "00f53747468d"
+    }
+  },
+  "c6": {
+    "A": {
+      "label": "Home · Record · Ask · More",
+      "sha12": "a03681e4b855"
+    },
+    "B": {
+      "label": "Home · Home Record · Chat · Menu",
+      "sha12": "ff3a3de055d6"
+    }
+  },
+  "c7": {
+    "A": {
+      "label": "Lock dense · facade · NV expanded · alt dock",
+      "sha12": "94e3219ab845"
+    },
+    "B": {
+      "label": "Prefer airier · scoot · NV pill · classic",
+      "sha12": "31cc574ff26c"
+    }
+  }
+}

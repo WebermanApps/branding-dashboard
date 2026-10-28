@@ -1,0 +1,62 @@
+{
+  "c1": {
+    "A": {
+      "label": "Checklist-first",
+      "sha12": "e6b44f69d724"
+    },
+    "B": {
+      "label": "Photo-first",
+      "sha12": "ee269733b2fd"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Filmstrip",
+      "sha12": "ac88e3c57e11"
+    },
+    "B": {
+      "label": "2×2 grid",
+      "sha12": "b70a0390df82"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "Detailed task",
+      "sha12": "18ecd4eae189"
+    },
+    "B": {
+      "label": "Compact grid",
+      "sha12": "18736c66f7e3"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "Inline flags · narrative",
+      "sha12": "4eaa72cb817a"
+    },
+    "B": {
+      "label": "Flags section · short card",
+      "sha12": "1199904ffd1a"
+    }
+  },
+  "c5": {
+    "A": {
+      "label": "End confirm",
+      "sha12": "ef95769c67b1"
+    },
+    "B": {
+      "label": "Sticky Submit",
+      "sha12": "1abb10f7ff32"
+    }
+  },
+  "c6": {
+    "A": {
+      "label": "Lock checklist-led · end confirm",
+      "sha12": "926c7a28db8a"
+    },
+    "B": {
+      "label": "Prefer photo-led · sticky submit",
+      "sha12": "8607513faaa9"
+    }
+  }
+}
