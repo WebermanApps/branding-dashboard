@@ -1,0 +1,22 @@
+{
+  "category": "ui-phone-mockups",
+  "asset_paths": [
+    "/workspace/tech-layout-1028/mocks/ns_collapsed.jpg",
+    "/workspace/tech-layout-1028/mocks/ns_expanded.jpg",
+    "/workspace/tech-layout-1028/mocks/ns_tiles_four.jpg",
+    "/workspace/tech-layout-1028/mocks/ns_tiles_clock.jpg",
+    "/workspace/tech-layout-1028/mocks/ns_map_under.jpg",
+    "/workspace/tech-layout-1028/mocks/ns_map_hero.jpg",
+    "/workspace/tech-layout-1028/mocks/ns_slide_classic.jpg",
+    "/workspace/tech-layout-1028/mocks/ns_slide_big.jpg",
+    "/workspace/tech-layout-1028/mocks/ns_car_horiz.jpg",
+    "/workspace/tech-layout-1028/mocks/ns_car_vert.jpg",
+    "/workspace/tech-layout-1028/mocks/ns_flow_start.jpg",
+    "/workspace/tech-layout-1028/mocks/ns_flow_drive.jpg",
+    "/workspace/tech-layout-1028/mocks/ns_flow_arrive.jpg",
+    "/workspace/tech-layout-1028/mocks/ns_flow_next.jpg"
+  ],
+  "ui_screenshots": true,
+  "bleed_mode": "edge-safe",
+  "title": "Tech Next Session Panel"
+}

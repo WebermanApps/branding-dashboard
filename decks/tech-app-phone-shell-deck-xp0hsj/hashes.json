@@ -1,0 +1,62 @@
+{
+  "c1": {
+    "A": {
+      "label": "Portrait-led hero",
+      "sha12": "17f7fc9348db"
+    },
+    "B": {
+      "label": "Compact row hero",
+      "sha12": "8865fde0b50f"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Next Session",
+      "sha12": "063bb4bfc0b5"
+    },
+    "B": {
+      "label": "Today",
+      "sha12": "a80cfdca873e"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "Session first open",
+      "sha12": "ac9a7239776d"
+    },
+    "B": {
+      "label": "Vans peek open",
+      "sha12": "2f70150a1dc6"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "Today · Stop · Van · Messages",
+      "sha12": "8e1124fe5222"
+    },
+    "B": {
+      "label": "Home · Route · Stock · More",
+      "sha12": "058d1521693c"
+    }
+  },
+  "c5": {
+    "A": {
+      "label": "Schedule open",
+      "sha12": "05c7d60d0f89"
+    },
+    "B": {
+      "label": "HR open",
+      "sha12": "037da4941db6"
+    }
+  },
+  "c6": {
+    "A": {
+      "label": "Portrait · Next Session · classic dock",
+      "sha12": "17f7fc9348db"
+    },
+    "B": {
+      "label": "Compact · Today label · vans peek",
+      "sha12": "8865fde0b50f"
+    }
+  }
+}

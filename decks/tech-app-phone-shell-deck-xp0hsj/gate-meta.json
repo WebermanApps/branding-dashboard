@@ -1,0 +1,18 @@
+{
+  "category": "ui-phone-mockups",
+  "asset_paths": [
+    "/workspace/tech-layout-1028/mocks/sh_hero_portrait.jpg",
+    "/workspace/tech-layout-1028/mocks/sh_hero_compact.jpg",
+    "/workspace/tech-layout-1028/mocks/sh_label_next.jpg",
+    "/workspace/tech-layout-1028/mocks/sh_label_today.jpg",
+    "/workspace/tech-layout-1028/mocks/sh_order_session.jpg",
+    "/workspace/tech-layout-1028/mocks/sh_order_vans.jpg",
+    "/workspace/tech-layout-1028/mocks/sh_dock_classic.jpg",
+    "/workspace/tech-layout-1028/mocks/sh_dock_alt.jpg",
+    "/workspace/tech-layout-1028/mocks/sh_sched.jpg",
+    "/workspace/tech-layout-1028/mocks/sh_hr.jpg"
+  ],
+  "ui_screenshots": true,
+  "bleed_mode": "edge-safe",
+  "title": "Tech App Phone Shell"
+}

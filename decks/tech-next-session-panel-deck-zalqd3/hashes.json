@@ -1,0 +1,82 @@
+{
+  "c1": {
+    "A": {
+      "label": "Collapsed · Saved",
+      "sha12": "f37202addb88"
+    },
+    "B": {
+      "label": "Expanded · Live",
+      "sha12": "e4ff110912a7"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Four tiles + clock",
+      "sha12": "ef8d2525621d"
+    },
+    "B": {
+      "label": "Compact + big clock",
+      "sha12": "be381f932c20"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "Map under tiles",
+      "sha12": "e5f8147146d6"
+    },
+    "B": {
+      "label": "Map hero above",
+      "sha12": "849435dae6ed"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "Slide To Start Route",
+      "sha12": "b547f63f60cc"
+    },
+    "B": {
+      "label": "Big Start · synced",
+      "sha12": "fae2c9548ea9"
+    }
+  },
+  "c5": {
+    "A": {
+      "label": "Horizontal carousel",
+      "sha12": "35d3375a0a77"
+    },
+    "B": {
+      "label": "Vertical list",
+      "sha12": "c713ed0a4564"
+    }
+  },
+  "c6": {
+    "A": {
+      "label": "Arrive shop · start day",
+      "sha12": "10810b648385"
+    },
+    "B": {
+      "label": "Driving map live",
+      "sha12": "c0bb88314c41"
+    }
+  },
+  "c7": {
+    "A": {
+      "label": "Arrive · start visit",
+      "sha12": "6258e74691f1"
+    },
+    "B": {
+      "label": "Complete → next",
+      "sha12": "d4c64c430122"
+    }
+  },
+  "c8": {
+    "A": {
+      "label": "Tiles · map under · slide · carousel",
+      "sha12": "6c6ad377a93a"
+    },
+    "B": {
+      "label": "Clock-led · map hero · big start",
+      "sha12": "be381f932c20"
+    }
+  }
+}
