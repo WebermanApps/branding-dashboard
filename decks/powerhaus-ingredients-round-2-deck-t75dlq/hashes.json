@@ -1,0 +1,102 @@
+{
+  "c1": {
+    "A": {
+      "label": "Lemongrass + holy basil",
+      "sha12": "df6b7f2d3233"
+    },
+    "B": {
+      "label": "Ginger + pandan",
+      "sha12": "428f15294e5f"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Butterfly pea + mint",
+      "sha12": "4185508ab065"
+    },
+    "B": {
+      "label": "Chrysanthemum + lemongrass",
+      "sha12": "de8ba310c79f"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "Roselle + mint",
+      "sha12": "e88415337d41"
+    },
+    "B": {
+      "label": "Kaffir lime leaf + mint",
+      "sha12": "2d6526f18b2f"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "Turmeric + holy basil",
+      "sha12": "36e0389baca6"
+    },
+    "B": {
+      "label": "Roselle + turmeric",
+      "sha12": "fb11a12da80d"
+    }
+  },
+  "c5": {
+    "A": {
+      "label": "Chrysanthemum + ginger",
+      "sha12": "2f81d2059cdd"
+    },
+    "B": {
+      "label": "Butterfly pea + ginger",
+      "sha12": "7b0dfe6f80ad"
+    }
+  },
+  "c6": {
+    "A": {
+      "label": "Turmeric + mint",
+      "sha12": "7c7b06a35af1"
+    },
+    "B": {
+      "label": "Holy basil + kaffir",
+      "sha12": "bfdf028ebd2c"
+    }
+  },
+  "c7": {
+    "A": {
+      "label": "Pandan + chrysanthemum",
+      "sha12": "a97e8a040677"
+    },
+    "B": {
+      "label": "Butterfly pea + pandan",
+      "sha12": "41331ea3cdb1"
+    }
+  },
+  "c8": {
+    "A": {
+      "label": "Roselle + pandan",
+      "sha12": "026f0aa0a153"
+    },
+    "B": {
+      "label": "Kaffir + chrysanthemum",
+      "sha12": "ecad3542d874"
+    }
+  },
+  "c9": {
+    "A": {
+      "label": "Soft Current · Bright Clear · Quiet Steady",
+      "sha12": "b4dac8d06d91"
+    },
+    "B": {
+      "label": "Thai-forward herb line",
+      "sha12": "0df3ab711827"
+    }
+  },
+  "c10": {
+    "A": {
+      "label": "Studio after-class",
+      "sha12": "339935d4ad3a"
+    },
+    "B": {
+      "label": "Home soft evening",
+      "sha12": "6826a718a8a3"
+    }
+  }
+}
