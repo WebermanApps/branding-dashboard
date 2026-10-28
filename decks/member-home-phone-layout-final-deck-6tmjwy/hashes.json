@@ -1,0 +1,72 @@
+{
+  "c1": {
+    "A": {
+      "label": "Compact smaller hero",
+      "sha12": "f8c3ae594f0c"
+    },
+    "B": {
+      "label": "Medium-small hero",
+      "sha12": "d03431dcec67"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Scoot up · less sky",
+      "sha12": "ee9609ac421a"
+    },
+    "B": {
+      "label": "Facade-tight crop",
+      "sha12": "94651b839934"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "Stacked meta + divider",
+      "sha12": "1bc5c794b772"
+    },
+    "B": {
+      "label": "Inline pills meta",
+      "sha12": "5e2a55f5f3d3"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "Compact Next Visit pill",
+      "sha12": "ad833da10c90"
+    },
+    "B": {
+      "label": "Expanded Next Visit + Reschedule",
+      "sha12": "207553367f3a"
+    }
+  },
+  "c5": {
+    "A": {
+      "label": "Airy full stack",
+      "sha12": "c58edb9dcf47"
+    },
+    "B": {
+      "label": "Denser full stack",
+      "sha12": "18a4134281e9"
+    }
+  },
+  "c6": {
+    "A": {
+      "label": "Home · Home Record · Chat · Menu",
+      "sha12": "b48a9c70f38b"
+    },
+    "B": {
+      "label": "Home · Record · Ask · More",
+      "sha12": "e9017cd1a894"
+    }
+  },
+  "c7": {
+    "A": {
+      "label": "Compact · scoot-up · NV pill · classic dock",
+      "sha12": "f8c3ae594f0c"
+    },
+    "B": {
+      "label": "Dense · facade · NV expanded · alt dock",
+      "sha12": "6d95fd876336"
+    }
+  }
+}

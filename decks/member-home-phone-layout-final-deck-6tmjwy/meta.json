@@ -1,0 +1,20 @@
+{
+  "category": "ui-phone-mockups",
+  "ui_screenshots": true,
+  "bleed_mode": "edge-safe",
+  "asset_paths": [
+    "/workspace/member-layout-1028/mocks/mh_hero_compact.jpg",
+    "/workspace/member-layout-1028/mocks/mh_hero_medium.jpg",
+    "/workspace/member-layout-1028/mocks/mh_crop_scoot.jpg",
+    "/workspace/member-layout-1028/mocks/mh_crop_facade.jpg",
+    "/workspace/member-layout-1028/mocks/mh_meta_stack.jpg",
+    "/workspace/member-layout-1028/mocks/mh_meta_inline.jpg",
+    "/workspace/member-layout-1028/mocks/mh_nv_pill.jpg",
+    "/workspace/member-layout-1028/mocks/mh_nv_expanded.jpg",
+    "/workspace/member-layout-1028/mocks/mh_full_airy.jpg",
+    "/workspace/member-layout-1028/mocks/mh_full_dense.jpg",
+    "/workspace/member-layout-1028/mocks/mh_dock_classic.jpg",
+    "/workspace/member-layout-1028/mocks/mh_dock_alt.jpg"
+  ],
+  "agent": "upkeep"
+}
