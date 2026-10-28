@@ -1,0 +1,28 @@
+{
+  "category": "room-design",
+  "asset_paths": [
+    "/workspace/bp-office-wellness-1028/assets/staged/office/off-chair-leather.jpg",
+    "/workspace/bp-office-wellness-1028/assets/staged/office/off-chair-mesh.jpg",
+    "/workspace/bp-office-wellness-1028/assets/staged/office/off-desk-honey.jpg",
+    "/workspace/bp-office-wellness-1028/assets/staged/office/off-desk-walnut.jpg",
+    "/workspace/bp-office-wellness-1028/assets/staged/office/off-display-board.jpg",
+    "/workspace/bp-office-wellness-1028/assets/staged/office/off-display-gallery.jpg",
+    "/workspace/bp-office-wellness-1028/assets/staged/office/off-karaoke-no.jpg",
+    "/workspace/bp-office-wellness-1028/assets/staged/office/off-karaoke-yes.jpg",
+    "/workspace/bp-office-wellness-1028/assets/staged/office/off-light-day.jpg",
+    "/workspace/bp-office-wellness-1028/assets/staged/office/off-light-rgb.jpg",
+    "/workspace/bp-office-wellness-1028/assets/staged/office/off-music-bright.jpg",
+    "/workspace/bp-office-wellness-1028/assets/staged/office/off-music-mix.jpg",
+    "/workspace/bp-office-wellness-1028/assets/staged/office/off-overall-honey.jpg",
+    "/workspace/bp-office-wellness-1028/assets/staged/office/off-overall-walnut.jpg",
+    "/workspace/bp-office-wellness-1028/assets/staged/office/off-print-closed.jpg",
+    "/workspace/bp-office-wellness-1028/assets/staged/office/off-print-open.jpg",
+    "/workspace/bp-office-wellness-1028/assets/staged/office/off-proj-no.jpg",
+    "/workspace/bp-office-wellness-1028/assets/staged/office/off-proj-yes.jpg",
+    "/workspace/bp-office-wellness-1028/assets/staged/office/off-recline-one.jpg",
+    "/workspace/bp-office-wellness-1028/assets/staged/office/off-recline-two.jpg"
+  ],
+  "ui_screenshots": false,
+  "bleed_mode": "flush-cream",
+  "title": "Weberman Office Design"
+}

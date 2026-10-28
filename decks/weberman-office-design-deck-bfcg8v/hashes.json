@@ -1,0 +1,102 @@
+{
+  "c1": {
+    "A": {
+      "label": "Honey oak garden desk",
+      "sha12": "35d217b42c3b"
+    },
+    "B": {
+      "label": "Quieter walnut desk",
+      "sha12": "9f8100b98e5b"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Mesh ergonomic chair",
+      "sha12": "ae82116c16aa"
+    },
+    "B": {
+      "label": "Soft leather command",
+      "sha12": "551c70361f47"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "Two chairs + table",
+      "sha12": "ee1a64576d5d"
+    },
+    "B": {
+      "label": "One chair + ottoman",
+      "sha12": "484ffb5c43e7"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "Piano + guitar wall",
+      "sha12": "20d0f20356de"
+    },
+    "B": {
+      "label": "Mix + drums focused",
+      "sha12": "9348c132f795"
+    }
+  },
+  "c5": {
+    "A": {
+      "label": "Mic + karaoke screen",
+      "sha12": "3867425c4b1a"
+    },
+    "B": {
+      "label": "Instruments only",
+      "sha12": "057912cfddf4"
+    }
+  },
+  "c6": {
+    "A": {
+      "label": "Whiteboard + shelving",
+      "sha12": "06abcad674d4"
+    },
+    "B": {
+      "label": "Art / project gallery",
+      "sha12": "d0a8e513184e"
+    }
+  },
+  "c7": {
+    "A": {
+      "label": "Daylight + pendant + skylight",
+      "sha12": "e4302500e5e0"
+    },
+    "B": {
+      "label": "Evening RGB accents",
+      "sha12": "fcadb9c711be"
+    }
+  },
+  "c8": {
+    "A": {
+      "label": "Ceiling projector + screen",
+      "sha12": "48dd826433a7"
+    },
+    "B": {
+      "label": "Monitors only",
+      "sha12": "3ded68d800b6"
+    }
+  },
+  "c9": {
+    "A": {
+      "label": "Closed timber hideaway",
+      "sha12": "a711c63b01b1"
+    },
+    "B": {
+      "label": "Open niche shelf",
+      "sha12": "6a47cd6d013e"
+    }
+  },
+  "c10": {
+    "A": {
+      "label": "Honey oak · brighter",
+      "sha12": "2c04fe3b2a7b"
+    },
+    "B": {
+      "label": "Walnut accents · quieter",
+      "sha12": "8ca0f9017aa0"
+    }
+  }
+}

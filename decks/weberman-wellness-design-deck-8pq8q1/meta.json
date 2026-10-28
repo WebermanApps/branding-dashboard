@@ -1,0 +1,28 @@
+{
+  "category": "room-design",
+  "asset_paths": [
+    "/workspace/bp-office-wellness-1028/assets/staged/wellness/wel-cardio-gear.jpg",
+    "/workspace/bp-office-wellness-1028/assets/staged/wellness/wel-cardio-open.jpg",
+    "/workspace/bp-office-wellness-1028/assets/staged/wellness/wel-change-compact.jpg",
+    "/workspace/bp-office-wellness-1028/assets/staged/wellness/wel-change-generous.jpg",
+    "/workspace/bp-office-wellness-1028/assets/staged/wellness/wel-floor-lanes.jpg",
+    "/workspace/bp-office-wellness-1028/assets/staged/wellness/wel-floor-open.jpg",
+    "/workspace/bp-office-wellness-1028/assets/staged/wellness/wel-garden-doors.jpg",
+    "/workspace/bp-office-wellness-1028/assets/staged/wellness/wel-garden-glass.jpg",
+    "/workspace/bp-office-wellness-1028/assets/staged/wellness/wel-gym-forward.jpg",
+    "/workspace/bp-office-wellness-1028/assets/staged/wellness/wel-heat-daily.jpg",
+    "/workspace/bp-office-wellness-1028/assets/staged/wellness/wel-heat-long.jpg",
+    "/workspace/bp-office-wellness-1028/assets/staged/wellness/wel-spa-forward.jpg",
+    "/workspace/bp-office-wellness-1028/assets/staged/wellness/wel-spa-soft.jpg",
+    "/workspace/bp-office-wellness-1028/assets/staged/wellness/wel-store-closed.jpg",
+    "/workspace/bp-office-wellness-1028/assets/staged/wellness/wel-store-open.jpg",
+    "/workspace/bp-office-wellness-1028/assets/staged/wellness/wel-strength-free.jpg",
+    "/workspace/bp-office-wellness-1028/assets/staged/wellness/wel-strength-machines.jpg",
+    "/workspace/bp-office-wellness-1028/assets/staged/wellness/wel-teen-durable.jpg",
+    "/workspace/bp-office-wellness-1028/assets/staged/wellness/wel-yoga-minimal.jpg",
+    "/workspace/bp-office-wellness-1028/assets/staged/wellness/wel-yoga-props.jpg"
+  ],
+  "ui_screenshots": false,
+  "bleed_mode": "flush-cream",
+  "title": "Weberman Wellness Design"
+}

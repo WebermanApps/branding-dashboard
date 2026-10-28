@@ -1,0 +1,28 @@
+{
+  "category": "residence-finishes",
+  "asset_paths": [
+    "/workspace/bp-office-wellness-1028/assets/staged/courtyard/cy-canopy-dense.jpg",
+    "/workspace/bp-office-wellness-1028/assets/staged/courtyard/cy-canopy-light.jpg",
+    "/workspace/bp-office-wellness-1028/assets/staged/courtyard/cy-engawa-hard.jpg",
+    "/workspace/bp-office-wellness-1028/assets/staged/courtyard/cy-engawa-soft.jpg",
+    "/workspace/bp-office-wellness-1028/assets/staged/courtyard/cy-family-day.jpg",
+    "/workspace/bp-office-wellness-1028/assets/staged/courtyard/cy-family-evening.jpg",
+    "/workspace/bp-office-wellness-1028/assets/staged/courtyard/cy-night-path.jpg",
+    "/workspace/bp-office-wellness-1028/assets/staged/courtyard/cy-night-trees.jpg",
+    "/workspace/bp-office-wellness-1028/assets/staged/courtyard/cy-overall-family.jpg",
+    "/workspace/bp-office-wellness-1028/assets/staged/courtyard/cy-overall-quiet.jpg",
+    "/workspace/bp-office-wellness-1028/assets/staged/courtyard/cy-pave-honed.jpg",
+    "/workspace/bp-office-wellness-1028/assets/staged/courtyard/cy-pave-veined.jpg",
+    "/workspace/bp-office-wellness-1028/assets/staged/courtyard/cy-plant-airy.jpg",
+    "/workspace/bp-office-wellness-1028/assets/staged/courtyard/cy-plant-dense.jpg",
+    "/workspace/bp-office-wellness-1028/assets/staged/courtyard/cy-pool-flush.jpg",
+    "/workspace/bp-office-wellness-1028/assets/staged/courtyard/cy-pool-raised.jpg",
+    "/workspace/bp-office-wellness-1028/assets/staged/courtyard/cy-quiet-solo.jpg",
+    "/workspace/bp-office-wellness-1028/assets/staged/courtyard/cy-quiet-two.jpg",
+    "/workspace/bp-office-wellness-1028/assets/staged/courtyard/cy-seat-cluster.jpg",
+    "/workspace/bp-office-wellness-1028/assets/staged/courtyard/cy-seat-table.jpg"
+  ],
+  "ui_screenshots": false,
+  "bleed_mode": "flush-cream",
+  "title": "Weberman Courtyard Photo"
+}

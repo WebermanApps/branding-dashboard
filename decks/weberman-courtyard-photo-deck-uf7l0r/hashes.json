@@ -1,0 +1,102 @@
+{
+  "c1": {
+    "A": {
+      "label": "Pale limestone · honed",
+      "sha12": "2a82d07fe6fa"
+    },
+    "B": {
+      "label": "Pale limestone · soft vein",
+      "sha12": "91c0368107de"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Flush stone lip",
+      "sha12": "1b0a60ff729c"
+    },
+    "B": {
+      "label": "Slightly raised coping",
+      "sha12": "34eb930d5596"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "Dense layered green",
+      "sha12": "012832e0f79f"
+    },
+    "B": {
+      "label": "Layered · more breath",
+      "sha12": "9adcea1257f2"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "Linear ground wash",
+      "sha12": "c15441bb52e5"
+    },
+    "B": {
+      "label": "Wash + tree uplights",
+      "sha12": "a93b7ffb5f79"
+    }
+  },
+  "c5": {
+    "A": {
+      "label": "Timber chairs clustered",
+      "sha12": "4c34ac250f6f"
+    },
+    "B": {
+      "label": "Chairs + low timber table",
+      "sha12": "daaeed7b9f97"
+    }
+  },
+  "c6": {
+    "A": {
+      "label": "Soft planting led",
+      "sha12": "1fa57ec7a392"
+    },
+    "B": {
+      "label": "Hard stone band led",
+      "sha12": "bc0607ca7e3f"
+    }
+  },
+  "c7": {
+    "A": {
+      "label": "Dense maple dappled",
+      "sha12": "b814158b38aa"
+    },
+    "B": {
+      "label": "Lighter bamboo dappled",
+      "sha12": "18757c20ef63"
+    }
+  },
+  "c8": {
+    "A": {
+      "label": "Solo morning tea engawa",
+      "sha12": "5060dd1d8e86"
+    },
+    "B": {
+      "label": "Quiet tea for two by pool",
+      "sha12": "1dfabc27989a"
+    }
+  },
+  "c9": {
+    "A": {
+      "label": "Evening timber gather",
+      "sha12": "bb00bded8b82"
+    },
+    "B": {
+      "label": "Daytime family court",
+      "sha12": "3345967ed244"
+    }
+  },
+  "c10": {
+    "A": {
+      "label": "Morning tea quiet court",
+      "sha12": "40d5d535a2d4"
+    },
+    "B": {
+      "label": "Family gather court",
+      "sha12": "dfc1ecafcf39"
+    }
+  }
+}

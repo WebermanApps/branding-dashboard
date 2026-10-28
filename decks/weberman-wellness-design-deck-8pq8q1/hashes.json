@@ -1,0 +1,102 @@
+{
+  "c1": {
+    "A": {
+      "label": "Gym-forward wing",
+      "sha12": "6511bec31ff5"
+    },
+    "B": {
+      "label": "Spa-forward wing",
+      "sha12": "e3062d74dc80"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Free weights rack",
+      "sha12": "0b5d67734fdf"
+    },
+    "B": {
+      "label": "Machines-forward",
+      "sha12": "5f383b5e55db"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "Treadmill · bike · rower",
+      "sha12": "14709ff388d4"
+    },
+    "B": {
+      "label": "Open mats · no machines",
+      "sha12": "052791471e65"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "Large open mat floor",
+      "sha12": "1a3a712fba56"
+    },
+    "B": {
+      "label": "Divided equipment lanes",
+      "sha12": "c0b5d17004a3"
+    }
+  },
+  "c5": {
+    "A": {
+      "label": "Open cubbies",
+      "sha12": "72332c58ec0d"
+    },
+    "B": {
+      "label": "Closed lockers",
+      "sha12": "618f49d11e61"
+    }
+  },
+  "c6": {
+    "A": {
+      "label": "Full glass wall open",
+      "sha12": "211f29367df1"
+    },
+    "B": {
+      "label": "Framed garden doors",
+      "sha12": "b43e96271c29"
+    }
+  },
+  "c7": {
+    "A": {
+      "label": "Short daily heat",
+      "sha12": "bdaa189a923f"
+    },
+    "B": {
+      "label": "Longer spa sessions",
+      "sha12": "61e24dd172b9"
+    }
+  },
+  "c8": {
+    "A": {
+      "label": "Props wall + bolsters",
+      "sha12": "c3efb1034e16"
+    },
+    "B": {
+      "label": "Minimal mats only",
+      "sha12": "72f07f44fa08"
+    }
+  },
+  "c9": {
+    "A": {
+      "label": "Generous changing + lockers",
+      "sha12": "d1185178a031"
+    },
+    "B": {
+      "label": "Compact changing niche",
+      "sha12": "f88b55f7d6f7"
+    }
+  },
+  "c10": {
+    "A": {
+      "label": "Teen-friendly durable",
+      "sha12": "c77138e03df4"
+    },
+    "B": {
+      "label": "Spa soft luxury",
+      "sha12": "999fda63433f"
+    }
+  }
+}
