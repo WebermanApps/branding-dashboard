@@ -2,6 +2,24 @@
  "agent": "branding",
  "decks": [
   {
+   "id": "command-center-tools-van-shop-tile-deck-9o9eqp",
+   "name": "Command Center Tools Van & Shop Tile",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/command-center-tools-van-shop-tile-deck-9o9eqp/",
+   "total": 8,
+   "answered": 0,
+   "tag": "Max's Picks",
+   "status": "open",
+   "added": "2026-10-28T21:20:17+07:00",
+   "note": "Machan via UpKeep Develop Oct 28 ~9:12 PM ICT — Tools & Equipment TILE CONTENT remake: per-van blocks (Van #1 / #2 / #3 + Tech Dash) + At the Shop, separate from van lows. No CC header-level Needs Machan (Needs stays per-section tile only). Six CC section tiles must fit a MacBook. Supersedes 9ilqo3. Fixed dark shell + cream tiles.",
+   "requested_at": "2026-10-28T21:12:00+07:00",
+   "pinned": true,
+   "new": true,
+   "blurb": "8 cards, ready now, with Notes",
+   "agent": "upkeep",
+   "made": "2026-10-28",
+   "supersedes": "command-center-tools-equipment-tile-deck-9ilqo3"
+  },
+  {
    "id": "command-center-members-tile-deck-v7bucs",
    "name": "Command Center Members Tile",
    "url": "https://webermanapps.github.io/branding-djqmb410/decks/command-center-members-tile-deck-v7bucs/",
@@ -39,23 +57,6 @@
    "id": "command-center-scheduling-tile-deck-hqq4gd",
    "name": "Command Center Scheduling Tile",
    "url": "https://webermanapps.github.io/branding-djqmb410/decks/command-center-scheduling-tile-deck-hqq4gd/",
-   "total": 6,
-   "answered": 0,
-   "tag": "Max's Picks",
-   "status": "open",
-   "added": "2026-10-28T20:43:42+07:00",
-   "note": "Machan via UpKeep Develop Oct 28 evening ICT — Command Center section TILE CONTENT / info hierarchy (Members, Technicians, Scheduling, Tools & Equipment, Marketing, Ping Log). Glance-only; Ping Log expandable; Marketing summary-only (dashboard later). Separate from Color Tone + Appearance. Fixed dark shell + cream tiles.",
-   "requested_at": "2026-10-28T20:30:00+07:00",
-   "pinned": true,
-   "new": true,
-   "blurb": "6 cards, ready now, with Notes",
-   "agent": "upkeep",
-   "made": "2026-10-28"
-  },
-  {
-   "id": "command-center-tools-equipment-tile-deck-9ilqo3",
-   "name": "Command Center Tools & Equipment Tile",
-   "url": "https://webermanapps.github.io/branding-djqmb410/decks/command-center-tools-equipment-tile-deck-9ilqo3/",
    "total": 6,
    "answered": 0,
    "tag": "Max's Picks",
@@ -235,8 +236,20 @@
    "done_at": "2026-10-28T14:35:24+07:00"
   }
  ],
- "updated": "2026-10-28T20:43:42+07:00",
+ "updated": "2026-10-28T21:20:17+07:00",
  "done": [
+  {
+   "id": "command-center-tools-equipment-tile-deck-9ilqo3",
+   "at": "2026-10-28T21:20:17+07:00",
+   "name": "Command Center Tools & Equipment Tile",
+   "status": "superseded",
+   "note": "Superseded Oct 28 ~9:12 PM ICT by command-center-tools-van-shop-tile-deck-9o9eqp — van blocks + At the Shop remake (Machan / UpKeep Develop). Live: https://webermanapps.github.io/branding-djqmb410/decks/command-center-tools-van-shop-tile-deck-9o9eqp/",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/command-center-tools-equipment-tile-deck-9ilqo3/",
+   "total": 6,
+   "answered": 0,
+   "agent": "upkeep",
+   "superseded_by": "command-center-tools-van-shop-tile-deck-9o9eqp"
+  },
   {
    "id": "up-next-deck",
    "at": "2026-10-14T19:44:00+07:00",
@@ -1711,6 +1724,18 @@
  "queued_note": "Held back by the 5-deck cap (pinned + decks <= 5). Requested decks never count toward the cap and never show in the header shelf.",
  "requested": [
   {
+   "id": "command-center-tools-van-shop-tile-deck-9o9eqp",
+   "name": "Command Center Tools Van & Shop Tile",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/command-center-tools-van-shop-tile-deck-9o9eqp/",
+   "total": 8,
+   "answered": 0,
+   "tag": "Max's Picks",
+   "status": "open",
+   "requested_at": "2026-10-28T21:12:00+07:00",
+   "added": "2026-10-28T21:20:17+07:00",
+   "note": "Machan via UpKeep Develop Oct 28 ~9:12 PM ICT — Tools & Equipment TILE CONTENT remake: per-van blocks (Van #1 / #2 / #3 + Tech Dash) + At the Shop, separate from van lows. No CC header-level Needs Machan (Needs stays per-section tile only). Six CC section tiles must fit a MacBook. Supersedes 9ilqo3. Fixed dark shell + cream tiles."
+  },
+  {
    "id": "command-center-members-tile-deck-v7bucs",
    "name": "Command Center Members Tile",
    "url": "https://webermanapps.github.io/branding-djqmb410/decks/command-center-members-tile-deck-v7bucs/",
@@ -1738,18 +1763,6 @@
    "id": "command-center-scheduling-tile-deck-hqq4gd",
    "name": "Command Center Scheduling Tile",
    "url": "https://webermanapps.github.io/branding-djqmb410/decks/command-center-scheduling-tile-deck-hqq4gd/",
-   "total": 6,
-   "answered": 0,
-   "tag": "Max's Picks",
-   "status": "open",
-   "requested_at": "2026-10-28T20:30:00+07:00",
-   "added": "2026-10-28T20:43:42+07:00",
-   "note": "Machan via UpKeep Develop Oct 28 evening ICT — Command Center section TILE CONTENT / info hierarchy (Members, Technicians, Scheduling, Tools & Equipment, Marketing, Ping Log). Glance-only; Ping Log expandable; Marketing summary-only (dashboard later). Separate from Color Tone + Appearance. Fixed dark shell + cream tiles."
-  },
-  {
-   "id": "command-center-tools-equipment-tile-deck-9ilqo3",
-   "name": "Command Center Tools & Equipment Tile",
-   "url": "https://webermanapps.github.io/branding-djqmb410/decks/command-center-tools-equipment-tile-deck-9ilqo3/",
    "total": 6,
    "answered": 0,
    "tag": "Max's Picks",

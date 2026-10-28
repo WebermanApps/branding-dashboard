@@ -1,0 +1,25 @@
+{
+  "category": "cc-tools-van-blocks",
+  "ui_screenshots": true,
+  "bleed_mode": "edge-safe",
+  "asset_paths": [
+    "/workspace/cc-tools-van-tile-1028/mocks/vs_blocks.jpg",
+    "/workspace/cc-tools-van-tile-1028/mocks/vs_flat.jpg",
+    "/workspace/cc-tools-van-tile-1028/mocks/van_lines.jpg",
+    "/workspace/cc-tools-van-tile-1028/mocks/van_chips.jpg",
+    "/workspace/cc-tools-van-tile-1028/mocks/shop_always.jpg",
+    "/workspace/cc-tools-van-tile-1028/mocks/shop_when.jpg",
+    "/workspace/cc-tools-van-tile-1028/mocks/order_vans_shop.jpg",
+    "/workspace/cc-tools-van-tile-1028/mocks/order_shop_first.jpg",
+    "/workspace/cc-tools-van-tile-1028/mocks/peek_all.jpg",
+    "/workspace/cc-tools-van-tile-1028/mocks/peek_lows.jpg",
+    "/workspace/cc-tools-van-tile-1028/mocks/dense_compact.jpg",
+    "/workspace/cc-tools-van-tile-1028/mocks/dense_roomy.jpg",
+    "/workspace/cc-tools-van-tile-1028/mocks/needs_global.jpg",
+    "/workspace/cc-tools-van-tile-1028/mocks/needs_per.jpg",
+    "/workspace/cc-tools-van-tile-1028/mocks/overall_a.jpg",
+    "/workspace/cc-tools-van-tile-1028/mocks/overall_b.jpg"
+  ],
+  "agent": "upkeep",
+  "supersedes": "command-center-tools-equipment-tile-deck-9ilqo3"
+}
