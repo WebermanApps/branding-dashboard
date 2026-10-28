@@ -1,0 +1,122 @@
+{
+  "c1": {
+    "A": {
+      "label": "One large statement piece",
+      "sha12": "611dc4bd10c8"
+    },
+    "B": {
+      "label": "Busy gallery wall of many small works",
+      "sha12": "4034be894585"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Photography — landscape, travel, family",
+      "sha12": "6c2792db3723"
+    },
+    "B": {
+      "label": "Abstract / color-field painting",
+      "sha12": "963a66f6309e"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "Thai / Chiang Mai craft & textile / lacquer",
+      "sha12": "32a6b7e95dd4"
+    },
+    "B": {
+      "label": "Clean international modern",
+      "sha12": "a2851d9edf65"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "Botanical / nature motifs",
+      "sha12": "9480e21cfc78"
+    },
+    "B": {
+      "label": "Figurative people / portraits",
+      "sha12": "e06b0804ed0b"
+    }
+  },
+  "c5": {
+    "A": {
+      "label": "Soft watercolor / ink wash",
+      "sha12": "f8ffa26ad6c5"
+    },
+    "B": {
+      "label": "Bold graphic poster / typographic print",
+      "sha12": "2d44bb7638c2"
+    }
+  },
+  "c6": {
+    "A": {
+      "label": "Sculpture / ceramic objects on shelves",
+      "sha12": "b9231bca5fbd"
+    },
+    "B": {
+      "label": "Flat wall art only",
+      "sha12": "8e3e9ca72c3c"
+    }
+  },
+  "c7": {
+    "A": {
+      "label": "Warm earthy terracotta · wood · cream",
+      "sha12": "0b31a19ed29b"
+    },
+    "B": {
+      "label": "Cool soft blues · greens · white",
+      "sha12": "70191d98b533"
+    }
+  },
+  "c8": {
+    "A": {
+      "label": "Vintage / thrifted / found objects as display",
+      "sha12": "69b57ce42304"
+    },
+    "B": {
+      "label": "New commissioned or store-bought art",
+      "sha12": "4fa592354549"
+    }
+  },
+  "c9": {
+    "A": {
+      "label": "Kids’ drawings & family photos mixed in proudly",
+      "sha12": "6d1b2a5ad616"
+    },
+    "B": {
+      "label": "Grown-up curated collection only",
+      "sha12": "eea53de83410"
+    }
+  },
+  "c10": {
+    "A": {
+      "label": "Living plants / trailing greenery as the focus",
+      "sha12": "b1ba2ff20c98"
+    },
+    "B": {
+      "label": "Ceramic / object still-life displays",
+      "sha12": "d85354e1f95a"
+    }
+  },
+  "c11": {
+    "A": {
+      "label": "Framed under glass with mat",
+      "sha12": "66ddc02e07fb"
+    },
+    "B": {
+      "label": "Floating canvas / unframed textile hang",
+      "sha12": "b2b2a747bd6d"
+    }
+  },
+  "c12": {
+    "A": {
+      "label": "Quiet empty wall with one quiet piece",
+      "sha12": "8f17d8b317d5"
+    },
+    "B": {
+      "label": "Walls that feel collected and layered",
+      "sha12": "90ce669c6ee4"
+    }
+  }
+}
