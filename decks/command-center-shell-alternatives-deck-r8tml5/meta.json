@@ -1,0 +1,28 @@
+{
+  "category": "cc-shell-alternatives",
+  "ui_screenshots": true,
+  "bleed_mode": "edge-safe",
+  "asset_paths": [
+    "/workspace/upkeep-improve-1028/mocks/ccs_current_dark.jpg",
+    "/workspace/upkeep-improve-1028/mocks/ccs_light_warm.jpg",
+    "/workspace/upkeep-improve-1028/mocks/ccs_parchment.jpg",
+    "/workspace/upkeep-improve-1028/mocks/ccs_soft_slate.jpg",
+    "/workspace/upkeep-improve-1028/mocks/ccs_all_cream.jpg",
+    "/workspace/upkeep-improve-1028/mocks/ccs_tinted_sand.jpg",
+    "/workspace/upkeep-improve-1028/mocks/ccs_airy_mist.jpg",
+    "/workspace/upkeep-improve-1028/mocks/ccs_lagoon_tint.jpg",
+    "/workspace/upkeep-improve-1028/mocks/ccs_dark_vs_light_a.jpg",
+    "/workspace/upkeep-improve-1028/mocks/ccs_dark_vs_light_b.jpg",
+    "/workspace/upkeep-improve-1028/mocks/ccs_tile_contrast_hi.jpg",
+    "/workspace/upkeep-improve-1028/mocks/ccs_tile_contrast_lo.jpg",
+    "/workspace/upkeep-improve-1028/mocks/ccs_overall_light.jpg",
+    "/workspace/upkeep-improve-1028/mocks/ccs_overall_dark.jpg",
+    "/workspace/upkeep-improve-1028/mocks/ccs_parchment_fav.jpg",
+    "/workspace/upkeep-improve-1028/mocks/ccs_light_warm_fav.jpg",
+    "/workspace/upkeep-improve-1028/mocks/ccs_slate_middle.jpg",
+    "/workspace/upkeep-improve-1028/mocks/ccs_full_light.jpg",
+    "/workspace/upkeep-improve-1028/mocks/ccs_dir_light.jpg",
+    "/workspace/upkeep-improve-1028/mocks/ccs_dir_dark.jpg"
+  ],
+  "agent": "upkeep"
+}

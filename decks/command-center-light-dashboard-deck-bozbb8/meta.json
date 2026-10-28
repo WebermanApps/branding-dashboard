@@ -1,0 +1,28 @@
+{
+  "category": "cc-light-dashboard",
+  "ui_screenshots": true,
+  "bleed_mode": "edge-safe",
+  "asset_paths": [
+    "/workspace/upkeep-improve-1028/mocks/ccl_header_airy.jpg",
+    "/workspace/upkeep-improve-1028/mocks/ccl_header_dense.jpg",
+    "/workspace/upkeep-improve-1028/mocks/ccl_radius_soft.jpg",
+    "/workspace/upkeep-improve-1028/mocks/ccl_radius_tight.jpg",
+    "/workspace/upkeep-improve-1028/mocks/ccl_shadow_lift.jpg",
+    "/workspace/upkeep-improve-1028/mocks/ccl_shadow_edge.jpg",
+    "/workspace/upkeep-improve-1028/mocks/ccl_accent_terra.jpg",
+    "/workspace/upkeep-improve-1028/mocks/ccl_accent_lagoon.jpg",
+    "/workspace/upkeep-improve-1028/mocks/ccl_type_sans.jpg",
+    "/workspace/upkeep-improve-1028/mocks/ccl_type_mono.jpg",
+    "/workspace/upkeep-improve-1028/mocks/ccl_inset_on.jpg",
+    "/workspace/upkeep-improve-1028/mocks/ccl_inset_off.jpg",
+    "/workspace/upkeep-improve-1028/mocks/ccl_gap_airy.jpg",
+    "/workspace/upkeep-improve-1028/mocks/ccl_gap_compact.jpg",
+    "/workspace/upkeep-improve-1028/mocks/ccl_overall_airy.jpg",
+    "/workspace/upkeep-improve-1028/mocks/ccl_overall_parchment.jpg",
+    "/workspace/upkeep-improve-1028/mocks/ccl_commit_light.jpg",
+    "/workspace/upkeep-improve-1028/mocks/ccl_keep_dark_track.jpg",
+    "/workspace/upkeep-improve-1028/mocks/ccl_ship_airy.jpg",
+    "/workspace/upkeep-improve-1028/mocks/ccl_ship_parchment.jpg"
+  ],
+  "agent": "upkeep"
+}

@@ -1,0 +1,102 @@
+{
+  "c1": {
+    "A": {
+      "label": "Current deep dark + cream tiles",
+      "sha12": "2cb54f759c1b"
+    },
+    "B": {
+      "label": "Light-warm cream board",
+      "sha12": "792462dad840"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Soft parchment board",
+      "sha12": "4721aaf34e8f"
+    },
+    "B": {
+      "label": "Soft slate (not black)",
+      "sha12": "fa3fc9df543b"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "All-cream CC",
+      "sha12": "8bd40663a559"
+    },
+    "B": {
+      "label": "Tinted sand shell",
+      "sha12": "db980d60c8d0"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "Airy mist (cool light)",
+      "sha12": "a4697a80cc63"
+    },
+    "B": {
+      "label": "Lagoon-tint shell",
+      "sha12": "6b253d646bec"
+    }
+  },
+  "c5": {
+    "A": {
+      "label": "Deep dark (current)",
+      "sha12": "aed1da0b6469"
+    },
+    "B": {
+      "label": "Light-warm (contender)",
+      "sha12": "a9967171a00c"
+    }
+  },
+  "c6": {
+    "A": {
+      "label": "High-contrast white tiles",
+      "sha12": "966c5f8d864a"
+    },
+    "B": {
+      "label": "Low-contrast sand tiles",
+      "sha12": "b3b78205353d"
+    }
+  },
+  "c7": {
+    "A": {
+      "label": "Airy light-warm + white tiles",
+      "sha12": "29c49fd378bc"
+    },
+    "B": {
+      "label": "Keep deep dark baseline",
+      "sha12": "9f188dfd28c0"
+    }
+  },
+  "c8": {
+    "A": {
+      "label": "Parchment board overall",
+      "sha12": "3c966b8f7904"
+    },
+    "B": {
+      "label": "Plain light-warm overall",
+      "sha12": "69be9b1fea79"
+    }
+  },
+  "c9": {
+    "A": {
+      "label": "Soft slate middle",
+      "sha12": "172d958a5af5"
+    },
+    "B": {
+      "label": "No — go full light",
+      "sha12": "0041535872ac"
+    }
+  },
+  "c10": {
+    "A": {
+      "label": "Light-warm / parchment family",
+      "sha12": "a358eb65e76d"
+    },
+    "B": {
+      "label": "Deep dark family (current)",
+      "sha12": "229056d5f15d"
+    }
+  }
+}

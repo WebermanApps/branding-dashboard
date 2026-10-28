@@ -1,0 +1,22 @@
+{
+  "category": "cc-visual",
+  "ui_screenshots": true,
+  "bleed_mode": "edge-safe",
+  "asset_paths": [
+    "/workspace/upkeep-improve-1028/mocks/ccv_contrast_punch.jpg",
+    "/workspace/upkeep-improve-1028/mocks/ccv_contrast_soft.jpg",
+    "/workspace/upkeep-improve-1028/mocks/ccv_chrome_inset.jpg",
+    "/workspace/upkeep-improve-1028/mocks/ccv_chrome_flat.jpg",
+    "/workspace/upkeep-improve-1028/mocks/ccv_accent_left.jpg",
+    "/workspace/upkeep-improve-1028/mocks/ccv_accent_quiet.jpg",
+    "/workspace/upkeep-improve-1028/mocks/ccv_gap_tight.jpg",
+    "/workspace/upkeep-improve-1028/mocks/ccv_gap_roomy.jpg",
+    "/workspace/upkeep-improve-1028/mocks/ccv_shadow_soft.jpg",
+    "/workspace/upkeep-improve-1028/mocks/ccv_shadow_crisp.jpg",
+    "/workspace/upkeep-improve-1028/mocks/ccv_type_heavy.jpg",
+    "/workspace/upkeep-improve-1028/mocks/ccv_type_light.jpg",
+    "/workspace/upkeep-improve-1028/mocks/ccv_overall_a.jpg",
+    "/workspace/upkeep-improve-1028/mocks/ccv_overall_b.jpg"
+  ],
+  "agent": "upkeep"
+}

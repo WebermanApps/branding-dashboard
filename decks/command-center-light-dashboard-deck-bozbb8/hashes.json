@@ -1,0 +1,102 @@
+{
+  "c1": {
+    "A": {
+      "label": "Airy light header",
+      "sha12": "5e809bf40f80"
+    },
+    "B": {
+      "label": "Dense mission header",
+      "sha12": "0759a84fd696"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Soft large radii",
+      "sha12": "d8165791fc52"
+    },
+    "B": {
+      "label": "Tighter crisp radii",
+      "sha12": "60910a1beda3"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "Soft lift shadows",
+      "sha12": "7f1602c59e37"
+    },
+    "B": {
+      "label": "Crisp edge shadows",
+      "sha12": "8fc132eacff5"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "Warm amber / terra accents",
+      "sha12": "8933ec5367b2"
+    },
+    "B": {
+      "label": "Lagoon accents on light",
+      "sha12": "aa684ab3ab52"
+    }
+  },
+  "c5": {
+    "A": {
+      "label": "Sans UI type",
+      "sha12": "349cae2c3607"
+    },
+    "B": {
+      "label": "Mono instrument type",
+      "sha12": "6d6668f81b22"
+    }
+  },
+  "c6": {
+    "A": {
+      "label": "Inset white tiles",
+      "sha12": "39fddea4755b"
+    },
+    "B": {
+      "label": "Ink-border flat tiles",
+      "sha12": "4efe70aa2a6d"
+    }
+  },
+  "c7": {
+    "A": {
+      "label": "Airy gaps",
+      "sha12": "a61bbea1b77c"
+    },
+    "B": {
+      "label": "Compact gaps",
+      "sha12": "dd57c443a6a3"
+    }
+  },
+  "c8": {
+    "A": {
+      "label": "Airy light-warm · lagoon · soft lift",
+      "sha12": "60553d6d1408"
+    },
+    "B": {
+      "label": "Parchment · amber · soft sand",
+      "sha12": "8e41bb85fb9b"
+    }
+  },
+  "c9": {
+    "A": {
+      "label": "Commit light chrome track",
+      "sha12": "04df8369cddd"
+    },
+    "B": {
+      "label": "Keep dark Appearance track primary",
+      "sha12": "72ff9e609ade"
+    }
+  },
+  "c10": {
+    "A": {
+      "label": "Ship airy light-warm default",
+      "sha12": "bbd491ba75f2"
+    },
+    "B": {
+      "label": "Ship parchment default",
+      "sha12": "411737e17127"
+    }
+  }
+}

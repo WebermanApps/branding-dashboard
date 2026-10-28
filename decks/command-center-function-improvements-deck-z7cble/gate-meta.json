@@ -1,0 +1,24 @@
+{
+  "category": "cc-function",
+  "asset_paths": [
+    "/workspace/upkeep-improve-1028/mocks/ccf_mac_tight.jpg",
+    "/workspace/upkeep-improve-1028/mocks/ccf_mac_roomy.jpg",
+    "/workspace/upkeep-improve-1028/mocks/ccf_click_tile.jpg",
+    "/workspace/upkeep-improve-1028/mocks/ccf_click_open.jpg",
+    "/workspace/upkeep-improve-1028/mocks/ccf_tools_empty.jpg",
+    "/workspace/upkeep-improve-1028/mocks/ccf_tools_cta.jpg",
+    "/workspace/upkeep-improve-1028/mocks/ccf_mkt_cta.jpg",
+    "/workspace/upkeep-improve-1028/mocks/ccf_mkt_kpi.jpg",
+    "/workspace/upkeep-improve-1028/mocks/ccf_ping_collapse.jpg",
+    "/workspace/upkeep-improve-1028/mocks/ccf_ping_expand.jpg",
+    "/workspace/upkeep-improve-1028/mocks/ccf_needs_section.jpg",
+    "/workspace/upkeep-improve-1028/mocks/ccf_needs_header.jpg",
+    "/workspace/upkeep-improve-1028/mocks/ccf_mem_tl.jpg",
+    "/workspace/upkeep-improve-1028/mocks/ccf_mem_metrics.jpg",
+    "/workspace/upkeep-improve-1028/mocks/ccf_overall_a.jpg",
+    "/workspace/upkeep-improve-1028/mocks/ccf_overall_b.jpg"
+  ],
+  "ui_screenshots": true,
+  "bleed_mode": "edge-safe",
+  "title": "Command Center Function Improvements"
+}

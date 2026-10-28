@@ -1,0 +1,82 @@
+{
+  "c1": {
+    "A": {
+      "label": "Tight fit — all 6 above the fold",
+      "sha12": "10f97344178a"
+    },
+    "B": {
+      "label": "Roomier — light scroll OK",
+      "sha12": "bf256e702f2e"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Whole tile opens board",
+      "sha12": "da9dc1bc2bba"
+    },
+    "B": {
+      "label": "Header “Open” only",
+      "sha12": "b44af89671ff"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "Quiet empty + order CTA",
+      "sha12": "dfdd24911c20"
+    },
+    "B": {
+      "label": "Always-on order strip",
+      "sha12": "3e0fb8bdebfe"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "Build first campaign CTA",
+      "sha12": "ddb4157738c2"
+    },
+    "B": {
+      "label": "Early KPI placeholders only",
+      "sha12": "d7e101f9ab49"
+    }
+  },
+  "c5": {
+    "A": {
+      "label": "Collapsed · recent 3",
+      "sha12": "03fa289cec62"
+    },
+    "B": {
+      "label": "Expanded · scroll in tile",
+      "sha12": "e160027c1b3b"
+    }
+  },
+  "c6": {
+    "A": {
+      "label": "Per-section Needs only",
+      "sha12": "f634315f5e2e"
+    },
+    "B": {
+      "label": "Header Needs band",
+      "sha12": "7e93f9604f79"
+    }
+  },
+  "c7": {
+    "A": {
+      "label": "Timeline / open-items peek",
+      "sha12": "15b8d322fe40"
+    },
+    "B": {
+      "label": "Metrics-first glance",
+      "sha12": "7c035d17bf15"
+    }
+  },
+  "c8": {
+    "A": {
+      "label": "Tight 6 · whole-tile click · per-section Needs",
+      "sha12": "13277fbda1cb"
+    },
+    "B": {
+      "label": "Roomier · Open-link · header Needs",
+      "sha12": "2e953c160a0c"
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "category": "member-function",
+  "ui_screenshots": true,
+  "bleed_mode": "edge-safe",
+  "asset_paths": [
+    "/workspace/upkeep-improve-1028/mocks/mf_nv_compact.jpg",
+    "/workspace/upkeep-improve-1028/mocks/mf_nv_expanded.jpg",
+    "/workspace/upkeep-improve-1028/mocks/mf_resched_popup.jpg",
+    "/workspace/upkeep-improve-1028/mocks/mf_resched_home.jpg",
+    "/workspace/upkeep-improve-1028/mocks/mf_ask_wait.jpg",
+    "/workspace/upkeep-improve-1028/mocks/mf_ask_safe.jpg",
+    "/workspace/upkeep-improve-1028/mocks/mf_quote_sticky.jpg",
+    "/workspace/upkeep-improve-1028/mocks/mf_quote_bleed.jpg",
+    "/workspace/upkeep-improve-1028/mocks/mf_plan_ring.jpg",
+    "/workspace/upkeep-improve-1028/mocks/mf_plan_chip.jpg",
+    "/workspace/upkeep-improve-1028/mocks/mf_reports_tab.jpg",
+    "/workspace/upkeep-improve-1028/mocks/mf_reports_home.jpg",
+    "/workspace/upkeep-improve-1028/mocks/mf_acct_flat.jpg",
+    "/workspace/upkeep-improve-1028/mocks/mf_acct_soft.jpg",
+    "/workspace/upkeep-improve-1028/mocks/mf_onboard_welcome.jpg",
+    "/workspace/upkeep-improve-1028/mocks/mf_onboard_skip.jpg",
+    "/workspace/upkeep-improve-1028/mocks/mf_overall_a.jpg",
+    "/workspace/upkeep-improve-1028/mocks/mf_overall_b.jpg"
+  ],
+  "agent": "upkeep"
+}

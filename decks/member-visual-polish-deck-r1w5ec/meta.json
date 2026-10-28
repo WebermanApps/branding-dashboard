@@ -1,0 +1,24 @@
+{
+  "category": "member-visual",
+  "ui_screenshots": true,
+  "bleed_mode": "edge-safe",
+  "asset_paths": [
+    "/workspace/upkeep-improve-1028/mocks/mv_greet_large.jpg",
+    "/workspace/upkeep-improve-1028/mocks/mv_greet_compact.jpg",
+    "/workspace/upkeep-improve-1028/mocks/mv_hero_on.jpg",
+    "/workspace/upkeep-improve-1028/mocks/mv_hero_below.jpg",
+    "/workspace/upkeep-improve-1028/mocks/mv_nv_blend_a.jpg",
+    "/workspace/upkeep-improve-1028/mocks/mv_nv_blend_b.jpg",
+    "/workspace/upkeep-improve-1028/mocks/mv_pill_airy.jpg",
+    "/workspace/upkeep-improve-1028/mocks/mv_pill_dense.jpg",
+    "/workspace/upkeep-improve-1028/mocks/mv_plan_airy.jpg",
+    "/workspace/upkeep-improve-1028/mocks/mv_plan_dense.jpg",
+    "/workspace/upkeep-improve-1028/mocks/mv_accent_multi.jpg",
+    "/workspace/upkeep-improve-1028/mocks/mv_accent_single.jpg",
+    "/workspace/upkeep-improve-1028/mocks/mv_avatar_strong.jpg",
+    "/workspace/upkeep-improve-1028/mocks/mv_avatar_quiet.jpg",
+    "/workspace/upkeep-improve-1028/mocks/mv_overall_a.jpg",
+    "/workspace/upkeep-improve-1028/mocks/mv_overall_b.jpg"
+  ],
+  "agent": "upkeep"
+}

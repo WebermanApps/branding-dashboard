@@ -1,0 +1,24 @@
+{
+  "category": "tech-visual",
+  "asset_paths": [
+    "/workspace/upkeep-improve-1028/mocks/tv_hero_port.jpg",
+    "/workspace/upkeep-improve-1028/mocks/tv_hero_comp.jpg",
+    "/workspace/upkeep-improve-1028/mocks/tv_certs_inline.jpg",
+    "/workspace/upkeep-improve-1028/mocks/tv_certs_stack.jpg",
+    "/workspace/upkeep-improve-1028/mocks/tv_cream_warm.jpg",
+    "/workspace/upkeep-improve-1028/mocks/tv_cream_cool.jpg",
+    "/workspace/upkeep-improve-1028/mocks/tv_accent_lag.jpg",
+    "/workspace/upkeep-improve-1028/mocks/tv_accent_terra.jpg",
+    "/workspace/upkeep-improve-1028/mocks/tv_dock_light.jpg",
+    "/workspace/upkeep-improve-1028/mocks/tv_dock_heavy.jpg",
+    "/workspace/upkeep-improve-1028/mocks/tv_radius_soft.jpg",
+    "/workspace/upkeep-improve-1028/mocks/tv_radius_crisp.jpg",
+    "/workspace/upkeep-improve-1028/mocks/tv_type_large.jpg",
+    "/workspace/upkeep-improve-1028/mocks/tv_type_dense.jpg",
+    "/workspace/upkeep-improve-1028/mocks/tv_overall_a.jpg",
+    "/workspace/upkeep-improve-1028/mocks/tv_overall_b.jpg"
+  ],
+  "ui_screenshots": true,
+  "bleed_mode": "edge-safe",
+  "title": "Tech Visual Polish"
+}

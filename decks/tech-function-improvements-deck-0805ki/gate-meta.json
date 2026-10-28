@@ -1,0 +1,24 @@
+{
+  "category": "tech-function",
+  "asset_paths": [
+    "/workspace/upkeep-improve-1028/mocks/tf_ns_compact.jpg",
+    "/workspace/upkeep-improve-1028/mocks/tf_ns_expanded.jpg",
+    "/workspace/upkeep-improve-1028/mocks/tf_tiles_four.jpg",
+    "/workspace/upkeep-improve-1028/mocks/tf_tiles_two.jpg",
+    "/workspace/upkeep-improve-1028/mocks/tf_slide_under.jpg",
+    "/workspace/upkeep-improve-1028/mocks/tf_slide_map.jpg",
+    "/workspace/upkeep-improve-1028/mocks/tf_arrive_explicit.jpg",
+    "/workspace/upkeep-improve-1028/mocks/tf_arrive_auto.jpg",
+    "/workspace/upkeep-improve-1028/mocks/tf_van_open.jpg",
+    "/workspace/upkeep-improve-1028/mocks/tf_van_closed.jpg",
+    "/workspace/upkeep-improve-1028/mocks/tf_report_check.jpg",
+    "/workspace/upkeep-improve-1028/mocks/tf_report_film.jpg",
+    "/workspace/upkeep-improve-1028/mocks/tf_msg_dock.jpg",
+    "/workspace/upkeep-improve-1028/mocks/tf_msg_home.jpg",
+    "/workspace/upkeep-improve-1028/mocks/tf_overall_a.jpg",
+    "/workspace/upkeep-improve-1028/mocks/tf_overall_b.jpg"
+  ],
+  "ui_screenshots": true,
+  "bleed_mode": "edge-safe",
+  "title": "Tech Function Improvements"
+}

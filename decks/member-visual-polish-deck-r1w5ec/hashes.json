@@ -1,0 +1,82 @@
+{
+  "c1": {
+    "A": {
+      "label": "Large greeting",
+      "sha12": "ea766d818b58"
+    },
+    "B": {
+      "label": "Compact greeting",
+      "sha12": "6a5ffcd6fa67"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Words on photo",
+      "sha12": "b6234dcd9047"
+    },
+    "B": {
+      "label": "Words below photo",
+      "sha12": "d55ac1e3554e"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "Airy · split cards · dual actions",
+      "sha12": "77fff194b389"
+    },
+    "B": {
+      "label": "Dense · stacked · Reschedule primary",
+      "sha12": "25e1ca64938d"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "Airy pills",
+      "sha12": "268ea631244a"
+    },
+    "B": {
+      "label": "Compact chips",
+      "sha12": "8f80a16140a4"
+    }
+  },
+  "c5": {
+    "A": {
+      "label": "Airy ring-hero",
+      "sha12": "c8198a13a513"
+    },
+    "B": {
+      "label": "Dense ring tile",
+      "sha12": "df626a0156c6"
+    }
+  },
+  "c6": {
+    "A": {
+      "label": "Terracotta + lagoon + jungle soft",
+      "sha12": "7927404a7e11"
+    },
+    "B": {
+      "label": "Single lagoon system",
+      "sha12": "812567c706bb"
+    }
+  },
+  "c7": {
+    "A": {
+      "label": "Strong avatar (menu open)",
+      "sha12": "e0a27907f3f3"
+    },
+    "B": {
+      "label": "Quiet avatar",
+      "sha12": "1b23a9b53a5a"
+    }
+  },
+  "c8": {
+    "A": {
+      "label": "Large greet · words-on-photo · airy multi-accent",
+      "sha12": "50ac431ffe80"
+    },
+    "B": {
+      "label": "Compact greet · words-below · dense single-accent",
+      "sha12": "1578d56d04cb"
+    }
+  }
+}

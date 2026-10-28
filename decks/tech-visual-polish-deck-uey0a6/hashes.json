@@ -1,0 +1,82 @@
+{
+  "c1": {
+    "A": {
+      "label": "Portrait airy hero",
+      "sha12": "aecb8aa27be1"
+    },
+    "B": {
+      "label": "Compact row hero",
+      "sha12": "2ab9fc6fbaac"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Inline cert pills",
+      "sha12": "f5128cdc87fa"
+    },
+    "B": {
+      "label": "Stacked cert chips",
+      "sha12": "1092ed7eb600"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "Warmer cream cards",
+      "sha12": "e30931324992"
+    },
+    "B": {
+      "label": "Cooler paper",
+      "sha12": "ad1c4eaeac7b"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "Lagoon primary",
+      "sha12": "a12d56c2072b"
+    },
+    "B": {
+      "label": "Terracotta pops",
+      "sha12": "6d23c927796b"
+    }
+  },
+  "c5": {
+    "A": {
+      "label": "Light classic bar",
+      "sha12": "3f16caada8e7"
+    },
+    "B": {
+      "label": "Heavier bar",
+      "sha12": "4db1b27d53a9"
+    }
+  },
+  "c6": {
+    "A": {
+      "label": "Soft large radii",
+      "sha12": "a7186bc4dedf"
+    },
+    "B": {
+      "label": "Crisp tighter cards",
+      "sha12": "aaa73cd49867"
+    }
+  },
+  "c7": {
+    "A": {
+      "label": "Larger titles",
+      "sha12": "1f597b6f2c3d"
+    },
+    "B": {
+      "label": "Denser body",
+      "sha12": "4a0c44af7e0d"
+    }
+  },
+  "c8": {
+    "A": {
+      "label": "Portrait + lagoon + soft large",
+      "sha12": "0ae69f7d70c7"
+    },
+    "B": {
+      "label": "Compact + terracotta + crisp",
+      "sha12": "99aa5f0318e8"
+    }
+  }
+}

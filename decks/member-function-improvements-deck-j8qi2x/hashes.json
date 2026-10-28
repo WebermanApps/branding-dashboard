@@ -1,0 +1,92 @@
+{
+  "c1": {
+    "A": {
+      "label": "Compact pill",
+      "sha12": "6be344a25b12"
+    },
+    "B": {
+      "label": "Expanded card",
+      "sha12": "06348579f55a"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Primary in Next Visit popup",
+      "sha12": "557caadc176c"
+    },
+    "B": {
+      "label": "On the home tile",
+      "sha12": "40caada6cd25"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "Waiting confirmation",
+      "sha12": "843e61383382"
+    },
+    "B": {
+      "label": "Safe-steps tips",
+      "sha12": "a1ccc4d89907"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "Sticky bottom Accept",
+      "sha12": "990aa66c1cb2"
+    },
+    "B": {
+      "label": "Full-bleed Accept",
+      "sha12": "820c2233969a"
+    }
+  },
+  "c5": {
+    "A": {
+      "label": "Ring only — no chips",
+      "sha12": "4f6957677cc3"
+    },
+    "B": {
+      "label": "Ring + single visits chip",
+      "sha12": "664765915340"
+    }
+  },
+  "c6": {
+    "A": {
+      "label": "Home Record tab",
+      "sha12": "1f0b049ddf5b"
+    },
+    "B": {
+      "label": "Home tile link",
+      "sha12": "75256784a017"
+    }
+  },
+  "c7": {
+    "A": {
+      "label": "Flat list · roomy · crisp",
+      "sha12": "5af6e0a0beff"
+    },
+    "B": {
+      "label": "Soft panels · denser · soft shadow",
+      "sha12": "2898662a4cc2"
+    }
+  },
+  "c8": {
+    "A": {
+      "label": "Welcome first-login flow",
+      "sha12": "211345f8b179"
+    },
+    "B": {
+      "label": "Skip to home",
+      "sha12": "3df0e4edef65"
+    }
+  },
+  "c9": {
+    "A": {
+      "label": "Compact NV + sticky Accept + ring-only + welcome",
+      "sha12": "5fc2ed3ccbc7"
+    },
+    "B": {
+      "label": "Expanded NV + full-bleed Accept + tips + home Reports",
+      "sha12": "a66416c5f0db"
+    }
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "c1": {
+    "A": {
+      "label": "Compact collapsed (Saved)",
+      "sha12": "f110bae56ba0"
+    },
+    "B": {
+      "label": "Expanded live (Live)",
+      "sha12": "e4a877531193"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Four tiles (stops · mi · ETA · clock)",
+      "sha12": "c6c206a2a498"
+    },
+    "B": {
+      "label": "Two tiles + big clock",
+      "sha12": "7d58b9956904"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "Slide under clock strip",
+      "sha12": "78b18879ded6"
+    },
+    "B": {
+      "label": "Slide on map-hero",
+      "sha12": "d1b9cc390210"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "Explicit Arrive, then Start Visit",
+      "sha12": "413c02198f19"
+    },
+    "B": {
+      "label": "Auto-advance on geofence",
+      "sha12": "5bc27b61ced1"
+    }
+  },
+  "c5": {
+    "A": {
+      "label": "Open accordion (stock peek)",
+      "sha12": "e156bf818aca"
+    },
+    "B": {
+      "label": "Collapsed (badge only)",
+      "sha12": "4fa303c4a646"
+    }
+  },
+  "c6": {
+    "A": {
+      "label": "Checklist first, filmstrip after",
+      "sha12": "b9d1b78531e5"
+    },
+    "B": {
+      "label": "Filmstrip first, checklist after",
+      "sha12": "4a05a0ce4325"
+    }
+  },
+  "c7": {
+    "A": {
+      "label": "Dock badge on Messages",
+      "sha12": "356d4527dd65"
+    },
+    "B": {
+      "label": "Home shortcut card",
+      "sha12": "c1bb1611db7b"
+    }
+  },
+  "c8": {
+    "A": {
+      "label": "Expanded session + explicit arrive + checklist",
+      "sha12": "e4a877531193"
+    },
+    "B": {
+      "label": "Compact session + auto flow + filmstrip",
+      "sha12": "f110bae56ba0"
+    }
+  }
+}

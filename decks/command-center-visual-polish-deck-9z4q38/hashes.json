@@ -1,0 +1,72 @@
+{
+  "c1": {
+    "A": {
+      "label": "Punchier white tiles on deep shell",
+      "sha12": "510c50036d92"
+    },
+    "B": {
+      "label": "Softer shell blend",
+      "sha12": "bb656824df2d"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Inset cream chrome",
+      "sha12": "c480c51a5a9c"
+    },
+    "B": {
+      "label": "Flatter cream",
+      "sha12": "13c621246ad9"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "Stronger left accents",
+      "sha12": "4eb50b318db8"
+    },
+    "B": {
+      "label": "Quieter accents",
+      "sha12": "79384e021774"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "Tighter gaps (fit 6)",
+      "sha12": "e89f6e38a880"
+    },
+    "B": {
+      "label": "Roomier spacing",
+      "sha12": "85c8253250f8"
+    }
+  },
+  "c5": {
+    "A": {
+      "label": "Soft lift",
+      "sha12": "8fea85e8c9f1"
+    },
+    "B": {
+      "label": "Crisper edge",
+      "sha12": "1cbe0f09ecbc"
+    }
+  },
+  "c6": {
+    "A": {
+      "label": "Heavier titles",
+      "sha12": "1998de30c254"
+    },
+    "B": {
+      "label": "Lighter chrome",
+      "sha12": "e166db2326fe"
+    }
+  },
+  "c7": {
+    "A": {
+      "label": "Punchy tiles · inset · soft lift · heavier titles",
+      "sha12": "6657ef6d98a3"
+    },
+    "B": {
+      "label": "Softer shell · flat · crisp · lighter chrome",
+      "sha12": "dacfc84459fd"
+    }
+  }
+}
