@@ -1,0 +1,26 @@
+{
+  "category": "command-center-ui",
+  "asset_paths": [
+    "/workspace/cc-tone-appearance-1028/mocks/app_shadow_soft.jpg",
+    "/workspace/cc-tone-appearance-1028/mocks/app_shadow_crisp.jpg",
+    "/workspace/cc-tone-appearance-1028/mocks/app_radius_soft.jpg",
+    "/workspace/cc-tone-appearance-1028/mocks/app_radius_tight.jpg",
+    "/workspace/cc-tone-appearance-1028/mocks/app_border_heavy.jpg",
+    "/workspace/cc-tone-appearance-1028/mocks/app_border_hair.jpg",
+    "/workspace/cc-tone-appearance-1028/mocks/app_header_dense.jpg",
+    "/workspace/cc-tone-appearance-1028/mocks/app_header_airy.jpg",
+    "/workspace/cc-tone-appearance-1028/mocks/app_type_sans.jpg",
+    "/workspace/cc-tone-appearance-1028/mocks/app_type_mono.jpg",
+    "/workspace/cc-tone-appearance-1028/mocks/app_gap_roomy.jpg",
+    "/workspace/cc-tone-appearance-1028/mocks/app_gap_dense.jpg",
+    "/workspace/cc-tone-appearance-1028/mocks/app_lights_glow.jpg",
+    "/workspace/cc-tone-appearance-1028/mocks/app_lights_flat.jpg",
+    "/workspace/cc-tone-appearance-1028/mocks/app_inset_on.jpg",
+    "/workspace/cc-tone-appearance-1028/mocks/app_inset_flat.jpg",
+    "/workspace/cc-tone-appearance-1028/mocks/app_overall_a.jpg",
+    "/workspace/cc-tone-appearance-1028/mocks/app_overall_b.jpg"
+  ],
+  "ui_screenshots": true,
+  "bleed_mode": "edge-safe",
+  "title": "Command Center Appearance"
+}

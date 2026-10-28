@@ -1,0 +1,92 @@
+{
+  "c1": {
+    "A": {
+      "label": "Deeper black shell",
+      "sha12": "c7a1fed7ab3c"
+    },
+    "B": {
+      "label": "Softer slate shell",
+      "sha12": "af4ffbe7f6ac"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Warm parchment cream tiles",
+      "sha12": "2add4a0b99bb"
+    },
+    "B": {
+      "label": "Cooler porcelain white tiles",
+      "sha12": "2ce2954f28bc"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "NASA amber leads",
+      "sha12": "6121f30f2c23"
+    },
+    "B": {
+      "label": "Lagoon cool leads",
+      "sha12": "913f1e4aef88"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "Stronger brand accents",
+      "sha12": "c59b976a0666"
+    },
+    "B": {
+      "label": "Quieter brand accents",
+      "sha12": "6bf63d7772be"
+    }
+  },
+  "c5": {
+    "A": {
+      "label": "Warmer charcoal shell",
+      "sha12": "d1a70ac1f99a"
+    },
+    "B": {
+      "label": "Cooler navy-black shell",
+      "sha12": "eab2097f71bd"
+    }
+  },
+  "c6": {
+    "A": {
+      "label": "Parchment cream on softer dark",
+      "sha12": "253c6ed0a79f"
+    },
+    "B": {
+      "label": "Porcelain white on softer dark",
+      "sha12": "5176acc1448c"
+    }
+  },
+  "c7": {
+    "A": {
+      "label": "Vivid glowing status lights",
+      "sha12": "d167056b73b6"
+    },
+    "B": {
+      "label": "Muted flat status lights",
+      "sha12": "6fdf3081b2d0"
+    }
+  },
+  "c8": {
+    "A": {
+      "label": "Warm amber Needs Machan band",
+      "sha12": "24636576a28e"
+    },
+    "B": {
+      "label": "Cooler clear / lagoon band lean",
+      "sha12": "bd599e746310"
+    }
+  },
+  "c9": {
+    "A": {
+      "label": "Deep black · warm cream · amber lead",
+      "sha12": "a15dcb99fc05"
+    },
+    "B": {
+      "label": "Softer slate · porcelain · lagoon lead",
+      "sha12": "fe91045a58a0"
+    }
+  }
+}

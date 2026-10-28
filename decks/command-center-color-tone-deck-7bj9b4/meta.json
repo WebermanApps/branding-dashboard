@@ -1,0 +1,26 @@
+{
+  "category": "command-center-ui",
+  "ui_screenshots": true,
+  "bleed_mode": "edge-safe",
+  "asset_paths": [
+    "/workspace/cc-tone-appearance-1028/mocks/tone_shell_deep.jpg",
+    "/workspace/cc-tone-appearance-1028/mocks/tone_shell_soft.jpg",
+    "/workspace/cc-tone-appearance-1028/mocks/tone_tile_warm.jpg",
+    "/workspace/cc-tone-appearance-1028/mocks/tone_tile_cool.jpg",
+    "/workspace/cc-tone-appearance-1028/mocks/tone_accent_amber.jpg",
+    "/workspace/cc-tone-appearance-1028/mocks/tone_accent_lagoon.jpg",
+    "/workspace/cc-tone-appearance-1028/mocks/tone_tabs_strong.jpg",
+    "/workspace/cc-tone-appearance-1028/mocks/tone_tabs_soft.jpg",
+    "/workspace/cc-tone-appearance-1028/mocks/tone_shell_warm.jpg",
+    "/workspace/cc-tone-appearance-1028/mocks/tone_shell_cool.jpg",
+    "/workspace/cc-tone-appearance-1028/mocks/tone_surface_parchment.jpg",
+    "/workspace/cc-tone-appearance-1028/mocks/tone_surface_porcelain.jpg",
+    "/workspace/cc-tone-appearance-1028/mocks/tone_lights_vivid.jpg",
+    "/workspace/cc-tone-appearance-1028/mocks/tone_lights_muted.jpg",
+    "/workspace/cc-tone-appearance-1028/mocks/tone_band_amber.jpg",
+    "/workspace/cc-tone-appearance-1028/mocks/tone_band_clear.jpg",
+    "/workspace/cc-tone-appearance-1028/mocks/tone_overall_a.jpg",
+    "/workspace/cc-tone-appearance-1028/mocks/tone_overall_b.jpg"
+  ],
+  "agent": "upkeep"
+}

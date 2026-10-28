@@ -2,6 +2,40 @@
  "agent": "branding",
  "decks": [
   {
+   "id": "command-center-color-tone-deck-7bj9b4",
+   "name": "Command Center Color Tone",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/command-center-color-tone-deck-7bj9b4/",
+   "total": 9,
+   "answered": 0,
+   "tag": "Max's Picks",
+   "status": "open",
+   "added": "2026-10-28T20:40:47+07:00",
+   "note": "Machan via UpKeep Develop Oct 28 evening ICT — Command Center COLOR TONE + GENERAL APPEARANCE only. Layout fixed (uk11g: Members, Technicians, Scheduling, Tools & Equipment, Marketing, Ping Log). Dark shell + cream tiles. Do NOT redesign layout.",
+   "requested_at": "2026-10-28T20:30:00+07:00",
+   "pinned": true,
+   "new": true,
+   "blurb": "9 cards, ready now, with Notes",
+   "agent": "upkeep",
+   "made": "2026-10-28"
+  },
+  {
+   "id": "command-center-appearance-deck-b54c65",
+   "name": "Command Center Appearance",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/command-center-appearance-deck-b54c65/",
+   "total": 9,
+   "answered": 0,
+   "tag": "Max's Picks",
+   "status": "open",
+   "added": "2026-10-28T20:40:47+07:00",
+   "note": "Machan via UpKeep Develop Oct 28 evening ICT — Command Center COLOR TONE + GENERAL APPEARANCE only. Layout fixed (uk11g: Members, Technicians, Scheduling, Tools & Equipment, Marketing, Ping Log). Dark shell + cream tiles. Do NOT redesign layout.",
+   "requested_at": "2026-10-28T20:30:00+07:00",
+   "pinned": true,
+   "new": true,
+   "blurb": "9 cards, ready now, with Notes",
+   "agent": "upkeep",
+   "made": "2026-10-28"
+  },
+  {
    "id": "next-visit-look-deck-6261e7",
    "name": "Next Visit Look",
    "url": "https://webermanapps.github.io/branding-djqmb410/decks/next-visit-look-deck-6261e7/",
@@ -99,7 +133,7 @@
    "done_at": "2026-10-28T14:35:24+07:00"
   }
  ],
- "updated": "2026-10-28T20:26:41+07:00",
+ "updated": "2026-10-28T20:40:47+07:00",
  "done": [
   {
    "id": "up-next-deck",
@@ -1575,43 +1609,28 @@
  "queued_note": "Held back by the 5-deck cap (pinned + decks <= 5). Requested decks never count toward the cap and never show in the header shelf.",
  "requested": [
   {
-   "id": "next-visit-look-deck-6261e7",
-   "name": "Next Visit Look",
-   "url": "https://webermanapps.github.io/branding-djqmb410/decks/next-visit-look-deck-6261e7/",
-   "total": 10,
-   "answered": 10,
+   "id": "command-center-color-tone-deck-7bj9b4",
+   "name": "Command Center Color Tone",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/command-center-color-tone-deck-7bj9b4/",
+   "total": 9,
+   "answered": 0,
    "tag": "Max's Picks",
-   "status": "done",
-   "requested_at": "2026-10-28T19:53:00+07:00",
-   "added": "2026-10-28T20:00:24+07:00",
-   "note": "Machan via UpKeep Develop Oct 28 ~7:53 PM ICT — Member appearance polish (Next Visit Look, Your Plan Look, Account Menu). Taste/appearance only; no app bake. No tech personal names. Account Menu add-on: avatar dropdown = Profile & Account Information + Log Out only.",
-   "done_at": "2026-10-28T20:20:00+07:00"
+   "status": "open",
+   "requested_at": "2026-10-28T20:30:00+07:00",
+   "added": "2026-10-28T20:40:47+07:00",
+   "note": "Machan via UpKeep Develop Oct 28 evening ICT — Command Center COLOR TONE + GENERAL APPEARANCE only. Layout fixed (uk11g: Members, Technicians, Scheduling, Tools & Equipment, Marketing, Ping Log). Dark shell + cream tiles. Do NOT redesign layout."
   },
   {
-   "id": "your-plan-look-deck-4hqpmw",
-   "name": "Your Plan Look",
-   "url": "https://webermanapps.github.io/branding-djqmb410/decks/your-plan-look-deck-4hqpmw/",
-   "total": 7,
-   "answered": 7,
+   "id": "command-center-appearance-deck-b54c65",
+   "name": "Command Center Appearance",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/command-center-appearance-deck-b54c65/",
+   "total": 9,
+   "answered": 0,
    "tag": "Max's Picks",
-   "status": "done",
-   "requested_at": "2026-10-28T19:53:00+07:00",
-   "added": "2026-10-28T20:00:24+07:00",
-   "note": "Machan via UpKeep Develop Oct 28 ~7:53 PM ICT — Member appearance polish (Next Visit Look, Your Plan Look, Account Menu). Taste/appearance only; no app bake. No tech personal names. Account Menu add-on: avatar dropdown = Profile & Account Information + Log Out only.",
-   "done_at": "2026-10-28T20:21:00+07:00"
-  },
-  {
-   "id": "account-menu-deck-xb0464",
-   "name": "Account Menu",
-   "url": "https://webermanapps.github.io/branding-djqmb410/decks/account-menu-deck-xb0464/",
-   "total": 6,
-   "answered": 5,
-   "tag": "Max's Picks",
-   "status": "done",
-   "requested_at": "2026-10-28T19:53:00+07:00",
-   "added": "2026-10-28T20:00:24+07:00",
-   "note": "Machan via UpKeep Develop Oct 28 ~7:53 PM ICT — Member appearance polish (Next Visit Look, Your Plan Look, Account Menu). Taste/appearance only; no app bake. No tech personal names. Account Menu add-on: avatar dropdown = Profile & Account Information + Log Out only.",
-   "done_at": "2026-10-28T20:22:00+07:00"
+   "status": "open",
+   "requested_at": "2026-10-28T20:30:00+07:00",
+   "added": "2026-10-28T20:40:47+07:00",
+   "note": "Machan via UpKeep Develop Oct 28 evening ICT — Command Center COLOR TONE + GENERAL APPEARANCE only. Layout fixed (uk11g: Members, Technicians, Scheduling, Tools & Equipment, Marketing, Ping Log). Dark shell + cream tiles. Do NOT redesign layout."
   },
   {
    "id": "house-art-taste-deck-de88b3",
@@ -1840,6 +1859,45 @@
    "status": "open",
    "requested_at": "2026-10-17T21:07:54+07:00",
    "made": "2026-10-17"
+  },
+  {
+   "id": "next-visit-look-deck-6261e7",
+   "name": "Next Visit Look",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/next-visit-look-deck-6261e7/",
+   "total": 10,
+   "answered": 10,
+   "tag": "Max's Picks",
+   "status": "done",
+   "requested_at": "2026-10-28T19:53:00+07:00",
+   "added": "2026-10-28T20:00:24+07:00",
+   "note": "Machan via UpKeep Develop Oct 28 ~7:53 PM ICT — Member appearance polish (Next Visit Look, Your Plan Look, Account Menu). Taste/appearance only; no app bake. No tech personal names. Account Menu add-on: avatar dropdown = Profile & Account Information + Log Out only.",
+   "done_at": "2026-10-28T20:20:00+07:00"
+  },
+  {
+   "id": "your-plan-look-deck-4hqpmw",
+   "name": "Your Plan Look",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/your-plan-look-deck-4hqpmw/",
+   "total": 7,
+   "answered": 7,
+   "tag": "Max's Picks",
+   "status": "done",
+   "requested_at": "2026-10-28T19:53:00+07:00",
+   "added": "2026-10-28T20:00:24+07:00",
+   "note": "Machan via UpKeep Develop Oct 28 ~7:53 PM ICT — Member appearance polish (Next Visit Look, Your Plan Look, Account Menu). Taste/appearance only; no app bake. No tech personal names. Account Menu add-on: avatar dropdown = Profile & Account Information + Log Out only.",
+   "done_at": "2026-10-28T20:21:00+07:00"
+  },
+  {
+   "id": "account-menu-deck-xb0464",
+   "name": "Account Menu",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/account-menu-deck-xb0464/",
+   "total": 6,
+   "answered": 5,
+   "tag": "Max's Picks",
+   "status": "done",
+   "requested_at": "2026-10-28T19:53:00+07:00",
+   "added": "2026-10-28T20:00:24+07:00",
+   "note": "Machan via UpKeep Develop Oct 28 ~7:53 PM ICT — Member appearance polish (Next Visit Look, Your Plan Look, Account Menu). Taste/appearance only; no app bake. No tech personal names. Account Menu add-on: avatar dropdown = Profile & Account Information + Log Out only.",
+   "done_at": "2026-10-28T20:22:00+07:00"
   },
   {
    "id": "tech-today-route-deck-w7m3nb",

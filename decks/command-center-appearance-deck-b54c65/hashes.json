@@ -1,0 +1,92 @@
+{
+  "c1": {
+    "A": {
+      "label": "Softer larger tile shadows",
+      "sha12": "81ce4c479709"
+    },
+    "B": {
+      "label": "Crisper tighter tile shadows",
+      "sha12": "b278b50bffac"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Softer larger corner radius",
+      "sha12": "172d08fa027f"
+    },
+    "B": {
+      "label": "Tighter crisp corner radius",
+      "sha12": "b1f52c661665"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "Heavier tile borders",
+      "sha12": "37b8eab7ea4e"
+    },
+    "B": {
+      "label": "Hairline tile borders",
+      "sha12": "8ef861e230e8"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "Denser mission header",
+      "sha12": "dbc7041c1752"
+    },
+    "B": {
+      "label": "Airier mission header",
+      "sha12": "96e855ab9f61"
+    }
+  },
+  "c5": {
+    "A": {
+      "label": "Inter / sans-first type",
+      "sha12": "c7a1fed7ab3c"
+    },
+    "B": {
+      "label": "Mono clock-forward type",
+      "sha12": "a1d6681a1142"
+    }
+  },
+  "c6": {
+    "A": {
+      "label": "Roomier grid gutters",
+      "sha12": "5109d154cb6c"
+    },
+    "B": {
+      "label": "Denser grid gutters",
+      "sha12": "d89efdf41ee6"
+    }
+  },
+  "c7": {
+    "A": {
+      "label": "Glowing lights · amber ticker polish",
+      "sha12": "da9646247d65"
+    },
+    "B": {
+      "label": "Flat lights · quieter ticker",
+      "sha12": "32fb92f36ab2"
+    }
+  },
+  "c8": {
+    "A": {
+      "label": "Soft inset / raised cream tiles",
+      "sha12": "54c44bb5b6df"
+    },
+    "B": {
+      "label": "Flat matte cream tiles",
+      "sha12": "3313596588b8"
+    }
+  },
+  "c9": {
+    "A": {
+      "label": "Soft · roomy · sans · glowing",
+      "sha12": "e0d921559cdd"
+    },
+    "B": {
+      "label": "Crisp · dense · mono · flat",
+      "sha12": "f6916d8f3761"
+    }
+  }
+}
