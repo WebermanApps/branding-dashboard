@@ -24,57 +24,9 @@
    "added": "2026-10-27T22:00:24+07:00",
    "note": "Machan via UpKeep Develop Oct 27 9:51 PM ICT — next phone-only flows.",
    "requested_at": "2026-10-27T21:54:58+07:00"
-  },
-  {
-   "id": "member-plan-chat-layout-deck-dgcotr",
-   "name": "Member Plan & Chat Layout",
-   "url": "https://webermanapps.github.io/branding-djqmb410/decks/member-plan-chat-layout-deck-dgcotr/",
-   "total": 8,
-   "answered": 0,
-   "tag": "Max's Picks",
-   "status": "open",
-   "added": "2026-10-27T21:53:36+07:00",
-   "note": "Edge-safe crop-fixed layout deck.",
-   "requested_at": "2026-10-27T21:53:36+07:00"
-  },
-  {
-   "id": "member-home-visit-deck-7kvm8b",
-   "name": "Member Home & Visit",
-   "url": "https://webermanapps.github.io/branding-djqmb410/decks/member-home-visit-deck-7kvm8b/",
-   "total": 7,
-   "answered": 0,
-   "tag": "Max's Picks",
-   "status": "open",
-   "added": "2026-10-27T17:22:13+07:00",
-   "note": "Machan Oct 27 High remake under publish gate — unique visuals, edge-safe crops.",
-   "requested_at": "2026-10-27T17:22:12+07:00"
-  },
-  {
-   "id": "member-plan-messages-deck-7dbanf",
-   "name": "Member Plan & Messages",
-   "url": "https://webermanapps.github.io/branding-djqmb410/decks/member-plan-messages-deck-7dbanf/",
-   "total": 7,
-   "answered": 0,
-   "tag": "Max's Picks",
-   "status": "open",
-   "added": "2026-10-27T17:22:13+07:00",
-   "note": "Machan Oct 27 High remake under publish gate — unique visuals, edge-safe crops.",
-   "requested_at": "2026-10-27T17:22:12+07:00"
-  },
-  {
-   "id": "tech-van-schedule-deck-3ae828",
-   "name": "Tech Van & Schedule",
-   "url": "https://webermanapps.github.io/branding-djqmb410/decks/tech-van-schedule-deck-3ae828/",
-   "total": 6,
-   "answered": 0,
-   "tag": "Max's Picks",
-   "status": "open",
-   "added": "2026-10-27T17:22:13+07:00",
-   "note": "Machan Oct 27 High remake under publish gate — unique visuals, edge-safe crops.",
-   "requested_at": "2026-10-27T17:22:12+07:00"
   }
  ],
- "updated": "2026-10-28T14:16:42+07:00",
+ "updated": "2026-10-28T14:23:06+07:00",
  "done": [
   {
    "id": "up-next-deck",
@@ -1453,6 +1405,34 @@
    "name": "Member Onboarding & Equipment (locked)",
    "answered": 5,
    "total": 6
+  },
+  {
+   "id": "member-plan-chat-layout-deck-dgcotr",
+   "at": "2026-10-28T14:23:06+07:00",
+   "name": "Member Plan & Chat Layout",
+   "status": "superseded",
+   "note": "Cleared Oct 28: superseded by locked Member/Tech shells; Machan remake-if-needed pass"
+  },
+  {
+   "id": "member-home-visit-deck-7kvm8b",
+   "at": "2026-10-28T14:23:06+07:00",
+   "name": "Member Home & Visit",
+   "status": "superseded",
+   "note": "Cleared Oct 28: superseded by locked Member/Tech shells; Machan remake-if-needed pass"
+  },
+  {
+   "id": "member-plan-messages-deck-7dbanf",
+   "at": "2026-10-28T14:23:06+07:00",
+   "name": "Member Plan & Messages",
+   "status": "superseded",
+   "note": "Cleared Oct 28: superseded by locked Member/Tech shells; Machan remake-if-needed pass"
+  },
+  {
+   "id": "tech-van-schedule-deck-3ae828",
+   "at": "2026-10-28T14:23:06+07:00",
+   "name": "Tech Van & Schedule",
+   "status": "superseded",
+   "note": "Cleared Oct 28: superseded by locked Member/Tech shells; Machan remake-if-needed pass"
   }
  ],
  "pinned": [
