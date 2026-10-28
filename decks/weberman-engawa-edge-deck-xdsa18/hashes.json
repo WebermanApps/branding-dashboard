@@ -1,0 +1,102 @@
+{
+  "c1": {
+    "A": {
+      "label": "Pale hinoki / light oak",
+      "sha12": "da73c0d01550"
+    },
+    "B": {
+      "label": "Warm cedar boards",
+      "sha12": "b5966edd11bc"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Narrow traditional boards",
+      "sha12": "d3c9a491f73d"
+    },
+    "B": {
+      "label": "Wide modern boards",
+      "sha12": "e41c3bd2e088"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "Flush stone step",
+      "sha12": "5dab88017f8c"
+    },
+    "B": {
+      "label": "Deep eave overhang",
+      "sha12": "7a37c23a4dc7"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "Shallow walk engawa",
+      "sha12": "cb138b7d8d4b"
+    },
+    "B": {
+      "label": "Deep sitting engawa",
+      "sha12": "9d9b11944181"
+    }
+  },
+  "c5": {
+    "A": {
+      "label": "Exposed timber rafters",
+      "sha12": "fc984e0c610b"
+    },
+    "B": {
+      "label": "Flush soft soffit",
+      "sha12": "23569fe2670e"
+    }
+  },
+  "c6": {
+    "A": {
+      "label": "Single stone step",
+      "sha12": "2d391cf0f807"
+    },
+    "B": {
+      "label": "Three stone steps",
+      "sha12": "7ee01e118216"
+    }
+  },
+  "c7": {
+    "A": {
+      "label": "Low zabuton zone",
+      "sha12": "eec3f5e7841e"
+    },
+    "B": {
+      "label": "Built edge bench",
+      "sha12": "5f3a6a6c5408"
+    }
+  },
+  "c8": {
+    "A": {
+      "label": "Full-height sliding glass",
+      "sha12": "3871cc35a8f5"
+    },
+    "B": {
+      "label": "Shoji + lower glass",
+      "sha12": "e15e63e2f874"
+    }
+  },
+  "c9": {
+    "A": {
+      "label": "Paper lantern glow",
+      "sha12": "b8d36d4fa94c"
+    },
+    "B": {
+      "label": "Recessed eave LEDs",
+      "sha12": "0e32e31a21ea"
+    }
+  },
+  "c10": {
+    "A": {
+      "label": "Morning coffee edge",
+      "sha12": "219cb779e90b"
+    },
+    "B": {
+      "label": "Evening cool-down walk",
+      "sha12": "f61506a149fa"
+    }
+  }
+}

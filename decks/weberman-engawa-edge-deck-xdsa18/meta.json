@@ -1,0 +1,28 @@
+{
+  "category": "residence-finishes",
+  "asset_paths": [
+    "/workspace/courtyard-engawa-1028/assets/eg10a.jpg",
+    "/workspace/courtyard-engawa-1028/assets/eg10b.jpg",
+    "/workspace/courtyard-engawa-1028/assets/eg1a.jpg",
+    "/workspace/courtyard-engawa-1028/assets/eg1b.jpg",
+    "/workspace/courtyard-engawa-1028/assets/eg2a.jpg",
+    "/workspace/courtyard-engawa-1028/assets/eg2b.jpg",
+    "/workspace/courtyard-engawa-1028/assets/eg3a.jpg",
+    "/workspace/courtyard-engawa-1028/assets/eg3b.jpg",
+    "/workspace/courtyard-engawa-1028/assets/eg4a.jpg",
+    "/workspace/courtyard-engawa-1028/assets/eg4b.jpg",
+    "/workspace/courtyard-engawa-1028/assets/eg5a.jpg",
+    "/workspace/courtyard-engawa-1028/assets/eg5b.jpg",
+    "/workspace/courtyard-engawa-1028/assets/eg6a.jpg",
+    "/workspace/courtyard-engawa-1028/assets/eg6b.jpg",
+    "/workspace/courtyard-engawa-1028/assets/eg7a.jpg",
+    "/workspace/courtyard-engawa-1028/assets/eg7b.jpg",
+    "/workspace/courtyard-engawa-1028/assets/eg8a.jpg",
+    "/workspace/courtyard-engawa-1028/assets/eg8b.jpg",
+    "/workspace/courtyard-engawa-1028/assets/eg9a.jpg",
+    "/workspace/courtyard-engawa-1028/assets/eg9b.jpg"
+  ],
+  "ui_screenshots": false,
+  "bleed_mode": "flush-cream",
+  "title": "Engawa Edge"
+}

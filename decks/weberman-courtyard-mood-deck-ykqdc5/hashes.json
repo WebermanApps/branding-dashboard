@@ -1,0 +1,102 @@
+{
+  "c1": {
+    "A": {
+      "label": "Quiet gravel court",
+      "sha12": "704a3c5b428e"
+    },
+    "B": {
+      "label": "Lush living court",
+      "sha12": "937acf219a06"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Pale stone pavers",
+      "sha12": "9802710581fd"
+    },
+    "B": {
+      "label": "Gravel + stepping stones",
+      "sha12": "e6601b0fa94d"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "Sparse sculptural green",
+      "sha12": "f49095f975a7"
+    },
+    "B": {
+      "label": "Layered bamboo & maple",
+      "sha12": "7679aeef2a28"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "Still reflecting pool",
+      "sha12": "a0c7960ab757"
+    },
+    "B": {
+      "label": "Stone rill + steps",
+      "sha12": "9d78ee85a349"
+    }
+  },
+  "c5": {
+    "A": {
+      "label": "Built-in stone bench",
+      "sha12": "3bdfaf92731d"
+    },
+    "B": {
+      "label": "Movable timber chairs",
+      "sha12": "43a4a5551a1c"
+    }
+  },
+  "c6": {
+    "A": {
+      "label": "Open bright sky",
+      "sha12": "69bf264fa828"
+    },
+    "B": {
+      "label": "Tree canopy dappled",
+      "sha12": "51d32cfa8ccc"
+    }
+  },
+  "c7": {
+    "A": {
+      "label": "Soft planting buffer",
+      "sha12": "236efd48e61f"
+    },
+    "B": {
+      "label": "Hard stone band",
+      "sha12": "527ee5ee6cf3"
+    }
+  },
+  "c8": {
+    "A": {
+      "label": "Stone lantern glow",
+      "sha12": "990b82e6a5eb"
+    },
+    "B": {
+      "label": "Linear ground wash",
+      "sha12": "a0f0219cfefa"
+    }
+  },
+  "c9": {
+    "A": {
+      "label": "Pale limestone accent",
+      "sha12": "e0cc940db302"
+    },
+    "B": {
+      "label": "Warm timber furniture",
+      "sha12": "e21ba8386420"
+    }
+  },
+  "c10": {
+    "A": {
+      "label": "Morning tea quiet",
+      "sha12": "a8377c986b12"
+    },
+    "B": {
+      "label": "Family gather court",
+      "sha12": "ffec77a973a5"
+    }
+  }
+}

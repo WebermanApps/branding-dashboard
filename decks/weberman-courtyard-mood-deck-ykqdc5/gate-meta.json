@@ -1,0 +1,28 @@
+{
+  "category": "residence-finishes",
+  "asset_paths": [
+    "/workspace/courtyard-engawa-1028/assets/cy10a.jpg",
+    "/workspace/courtyard-engawa-1028/assets/cy10b.jpg",
+    "/workspace/courtyard-engawa-1028/assets/cy1a.jpg",
+    "/workspace/courtyard-engawa-1028/assets/cy1b.jpg",
+    "/workspace/courtyard-engawa-1028/assets/cy2a.jpg",
+    "/workspace/courtyard-engawa-1028/assets/cy2b.jpg",
+    "/workspace/courtyard-engawa-1028/assets/cy3a.jpg",
+    "/workspace/courtyard-engawa-1028/assets/cy3b.jpg",
+    "/workspace/courtyard-engawa-1028/assets/cy4a.jpg",
+    "/workspace/courtyard-engawa-1028/assets/cy4b.jpg",
+    "/workspace/courtyard-engawa-1028/assets/cy5a.jpg",
+    "/workspace/courtyard-engawa-1028/assets/cy5b.jpg",
+    "/workspace/courtyard-engawa-1028/assets/cy6a.jpg",
+    "/workspace/courtyard-engawa-1028/assets/cy6b.jpg",
+    "/workspace/courtyard-engawa-1028/assets/cy7a.jpg",
+    "/workspace/courtyard-engawa-1028/assets/cy7b.jpg",
+    "/workspace/courtyard-engawa-1028/assets/cy8a.jpg",
+    "/workspace/courtyard-engawa-1028/assets/cy8b.jpg",
+    "/workspace/courtyard-engawa-1028/assets/cy9a.jpg",
+    "/workspace/courtyard-engawa-1028/assets/cy9b.jpg"
+  ],
+  "ui_screenshots": false,
+  "bleed_mode": "flush-cream",
+  "title": "Courtyard Mood"
+}
