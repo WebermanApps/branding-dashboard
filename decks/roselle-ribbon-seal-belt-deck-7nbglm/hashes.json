@@ -1,102 +1,102 @@
 {
   "c1": {
     "A": {
-      "label": "Flat kraft belt",
-      "sha12": "08e35be8e311"
+      "label": "Soft rose satin ribbon",
+      "sha12": "3084c6aceb29"
     },
     "B": {
-      "label": "Rose ribbon + bow",
-      "sha12": "93ef5eb62d9e"
+      "label": "Quiet kraft paper ribbon",
+      "sha12": "dc0d3234ef3e"
     }
   },
   "c2": {
     "A": {
-      "label": "Kraft + gold foil seal",
-      "sha12": "c8b71fd806e3"
+      "label": "Thin gold-edge organza",
+      "sha12": "489ae53ac292"
     },
     "B": {
-      "label": "Thin gold foil belt",
-      "sha12": "9d94d0484fbe"
+      "label": "Matte rose grosgrain",
+      "sha12": "3d82f3f1a0b7"
     }
   },
   "c3": {
     "A": {
-      "label": "Twine + kraft tag",
-      "sha12": "65dde29f9580"
+      "label": "Narrow delicate wrap",
+      "sha12": "e52211cdf804"
     },
     "B": {
-      "label": "Fine gold twine",
-      "sha12": "cda3553c3cf1"
+      "label": "Slightly fuller soft wrap",
+      "sha12": "a48f616ab6ec"
     }
   },
   "c4": {
     "A": {
-      "label": "Cream round sticker",
-      "sha12": "9e82205b42fd"
+      "label": "Subtle front bow",
+      "sha12": "b803cc9f99f1"
     },
     "B": {
-      "label": "Soft rose belt",
-      "sha12": "5bab67457078"
+      "label": "Clean wrap, no bow",
+      "sha12": "1617a42bcac3"
     }
   },
   "c5": {
     "A": {
-      "label": "Rose double lines",
-      "sha12": "e52e5400c424"
+      "label": "Cream ivory ribbon",
+      "sha12": "cf3f6dad04fc"
     },
     "B": {
-      "label": "Kraft double lines",
-      "sha12": "7f799ec05b35"
+      "label": "Dusty rose ribbon",
+      "sha12": "31261b9fc027"
     }
   },
   "c6": {
     "A": {
-      "label": "Wide kraft band",
-      "sha12": "c398b91c74df"
+      "label": "Double soft strands",
+      "sha12": "a2cbcb3db7e9"
     },
     "B": {
-      "label": "Wide rose + bow",
-      "sha12": "66189ab752c1"
+      "label": "Single soft band",
+      "sha12": "9848b943eccb"
     }
   },
   "c7": {
     "A": {
-      "label": "Gold sticker seal",
-      "sha12": "b7a02ceec10d"
+      "label": "Ribbon with tiny hang tag",
+      "sha12": "f4532ed4d266"
     },
     "B": {
-      "label": "Deep rose wax",
-      "sha12": "8d492d7213c0"
+      "label": "Plain soft wrap",
+      "sha12": "15dbeea80d14"
     }
   },
   "c8": {
     "A": {
-      "label": "Soft rose bow",
-      "sha12": "8b83f4f56782"
+      "label": "Warmer kraft–rose mix",
+      "sha12": "7144fed5608f"
     },
     "B": {
-      "label": "Kraft belt + tag",
-      "sha12": "aa83f3d2b2e9"
+      "label": "Cooler soft rose",
+      "sha12": "97e6e90913a5"
     }
   },
   "c9": {
     "A": {
-      "label": "Wide kraft + foil",
-      "sha12": "03be7677a034"
+      "label": "Quiet understated",
+      "sha12": "a7f7650e793c"
     },
     "B": {
-      "label": "Twine + sticker",
-      "sha12": "23345ea478f2"
+      "label": "A little more present",
+      "sha12": "ebee8d5ce7fe"
     }
   },
   "c10": {
     "A": {
-      "label": "Quiet kraft belt",
-      "sha12": "c92be57f7090"
+      "label": "Closest quiet ribbon",
+      "sha12": "92766ae8cf35"
     },
     "B": {
-      "label": "Rose bow statement",
-      "sha12": "733b5d98e840"
+      "label": "Soft statement ribbon",
+      "sha12": "587baa9726b2"
     }
   }
 }
