@@ -1,0 +1,102 @@
+{
+  "c1": {
+    "A": {
+      "label": "Upper-right, quiet and small",
+      "sha12": "2ec49f93e4ed"
+    },
+    "B": {
+      "label": "Larger, more centered",
+      "sha12": "e763419b15ec"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Heavier and larger",
+      "sha12": "a749a3014934"
+    },
+    "B": {
+      "label": "Lighter with more tracking",
+      "sha12": "7752e671bc4b"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "Tight stack",
+      "sha12": "6810c0045c2d"
+    },
+    "B": {
+      "label": "Airy gap",
+      "sha12": "064216d7af98"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "Low third (draft-like)",
+      "sha12": "3d36880249d0"
+    },
+    "B": {
+      "label": "Taller mid wash",
+      "sha12": "5f0e98ac66b9"
+    }
+  },
+  "c5": {
+    "A": {
+      "label": "Very soft feather",
+      "sha12": "769ccb610189"
+    },
+    "B": {
+      "label": "Slightly clearer horizon",
+      "sha12": "f93b375c1123"
+    }
+  },
+  "c6": {
+    "A": {
+      "label": "Bottom-left on the wash",
+      "sha12": "79baf40f9876"
+    },
+    "B": {
+      "label": "Centered under the type",
+      "sha12": "79af4a31be49"
+    }
+  },
+  "c7": {
+    "A": {
+      "label": "caffeine free",
+      "sha12": "809a5d6fa098"
+    },
+    "B": {
+      "label": "caffeine level",
+      "sha12": "6e9c033017d4"
+    }
+  },
+  "c8": {
+    "A": {
+      "label": "Title-dominant (logo quiet)",
+      "sha12": "a3a7edcc6ca2"
+    },
+    "B": {
+      "label": "Logo-forward",
+      "sha12": "5a272f667643"
+    }
+  },
+  "c9": {
+    "A": {
+      "label": "Closest to standing draft",
+      "sha12": "26e3f72b0466"
+    },
+    "B": {
+      "label": "Most open / airy rearrangement",
+      "sha12": "09a58faece1e"
+    }
+  },
+  "c10": {
+    "A": {
+      "label": "Left-leaning type block",
+      "sha12": "2bbf7c999ad2"
+    },
+    "B": {
+      "label": "Centered type block",
+      "sha12": "68d6794674db"
+    }
+  }
+}
