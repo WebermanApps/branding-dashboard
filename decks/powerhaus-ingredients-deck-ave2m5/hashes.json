@@ -1,0 +1,102 @@
+{
+  "c1": {
+    "A": {
+      "label": "Ginger + lemongrass",
+      "sha12": "66cf946e24d5"
+    },
+    "B": {
+      "label": "Holy basil + mint",
+      "sha12": "0ba03f87a952"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Butterfly pea + lemongrass",
+      "sha12": "1b0e74a31861"
+    },
+    "B": {
+      "label": "Chrysanthemum + mint",
+      "sha12": "3dab7cde5bad"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "Kaffir lime leaf + ginger",
+      "sha12": "ae1a9ccd1d8c"
+    },
+    "B": {
+      "label": "Pandan + mint",
+      "sha12": "3ee282fb5e78"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "Ginger + turmeric",
+      "sha12": "12a4c7f2faf3"
+    },
+    "B": {
+      "label": "Kaffir + lemongrass",
+      "sha12": "13f08906ca49"
+    }
+  },
+  "c5": {
+    "A": {
+      "label": "Roselle + ginger",
+      "sha12": "b389632ed02d"
+    },
+    "B": {
+      "label": "Holy basil + ginger",
+      "sha12": "1e3f06efd87b"
+    }
+  },
+  "c6": {
+    "A": {
+      "label": "Turmeric + lemongrass",
+      "sha12": "9dd5371cd4d2"
+    },
+    "B": {
+      "label": "Ginger + mint",
+      "sha12": "ba46a9f324e2"
+    }
+  },
+  "c7": {
+    "A": {
+      "label": "Lemongrass + mint",
+      "sha12": "54b902e61953"
+    },
+    "B": {
+      "label": "Pandan + lemongrass",
+      "sha12": "f1d703219153"
+    }
+  },
+  "c8": {
+    "A": {
+      "label": "Chrysanthemum + mint",
+      "sha12": "a1bca5cc10b1"
+    },
+    "B": {
+      "label": "Roselle + lemongrass",
+      "sha12": "41e5f8d6f355"
+    }
+  },
+  "c9": {
+    "A": {
+      "label": "2–3 named soft leans",
+      "sha12": "b6613e615022"
+    },
+    "B": {
+      "label": "Ingredient-forward list",
+      "sha12": "f214de06e34c"
+    }
+  },
+  "c10": {
+    "A": {
+      "label": "After-class lift",
+      "sha12": "100a78c97581"
+    },
+    "B": {
+      "label": "Steady all-day feel",
+      "sha12": "76261bc3c579"
+    }
+  }
+}
