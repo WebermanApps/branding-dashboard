@@ -1,0 +1,92 @@
+{
+  "c1": {
+    "A": {
+      "label": "Week of Chiang Mai",
+      "sha12": "69f0b92080db"
+    },
+    "B": {
+      "label": "Dated week (Week of Oct 28)",
+      "sha12": "0bbd2dc7b3db"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Membership",
+      "sha12": "fafc3b580a26"
+    },
+    "B": {
+      "label": "Member delivery",
+      "sha12": "453cda77fcc9"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "Quiet seal (no list)",
+      "sha12": "c1fdbfba77f5"
+    },
+    "B": {
+      "label": "Soft three-word teaser",
+      "sha12": "8fca4048a53b"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "Fresh from San Sai",
+      "sha12": "ac0c97190b39"
+    },
+    "B": {
+      "label": "Picked near delivery day",
+      "sha12": "71cb400ae4dc"
+    }
+  },
+  "c5": {
+    "A": {
+      "label": "Sparse (name + week)",
+      "sha12": "bce7598fa102"
+    },
+    "B": {
+      "label": "Fuller soft-info seal",
+      "sha12": "f0099018cd9b"
+    }
+  },
+  "c6": {
+    "A": {
+      "label": "Nest logo only",
+      "sha12": "dd8563095038"
+    },
+    "B": {
+      "label": "WellNest Farm under the mark",
+      "sha12": "1d8330e8cd48"
+    }
+  },
+  "c7": {
+    "A": {
+      "label": "No recipe cue",
+      "sha12": "46e3bc064fe9"
+    },
+    "B": {
+      "label": "Tiny Recipe inside",
+      "sha12": "db42c2839ece"
+    }
+  },
+  "c8": {
+    "A": {
+      "label": "English only",
+      "sha12": "289f38c237ff"
+    },
+    "B": {
+      "label": "Soft Thai + English",
+      "sha12": "e394f3a34921"
+    }
+  },
+  "c9": {
+    "A": {
+      "label": "Closest to standing draft",
+      "sha12": "d05a6958851e"
+    },
+    "B": {
+      "label": "Richest soft-info seal",
+      "sha12": "934e20b29a9d"
+    }
+  }
+}

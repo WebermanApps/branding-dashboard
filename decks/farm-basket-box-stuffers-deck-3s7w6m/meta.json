@@ -1,0 +1,27 @@
+{
+  "category": "product-packaging",
+  "asset_paths": [
+    "/workspace/farm-basket-decks-1028/assets/stuffers/c1a.jpg",
+    "/workspace/farm-basket-decks-1028/assets/stuffers/c1b.jpg",
+    "/workspace/farm-basket-decks-1028/assets/stuffers/c2a.jpg",
+    "/workspace/farm-basket-decks-1028/assets/stuffers/c2b.jpg",
+    "/workspace/farm-basket-decks-1028/assets/stuffers/c3a.jpg",
+    "/workspace/farm-basket-decks-1028/assets/stuffers/c3b.jpg",
+    "/workspace/farm-basket-decks-1028/assets/stuffers/c4a.jpg",
+    "/workspace/farm-basket-decks-1028/assets/stuffers/c4b.jpg",
+    "/workspace/farm-basket-decks-1028/assets/stuffers/c5a.jpg",
+    "/workspace/farm-basket-decks-1028/assets/stuffers/c5b.jpg",
+    "/workspace/farm-basket-decks-1028/assets/stuffers/c6a.jpg",
+    "/workspace/farm-basket-decks-1028/assets/stuffers/c6b.jpg",
+    "/workspace/farm-basket-decks-1028/assets/stuffers/c7a.jpg",
+    "/workspace/farm-basket-decks-1028/assets/stuffers/c7b.jpg",
+    "/workspace/farm-basket-decks-1028/assets/stuffers/c8a.jpg",
+    "/workspace/farm-basket-decks-1028/assets/stuffers/c8b.jpg",
+    "/workspace/farm-basket-decks-1028/assets/stuffers/c9a.jpg",
+    "/workspace/farm-basket-decks-1028/assets/stuffers/c9b.jpg"
+  ],
+  "ui_screenshots": false,
+  "bleed_mode": "flush-cream",
+  "title": "Farm Basket Box Stuffers",
+  "agent": "wellnest"
+}

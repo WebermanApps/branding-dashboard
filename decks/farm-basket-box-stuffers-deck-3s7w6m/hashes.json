@@ -1,0 +1,92 @@
+{
+  "c1": {
+    "A": {
+      "label": "Photo-led recipe card",
+      "sha12": "00a41e8d7007"
+    },
+    "B": {
+      "label": "Simple typed recipe card",
+      "sha12": "28392d8e0b57"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Short story card",
+      "sha12": "ed9eccfea8e6"
+    },
+    "B": {
+      "label": "One-line farm credit",
+      "sha12": "6ca26b00f4ef"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "Include storage tips",
+      "sha12": "738da0489dff"
+    },
+    "B": {
+      "label": "Skip storage tips",
+      "sha12": "053948ae14bd"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "Include Herb ID card",
+      "sha12": "f2603ef0656c"
+    },
+    "B": {
+      "label": "Skip Herb ID",
+      "sha12": "b7ff529b32d5"
+    }
+  },
+  "c5": {
+    "A": {
+      "label": "Include seasonal mini",
+      "sha12": "ad44490fdb33"
+    },
+    "B": {
+      "label": "Skip seasonal mini",
+      "sha12": "7ae0f22b14e2"
+    }
+  },
+  "c6": {
+    "A": {
+      "label": "Handwritten-feel welcome",
+      "sha12": "223b4ef0a1ec"
+    },
+    "B": {
+      "label": "Clean printed welcome",
+      "sha12": "31be1a380840"
+    }
+  },
+  "c7": {
+    "A": {
+      "label": "Soft next-week tease",
+      "sha12": "216764cc0fe6"
+    },
+    "B": {
+      "label": "Stay quiet",
+      "sha12": "86445b2a622c"
+    }
+  },
+  "c8": {
+    "A": {
+      "label": "Loose kraft tag + twine",
+      "sha12": "f4487ced68cc"
+    },
+    "B": {
+      "label": "Packaging accent only",
+      "sha12": "bf107887d4a3"
+    }
+  },
+  "c9": {
+    "A": {
+      "label": "Lean (recipe + farm)",
+      "sha12": "104102ff1f1a"
+    },
+    "B": {
+      "label": "Fuller stuffer set",
+      "sha12": "dfc67e569ff6"
+    }
+  }
+}

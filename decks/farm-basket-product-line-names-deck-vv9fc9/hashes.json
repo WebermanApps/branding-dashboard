@@ -1,0 +1,92 @@
+{
+  "c1": {
+    "A": {
+      "label": "Farm Basket",
+      "sha12": "76b3dfc20c4b"
+    },
+    "B": {
+      "label": "Chiang Mai Basket",
+      "sha12": "80b6b3058593"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Week Basket",
+      "sha12": "f3cfb3499e07"
+    },
+    "B": {
+      "label": "Farm Share",
+      "sha12": "17c5b32cf64c"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "San Sai Basket",
+      "sha12": "2149ea5177ca"
+    },
+    "B": {
+      "label": "Nest Basket",
+      "sha12": "a141c957839f"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "Farm Box",
+      "sha12": "8ef2450553b4"
+    },
+    "B": {
+      "label": "Harvest Box",
+      "sha12": "c80cc9c004de"
+    }
+  },
+  "c5": {
+    "A": {
+      "label": "Membership Basket",
+      "sha12": "7a718f8b8faf"
+    },
+    "B": {
+      "label": "Weekly Nest",
+      "sha12": "e77d529218d4"
+    }
+  },
+  "c6": {
+    "A": {
+      "label": "WellNest Basket",
+      "sha12": "24ac466523b1"
+    },
+    "B": {
+      "label": "Farm Membership",
+      "sha12": "752933c4cfcb"
+    }
+  },
+  "c7": {
+    "A": {
+      "label": "Produce Club",
+      "sha12": "844ca0e976c1"
+    },
+    "B": {
+      "label": "Farm Delivery",
+      "sha12": "1b77785f3ade"
+    }
+  },
+  "c8": {
+    "A": {
+      "label": "The Weekly",
+      "sha12": "c409d58b0efb"
+    },
+    "B": {
+      "label": "Season Box",
+      "sha12": "9ec775c8cbe1"
+    }
+  },
+  "c9": {
+    "A": {
+      "label": "Keep Farm Basket",
+      "sha12": "1dfebcceb87b"
+    },
+    "B": {
+      "label": "Most Chiang Mai-local (Chiang Mai Basket)",
+      "sha12": "e58f74d72c27"
+    }
+  }
+}
