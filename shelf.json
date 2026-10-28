@@ -2,6 +2,91 @@
  "agent": "branding",
  "decks": [
   {
+   "id": "member-home-phone-layout-locked-deck-uhk5v9",
+   "name": "Member Home Phone Layout (locked)",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/member-home-phone-layout-locked-deck-uhk5v9/",
+   "total": 7,
+   "answered": 0,
+   "tag": "Max's Picks",
+   "status": "open",
+   "added": "2026-10-28T13:14:41+07:00",
+   "note": "Machan Oct 28 ~1:04 PM ICT — publish locked follow-ups from swipe winners anyway (he noted possible contradicting answers). Looser/pulled-back UI crops, fuller option descriptions. Next Visit never shows tech name. Decks only until implement.",
+   "requested_at": "2026-10-28T13:04:00+07:00",
+   "pinned": true,
+   "new": true,
+   "blurb": "7 cards, ready now, with Notes",
+   "agent": "upkeep",
+   "made": "2026-10-28"
+  },
+  {
+   "id": "tech-app-phone-shell-locked-deck-mrs4op",
+   "name": "Tech App Phone Shell (locked)",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/tech-app-phone-shell-locked-deck-mrs4op/",
+   "total": 5,
+   "answered": 0,
+   "tag": "Max's Picks",
+   "status": "open",
+   "added": "2026-10-28T13:14:41+07:00",
+   "note": "Machan Oct 28 ~1:04 PM ICT — publish locked follow-ups from swipe winners anyway (he noted possible contradicting answers). Looser/pulled-back UI crops, fuller option descriptions. Next Visit never shows tech name. Decks only until implement.",
+   "requested_at": "2026-10-28T13:04:00+07:00",
+   "pinned": true,
+   "new": true,
+   "blurb": "5 cards, ready now, with Notes",
+   "agent": "upkeep",
+   "made": "2026-10-28"
+  },
+  {
+   "id": "tech-next-session-panel-locked-deck-09d4q4",
+   "name": "Tech Next Session Panel (locked)",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/tech-next-session-panel-locked-deck-09d4q4/",
+   "total": 7,
+   "answered": 0,
+   "tag": "Max's Picks",
+   "status": "open",
+   "added": "2026-10-28T13:14:41+07:00",
+   "note": "Machan Oct 28 ~1:04 PM ICT — publish locked follow-ups from swipe winners anyway (he noted possible contradicting answers). Looser/pulled-back UI crops, fuller option descriptions. Next Visit never shows tech name. Decks only until implement.",
+   "requested_at": "2026-10-28T13:04:00+07:00",
+   "pinned": true,
+   "new": true,
+   "blurb": "7 cards, ready now, with Notes",
+   "agent": "upkeep",
+   "made": "2026-10-28"
+  },
+  {
+   "id": "tech-visit-report-locked-deck-z8uspk",
+   "name": "Tech Visit Report (locked)",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/tech-visit-report-locked-deck-z8uspk/",
+   "total": 6,
+   "answered": 0,
+   "tag": "Max's Picks",
+   "status": "open",
+   "added": "2026-10-28T13:14:41+07:00",
+   "note": "Machan Oct 28 ~1:04 PM ICT — publish locked follow-ups from swipe winners anyway (he noted possible contradicting answers). Looser/pulled-back UI crops, fuller option descriptions. Next Visit never shows tech name. Decks only until implement.",
+   "requested_at": "2026-10-28T13:04:00+07:00",
+   "pinned": true,
+   "new": true,
+   "blurb": "6 cards, ready now, with Notes",
+   "agent": "upkeep",
+   "made": "2026-10-28"
+  },
+  {
+   "id": "member-onboarding-equipment-locked-deck-v9i4to",
+   "name": "Member Onboarding & Equipment (locked)",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/member-onboarding-equipment-locked-deck-v9i4to/",
+   "total": 6,
+   "answered": 0,
+   "tag": "Max's Picks",
+   "status": "open",
+   "added": "2026-10-28T13:14:41+07:00",
+   "note": "Machan Oct 28 ~1:04 PM ICT — publish locked follow-ups from swipe winners anyway (he noted possible contradicting answers). Looser/pulled-back UI crops, fuller option descriptions. Next Visit never shows tech name. Decks only until implement.",
+   "requested_at": "2026-10-28T13:04:00+07:00",
+   "pinned": true,
+   "new": true,
+   "blurb": "6 cards, ready now, with Notes",
+   "agent": "upkeep",
+   "made": "2026-10-28"
+  },
+  {
    "id": "quote-accept-membership-deck-cws91m",
    "name": "Quote & Accept Membership",
    "url": "https://webermanapps.github.io/branding-djqmb410/decks/quote-accept-membership-deck-cws91m/",
@@ -74,7 +159,7 @@
    "requested_at": "2026-10-27T17:22:12+07:00"
   }
  ],
- "updated": "2026-10-28T13:12:47+07:00",
+ "updated": "2026-10-28T13:14:41+07:00",
  "done": [
   {
    "id": "up-next-deck",
@@ -1450,9 +1535,14 @@
    "answered": 0,
    "tag": "Max's Picks",
    "status": "open",
+   "added": "2026-10-28T13:14:41+07:00",
+   "note": "Machan Oct 28 ~1:04 PM ICT — publish locked follow-ups from swipe winners anyway (he noted possible contradicting answers). Looser/pulled-back UI crops, fuller option descriptions. Next Visit never shows tech name. Decks only until implement.",
    "requested_at": "2026-10-28T13:04:00+07:00",
-   "added": "2026-10-28T13:12:47+07:00",
-   "note": "Machan Oct 28 ~1:04 PM ICT — publish locked follow-ups from swipe winners anyway (he noted possible contradicting answers). Looser/pulled-back UI crops, fuller option descriptions. Next Visit never shows tech name. Decks only until implement."
+   "pinned": true,
+   "new": true,
+   "blurb": "7 cards, ready now, with Notes",
+   "agent": "upkeep",
+   "made": "2026-10-28"
   },
   {
    "id": "tech-app-phone-shell-locked-deck-mrs4op",
@@ -1462,9 +1552,14 @@
    "answered": 0,
    "tag": "Max's Picks",
    "status": "open",
+   "added": "2026-10-28T13:14:41+07:00",
+   "note": "Machan Oct 28 ~1:04 PM ICT — publish locked follow-ups from swipe winners anyway (he noted possible contradicting answers). Looser/pulled-back UI crops, fuller option descriptions. Next Visit never shows tech name. Decks only until implement.",
    "requested_at": "2026-10-28T13:04:00+07:00",
-   "added": "2026-10-28T13:12:47+07:00",
-   "note": "Machan Oct 28 ~1:04 PM ICT — publish locked follow-ups from swipe winners anyway (he noted possible contradicting answers). Looser/pulled-back UI crops, fuller option descriptions. Next Visit never shows tech name. Decks only until implement."
+   "pinned": true,
+   "new": true,
+   "blurb": "5 cards, ready now, with Notes",
+   "agent": "upkeep",
+   "made": "2026-10-28"
   },
   {
    "id": "tech-next-session-panel-locked-deck-09d4q4",
@@ -1474,9 +1569,14 @@
    "answered": 0,
    "tag": "Max's Picks",
    "status": "open",
+   "added": "2026-10-28T13:14:41+07:00",
+   "note": "Machan Oct 28 ~1:04 PM ICT — publish locked follow-ups from swipe winners anyway (he noted possible contradicting answers). Looser/pulled-back UI crops, fuller option descriptions. Next Visit never shows tech name. Decks only until implement.",
    "requested_at": "2026-10-28T13:04:00+07:00",
-   "added": "2026-10-28T13:12:47+07:00",
-   "note": "Machan Oct 28 ~1:04 PM ICT — publish locked follow-ups from swipe winners anyway (he noted possible contradicting answers). Looser/pulled-back UI crops, fuller option descriptions. Next Visit never shows tech name. Decks only until implement."
+   "pinned": true,
+   "new": true,
+   "blurb": "7 cards, ready now, with Notes",
+   "agent": "upkeep",
+   "made": "2026-10-28"
   },
   {
    "id": "tech-visit-report-locked-deck-z8uspk",
@@ -1486,9 +1586,14 @@
    "answered": 0,
    "tag": "Max's Picks",
    "status": "open",
+   "added": "2026-10-28T13:14:41+07:00",
+   "note": "Machan Oct 28 ~1:04 PM ICT — publish locked follow-ups from swipe winners anyway (he noted possible contradicting answers). Looser/pulled-back UI crops, fuller option descriptions. Next Visit never shows tech name. Decks only until implement.",
    "requested_at": "2026-10-28T13:04:00+07:00",
-   "added": "2026-10-28T13:12:47+07:00",
-   "note": "Machan Oct 28 ~1:04 PM ICT — publish locked follow-ups from swipe winners anyway (he noted possible contradicting answers). Looser/pulled-back UI crops, fuller option descriptions. Next Visit never shows tech name. Decks only until implement."
+   "pinned": true,
+   "new": true,
+   "blurb": "6 cards, ready now, with Notes",
+   "agent": "upkeep",
+   "made": "2026-10-28"
   },
   {
    "id": "member-onboarding-equipment-locked-deck-v9i4to",
@@ -1498,9 +1603,14 @@
    "answered": 0,
    "tag": "Max's Picks",
    "status": "open",
+   "added": "2026-10-28T13:14:41+07:00",
+   "note": "Machan Oct 28 ~1:04 PM ICT — publish locked follow-ups from swipe winners anyway (he noted possible contradicting answers). Looser/pulled-back UI crops, fuller option descriptions. Next Visit never shows tech name. Decks only until implement.",
    "requested_at": "2026-10-28T13:04:00+07:00",
-   "added": "2026-10-28T13:12:47+07:00",
-   "note": "Machan Oct 28 ~1:04 PM ICT — publish locked follow-ups from swipe winners anyway (he noted possible contradicting answers). Looser/pulled-back UI crops, fuller option descriptions. Next Visit never shows tech name. Decks only until implement."
+   "pinned": true,
+   "new": true,
+   "blurb": "6 cards, ready now, with Notes",
+   "agent": "upkeep",
+   "made": "2026-10-28"
   },
   {
    "id": "tech-today-route-deck-w7m3nb",
