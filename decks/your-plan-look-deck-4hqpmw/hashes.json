@@ -1,0 +1,72 @@
+{
+  "c1": {
+    "A": {
+      "label": "Airy plan tile",
+      "sha12": "81f72db5f56b"
+    },
+    "B": {
+      "label": "Denser plan tile",
+      "sha12": "8fce36e191f9"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Soft larger shadow",
+      "sha12": "d7072caa8b94"
+    },
+    "B": {
+      "label": "Crisp tighter shadow",
+      "sha12": "13273e22b5ad"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "Progress ring",
+      "sha12": "21c59630093e"
+    },
+    "B": {
+      "label": "Progress bar",
+      "sha12": "78c511c20373"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "Terracotta top strip",
+      "sha12": "42112a5ed620"
+    },
+    "B": {
+      "label": "Left lagoon bar",
+      "sha12": "8d7fbc227609"
+    }
+  },
+  "c5": {
+    "A": {
+      "label": "Big Plus name",
+      "sha12": "306e06b0ecc4"
+    },
+    "B": {
+      "label": "Stronger renew line",
+      "sha12": "d06fd3979b48"
+    }
+  },
+  "c6": {
+    "A": {
+      "label": "Single visits chip",
+      "sha12": "418804c07104"
+    },
+    "B": {
+      "label": "Visits + left chips",
+      "sha12": "84a65ffe498f"
+    }
+  },
+  "c7": {
+    "A": {
+      "label": "Airy · soft shadow · ring · top accent · big Plus",
+      "sha12": "b29d43745405"
+    },
+    "B": {
+      "label": "Dense · crisp · bar · left accent · renew focus",
+      "sha12": "ce56d66acf1c"
+    }
+  }
+}

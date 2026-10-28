@@ -1,0 +1,62 @@
+{
+  "c1": {
+    "A": {
+      "label": "Soft item panels",
+      "sha12": "911acef390ee"
+    },
+    "B": {
+      "label": "Flat list rows",
+      "sha12": "936d6caf89d9"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Roomy soft menu",
+      "sha12": "070bfc0855b8"
+    },
+    "B": {
+      "label": "Denser compact menu",
+      "sha12": "8fe08afd217b"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "Soft larger shadow",
+      "sha12": "3b0dab83eaa0"
+    },
+    "B": {
+      "label": "Crisp tighter shadow",
+      "sha12": "a1032853b560"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "Strong single label",
+      "sha12": "58c0292443f0"
+    },
+    "B": {
+      "label": "Split title + subtitle",
+      "sha12": "f48936b18c68"
+    }
+  },
+  "c5": {
+    "A": {
+      "label": "Soft rounded edges",
+      "sha12": "ee64bd3b7f64"
+    },
+    "B": {
+      "label": "Tighter crisp edges",
+      "sha12": "338793e1d156"
+    }
+  },
+  "c6": {
+    "A": {
+      "label": "Soft panels · roomy · soft shadow · strong labels",
+      "sha12": "cfad3656602f"
+    },
+    "B": {
+      "label": "Flat · dense · crisp · split profile label",
+      "sha12": "73f595e7638b"
+    }
+  }
+}

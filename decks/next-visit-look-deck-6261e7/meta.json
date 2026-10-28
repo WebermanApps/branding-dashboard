@@ -1,0 +1,28 @@
+{
+  "category": "member-ui",
+  "ui_screenshots": true,
+  "bleed_mode": "edge-safe",
+  "asset_paths": [
+    "/workspace/member-look-polish-1028/mocks/nv_density_airy.jpg",
+    "/workspace/member-look-polish-1028/mocks/nv_density_dense.jpg",
+    "/workspace/member-look-polish-1028/mocks/nv_accent_left.jpg",
+    "/workspace/member-look-polish-1028/mocks/nv_accent_top.jpg",
+    "/workspace/member-look-polish-1028/mocks/nv_date_chip.jpg",
+    "/workspace/member-look-polish-1028/mocks/nv_date_inline.jpg",
+    "/workspace/member-look-polish-1028/mocks/nv_pop_title.jpg",
+    "/workspace/member-look-polish-1028/mocks/nv_pop_date.jpg",
+    "/workspace/member-look-polish-1028/mocks/nv_pop_stacked.jpg",
+    "/workspace/member-look-polish-1028/mocks/nv_pop_split.jpg",
+    "/workspace/member-look-polish-1028/mocks/nv_pop_roomy.jpg",
+    "/workspace/member-look-polish-1028/mocks/nv_pop_dense.jpg",
+    "/workspace/member-look-polish-1028/mocks/nv_shadow_soft.jpg",
+    "/workspace/member-look-polish-1028/mocks/nv_shadow_crisp.jpg",
+    "/workspace/member-look-polish-1028/mocks/nv_act_primary.jpg",
+    "/workspace/member-look-polish-1028/mocks/nv_act_dual.jpg",
+    "/workspace/member-look-polish-1028/mocks/nv_chips_row.jpg",
+    "/workspace/member-look-polish-1028/mocks/nv_chips_stack.jpg",
+    "/workspace/member-look-polish-1028/mocks/nv_overall_a.jpg",
+    "/workspace/member-look-polish-1028/mocks/nv_overall_b.jpg"
+  ],
+  "agent": "upkeep"
+}

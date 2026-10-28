@@ -1,0 +1,20 @@
+{
+  "category": "member-ui",
+  "asset_paths": [
+    "/workspace/member-look-polish-1028/mocks/am_soft_panel.jpg",
+    "/workspace/member-look-polish-1028/mocks/am_flat_list.jpg",
+    "/workspace/member-look-polish-1028/mocks/am_roomy.jpg",
+    "/workspace/member-look-polish-1028/mocks/am_dense.jpg",
+    "/workspace/member-look-polish-1028/mocks/am_shadow_soft.jpg",
+    "/workspace/member-look-polish-1028/mocks/am_shadow_crisp.jpg",
+    "/workspace/member-look-polish-1028/mocks/am_hier_strong.jpg",
+    "/workspace/member-look-polish-1028/mocks/am_hier_split.jpg",
+    "/workspace/member-look-polish-1028/mocks/am_edges_soft.jpg",
+    "/workspace/member-look-polish-1028/mocks/am_edges_tight.jpg",
+    "/workspace/member-look-polish-1028/mocks/am_overall_a.jpg",
+    "/workspace/member-look-polish-1028/mocks/am_overall_b.jpg"
+  ],
+  "ui_screenshots": true,
+  "bleed_mode": "edge-safe",
+  "title": "Account Menu"
+}

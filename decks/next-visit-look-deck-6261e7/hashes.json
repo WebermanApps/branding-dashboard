@@ -1,0 +1,102 @@
+{
+  "c1": {
+    "A": {
+      "label": "Airy pill tile",
+      "sha12": "d0dd9eb47e7e"
+    },
+    "B": {
+      "label": "Denser compact tile",
+      "sha12": "9d25a5982d27"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Left lagoon bar",
+      "sha12": "2045f67c994b"
+    },
+    "B": {
+      "label": "Soft top accent",
+      "sha12": "27bf83f1538b"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "Big date chip",
+      "sha12": "ac3c199fee04"
+    },
+    "B": {
+      "label": "Inline date line",
+      "sha12": "8252344c52d0"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "Title-first · Winter Visit",
+      "sha12": "0fd45b8571a8"
+    },
+    "B": {
+      "label": "Date-first · Tue Dec 8",
+      "sha12": "76f89ec9edd3"
+    }
+  },
+  "c5": {
+    "A": {
+      "label": "One stacked care card",
+      "sha12": "c304da646718"
+    },
+    "B": {
+      "label": "Split mini-cards",
+      "sha12": "479e6c16993e"
+    }
+  },
+  "c6": {
+    "A": {
+      "label": "Roomy soft popup",
+      "sha12": "e6e9ab450f26"
+    },
+    "B": {
+      "label": "Denser soft popup",
+      "sha12": "efb4668056c3"
+    }
+  },
+  "c7": {
+    "A": {
+      "label": "Soft larger shadow",
+      "sha12": "2ee9fbe69f11"
+    },
+    "B": {
+      "label": "Crisp tighter shadow",
+      "sha12": "37e817f2fca0"
+    }
+  },
+  "c8": {
+    "A": {
+      "label": "Reschedule primary",
+      "sha12": "3195dd716b04"
+    },
+    "B": {
+      "label": "Reschedule + Ask a question",
+      "sha12": "fdc482cc7c1b"
+    }
+  },
+  "c9": {
+    "A": {
+      "label": "Single meta chip row",
+      "sha12": "9de7716230b4"
+    },
+    "B": {
+      "label": "Stacked meta chips",
+      "sha12": "c43f3073c8c8"
+    }
+  },
+  "c10": {
+    "A": {
+      "label": "Airy tile · title-first popup · soft shadow",
+      "sha12": "cb5bfc10fc41"
+    },
+    "B": {
+      "label": "Dense tile · split popup · dual actions",
+      "sha12": "3a1798751723"
+    }
+  }
+}
