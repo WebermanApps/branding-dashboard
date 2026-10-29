@@ -53,91 +53,6 @@
       "made": "2026-10-29"
     },
     {
-      "id": "tech-apparel-finished-designs-wo4b7m",
-      "name": "Tech Apparel Finished Designs",
-      "url": "https://webermanapps.github.io/branding-djqmb410/decks/tech-apparel-finished-designs-wo4b7m/",
-      "total": 7,
-      "answered": 0,
-      "tag": "Max's Picks",
-      "status": "open",
-      "added": "2026-10-29T15:01:18+07:00",
-      "note": "Machan Oct 29 2026 — Finished designs (front+back) from Round Two locks: all combos win, white work shirt only.",
-      "requested_at": "2026-10-29T15:00:36+07:00",
-      "pinned": true,
-      "new": true,
-      "blurb": "7 cards, ready now, with Notes",
-      "agent": "branding",
-      "made": "2026-10-29"
-    },
-    {
-      "id": "tech-gloves-odeyy7",
-      "name": "Tech Gloves",
-      "url": "https://webermanapps.github.io/branding-djqmb410/decks/tech-gloves-odeyy7/",
-      "total": 8,
-      "answered": 0,
-      "tag": "Max's Picks",
-      "status": "open",
-      "added": "2026-10-29T15:01:18+07:00",
-      "note": "Machan Oct 29 2026 — Tech apparel part 2: work gloves.",
-      "requested_at": "2026-10-29T15:00:36+07:00",
-      "pinned": true,
-      "new": true,
-      "blurb": "8 cards, ready now, with Notes",
-      "agent": "branding",
-      "made": "2026-10-29"
-    },
-    {
-      "id": "tech-hat-details-0cdv3i",
-      "name": "Tech Hat Details",
-      "url": "https://webermanapps.github.io/branding-djqmb410/decks/tech-hat-details-0cdv3i/",
-      "total": 8,
-      "answered": 0,
-      "tag": "Max's Picks",
-      "status": "open",
-      "added": "2026-10-29T15:01:18+07:00",
-      "note": "Machan Oct 29 2026 — Tech apparel part 2: white cap details + winter beanie.",
-      "requested_at": "2026-10-29T15:00:36+07:00",
-      "pinned": true,
-      "new": true,
-      "blurb": "8 cards, ready now, with Notes",
-      "agent": "branding",
-      "made": "2026-10-29"
-    },
-    {
-      "id": "tech-work-shoes-18m1b3",
-      "name": "Tech Work Shoes",
-      "url": "https://webermanapps.github.io/branding-djqmb410/decks/tech-work-shoes-18m1b3/",
-      "total": 8,
-      "answered": 0,
-      "tag": "Max's Picks",
-      "status": "open",
-      "added": "2026-10-29T15:01:18+07:00",
-      "note": "Machan Oct 29 2026 — Tech apparel part 2: work shoes.",
-      "requested_at": "2026-10-29T15:00:36+07:00",
-      "pinned": true,
-      "new": true,
-      "blurb": "8 cards, ready now, with Notes",
-      "agent": "branding",
-      "made": "2026-10-29"
-    },
-    {
-      "id": "tech-shoe-covers-1uhca5",
-      "name": "Tech Shoe Covers",
-      "url": "https://webermanapps.github.io/branding-djqmb410/decks/tech-shoe-covers-1uhca5/",
-      "total": 8,
-      "answered": 0,
-      "tag": "Max's Picks",
-      "status": "open",
-      "added": "2026-10-29T15:01:18+07:00",
-      "note": "Machan Oct 29 2026 — Tech apparel part 2: shoe covers for indoor visits.",
-      "requested_at": "2026-10-29T15:00:36+07:00",
-      "pinned": true,
-      "new": true,
-      "blurb": "8 cards, ready now, with Notes",
-      "agent": "branding",
-      "made": "2026-10-29"
-    },
-    {
       "id": "smart-upkeep-van-qr-code-d2mb46",
       "name": "Smart Upkeep Van QR Code",
       "url": "https://webermanapps.github.io/branding-djqmb410/decks/smart-upkeep-van-qr-code-d2mb46/",
@@ -608,7 +523,7 @@
       "done_at": "2026-10-28T14:35:24+07:00"
     }
   ],
-  "updated": "2026-10-29T15:01:18+07:00",
+  "updated": "2026-10-29T19:35:00+07:00",
   "done": [
     {
       "id": "command-center-tools-equipment-tile-deck-9ilqo3",
@@ -2089,6 +2004,56 @@
       "name": "Smart Upkeep Van Wrap Final Details",
       "answered": 3,
       "total": 3
+    },
+    {
+      "id": "tech-apparel-finished-designs-wo4b7m",
+      "at": "2026-10-29T19:15:00+07:00",
+      "name": "Tech Apparel Finished Designs",
+      "url": "https://webermanapps.github.io/branding-djqmb410/decks/tech-apparel-finished-designs-wo4b7m/",
+      "total": 7,
+      "answered": 7,
+      "status": "done",
+      "agent": "branding"
+    },
+    {
+      "id": "tech-gloves-odeyy7",
+      "at": "2026-10-29T19:21:00+07:00",
+      "name": "Tech Gloves",
+      "url": "https://webermanapps.github.io/branding-djqmb410/decks/tech-gloves-odeyy7/",
+      "total": 8,
+      "answered": 8,
+      "status": "done",
+      "agent": "branding"
+    },
+    {
+      "id": "tech-hat-details-0cdv3i",
+      "at": "2026-10-29T19:26:12+07:00",
+      "name": "Tech Hat Details",
+      "url": "https://webermanapps.github.io/branding-djqmb410/decks/tech-hat-details-0cdv3i/",
+      "total": 8,
+      "answered": 6,
+      "status": "done",
+      "agent": "branding"
+    },
+    {
+      "id": "tech-work-shoes-18m1b3",
+      "at": "2026-10-29T19:28:47+07:00",
+      "name": "Tech Work Shoes",
+      "url": "https://webermanapps.github.io/branding-djqmb410/decks/tech-work-shoes-18m1b3/",
+      "total": 8,
+      "answered": 6,
+      "status": "done",
+      "agent": "branding"
+    },
+    {
+      "id": "tech-shoe-covers-1uhca5",
+      "at": "2026-10-29T19:29:59+07:00",
+      "name": "Tech Shoe Covers",
+      "url": "https://webermanapps.github.io/branding-djqmb410/decks/tech-shoe-covers-1uhca5/",
+      "total": 8,
+      "answered": 8,
+      "status": "done",
+      "agent": "branding"
     }
   ],
   "pinned": [
