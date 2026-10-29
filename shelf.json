@@ -436,7 +436,7 @@
    "done_at": "2026-10-28T14:35:24+07:00"
   }
  ],
- "updated": "2026-10-29T14:31:29+07:00",
+ "updated": "2026-10-29T14:45:00+07:00",
  "done": [
   {
    "id": "command-center-tools-equipment-tile-deck-9ilqo3",
@@ -1204,27 +1204,6 @@
    "total": 10
   },
   {
-   "id": "wandering-persimmon-music",
-   "at": "2026-10-20T23:31:35+07:00",
-   "name": "Wandering Persimmon Music",
-   "answered": 2,
-   "total": 5
-  },
-  {
-   "id": "wandering-persimmon-cover",
-   "at": "2026-10-20T23:24:10+07:00",
-   "name": "The Wandering Persimmon: Storybook Cover",
-   "answered": 10,
-   "total": 10
-  },
-  {
-   "id": "wandering-persimmon-narrator",
-   "at": "2026-10-20T23:26:13+07:00",
-   "name": "The Wandering Persimmon: Narrator Voice",
-   "answered": 4,
-   "total": 8
-  },
-  {
    "id": "gift-app-smooth-flow",
    "at": "2026-10-20T23:29:20+07:00",
    "name": "Gift App: Smooth Flow",
@@ -1260,41 +1239,6 @@
    "total": 10
   },
   {
-   "id": "wandering-persimmon-narrator-2",
-   "at": "2026-10-20T23:52:39+07:00",
-   "name": "The Wandering Persimmon: Narrator Voice 2",
-   "answered": 6,
-   "total": 8
-  },
-  {
-   "id": "wandering-persimmon-cover-2",
-   "at": "2026-10-21T00:10:00+07:00",
-   "name": "The Wandering Persimmon: Storybook Cover 2",
-   "answered": 8,
-   "total": 10
-  },
-  {
-   "id": "wandering-persimmon-book-inside",
-   "at": "2026-10-21T00:13:00+07:00",
-   "name": "The Wandering Persimmon: The Book Inside",
-   "answered": 10,
-   "total": 10
-  },
-  {
-   "id": "wandering-persimmon-cover-3",
-   "at": "2026-10-21T00:41:44+07:00",
-   "name": "The Wandering Persimmon: Storybook Cover 3",
-   "answered": 10,
-   "total": 10
-  },
-  {
-   "id": "wandering-persimmon-book-inside-2",
-   "at": "2026-10-21T00:45:00+07:00",
-   "name": "The Wandering Persimmon: The Book Inside 2",
-   "answered": 8,
-   "total": 10
-  },
-  {
    "id": "cc-charts-panels",
    "at": "2026-10-21T00:58:29+07:00",
    "name": "Command Center: Charts and Panels",
@@ -1309,34 +1253,11 @@
    "total": 9
   },
   {
-   "id": "wandering-persimmon-ch1-moments",
-   "at": "2026-10-21T00:53:25+07:00",
-   "name": "The Wandering Persimmon: Chapter 1 Moments",
-   "answered": 6,
-   "total": 10
-  },
-  {
    "id": "jakarta-weekend-art-markets",
    "at": "2026-10-21T01:36:19+07:00",
    "name": "Jakarta Weekend: Art, Markets & Food",
    "answered": 10,
    "total": 11,
-   "made": "2026-10-21"
-  },
-  {
-   "id": "wandering-persimmon-narrator-deep",
-   "at": "2026-10-21T00:26:11+07:00",
-   "name": "The Wandering Persimmon: Narrator Voice Deep",
-   "answered": 4,
-   "total": 8,
-   "made": "2026-10-21"
-  },
-  {
-   "id": "wandering-persimmon-narrator-wise-original",
-   "at": "2026-10-21T01:39:27+07:00",
-   "name": "Wandering Persimmon Narrator Wise Original",
-   "answered": 4,
-   "total": 4,
    "made": "2026-10-21"
   },
   {
@@ -1558,13 +1479,6 @@
    "id": "sound-share-and-page-turn-follow-up-deck",
    "at": "2026-10-21T20:55:59+07:00",
    "name": "Sound, Share and Page Turn Follow-up",
-   "answered": 6,
-   "total": 6
-  },
-  {
-   "id": "wandering-persimmon-open-questions-deck",
-   "at": "2026-10-21T20:55:59+07:00",
-   "name": "Wandering Persimmon Open Questions",
    "answered": 6,
    "total": 6
   },
@@ -2184,30 +2098,6 @@
    "made": "2026-10-28"
   },
   {
-   "id": "member-computer-look-tight-cream-deck-ph7w6b",
-   "name": "Computer Look — Tight Cream",
-   "url": "https://webermanapps.github.io/branding-djqmb410/decks/member-computer-look-tight-cream-deck-ph7w6b/",
-   "total": 10,
-   "answered": 0,
-   "tag": "Max's Picks",
-   "status": "open",
-   "requested_at": "2026-10-27T16:00:00+07:00",
-   "added": "2026-10-27T16:01:27+07:00",
-   "note": "Follow-up remakes from Oct 27 style-swipe submits (picks + notes)."
-  },
-  {
-   "id": "member-tablet-look-soft-cream-deck-57yavk",
-   "name": "Tablet Look — Soft Cream",
-   "url": "https://webermanapps.github.io/branding-djqmb410/decks/member-tablet-look-soft-cream-deck-57yavk/",
-   "total": 10,
-   "answered": 0,
-   "tag": "Max's Picks",
-   "status": "open",
-   "requested_at": "2026-10-27T16:00:00+07:00",
-   "added": "2026-10-27T16:01:27+07:00",
-   "note": "Follow-up remakes from Oct 27 style-swipe submits (picks + notes)."
-  },
-  {
    "id": "weberman-shaping-loft-engawa-deck-o1o7fe",
    "name": "Shaping — Loft & Engawa",
    "url": "https://webermanapps.github.io/branding-djqmb410/decks/weberman-shaping-loft-engawa-deck-o1o7fe/",
@@ -2218,37 +2108,6 @@
    "requested_at": "2026-10-27T16:00:00+07:00",
    "added": "2026-10-27T16:01:27+07:00",
    "note": "Follow-up remakes from Oct 27 style-swipe submits (picks + notes)."
-  },
-  {
-   "id": "fireside-music-deck-4",
-   "name": "Fireside Music Deck 4",
-   "url": "https://webermanapps.github.io/branding-djqmb410/decks/fireside-music-deck-4-v8h3tc/",
-   "total": 7,
-   "answered": 0,
-   "tag": "Wandering Persimmon",
-   "status": "replaced",
-   "requested_at": "2026-10-21T13:50:00+07:00",
-   "added": "2026-10-21T13:50:00+07:00",
-   "made": "2026-10-21",
-   "agent": "branding",
-   "blurb": "7 cards, ready now, old-world fireside vs new-world piano, clips under 9 s, with Notes",
-   "note": "Round 4: worn upright vs grand, felt vs upright, crisp vs romantic new world, Oz shift motif, tempo after the shift, ostinato vs flowing, held-note vs immediate bloom."
-  },
-  {
-   "id": "wandering-persimmon-narrator-3",
-   "name": "The Wandering Persimmon: Narrator Voice 3",
-   "url": "https://webermanapps.github.io/style-swipe/wandering-persimmon-narrator-voice-3-hw40eh/",
-   "total": 8,
-   "topic": "wandering-persimmon-narrator-3",
-   "added": "2026-10-21T00:00:00+07:00",
-   "made": "2026-10-20",
-   "tag": "The Wandering Persimmon",
-   "pinned": true,
-   "blurb": "8 cards, ready now, narrowing in on Andrew and Ava: speed, depth, pauses, warmth, tap to play, with Notes",
-   "answered": 0,
-   "agent": "branding",
-   "status": "replaced",
-   "requested_at": "2026-10-21T12:50:00+07:00"
   },
   {
    "id": "team-improvement-deck-round-four",
@@ -2928,19 +2787,6 @@
    ]
   },
   {
-   "id": "wandering-persimmon-open-questions-deck",
-   "name": "Wandering Persimmon Open Questions",
-   "url": "https://webermanapps.github.io/branding-djqmb410/decks/wandering-persimmon-open-questions-deck-fgtqlj/",
-   "total": 6,
-   "answered": 6,
-   "tag": "Max's Picks",
-   "status": "done",
-   "requested_at": "2026-10-21T20:04:52+07:00",
-   "added": "2026-10-21T20:04:52+07:00",
-   "note": "Requested by Max: open questions",
-   "done_at": "2026-10-21T20:55:59+07:00"
-  },
-  {
    "id": "sound-share-and-page-turn-follow-up-deck",
    "name": "Sound, Share and Page Turn Follow-up",
    "url": "https://webermanapps.github.io/branding-djqmb410/decks/sound-share-and-page-turn-follow-up-deck-bddh30/",
@@ -3349,21 +3195,6 @@
    "note": "Oz reveal: sepia strength, reveal speed, bloom edge, gold rim, colour origin, intensity, sound (tap for sound), push depth, fire flare, gold dust."
   },
   {
-   "id": "fireside-music-deck-5",
-   "name": "Fireside Music Deck 5: One Piano",
-   "url": "https://webermanapps.github.io/branding-djqmb410/decks/fireside-music-deck-5-onep7k/",
-   "total": 7,
-   "answered": 0,
-   "tag": "Wandering Persimmon",
-   "status": "done",
-   "requested_at": "2026-10-21T14:02:00+07:00",
-   "added": "2026-10-21T14:02:00+07:00",
-   "made": "2026-10-21",
-   "agent": "branding",
-   "blurb": "7 cards, ready now, one piano for the whole movie, only the playing changes, with Notes",
-   "note": "One piano, one player: plain vs ornamented motif, tempo, hushed vs swell, sparse vs arpeggios, octave vs key lift, held note vs seamless, crisp vs legato new world."
-  },
-  {
    "id": "kanji-t-deck",
    "name": "Kanji T Deck",
    "url": "https://webermanapps.github.io/branding-djqmb410/decks/kanji-t-deck-p5nd2x/",
@@ -3392,21 +3223,6 @@
    "agent": "branding",
    "blurb": "8 cards, ready now, bigger diary-style ink previews in the upper left, with Notes",
    "note": "Round 3: 25-60% bigger text, line spacing, ink thickness, all at once vs word by word, soak style, meadow vs sepia page, paper glow."
-  },
-  {
-   "id": "fireside-music-deck-3",
-   "name": "Fireside Music Deck 3",
-   "url": "https://webermanapps.github.io/branding-djqmb410/decks/fireside-music-deck-3-k7m2qa/",
-   "total": 7,
-   "answered": 0,
-   "tag": "Wandering Persimmon",
-   "status": "done",
-   "requested_at": "2026-10-21T13:40:00+07:00",
-   "added": "2026-10-21T13:40:00+07:00",
-   "made": "2026-10-21",
-   "agent": "branding",
-   "blurb": "7 cards, ready now, solo-piano clips under 9 s, with Notes",
-   "note": "Round 3: theme motif, arpeggios vs block chords, low vs high, pedal wash vs dry, Oz colour reveal (swell, open chord, key change), ending resolve vs question."
   },
   {
    "id": "phone-frame-deck-3",
@@ -3439,21 +3255,6 @@
    "note": "Refines Ink Text Deck: letter size, line breaks, ellipsis, bleed, linger, soak direction, gold glint, position by the tree."
   },
   {
-   "id": "fireside-music-deck-2",
-   "name": "Fireside Music Deck 2",
-   "url": "https://webermanapps.github.io/branding-djqmb410/decks/fireside-music-deck-2-u2ic3r/",
-   "total": 7,
-   "answered": 0,
-   "tag": "Wandering Persimmon",
-   "status": "done",
-   "requested_at": "2026-10-21T13:25:00+07:00",
-   "added": "2026-10-21T13:25:00+07:00",
-   "made": "2026-10-21",
-   "agent": "branding",
-   "blurb": "7 cards, ready now, 9-second solo piano clips, with Notes",
-   "note": "Remake of Fireside Music Deck: same solo-piano comparisons, clips cut to 9 s at the key moment; fire-crackle card dropped."
-  },
-  {
    "id": "phone-frame-deck-2",
    "name": "Phone Frame Deck 2",
    "url": "https://webermanapps.github.io/branding-djqmb410/decks/phone-frame-deck-2-xtmej4/",
@@ -3484,21 +3285,6 @@
    "note": "\"A long, long time ago...\" on the Machan meadow: handwriting font, ink colour, write speed, soak/fade/shimmer, placement."
   },
   {
-   "id": "fireside-music-deck",
-   "name": "Fireside Music Deck",
-   "url": "https://webermanapps.github.io/branding-djqmb410/decks/fireside-music-deck-0tdozq/",
-   "total": 8,
-   "answered": 0,
-   "tag": "Wandering Persimmon",
-   "status": "done",
-   "requested_at": "2026-10-21T13:20:00+07:00",
-   "added": "2026-10-21T13:20:00+07:00",
-   "made": "2026-10-21",
-   "agent": "branding",
-   "blurb": "8 cards, ready now, solo piano tap-to-play, with Notes",
-   "note": "Solo piano only: tempo, warmth, sparse vs flowing, key/mood, story theme, transition length and style, fire crackle."
-  },
-  {
    "id": "phone-frame-deck",
    "name": "Phone Frame Deck",
    "url": "https://webermanapps.github.io/branding-djqmb410/decks/phone-frame-deck-4zj1w5/",
@@ -3527,21 +3313,6 @@
    "agent": "branding",
    "blurb": "10 cards, ready now, fireside still variations, with Notes",
    "note": "Scene 0 fireside opening: variations of the approved centre-gathered still (layout kept): fire, shadows, darkness, armchair, pajamas, mantel teapots, fireplace, rug, framing."
-  },
-  {
-   "id": "persimmon-meadow-deck",
-   "name": "Persimmon Meadow Deck",
-   "url": "https://webermanapps.github.io/branding-djqmb410/decks/persimmon-meadow-deck-n1rkiw/",
-   "total": 10,
-   "answered": 0,
-   "tag": "Wandering Persimmon",
-   "status": "done",
-   "requested_at": "2026-10-21T13:00:00+07:00",
-   "added": "2026-10-21T13:00:00+07:00",
-   "made": "2026-10-21",
-   "agent": "branding",
-   "blurb": "10 cards, ready now, painted meadow variations, with Notes",
-   "note": "Variations on Max's watercolour meadow (book fold and tree kept): palette, fruit, gold leaf, sky, texture."
   },
   {
    "id": "portfolio-art-deck",
@@ -7556,6 +7327,335 @@
    "removed_from": "requested",
    "board": "branding-djqmb410#picks",
    "removed_by": "Max (one-click remove)"
+  },
+  {
+   "id": "wandering-persimmon-music",
+   "at": "2026-10-20T23:31:35+07:00",
+   "name": "Wandering Persimmon Music",
+   "answered": 2,
+   "total": 5,
+   "status": "removed",
+   "removed_at": "2026-10-29T14:45:00+07:00",
+   "removed_from": "done",
+   "removed_by": "Machan (remove persimmon/tablet look/computer look/fireside music decks, Oct 29)",
+   "board": "branding-djqmb410#picks"
+  },
+  {
+   "id": "wandering-persimmon-cover",
+   "at": "2026-10-20T23:24:10+07:00",
+   "name": "The Wandering Persimmon: Storybook Cover",
+   "answered": 10,
+   "total": 10,
+   "status": "removed",
+   "removed_at": "2026-10-29T14:45:00+07:00",
+   "removed_from": "done",
+   "removed_by": "Machan (remove persimmon/tablet look/computer look/fireside music decks, Oct 29)",
+   "board": "branding-djqmb410#picks"
+  },
+  {
+   "id": "wandering-persimmon-narrator",
+   "at": "2026-10-20T23:26:13+07:00",
+   "name": "The Wandering Persimmon: Narrator Voice",
+   "answered": 4,
+   "total": 8,
+   "status": "removed",
+   "removed_at": "2026-10-29T14:45:00+07:00",
+   "removed_from": "done",
+   "removed_by": "Machan (remove persimmon/tablet look/computer look/fireside music decks, Oct 29)",
+   "board": "branding-djqmb410#picks"
+  },
+  {
+   "id": "wandering-persimmon-narrator-2",
+   "at": "2026-10-20T23:52:39+07:00",
+   "name": "The Wandering Persimmon: Narrator Voice 2",
+   "answered": 6,
+   "total": 8,
+   "status": "removed",
+   "removed_at": "2026-10-29T14:45:00+07:00",
+   "removed_from": "done",
+   "removed_by": "Machan (remove persimmon/tablet look/computer look/fireside music decks, Oct 29)",
+   "board": "branding-djqmb410#picks"
+  },
+  {
+   "id": "wandering-persimmon-cover-2",
+   "at": "2026-10-21T00:10:00+07:00",
+   "name": "The Wandering Persimmon: Storybook Cover 2",
+   "answered": 8,
+   "total": 10,
+   "status": "removed",
+   "removed_at": "2026-10-29T14:45:00+07:00",
+   "removed_from": "done",
+   "removed_by": "Machan (remove persimmon/tablet look/computer look/fireside music decks, Oct 29)",
+   "board": "branding-djqmb410#picks"
+  },
+  {
+   "id": "wandering-persimmon-book-inside",
+   "at": "2026-10-21T00:13:00+07:00",
+   "name": "The Wandering Persimmon: The Book Inside",
+   "answered": 10,
+   "total": 10,
+   "status": "removed",
+   "removed_at": "2026-10-29T14:45:00+07:00",
+   "removed_from": "done",
+   "removed_by": "Machan (remove persimmon/tablet look/computer look/fireside music decks, Oct 29)",
+   "board": "branding-djqmb410#picks"
+  },
+  {
+   "id": "wandering-persimmon-cover-3",
+   "at": "2026-10-21T00:41:44+07:00",
+   "name": "The Wandering Persimmon: Storybook Cover 3",
+   "answered": 10,
+   "total": 10,
+   "status": "removed",
+   "removed_at": "2026-10-29T14:45:00+07:00",
+   "removed_from": "done",
+   "removed_by": "Machan (remove persimmon/tablet look/computer look/fireside music decks, Oct 29)",
+   "board": "branding-djqmb410#picks"
+  },
+  {
+   "id": "wandering-persimmon-book-inside-2",
+   "at": "2026-10-21T00:45:00+07:00",
+   "name": "The Wandering Persimmon: The Book Inside 2",
+   "answered": 8,
+   "total": 10,
+   "status": "removed",
+   "removed_at": "2026-10-29T14:45:00+07:00",
+   "removed_from": "done",
+   "removed_by": "Machan (remove persimmon/tablet look/computer look/fireside music decks, Oct 29)",
+   "board": "branding-djqmb410#picks"
+  },
+  {
+   "id": "wandering-persimmon-ch1-moments",
+   "at": "2026-10-21T00:53:25+07:00",
+   "name": "The Wandering Persimmon: Chapter 1 Moments",
+   "answered": 6,
+   "total": 10,
+   "status": "removed",
+   "removed_at": "2026-10-29T14:45:00+07:00",
+   "removed_from": "done",
+   "removed_by": "Machan (remove persimmon/tablet look/computer look/fireside music decks, Oct 29)",
+   "board": "branding-djqmb410#picks"
+  },
+  {
+   "id": "wandering-persimmon-narrator-deep",
+   "at": "2026-10-21T00:26:11+07:00",
+   "name": "The Wandering Persimmon: Narrator Voice Deep",
+   "answered": 4,
+   "total": 8,
+   "made": "2026-10-21",
+   "status": "removed",
+   "removed_at": "2026-10-29T14:45:00+07:00",
+   "removed_from": "done",
+   "removed_by": "Machan (remove persimmon/tablet look/computer look/fireside music decks, Oct 29)",
+   "board": "branding-djqmb410#picks"
+  },
+  {
+   "id": "wandering-persimmon-narrator-wise-original",
+   "at": "2026-10-21T01:39:27+07:00",
+   "name": "Wandering Persimmon Narrator Wise Original",
+   "answered": 4,
+   "total": 4,
+   "made": "2026-10-21",
+   "status": "removed",
+   "removed_at": "2026-10-29T14:45:00+07:00",
+   "removed_from": "done",
+   "removed_by": "Machan (remove persimmon/tablet look/computer look/fireside music decks, Oct 29)",
+   "board": "branding-djqmb410#picks"
+  },
+  {
+   "id": "wandering-persimmon-open-questions-deck",
+   "at": "2026-10-21T20:55:59+07:00",
+   "name": "Wandering Persimmon Open Questions",
+   "answered": 6,
+   "total": 6,
+   "status": "removed",
+   "removed_at": "2026-10-29T14:45:00+07:00",
+   "removed_from": "done",
+   "removed_by": "Machan (remove persimmon/tablet look/computer look/fireside music decks, Oct 29)",
+   "board": "branding-djqmb410#picks"
+  },
+  {
+   "id": "member-computer-look-tight-cream-deck-ph7w6b",
+   "name": "Computer Look — Tight Cream",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/member-computer-look-tight-cream-deck-ph7w6b/",
+   "total": 10,
+   "answered": 0,
+   "tag": "Max's Picks",
+   "status": "removed",
+   "requested_at": "2026-10-27T16:00:00+07:00",
+   "added": "2026-10-27T16:01:27+07:00",
+   "note": "Follow-up remakes from Oct 27 style-swipe submits (picks + notes).",
+   "removed_at": "2026-10-29T14:45:00+07:00",
+   "removed_from": "requested",
+   "removed_by": "Machan (remove persimmon/tablet look/computer look/fireside music decks, Oct 29)",
+   "board": "branding-djqmb410#picks"
+  },
+  {
+   "id": "member-tablet-look-soft-cream-deck-57yavk",
+   "name": "Tablet Look — Soft Cream",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/member-tablet-look-soft-cream-deck-57yavk/",
+   "total": 10,
+   "answered": 0,
+   "tag": "Max's Picks",
+   "status": "removed",
+   "requested_at": "2026-10-27T16:00:00+07:00",
+   "added": "2026-10-27T16:01:27+07:00",
+   "note": "Follow-up remakes from Oct 27 style-swipe submits (picks + notes).",
+   "removed_at": "2026-10-29T14:45:00+07:00",
+   "removed_from": "requested",
+   "removed_by": "Machan (remove persimmon/tablet look/computer look/fireside music decks, Oct 29)",
+   "board": "branding-djqmb410#picks"
+  },
+  {
+   "id": "fireside-music-deck-4",
+   "name": "Fireside Music Deck 4",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/fireside-music-deck-4-v8h3tc/",
+   "total": 7,
+   "answered": 0,
+   "tag": "Wandering Persimmon",
+   "status": "removed",
+   "requested_at": "2026-10-21T13:50:00+07:00",
+   "added": "2026-10-21T13:50:00+07:00",
+   "made": "2026-10-21",
+   "agent": "branding",
+   "blurb": "7 cards, ready now, old-world fireside vs new-world piano, clips under 9 s, with Notes",
+   "note": "Round 4: worn upright vs grand, felt vs upright, crisp vs romantic new world, Oz shift motif, tempo after the shift, ostinato vs flowing, held-note vs immediate bloom.",
+   "removed_at": "2026-10-29T14:45:00+07:00",
+   "removed_from": "requested",
+   "removed_by": "Machan (remove persimmon/tablet look/computer look/fireside music decks, Oct 29)",
+   "board": "branding-djqmb410#picks"
+  },
+  {
+   "id": "wandering-persimmon-narrator-3",
+   "name": "The Wandering Persimmon: Narrator Voice 3",
+   "url": "https://webermanapps.github.io/style-swipe/wandering-persimmon-narrator-voice-3-hw40eh/",
+   "total": 8,
+   "topic": "wandering-persimmon-narrator-3",
+   "added": "2026-10-21T00:00:00+07:00",
+   "made": "2026-10-20",
+   "tag": "The Wandering Persimmon",
+   "pinned": true,
+   "blurb": "8 cards, ready now, narrowing in on Andrew and Ava: speed, depth, pauses, warmth, tap to play, with Notes",
+   "answered": 0,
+   "agent": "branding",
+   "status": "removed",
+   "requested_at": "2026-10-21T12:50:00+07:00",
+   "removed_at": "2026-10-29T14:45:00+07:00",
+   "removed_from": "requested",
+   "removed_by": "Machan (remove persimmon/tablet look/computer look/fireside music decks, Oct 29)",
+   "board": "branding-djqmb410#picks"
+  },
+  {
+   "id": "wandering-persimmon-open-questions-deck",
+   "name": "Wandering Persimmon Open Questions",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/wandering-persimmon-open-questions-deck-fgtqlj/",
+   "total": 6,
+   "answered": 6,
+   "tag": "Max's Picks",
+   "status": "removed",
+   "requested_at": "2026-10-21T20:04:52+07:00",
+   "added": "2026-10-21T20:04:52+07:00",
+   "note": "Requested by Max: open questions",
+   "done_at": "2026-10-21T20:55:59+07:00",
+   "removed_at": "2026-10-29T14:45:00+07:00",
+   "removed_from": "requested",
+   "removed_by": "Machan (remove persimmon/tablet look/computer look/fireside music decks, Oct 29)",
+   "board": "branding-djqmb410#picks"
+  },
+  {
+   "id": "fireside-music-deck-5",
+   "name": "Fireside Music Deck 5: One Piano",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/fireside-music-deck-5-onep7k/",
+   "total": 7,
+   "answered": 0,
+   "tag": "Wandering Persimmon",
+   "status": "removed",
+   "requested_at": "2026-10-21T14:02:00+07:00",
+   "added": "2026-10-21T14:02:00+07:00",
+   "made": "2026-10-21",
+   "agent": "branding",
+   "blurb": "7 cards, ready now, one piano for the whole movie, only the playing changes, with Notes",
+   "note": "One piano, one player: plain vs ornamented motif, tempo, hushed vs swell, sparse vs arpeggios, octave vs key lift, held note vs seamless, crisp vs legato new world.",
+   "removed_at": "2026-10-29T14:45:00+07:00",
+   "removed_from": "requested",
+   "removed_by": "Machan (remove persimmon/tablet look/computer look/fireside music decks, Oct 29)",
+   "board": "branding-djqmb410#picks"
+  },
+  {
+   "id": "fireside-music-deck-3",
+   "name": "Fireside Music Deck 3",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/fireside-music-deck-3-k7m2qa/",
+   "total": 7,
+   "answered": 0,
+   "tag": "Wandering Persimmon",
+   "status": "removed",
+   "requested_at": "2026-10-21T13:40:00+07:00",
+   "added": "2026-10-21T13:40:00+07:00",
+   "made": "2026-10-21",
+   "agent": "branding",
+   "blurb": "7 cards, ready now, solo-piano clips under 9 s, with Notes",
+   "note": "Round 3: theme motif, arpeggios vs block chords, low vs high, pedal wash vs dry, Oz colour reveal (swell, open chord, key change), ending resolve vs question.",
+   "removed_at": "2026-10-29T14:45:00+07:00",
+   "removed_from": "requested",
+   "removed_by": "Machan (remove persimmon/tablet look/computer look/fireside music decks, Oct 29)",
+   "board": "branding-djqmb410#picks"
+  },
+  {
+   "id": "fireside-music-deck-2",
+   "name": "Fireside Music Deck 2",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/fireside-music-deck-2-u2ic3r/",
+   "total": 7,
+   "answered": 0,
+   "tag": "Wandering Persimmon",
+   "status": "removed",
+   "requested_at": "2026-10-21T13:25:00+07:00",
+   "added": "2026-10-21T13:25:00+07:00",
+   "made": "2026-10-21",
+   "agent": "branding",
+   "blurb": "7 cards, ready now, 9-second solo piano clips, with Notes",
+   "note": "Remake of Fireside Music Deck: same solo-piano comparisons, clips cut to 9 s at the key moment; fire-crackle card dropped.",
+   "removed_at": "2026-10-29T14:45:00+07:00",
+   "removed_from": "requested",
+   "removed_by": "Machan (remove persimmon/tablet look/computer look/fireside music decks, Oct 29)",
+   "board": "branding-djqmb410#picks"
+  },
+  {
+   "id": "fireside-music-deck",
+   "name": "Fireside Music Deck",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/fireside-music-deck-0tdozq/",
+   "total": 8,
+   "answered": 0,
+   "tag": "Wandering Persimmon",
+   "status": "removed",
+   "requested_at": "2026-10-21T13:20:00+07:00",
+   "added": "2026-10-21T13:20:00+07:00",
+   "made": "2026-10-21",
+   "agent": "branding",
+   "blurb": "8 cards, ready now, solo piano tap-to-play, with Notes",
+   "note": "Solo piano only: tempo, warmth, sparse vs flowing, key/mood, story theme, transition length and style, fire crackle.",
+   "removed_at": "2026-10-29T14:45:00+07:00",
+   "removed_from": "requested",
+   "removed_by": "Machan (remove persimmon/tablet look/computer look/fireside music decks, Oct 29)",
+   "board": "branding-djqmb410#picks"
+  },
+  {
+   "id": "persimmon-meadow-deck",
+   "name": "Persimmon Meadow Deck",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/persimmon-meadow-deck-n1rkiw/",
+   "total": 10,
+   "answered": 0,
+   "tag": "Wandering Persimmon",
+   "status": "removed",
+   "requested_at": "2026-10-21T13:00:00+07:00",
+   "added": "2026-10-21T13:00:00+07:00",
+   "made": "2026-10-21",
+   "agent": "branding",
+   "blurb": "10 cards, ready now, painted meadow variations, with Notes",
+   "note": "Variations on Max's watercolour meadow (book fold and tree kept): palette, fruit, gold leaf, sky, texture.",
+   "removed_at": "2026-10-29T14:45:00+07:00",
+   "removed_from": "requested",
+   "removed_by": "Machan (remove persimmon/tablet look/computer look/fireside music decks, Oct 29)",
+   "board": "branding-djqmb410#picks"
   }
  ],
  "requested_cleared": [
