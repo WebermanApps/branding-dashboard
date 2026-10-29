@@ -1,0 +1,102 @@
+{
+  "c1": {
+    "A": {
+      "label": "Crisp bright white",
+      "sha12": "b85686111601"
+    },
+    "B": {
+      "label": "Soft warm off-white",
+      "sha12": "fd974368b4f0"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Terracotta beltline",
+      "sha12": "46f620748817"
+    },
+    "B": {
+      "label": "Lagoon rocker band",
+      "sha12": "42c470ba8706"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "Large logo, center panel",
+      "sha12": "12cc8e90e24f"
+    },
+    "B": {
+      "label": "Logo + wordmark, one row",
+      "sha12": "de4f29b601f8"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "Brand forward on slider",
+      "sha12": "afbd5d142cf3"
+    },
+    "B": {
+      "label": "Brand on rear panel",
+      "sha12": "2bc1b6666c41"
+    }
+  },
+  "c5": {
+    "A": {
+      "label": "Big logo + web across doors",
+      "sha12": "c6f4d04a98fb"
+    },
+    "B": {
+      "label": "Small stacked block, left door",
+      "sha12": "0e07d9fd5dd8"
+    }
+  },
+  "c6": {
+    "A": {
+      "label": "Small logo on hood",
+      "sha12": "dbda91d5d1b6"
+    },
+    "B": {
+      "label": "Clean white hood",
+      "sha12": "5a8dcc3c2ad8"
+    }
+  },
+  "c7": {
+    "A": {
+      "label": "Big bold phone line",
+      "sha12": "1dcf59e2aa0e"
+    },
+    "B": {
+      "label": "Small discreet phone",
+      "sha12": "58c56cfa7e8a"
+    }
+  },
+  "c8": {
+    "A": {
+      "label": "smartupkeep.ai up high",
+      "sha12": "555572aba5fa"
+    },
+    "B": {
+      "label": "smartupkeep.ai down low",
+      "sha12": "25d7e01f141b"
+    }
+  },
+  "c9": {
+    "A": {
+      "label": "Matte black, centered",
+      "sha12": "bfa774339fb9"
+    },
+    "B": {
+      "label": "Brushed aluminum",
+      "sha12": "e6603da561a6"
+    }
+  },
+  "c10": {
+    "A": {
+      "label": "Quiet minimal",
+      "sha12": "fbc63874690c"
+    },
+    "B": {
+      "label": "Fuller, still delicate",
+      "sha12": "3987931a3151"
+    }
+  }
+}

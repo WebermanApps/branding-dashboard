@@ -1,0 +1,28 @@
+{
+  "category": "vehicle-livery",
+  "asset_paths": [
+    "/workspace/su-van-wrap-1029/staged/c1a.jpg",
+    "/workspace/su-van-wrap-1029/staged/c1b.jpg",
+    "/workspace/su-van-wrap-1029/staged/c2a.jpg",
+    "/workspace/su-van-wrap-1029/staged/c2b.jpg",
+    "/workspace/su-van-wrap-1029/staged/c3a.jpg",
+    "/workspace/su-van-wrap-1029/staged/c3b.jpg",
+    "/workspace/su-van-wrap-1029/staged/c4a.jpg",
+    "/workspace/su-van-wrap-1029/staged/c4b.jpg",
+    "/workspace/su-van-wrap-1029/staged/c5a.jpg",
+    "/workspace/su-van-wrap-1029/staged/c5b.jpg",
+    "/workspace/su-van-wrap-1029/staged/c6a.jpg",
+    "/workspace/su-van-wrap-1029/staged/c6b.jpg",
+    "/workspace/su-van-wrap-1029/staged/c7a.jpg",
+    "/workspace/su-van-wrap-1029/staged/c7b.jpg",
+    "/workspace/su-van-wrap-1029/staged/c8a.jpg",
+    "/workspace/su-van-wrap-1029/staged/c8b.jpg",
+    "/workspace/su-van-wrap-1029/staged/c9a.jpg",
+    "/workspace/su-van-wrap-1029/staged/c9b.jpg",
+    "/workspace/su-van-wrap-1029/staged/c10a.jpg",
+    "/workspace/su-van-wrap-1029/staged/c10b.jpg"
+  ],
+  "ui_screenshots": false,
+  "bleed_mode": "flush-cream",
+  "title": "Smart Upkeep Van Wrap"
+}
