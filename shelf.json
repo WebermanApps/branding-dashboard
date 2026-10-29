@@ -2,23 +2,6 @@
   "agent": "branding",
   "decks": [
     {
-      "id": "tech-sneaker-and-boot-finalists-wjn8hn",
-      "name": "Tech Sneaker and Boot Finalists",
-      "url": "https://webermanapps.github.io/branding-djqmb410/decks/tech-sneaker-and-boot-finalists-wjn8hn/",
-      "total": 12,
-      "answered": 0,
-      "tag": "Max's Picks",
-      "status": "open",
-      "added": "2026-10-29T20:31:30+07:00",
-      "note": "Machan Oct 29 2026 — narrow sneaker and boot: bracket rounds from Full Lineup picks (Grey Mesh Runner; Charcoal Lace-Up, Stone Hiker), then sole colour, terracotta accent, logo spot, safety features.",
-      "requested_at": "2026-10-29T20:24:00+07:00",
-      "pinned": true,
-      "new": true,
-      "blurb": "12 cards, ready now, with Notes",
-      "agent": "branding",
-      "made": "2026-10-29"
-    },
-    {
       "id": "tech-shirts-hoodie-and-footwear-l5a5bo",
       "name": "Tech Shirts Hoodie and Footwear",
       "url": "https://webermanapps.github.io/branding-djqmb410/decks/tech-shirts-hoodie-and-footwear-l5a5bo/",
@@ -559,6 +542,16 @@
   ],
   "updated": "2026-10-29T20:31:30+07:00",
   "done": [
+    {
+      "id": "tech-sneaker-and-boot-finalists-wjn8hn",
+      "at": "2026-10-29T21:36:12+07:00",
+      "name": "Tech Sneaker and Boot Finalists",
+      "url": "https://webermanapps.github.io/branding-djqmb410/decks/tech-sneaker-and-boot-finalists-wjn8hn/",
+      "total": 12,
+      "answered": 11,
+      "status": "done",
+      "agent": "branding"
+    },
     {
       "id": "tech-apparel-full-lineup-u6hxjy",
       "at": "2026-10-29T20:17:50+07:00",
