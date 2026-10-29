@@ -1,0 +1,24 @@
+{
+  "category": "brand-print-swag",
+  "asset_paths": [
+    "/workspace/fn-handouts-1029/gen/gft-kraft.jpg",
+    "/workspace/fn-handouts-1029/gen/gft-cream.jpg",
+    "/workspace/fn-handouts-1029/gen/gft-charcoal.jpg",
+    "/workspace/fn-handouts-1029/gen/gft-kraft-terra.jpg",
+    "/workspace/fn-handouts-1029/gen/gft-tissue-terra.jpg",
+    "/workspace/fn-handouts-1029/gen/gft-tissue-blue.jpg",
+    "/workspace/fn-handouts-1029/gen/gft-shred.jpg",
+    "/workspace/fn-handouts-1029/gen/gft-tissue-print.jpg",
+    "/workspace/fn-handouts-1029/gen/gft-guest-treat.jpg",
+    "/workspace/fn-handouts-1029/gen/gft-guest-min.jpg",
+    "/workspace/fn-handouts-1029/gen/gft-box-charcoal.jpg",
+    "/workspace/fn-handouts-1029/gen/gft-bigbag.jpg",
+    "/workspace/fn-handouts-1029/gen/gft-box-practical.jpg",
+    "/workspace/fn-handouts-1029/gen/gft-box-comfort.jpg",
+    "/workspace/fn-handouts-1029/gen/gft-tag.jpg",
+    "/workspace/fn-handouts-1029/gen/gft-seal.jpg"
+  ],
+  "ui_screenshots": false,
+  "bleed_mode": "flush-cream",
+  "title": "Founding Night Gift Bag Deck"
+}

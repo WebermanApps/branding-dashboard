@@ -1,0 +1,82 @@
+{
+  "c1": {
+    "A": {
+      "label": "Brown Kraft Bag",
+      "sha12": "eb51a9704d2f"
+    },
+    "B": {
+      "label": "Cream Matte Bag",
+      "sha12": "a5f48855ba67"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Charcoal Matte Bag",
+      "sha12": "ab443d4bec63"
+    },
+    "B": {
+      "label": "Kraft With Terracotta Rope And Bow",
+      "sha12": "49e36411d450"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "Terracotta Tissue",
+      "sha12": "3068c35647a6"
+    },
+    "B": {
+      "label": "Lagoon Blue Tissue",
+      "sha12": "bc45dff39cbf"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "Kraft Crinkle Paper Shred",
+      "sha12": "c0de35f2da48"
+    },
+    "B": {
+      "label": "Custom Logo-Printed Tissue",
+      "sha12": "611f37d702a0"
+    }
+  },
+  "c5": {
+    "A": {
+      "label": "Treat Bag: Pamphlet, Magnet, Pen, Cookies",
+      "sha12": "a618abbbc946"
+    },
+    "B": {
+      "label": "Minimal Bag: Pamphlet And Keychain",
+      "sha12": "d9da39fd6f2b"
+    }
+  },
+  "c6": {
+    "A": {
+      "label": "Rigid Charcoal Welcome Box",
+      "sha12": "f57f25232eb8"
+    },
+    "B": {
+      "label": "Upgraded Tall Gift Bag",
+      "sha12": "9dacb2b19188"
+    }
+  },
+  "c7": {
+    "A": {
+      "label": "Practical Home-Care Kit",
+      "sha12": "7c77a382ff8e"
+    },
+    "B": {
+      "label": "Comfort Treats",
+      "sha12": "66f46348de78"
+    }
+  },
+  "c8": {
+    "A": {
+      "label": "Welcome, [Name] Hang Tag",
+      "sha12": "8765a44228e8"
+    },
+    "B": {
+      "label": "Folded Top With Logo Seal",
+      "sha12": "63ba8adbbd65"
+    }
+  }
+}
