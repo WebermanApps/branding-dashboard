@@ -1,0 +1,82 @@
+{
+  "c1": {
+    "A": {
+      "label": "Cognac Leather Tab Keychain",
+      "sha12": "2c3c4a84bbf0"
+    },
+    "B": {
+      "label": "Brushed Metal House-Shape Keychain",
+      "sha12": "f1df2b0306d2"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Charcoal Bottle Opener Keychain",
+      "sha12": "b5466cb3729b"
+    },
+    "B": {
+      "label": "Lagoon Blue Enamel House Keychain",
+      "sha12": "5d8383a91681"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "House-Shaped Ask Anything Magnet",
+      "sha12": "a7e5f0fdd6f3"
+    },
+    "B": {
+      "label": "Business-Card Ask Anything Magnet",
+      "sha12": "727e3357ab24"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "Charcoal Metal Twist Pen",
+      "sha12": "684f45a94e00"
+    },
+    "B": {
+      "label": "Terracotta Plastic Click Pen",
+      "sha12": "0ac3fcb751be"
+    }
+  },
+  "c5": {
+    "A": {
+      "label": "Die-Cut Logo Sticker",
+      "sha12": "dbdcb216956b"
+    },
+    "B": {
+      "label": "Round Founding Member Sticker",
+      "sha12": "cfbadad26dea"
+    }
+  },
+  "c6": {
+    "A": {
+      "label": "All-White Cap, Embroidered Logo",
+      "sha12": "93eb00c562fe"
+    },
+    "B": {
+      "label": "White Cap With Terracotta Brim",
+      "sha12": "b4007f08c0ef"
+    }
+  },
+  "c7": {
+    "A": {
+      "label": "Natural Canvas Tote",
+      "sha12": "b019acba933e"
+    },
+    "B": {
+      "label": "Charcoal Canvas Tote",
+      "sha12": "fdeafd946e03"
+    }
+  },
+  "c8": {
+    "A": {
+      "label": "Large Center Logo",
+      "sha12": "6c67b9b67bb3"
+    },
+    "B": {
+      "label": "Small Corner Logo Plus Founding Member [Date]",
+      "sha12": "9963128a1f73"
+    }
+  }
+}

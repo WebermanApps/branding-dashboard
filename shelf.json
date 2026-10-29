@@ -2,6 +2,23 @@
   "agent": "branding",
   "decks": [
     {
+      "id": "founding-night-swag-deck",
+      "name": "Founding Night Swag Deck",
+      "url": "https://webermanapps.github.io/branding-djqmb410/decks/founding-night-swag-deck/",
+      "total": 8,
+      "answered": 0,
+      "tag": "Max's Picks",
+      "status": "open",
+      "added": "2026-10-29T22:29:32+07:00",
+      "note": "Machan Oct 29 2026 — Smart Upkeep Founding Members Night handouts (Jan 2027, catered friends-and-family launch; goal 25 founding members, push 1-2 year prepay). Keychains (leather/metal house/bottle opener), Ask Anything magnets, pens, stickers, white cap, tote. [Price]/[Date]/[Phone] placeholders.",
+      "requested_at": "2026-10-29T22:28:32+07:00",
+      "pinned": true,
+      "new": true,
+      "blurb": "8 cards, ready now, with Notes",
+      "agent": "branding",
+      "made": "2026-10-29"
+    },
+    {
       "id": "founding-night-gift-bag-deck",
       "name": "Founding Night Gift Bag Deck",
       "url": "https://webermanapps.github.io/branding-djqmb410/decks/founding-night-gift-bag-deck/",
@@ -625,7 +642,7 @@
       "done_at": "2026-10-28T14:35:24+07:00"
     }
   ],
-  "updated": "2026-10-29T22:29:13+07:00",
+  "updated": "2026-10-29T22:29:32+07:00",
   "done": [
     {
       "id": "tech-sneaker-and-boot-finalists-wjn8hn",
