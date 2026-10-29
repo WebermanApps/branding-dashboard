@@ -1,0 +1,122 @@
+{
+  "c1": {
+    "A": {
+      "label": "Charcoal Polo",
+      "sha12": "c4a6bc6f0c74"
+    },
+    "B": {
+      "label": "Stone Polo",
+      "sha12": "550b7a3716aa"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Oatmeal Polo",
+      "sha12": "bf3ec111d0f2"
+    },
+    "B": {
+      "label": "Terracotta Polo",
+      "sha12": "a39a782c1d66"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "Soft Grey Polo",
+      "sha12": "203daa7a23f3"
+    },
+    "B": {
+      "label": "Uniqlo-Style Plain Polo",
+      "sha12": "d088a7a4bfce"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "Keep Oatmeal as the Light One",
+      "sha12": "0a736eef6ef4"
+    },
+    "B": {
+      "label": "Charcoal as the Dark One",
+      "sha12": "1b3df7380e51"
+    }
+  },
+  "c5": {
+    "A": {
+      "label": "Deep Lagoon (Navy-Teal)",
+      "sha12": "928d5416afd1"
+    },
+    "B": {
+      "label": "Forest Jungle Green",
+      "sha12": "d07b90e0b6f5"
+    }
+  },
+  "c6": {
+    "A": {
+      "label": "Heather Dark Grey",
+      "sha12": "a83ef47ce2cb"
+    },
+    "B": {
+      "label": "Uniqlo-Style Plain Pullover",
+      "sha12": "414de8c0ee2c"
+    }
+  },
+  "c7": {
+    "A": {
+      "label": "Terracotta Zip and Drawcords",
+      "sha12": "13550585e44e"
+    },
+    "B": {
+      "label": "Terracotta Hood Lining",
+      "sha12": "65079bd3a180"
+    }
+  },
+  "c8": {
+    "A": {
+      "label": "White Leather Court",
+      "sha12": "1169f5c6ff7e"
+    },
+    "B": {
+      "label": "Stone Suede Court",
+      "sha12": "8756c321eff4"
+    }
+  },
+  "c9": {
+    "A": {
+      "label": "Grey Trail Sneaker",
+      "sha12": "af91d5e7fb50"
+    },
+    "B": {
+      "label": "Black Slip-Resistant Service Sneaker",
+      "sha12": "a3a04f7c517b"
+    }
+  },
+  "c10": {
+    "A": {
+      "label": "Uniqlo-Style Plain White Canvas",
+      "sha12": "48236c370d5c"
+    },
+    "B": {
+      "label": "Grey Mesh Runner",
+      "sha12": "943d58c0a2ef"
+    }
+  },
+  "c11": {
+    "A": {
+      "label": "Charcoal Lace-Up Boot",
+      "sha12": "47f45f131e5c"
+    },
+    "B": {
+      "label": "Black Chelsea Boot",
+      "sha12": "97b544581ff6"
+    }
+  },
+  "c12": {
+    "A": {
+      "label": "Stone Hiker Boot",
+      "sha12": "149427c35d7b"
+    },
+    "B": {
+      "label": "Duck Rain Boot",
+      "sha12": "a1186861de0c"
+    }
+  }
+}

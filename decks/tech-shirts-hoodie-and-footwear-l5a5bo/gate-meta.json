@@ -1,0 +1,32 @@
+{
+  "category": "brand-apparel",
+  "asset_paths": [
+    "/workspace/su-tshf-1029/gen/p1a.jpg",
+    "/workspace/su-tshf-1029/gen/p1b.jpg",
+    "/workspace/su-tshf-1029/gen/p2a.jpg",
+    "/workspace/su-tshf-1029/gen/p2b.jpg",
+    "/workspace/su-tshf-1029/gen/p3a.jpg",
+    "/workspace/su-tshf-1029/gen/p3b.jpg",
+    "/workspace/su-tshf-1029/gen/h4a.jpg",
+    "/workspace/su-tshf-1029/gen/h4b.jpg",
+    "/workspace/su-tshf-1029/gen/h5a.jpg",
+    "/workspace/su-tshf-1029/gen/h5b.jpg",
+    "/workspace/su-tshf-1029/gen/h6a.jpg",
+    "/workspace/su-tshf-1029/gen/h6b.jpg",
+    "/workspace/su-tshf-1029/gen/h7a.jpg",
+    "/workspace/su-tshf-1029/gen/h7b.jpg",
+    "/workspace/su-tshf-1029/gen/s8a.jpg",
+    "/workspace/su-tshf-1029/gen/s8b.jpg",
+    "/workspace/su-tshf-1029/gen/s9a.jpg",
+    "/workspace/su-tshf-1029/gen/s9b.jpg",
+    "/workspace/su-tshf-1029/gen/s10a.jpg",
+    "/workspace/su-tshf-1029/gen/s10b.jpg",
+    "/workspace/su-tshf-1029/gen/b11a.jpg",
+    "/workspace/su-tshf-1029/gen/b11b.jpg",
+    "/workspace/su-tshf-1029/gen/b12a.jpg",
+    "/workspace/su-tshf-1029/gen/b12b.jpg"
+  ],
+  "ui_screenshots": false,
+  "bleed_mode": "flush-cream",
+  "title": "Tech Shirts Hoodie and Footwear"
+}
