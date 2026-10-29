@@ -1,0 +1,24 @@
+{
+  "category": "product-packaging",
+  "asset_paths": [
+    "/workspace/farm-basket-card-1029/assets/recipe/c1a.jpg",
+    "/workspace/farm-basket-card-1029/assets/recipe/c1b.jpg",
+    "/workspace/farm-basket-card-1029/assets/recipe/c2a.jpg",
+    "/workspace/farm-basket-card-1029/assets/recipe/c2b.jpg",
+    "/workspace/farm-basket-card-1029/assets/recipe/c3a.jpg",
+    "/workspace/farm-basket-card-1029/assets/recipe/c3b.jpg",
+    "/workspace/farm-basket-card-1029/assets/recipe/c4a.jpg",
+    "/workspace/farm-basket-card-1029/assets/recipe/c4b.jpg",
+    "/workspace/farm-basket-card-1029/assets/recipe/c5a.jpg",
+    "/workspace/farm-basket-card-1029/assets/recipe/c5b.jpg",
+    "/workspace/farm-basket-card-1029/assets/recipe/c6a.jpg",
+    "/workspace/farm-basket-card-1029/assets/recipe/c6b.jpg",
+    "/workspace/farm-basket-card-1029/assets/recipe/c7a.jpg",
+    "/workspace/farm-basket-card-1029/assets/recipe/c7b.jpg",
+    "/workspace/farm-basket-card-1029/assets/recipe/c8a.jpg",
+    "/workspace/farm-basket-card-1029/assets/recipe/c8b.jpg"
+  ],
+  "ui_screenshots": false,
+  "bleed_mode": "flush-cream",
+  "title": "Folded Card Inside: Recipe of the Week"
+}

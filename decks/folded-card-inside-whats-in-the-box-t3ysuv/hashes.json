@@ -1,0 +1,82 @@
+{
+  "c1": {
+    "A": {
+      "label": "Simple List",
+      "sha12": "366d6202bf25"
+    },
+    "B": {
+      "label": "Illustrated Grid",
+      "sha12": "e62e00ecf658"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Farm Name Beside Each Item",
+      "sha12": "36fc7ddd649e"
+    },
+    "B": {
+      "label": "One Line at the Bottom",
+      "sha12": "5d79ad3be9b0"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "Tip Under Each Item",
+      "sha12": "abb0ad30bd84"
+    },
+    "B": {
+      "label": "Separate Keep It Fresh Box",
+      "sha12": "114d9c5f07aa"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "With Checkboxes",
+      "sha12": "5d0a4659387b"
+    },
+    "B": {
+      "label": "Leaf Bullets, No Checkboxes",
+      "sha12": "dc035d44f979"
+    }
+  },
+  "c5": {
+    "A": {
+      "label": "Week of Chiang Mai",
+      "sha12": "c92d418e2fa6"
+    },
+    "B": {
+      "label": "Dated Week",
+      "sha12": "c9cb3a9dd3b6"
+    }
+  },
+  "c6": {
+    "A": {
+      "label": "Names + Amounts",
+      "sha12": "a3c6d6b10cd6"
+    },
+    "B": {
+      "label": "Names Only",
+      "sha12": "8cd97d6e273a"
+    }
+  },
+  "c7": {
+    "A": {
+      "label": "English Only",
+      "sha12": "03fb937c8ec9"
+    },
+    "B": {
+      "label": "Thai + English",
+      "sha12": "f789d17b1d50"
+    }
+  },
+  "c8": {
+    "A": {
+      "label": "Checklist With Farm Names",
+      "sha12": "afd9ea3db1b4"
+    },
+    "B": {
+      "label": "Illustrated Grid + Keep It Fresh",
+      "sha12": "d10ac907ca98"
+    }
+  }
+}

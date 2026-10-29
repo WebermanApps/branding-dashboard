@@ -1,0 +1,92 @@
+{
+  "c1": {
+    "A": {
+      "label": "Kraft Stock",
+      "sha12": "5cbad6f7a7ac"
+    },
+    "B": {
+      "label": "Cream Stock",
+      "sha12": "9fbe9512e3e0"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Centered Stack",
+      "sha12": "a3dbad3c0cdc"
+    },
+    "B": {
+      "label": "Left-Aligned Editorial",
+      "sha12": "59f788b3dde9"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "Band Across the Middle",
+      "sha12": "1b4c3f7e9269"
+    },
+    "B": {
+      "label": "Slim Strip on the Spine",
+      "sha12": "3ed368929915"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "Week of Chiang Mai",
+      "sha12": "9192c1bc2676"
+    },
+    "B": {
+      "label": "Week of Chiang Mai · Membership",
+      "sha12": "81ef14168d02"
+    }
+  },
+  "c5": {
+    "A": {
+      "label": "Dried Red Flower",
+      "sha12": "7fe74a9a7e1e"
+    },
+    "B": {
+      "label": "Fresh Green Herb Sprig",
+      "sha12": "9292a84f07d4"
+    }
+  },
+  "c6": {
+    "A": {
+      "label": "Short Farm Story",
+      "sha12": "72c659eae46d"
+    },
+    "B": {
+      "label": "One Quiet Line",
+      "sha12": "a9474b4dacef"
+    }
+  },
+  "c7": {
+    "A": {
+      "label": "QR for More Recipes",
+      "sha12": "2b66706d9db4"
+    },
+    "B": {
+      "label": "No QR",
+      "sha12": "a7eda026b6be"
+    }
+  },
+  "c8": {
+    "A": {
+      "label": "Membership Note Box",
+      "sha12": "fba135c1c7a6"
+    },
+    "B": {
+      "label": "No Membership Note",
+      "sha12": "6e4d4328e126"
+    }
+  },
+  "c9": {
+    "A": {
+      "label": "Kraft, Full Back",
+      "sha12": "d98ac9025e77"
+    },
+    "B": {
+      "label": "Cream, Minimal Back",
+      "sha12": "fcbe06cbebfd"
+    }
+  }
+}

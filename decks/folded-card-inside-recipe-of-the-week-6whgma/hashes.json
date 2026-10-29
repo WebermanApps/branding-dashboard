@@ -1,0 +1,82 @@
+{
+  "c1": {
+    "A": {
+      "label": "Real Dish Photo",
+      "sha12": "a75471083102"
+    },
+    "B": {
+      "label": "Watercolor Illustration",
+      "sha12": "bc8f74a76fdd"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Big Picture on Top",
+      "sha12": "cd2cd75c18b3"
+    },
+    "B": {
+      "label": "Text-Led, Small Round Photo",
+      "sha12": "f51efba2f90a"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "Simple Dash List",
+      "sha12": "0e72a57a9c7b"
+    },
+    "B": {
+      "label": "Two Columns With Amounts",
+      "sha12": "169df071ad3d"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "Numbered List",
+      "sha12": "0c474e612de4"
+    },
+    "B": {
+      "label": "Three Illustrated Step Boxes",
+      "sha12": "0d0eb06cc2f4"
+    }
+  },
+  "c5": {
+    "A": {
+      "label": "Typewriter Throughout",
+      "sha12": "f3030b4d6691"
+    },
+    "B": {
+      "label": "Editorial Serif + Clean Sans",
+      "sha12": "3391a16276b4"
+    }
+  },
+  "c6": {
+    "A": {
+      "label": "English Only",
+      "sha12": "df0bc9ebef38"
+    },
+    "B": {
+      "label": "Thai + English",
+      "sha12": "90598789293b"
+    }
+  },
+  "c7": {
+    "A": {
+      "label": "No Extra Line",
+      "sha12": "9e8c58a710f9"
+    },
+    "B": {
+      "label": "Green Serves · Time Pill",
+      "sha12": "e1f0b83102e9"
+    }
+  },
+  "c8": {
+    "A": {
+      "label": "Photo-Led Typewriter, English",
+      "sha12": "219cd1d8a3e8"
+    },
+    "B": {
+      "label": "Illustrated, Thai + English",
+      "sha12": "4b66d9688a84"
+    }
+  }
+}

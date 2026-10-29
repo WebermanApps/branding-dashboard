@@ -1,0 +1,26 @@
+{
+  "category": "product-packaging",
+  "asset_paths": [
+    "/workspace/farm-basket-card-1029/assets/frontback/c1a.jpg",
+    "/workspace/farm-basket-card-1029/assets/frontback/c1b.jpg",
+    "/workspace/farm-basket-card-1029/assets/frontback/c2a.jpg",
+    "/workspace/farm-basket-card-1029/assets/frontback/c2b.jpg",
+    "/workspace/farm-basket-card-1029/assets/frontback/c3a.jpg",
+    "/workspace/farm-basket-card-1029/assets/frontback/c3b.jpg",
+    "/workspace/farm-basket-card-1029/assets/frontback/c4a.jpg",
+    "/workspace/farm-basket-card-1029/assets/frontback/c4b.jpg",
+    "/workspace/farm-basket-card-1029/assets/frontback/c5a.jpg",
+    "/workspace/farm-basket-card-1029/assets/frontback/c5b.jpg",
+    "/workspace/farm-basket-card-1029/assets/frontback/c6a.jpg",
+    "/workspace/farm-basket-card-1029/assets/frontback/c6b.jpg",
+    "/workspace/farm-basket-card-1029/assets/frontback/c7a.jpg",
+    "/workspace/farm-basket-card-1029/assets/frontback/c7b.jpg",
+    "/workspace/farm-basket-card-1029/assets/frontback/c8a.jpg",
+    "/workspace/farm-basket-card-1029/assets/frontback/c8b.jpg",
+    "/workspace/farm-basket-card-1029/assets/frontback/c9a.jpg",
+    "/workspace/farm-basket-card-1029/assets/frontback/c9b.jpg"
+  ],
+  "ui_screenshots": false,
+  "bleed_mode": "flush-cream",
+  "title": "Folded Card Front and Back Branding"
+}

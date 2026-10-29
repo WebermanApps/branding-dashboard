@@ -1,0 +1,25 @@
+{
+  "category": "product-packaging",
+  "asset_paths": [
+    "/workspace/farm-basket-card-1029/assets/box/c1a.jpg",
+    "/workspace/farm-basket-card-1029/assets/box/c1b.jpg",
+    "/workspace/farm-basket-card-1029/assets/box/c2a.jpg",
+    "/workspace/farm-basket-card-1029/assets/box/c2b.jpg",
+    "/workspace/farm-basket-card-1029/assets/box/c3a.jpg",
+    "/workspace/farm-basket-card-1029/assets/box/c3b.jpg",
+    "/workspace/farm-basket-card-1029/assets/box/c4a.jpg",
+    "/workspace/farm-basket-card-1029/assets/box/c4b.jpg",
+    "/workspace/farm-basket-card-1029/assets/box/c5a.jpg",
+    "/workspace/farm-basket-card-1029/assets/box/c5b.jpg",
+    "/workspace/farm-basket-card-1029/assets/box/c6a.jpg",
+    "/workspace/farm-basket-card-1029/assets/box/c6b.jpg",
+    "/workspace/farm-basket-card-1029/assets/box/c7a.jpg",
+    "/workspace/farm-basket-card-1029/assets/box/c7b.jpg",
+    "/workspace/farm-basket-card-1029/assets/box/c8a.jpg",
+    "/workspace/farm-basket-card-1029/assets/box/c8b.jpg"
+  ],
+  "ui_screenshots": false,
+  "bleed_mode": "flush-cream",
+  "title": "Folded Card Inside: What's in the Box",
+  "agent": "wellnest"
+}
