@@ -2,6 +2,23 @@
   "agent": "branding",
   "decks": [
     {
+      "id": "founding-night-sign-up-sheet-deck",
+      "name": "Founding Night Sign-Up Sheet Deck",
+      "url": "https://webermanapps.github.io/branding-djqmb410/decks/founding-night-sign-up-sheet-deck/",
+      "total": 8,
+      "answered": 0,
+      "tag": "Max's Picks",
+      "status": "open",
+      "added": "2026-10-29T22:28:55+07:00",
+      "note": "Machan Oct 29 2026 — Smart Upkeep Founding Members Night handouts (Jan 2027, catered friends-and-family launch; goal 25 founding members, push 1-2 year prepay). Clipboard vs tablet vs both, fields (name/address/phone/plan/prepay), sheet design. [Price]/[Date]/[Phone] placeholders.",
+      "requested_at": "2026-10-29T22:28:32+07:00",
+      "pinned": true,
+      "new": true,
+      "blurb": "8 cards, ready now, with Notes",
+      "agent": "branding",
+      "made": "2026-10-29"
+    },
+    {
       "id": "founding-night-booth-deck",
       "name": "Founding Night Booth Deck",
       "url": "https://webermanapps.github.io/branding-djqmb410/decks/founding-night-booth-deck/",
@@ -591,7 +608,7 @@
       "done_at": "2026-10-28T14:35:24+07:00"
     }
   ],
-  "updated": "2026-10-29T22:20:00+07:00",
+  "updated": "2026-10-29T22:28:55+07:00",
   "done": [
     {
       "id": "tech-sneaker-and-boot-finalists-wjn8hn",

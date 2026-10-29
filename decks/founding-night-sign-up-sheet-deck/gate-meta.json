@@ -1,0 +1,24 @@
+{
+  "category": "brand-print-swag",
+  "asset_paths": [
+    "/workspace/fn-handouts-1029/gen/sgn-clip.jpg",
+    "/workspace/fn-handouts-1029/gen/sgn-tablet.jpg",
+    "/workspace/fn-handouts-1029/gen/sgn-both.jpg",
+    "/workspace/fn-handouts-1029/gen/sgn-tablet-qr.jpg",
+    "/workspace/fn-handouts-1029/gen/sgn-fields-short.jpg",
+    "/workspace/fn-handouts-1029/gen/sgn-fields-full.jpg",
+    "/workspace/fn-handouts-1029/gen/sgn-prepay-ticks.jpg",
+    "/workspace/fn-handouts-1029/gen/sgn-prepay-scale.jpg",
+    "/workspace/fn-handouts-1029/gen/sgn-plan-tiles.jpg",
+    "/workspace/fn-handouts-1029/gen/sgn-plan-circle.jpg",
+    "/workspace/fn-handouts-1029/gen/sgn-design-terra.jpg",
+    "/workspace/fn-handouts-1029/gen/sgn-design-blue.jpg",
+    "/workspace/fn-handouts-1029/gen/sgn-board-charcoal.jpg",
+    "/workspace/fn-handouts-1029/gen/sgn-board-wood.jpg",
+    "/workspace/fn-handouts-1029/gen/sgn-tab-counter.jpg",
+    "/workspace/fn-handouts-1029/gen/sgn-tab-kiosk.jpg"
+  ],
+  "ui_screenshots": false,
+  "bleed_mode": "flush-cream",
+  "title": "Founding Night Sign-Up Sheet Deck"
+}

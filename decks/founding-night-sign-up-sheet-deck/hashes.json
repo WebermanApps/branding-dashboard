@@ -1,0 +1,82 @@
+{
+  "c1": {
+    "A": {
+      "label": "Paper Clipboard Sheet",
+      "sha12": "afe819413732"
+    },
+    "B": {
+      "label": "Tablet Sign-Up Form",
+      "sha12": "b90df00a0af3"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Both: Clipboard And Tablet Side By Side",
+      "sha12": "d5eb5c51b030"
+    },
+    "B": {
+      "label": "Tablet Plus Scan-On-Your-Phone QR",
+      "sha12": "e9c95b090034"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "Short: Name, Phone, Plan Interest",
+      "sha12": "eb18f226ebec"
+    },
+    "B": {
+      "label": "Full: Name, Address, Phone, Plan, Prepay",
+      "sha12": "f43e40955f60"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "Tick Boxes: Monthly, 1 Year, 2 Years",
+      "sha12": "d917b8695acf"
+    },
+    "B": {
+      "label": "1 To 5 Prepay Interest Scale",
+      "sha12": "681eba4a8479"
+    }
+  },
+  "c5": {
+    "A": {
+      "label": "Three Plan Tiles With Icons",
+      "sha12": "e57c5626a9e5"
+    },
+    "B": {
+      "label": "Circle-One Text Line",
+      "sha12": "c0b641001b3f"
+    }
+  },
+  "c6": {
+    "A": {
+      "label": "Terracotta Header On Cream",
+      "sha12": "4aa6a84fe6e2"
+    },
+    "B": {
+      "label": "Lagoon Blue Header On White",
+      "sha12": "132b245f1ec2"
+    }
+  },
+  "c7": {
+    "A": {
+      "label": "Matte Charcoal Clipboard",
+      "sha12": "df2c54c6cf20"
+    },
+    "B": {
+      "label": "Natural Wood Clipboard With Brass Clip",
+      "sha12": "f18998061643"
+    }
+  },
+  "c8": {
+    "A": {
+      "label": "Countertop Stand, Terracotta Case",
+      "sha12": "18f44de05a35"
+    },
+    "B": {
+      "label": "Freestanding Floor Kiosk",
+      "sha12": "573912d1fbcb"
+    }
+  }
+}
