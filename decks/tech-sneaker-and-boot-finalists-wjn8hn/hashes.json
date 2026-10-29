@@ -1,0 +1,122 @@
+{
+  "c1": {
+    "A": {
+      "label": "Grey Mesh Runner, Your Full Lineup Pick",
+      "sha12": "7be4f298da15"
+    },
+    "B": {
+      "label": "White Leather Court, The Runner-Up",
+      "sha12": "937043cb88cc"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Grey Mesh Runner",
+      "sha12": "349b59fbd0e4"
+    },
+    "B": {
+      "label": "Grey Trail Sneaker",
+      "sha12": "5ab9d0bc3239"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "Grey Mesh Runner",
+      "sha12": "a873f36f4f97"
+    },
+    "B": {
+      "label": "Black Slip-Resistant Service Shoe",
+      "sha12": "18fc870ce8a0"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "Grey Mesh Runner, Terracotta Laces",
+      "sha12": "db75c09d0689"
+    },
+    "B": {
+      "label": "Stone Suede Court",
+      "sha12": "d818263395c1"
+    }
+  },
+  "c5": {
+    "A": {
+      "label": "Charcoal Lace-Up Boot, Your Full Lineup Pick",
+      "sha12": "678541fe1d12"
+    },
+    "B": {
+      "label": "Stone Hiker Boot, Also Your Pick",
+      "sha12": "b9587762ef04"
+    }
+  },
+  "c6": {
+    "A": {
+      "label": "Charcoal Lace-Up Boot",
+      "sha12": "c106609ba26d"
+    },
+    "B": {
+      "label": "Black Chelsea Boot",
+      "sha12": "26a23c95ddf4"
+    }
+  },
+  "c7": {
+    "A": {
+      "label": "Stone Hiker Boot, Terracotta Pull Loop",
+      "sha12": "be418da71638"
+    },
+    "B": {
+      "label": "Duck Rain Boot",
+      "sha12": "d07e88e5d376"
+    }
+  },
+  "c8": {
+    "A": {
+      "label": "Bright White Sole",
+      "sha12": "2eba0aa5dbc1"
+    },
+    "B": {
+      "label": "Mid-Grey Sole",
+      "sha12": "ee614c4fc036"
+    }
+  },
+  "c9": {
+    "A": {
+      "label": "Terracotta Pull Loop And Heel",
+      "sha12": "1910ca968ffd"
+    },
+    "B": {
+      "label": "No Terracotta, All Grey",
+      "sha12": "472e3c66e8e6"
+    }
+  },
+  "c10": {
+    "A": {
+      "label": "Terracotta Pull Loop Only",
+      "sha12": "10140f0bed38"
+    },
+    "B": {
+      "label": "No Terracotta, All Charcoal",
+      "sha12": "9fc0a4ce095e"
+    }
+  },
+  "c11": {
+    "A": {
+      "label": "Small Logo On The Heel",
+      "sha12": "da834eaa835f"
+    },
+    "B": {
+      "label": "Small Logo On The Tongue",
+      "sha12": "0bbd38a8752b"
+    }
+  },
+  "c12": {
+    "A": {
+      "label": "Slip-Resistant Sneaker Sole",
+      "sha12": "61bcd7f1b98f"
+    },
+    "B": {
+      "label": "Waterproof Boot Build",
+      "sha12": "b255503ce809"
+    }
+  }
+}

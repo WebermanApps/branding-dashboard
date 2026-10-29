@@ -1,0 +1,32 @@
+{
+  "category": "brand-apparel",
+  "asset_paths": [
+    "/workspace/su-shoe-1029/gen/s1a.jpg",
+    "/workspace/su-shoe-1029/gen/s1b.jpg",
+    "/workspace/su-shoe-1029/gen/s2a.jpg",
+    "/workspace/su-shoe-1029/gen/s2b.jpg",
+    "/workspace/su-shoe-1029/gen/s3a.jpg",
+    "/workspace/su-shoe-1029/gen/s3b.jpg",
+    "/workspace/su-shoe-1029/gen/s4a.jpg",
+    "/workspace/su-shoe-1029/gen/s4b.jpg",
+    "/workspace/su-shoe-1029/gen/b1a.jpg",
+    "/workspace/su-shoe-1029/gen/b1b.jpg",
+    "/workspace/su-shoe-1029/gen/b2a.jpg",
+    "/workspace/su-shoe-1029/gen/b2b.jpg",
+    "/workspace/su-shoe-1029/gen/b3a.jpg",
+    "/workspace/su-shoe-1029/gen/b3b.jpg",
+    "/workspace/su-shoe-1029/gen/d1a.jpg",
+    "/workspace/su-shoe-1029/gen/d1b.jpg",
+    "/workspace/su-shoe-1029/gen/d2a.jpg",
+    "/workspace/su-shoe-1029/gen/d2b.jpg",
+    "/workspace/su-shoe-1029/gen/d3a.jpg",
+    "/workspace/su-shoe-1029/gen/d3b.jpg",
+    "/workspace/su-shoe-1029/gen/d4a.jpg",
+    "/workspace/su-shoe-1029/gen/d4b.jpg",
+    "/workspace/su-shoe-1029/gen/d5a.jpg",
+    "/workspace/su-shoe-1029/gen/d5b.jpg"
+  ],
+  "ui_screenshots": false,
+  "bleed_mode": "flush-cream",
+  "title": "Tech Sneaker and Boot Finalists"
+}

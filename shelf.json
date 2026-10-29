@@ -2,19 +2,19 @@
   "agent": "branding",
   "decks": [
     {
-      "id": "tech-apparel-full-lineup-u6hxjy",
-      "name": "Tech Apparel Full Lineup",
-      "url": "https://webermanapps.github.io/branding-djqmb410/decks/tech-apparel-full-lineup-u6hxjy/",
-      "total": 18,
+      "id": "tech-sneaker-and-boot-finalists-wjn8hn",
+      "name": "Tech Sneaker and Boot Finalists",
+      "url": "https://webermanapps.github.io/branding-djqmb410/decks/tech-sneaker-and-boot-finalists-wjn8hn/",
+      "total": 12,
       "answered": 0,
       "tag": "Max's Picks",
       "status": "open",
-      "added": "2026-10-29T20:01:37+07:00",
-      "note": "Machan Oct 29 2026 — one full tech apparel deck: confirm cards for locked items, A/B for polos, work shirt, dark hoodie, sneaker, boots, glove logo, cap underbrim.",
-      "requested_at": "2026-10-29T19:56:00+07:00",
+      "added": "2026-10-29T20:31:30+07:00",
+      "note": "Machan Oct 29 2026 — narrow sneaker and boot: bracket rounds from Full Lineup picks (Grey Mesh Runner; Charcoal Lace-Up, Stone Hiker), then sole colour, terracotta accent, logo spot, safety features.",
+      "requested_at": "2026-10-29T20:24:00+07:00",
       "pinned": true,
       "new": true,
-      "blurb": "18 cards, ready now, with Notes",
+      "blurb": "12 cards, ready now, with Notes",
       "agent": "branding",
       "made": "2026-10-29"
     },
@@ -557,8 +557,18 @@
       "done_at": "2026-10-28T14:35:24+07:00"
     }
   ],
-  "updated": "2026-10-29T19:35:00+07:00",
+  "updated": "2026-10-29T20:31:30+07:00",
   "done": [
+    {
+      "id": "tech-apparel-full-lineup-u6hxjy",
+      "at": "2026-10-29T20:17:50+07:00",
+      "name": "Tech Apparel Full Lineup",
+      "url": "https://webermanapps.github.io/branding-djqmb410/decks/tech-apparel-full-lineup-u6hxjy/",
+      "total": 18,
+      "answered": 18,
+      "status": "done",
+      "agent": "branding"
+    },
     {
       "id": "command-center-tools-equipment-tile-deck-9ilqo3",
       "at": "2026-10-28T21:20:17+07:00",
