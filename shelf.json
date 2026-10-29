@@ -6,9 +6,9 @@
    "name": "Smart Upkeep Van Wrap Final Details",
    "url": "https://webermanapps.github.io/branding-djqmb410/decks/smart-upkeep-van-wrap-final-details-rdi7aj/",
    "total": 3,
-   "answered": 0,
+   "answered": 3,
    "tag": "Max's Picks",
-   "status": "open",
+   "status": "done",
    "added": "2026-10-29T14:41:38+07:00",
    "note": "Machan via UpKeep Develop Oct 29 2026 — follow-up on the 3 Machan Decides van wrap cards (passenger side, phone size, web height). Phone (555) 000-0000 placeholder.",
    "requested_at": "2026-10-29T14:37:00+07:00",
@@ -16,7 +16,8 @@
    "new": true,
    "blurb": "3 cards, ready now, with Notes",
    "agent": "upkeep",
-   "made": "2026-10-29"
+   "made": "2026-10-29",
+   "done_at": "2026-10-29T14:46:38+07:00"
   },
   {
    "id": "tech-apparel-round-two-w5zikk",
@@ -454,7 +455,7 @@
    "done_at": "2026-10-28T14:35:24+07:00"
   }
  ],
- "updated": "2026-10-29T14:45:00+07:00",
+ "updated": "2026-10-29T14:50:00+07:00",
  "done": [
   {
    "id": "command-center-tools-equipment-tile-deck-9ilqo3",
@@ -1928,6 +1929,13 @@
    "name": "Tech Apparel Round Two",
    "answered": 8,
    "total": 8
+  },
+  {
+   "id": "smart-upkeep-van-wrap-final-details-rdi7aj",
+   "at": "2026-10-29T14:46:38+07:00",
+   "name": "Smart Upkeep Van Wrap Final Details",
+   "answered": 3,
+   "total": 3
   }
  ],
  "pinned": [
@@ -1958,12 +1966,13 @@
    "name": "Smart Upkeep Van Wrap Final Details",
    "url": "https://webermanapps.github.io/branding-djqmb410/decks/smart-upkeep-van-wrap-final-details-rdi7aj/",
    "total": 3,
-   "answered": 0,
+   "answered": 3,
    "tag": "Max's Picks",
-   "status": "open",
+   "status": "done",
    "requested_at": "2026-10-29T14:37:00+07:00",
    "added": "2026-10-29T14:41:38+07:00",
-   "note": "Machan via UpKeep Develop Oct 29 2026 — follow-up on the 3 Machan Decides van wrap cards (passenger side, phone size, web height). Phone (555) 000-0000 placeholder."
+   "note": "Machan via UpKeep Develop Oct 29 2026 — follow-up on the 3 Machan Decides van wrap cards (passenger side, phone size, web height). Phone (555) 000-0000 placeholder.",
+   "done_at": "2026-10-29T14:46:38+07:00"
   },
   {
    "id": "tech-apparel-round-two-w5zikk",
