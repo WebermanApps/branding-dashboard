@@ -2,91 +2,91 @@
   "c1": {
     "A": {
       "label": "Kraft Stock",
-      "sha12": "5cbad6f7a7ac"
+      "sha12": "cb10ff25ea54"
     },
     "B": {
       "label": "Cream Stock",
-      "sha12": "9fbe9512e3e0"
+      "sha12": "416c499303e7"
     }
   },
   "c2": {
     "A": {
       "label": "Centered Stack",
-      "sha12": "a3dbad3c0cdc"
+      "sha12": "5ae77e95a462"
     },
     "B": {
       "label": "Left-Aligned Editorial",
-      "sha12": "59f788b3dde9"
+      "sha12": "098e7a7cbab4"
     }
   },
   "c3": {
     "A": {
       "label": "Band Across the Middle",
-      "sha12": "1b4c3f7e9269"
+      "sha12": "d0c8e4bbd384"
     },
     "B": {
       "label": "Slim Strip on the Spine",
-      "sha12": "3ed368929915"
+      "sha12": "03035e7784f1"
     }
   },
   "c4": {
     "A": {
-      "label": "Week of Chiang Mai",
-      "sha12": "9192c1bc2676"
+      "label": "Week of Oct 28",
+      "sha12": "5513317263dc"
     },
     "B": {
-      "label": "Week of Chiang Mai · Membership",
-      "sha12": "81ef14168d02"
+      "label": "Week of Oct 28 · Membership",
+      "sha12": "970b6091f7a2"
     }
   },
   "c5": {
     "A": {
       "label": "Dried Red Flower",
-      "sha12": "7fe74a9a7e1e"
+      "sha12": "952721e25bdf"
     },
     "B": {
       "label": "Fresh Green Herb Sprig",
-      "sha12": "9292a84f07d4"
+      "sha12": "4cd93472814f"
     }
   },
   "c6": {
     "A": {
       "label": "Short Farm Story",
-      "sha12": "72c659eae46d"
+      "sha12": "4567edd95a1d"
     },
     "B": {
       "label": "One Quiet Line",
-      "sha12": "a9474b4dacef"
+      "sha12": "15eae178483f"
     }
   },
   "c7": {
     "A": {
       "label": "QR for More Recipes",
-      "sha12": "2b66706d9db4"
+      "sha12": "bec90d09e8fe"
     },
     "B": {
       "label": "No QR",
-      "sha12": "a7eda026b6be"
+      "sha12": "9c822dae76fc"
     }
   },
   "c8": {
     "A": {
       "label": "Membership Note Box",
-      "sha12": "fba135c1c7a6"
+      "sha12": "1a15b2f79f99"
     },
     "B": {
       "label": "No Membership Note",
-      "sha12": "6e4d4328e126"
+      "sha12": "3b045e046511"
     }
   },
   "c9": {
     "A": {
       "label": "Kraft, Full Back",
-      "sha12": "d98ac9025e77"
+      "sha12": "f9d109c511b0"
     },
     "B": {
       "label": "Cream, Minimal Back",
-      "sha12": "fcbe06cbebfd"
+      "sha12": "31cee09c44a8"
     }
   }
 }
