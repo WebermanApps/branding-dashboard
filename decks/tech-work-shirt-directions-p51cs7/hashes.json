@@ -1,0 +1,82 @@
+{
+  "c1": {
+    "A": {
+      "label": "Snap-Front Western-Lite Work Shirt",
+      "sha12": "0cd337638259"
+    },
+    "B": {
+      "label": "Two-Pocket Utility Work Shirt",
+      "sha12": "32f63825df7a"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Lightweight Oxford Button-Down",
+      "sha12": "a62b6004e7e9"
+    },
+    "B": {
+      "label": "Stretch Tech Performance Woven",
+      "sha12": "38140224c3b3"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "Short-Sleeve Camp Collar Shirt",
+      "sha12": "66ab45cc9b50"
+    },
+    "B": {
+      "label": "Band-Collar Henley-Style Work Shirt",
+      "sha12": "7bbc4eadcb0e"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "Terracotta Topstitch And Buttons",
+      "sha12": "f80c88995404"
+    },
+    "B": {
+      "label": "All-White, No Trim",
+      "sha12": "a58958585af5"
+    }
+  },
+  "c5": {
+    "A": {
+      "label": "Long Sleeves, Buttoned Cuff",
+      "sha12": "840e11d4b95c"
+    },
+    "B": {
+      "label": "Short Sleeves, Point Collar",
+      "sha12": "07f550612758"
+    }
+  },
+  "c6": {
+    "A": {
+      "label": "Flat Satin-Stitch Logo",
+      "sha12": "74f60be0319c"
+    },
+    "B": {
+      "label": "Raised 3D Puff Logo",
+      "sha12": "7dadba077fd9"
+    }
+  },
+  "c7": {
+    "A": {
+      "label": "Tucked In With Belt",
+      "sha12": "d9d651185ec7"
+    },
+    "B": {
+      "label": "Untucked, Straight Hem",
+      "sha12": "1be241bb56c8"
+    }
+  },
+  "c8": {
+    "A": {
+      "label": "Sleeve Pen Pocket",
+      "sha12": "801a3a99ee15"
+    },
+    "B": {
+      "label": "No Pockets Anywhere",
+      "sha12": "16565cac8a31"
+    }
+  }
+}

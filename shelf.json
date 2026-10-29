@@ -2,6 +2,23 @@
   "agent": "branding",
   "decks": [
     {
+      "id": "tech-work-shirt-directions-p51cs7",
+      "name": "Tech Work Shirt Directions",
+      "url": "https://webermanapps.github.io/branding-djqmb410/decks/tech-work-shirt-directions-p51cs7/",
+      "total": 8,
+      "answered": 0,
+      "tag": "Max's Picks",
+      "status": "open",
+      "added": "2026-10-29T21:55:00+07:00",
+      "note": "Machan Oct 29 2026 — standard white work shirt rejected twice; 8 cards of new white-only directions (snap-front, utility, oxford, stretch tech, camp collar, band collar) plus terracotta trim, sleeves, embroidery, fit and pocket details. Large center-chest logo.",
+      "requested_at": "2026-10-29T21:45:00+07:00",
+      "pinned": true,
+      "new": true,
+      "blurb": "8 cards, ready now, with Notes",
+      "agent": "branding",
+      "made": "2026-10-29"
+    },
+    {
       "id": "tech-shirts-hoodie-and-footwear-l5a5bo",
       "name": "Tech Shirts Hoodie and Footwear",
       "url": "https://webermanapps.github.io/branding-djqmb410/decks/tech-shirts-hoodie-and-footwear-l5a5bo/",
@@ -540,7 +557,7 @@
       "done_at": "2026-10-28T14:35:24+07:00"
     }
   ],
-  "updated": "2026-10-29T20:31:30+07:00",
+  "updated": "2026-10-29T21:53:07+07:00",
   "done": [
     {
       "id": "tech-sneaker-and-boot-finalists-wjn8hn",
