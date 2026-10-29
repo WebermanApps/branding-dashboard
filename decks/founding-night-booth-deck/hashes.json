@@ -1,0 +1,142 @@
+{
+  "c1": {
+    "A": {
+      "label": "Fitted Stretch Tablecloth",
+      "sha12": "993c853d67ff"
+    },
+    "B": {
+      "label": "Loosely Draped Tablecloth",
+      "sha12": "5dbd54c72386"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Cream Tablecloth",
+      "sha12": "14753f08ec2b"
+    },
+    "B": {
+      "label": "Charcoal Tablecloth",
+      "sha12": "0fee2e98ff0c"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "Terracotta Tablecloth",
+      "sha12": "c160d9ed3bc9"
+    },
+    "B": {
+      "label": "Charcoal Tablecloth (Second Look)",
+      "sha12": "8396a2299caa"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "Single Large Front Logo",
+      "sha12": "4e38bd071c9f"
+    },
+    "B": {
+      "label": "All-Over Roof Pattern",
+      "sha12": "4ec6c4c5a4f9"
+    }
+  },
+  "c5": {
+    "A": {
+      "label": "Step-And-Repeat Wall",
+      "sha12": "21e18f3e1168"
+    },
+    "B": {
+      "label": "Curved Fabric Tension Banner",
+      "sha12": "032f58656ae8"
+    }
+  },
+  "c6": {
+    "A": {
+      "label": "Retractable Roll-Up Banner",
+      "sha12": "3638e5803006"
+    },
+    "B": {
+      "label": "Dimensional Wall Of Logo",
+      "sha12": "fd0c94cfe927"
+    }
+  },
+  "c7": {
+    "A": {
+      "label": "Single Straight 6 Ft Table",
+      "sha12": "c797c846f729"
+    },
+    "B": {
+      "label": "L-Shaped Two-Table Layout",
+      "sha12": "8090a6939840"
+    }
+  },
+  "c8": {
+    "A": {
+      "label": "Standing Floor Kiosk",
+      "sha12": "e9b17d015a1e"
+    },
+    "B": {
+      "label": "Countertop Stands With Stools",
+      "sha12": "7492ba1daacb"
+    }
+  },
+  "c9": {
+    "A": {
+      "label": "Tabletop Scan To Join Sign",
+      "sha12": "9c6603f8678a"
+    },
+    "B": {
+      "label": "Floor Easel Scan To Join Sign",
+      "sha12": "058a93f7ef0b"
+    }
+  },
+  "c10": {
+    "A": {
+      "label": "Flip Number Counter",
+      "sha12": "e4380abdd384"
+    },
+    "B": {
+      "label": "Terracotta Dot Board",
+      "sha12": "d54b17dc0c0f"
+    }
+  },
+  "c11": {
+    "A": {
+      "label": "Three-Tier Wood Gift Riser",
+      "sha12": "24161c5bdfe3"
+    },
+    "B": {
+      "label": "Row Of Branded Gift Bags",
+      "sha12": "f38502038681"
+    }
+  },
+  "c12": {
+    "A": {
+      "label": "Warm Festoon String Lights",
+      "sha12": "215a2dfd8693"
+    },
+    "B": {
+      "label": "Twin LED Spotlights",
+      "sha12": "2d8e18bc1b98"
+    }
+  },
+  "c13": {
+    "A": {
+      "label": "Fresh Flower Arrangement",
+      "sha12": "f3231038ad62"
+    },
+    "B": {
+      "label": "Potted Olive Tree",
+      "sha12": "7d0d363dd95b"
+    }
+  },
+  "c14": {
+    "A": {
+      "label": "White Polo Tech",
+      "sha12": "fdb3cc86ee6e"
+    },
+    "B": {
+      "label": "Lagoon Polo Tech",
+      "sha12": "1a84e1e83121"
+    }
+  }
+}
