@@ -436,7 +436,7 @@
    "done_at": "2026-10-28T14:35:24+07:00"
   }
  ],
- "updated": "2026-10-29T13:51:36+07:00",
+ "updated": "2026-10-29T14:31:29+07:00",
  "done": [
   {
    "id": "command-center-tools-equipment-tile-deck-9ilqo3",
@@ -2218,54 +2218,6 @@
    "requested_at": "2026-10-27T16:00:00+07:00",
    "added": "2026-10-27T16:01:27+07:00",
    "note": "Follow-up remakes from Oct 27 style-swipe submits (picks + notes)."
-  },
-  {
-   "id": "household-schedule-week-sync-deck-b78018",
-   "name": "Schedule — Week & Sync",
-   "url": "https://webermanapps.github.io/branding-djqmb410/decks/household-schedule-week-sync-deck-b78018/",
-   "total": 10,
-   "answered": 0,
-   "tag": "Max's Picks",
-   "status": "open",
-   "requested_at": "2026-10-27T16:00:00+07:00",
-   "added": "2026-10-27T16:01:27+07:00",
-   "note": "Follow-up remakes from Oct 27 style-swipe submits (picks + notes)."
-  },
-  {
-   "id": "household-rainy-day-fresh-outings-deck-4xomdy",
-   "name": "Rainy Day — Fresh Outings",
-   "url": "https://webermanapps.github.io/branding-djqmb410/decks/household-rainy-day-fresh-outings-deck-4xomdy/",
-   "total": 10,
-   "answered": 0,
-   "tag": "Max's Picks",
-   "status": "open",
-   "requested_at": "2026-10-27T16:00:00+07:00",
-   "added": "2026-10-27T16:01:27+07:00",
-   "note": "Follow-up remakes from Oct 27 style-swipe submits (picks + notes)."
-  },
-  {
-   "id": "household-maple-play-learning-deck-52opn9",
-   "name": "Maple Play & Learning",
-   "url": "https://webermanapps.github.io/branding-djqmb410/decks/household-maple-play-learning-deck-52opn9/",
-   "total": 10,
-   "answered": 0,
-   "tag": "Max's Picks",
-   "status": "open",
-   "requested_at": "2026-10-27T15:39:15+07:00",
-   "added": "2026-10-27T15:39:33+07:00",
-   "note": "Machan Oct 27 ~3:30 ICT continue Household: Maple Play & Learning, Rainy-Day Kit Chiang Mai, Day Trips Chiang Mai. Agent=household. Schedule Setup already live — not rebuilt."
-  },
-  {
-   "id": "household-day-trips-chiang-mai-deck-x1qga4",
-   "name": "Day Trips — Chiang Mai",
-   "url": "https://webermanapps.github.io/branding-djqmb410/decks/household-day-trips-chiang-mai-deck-x1qga4/",
-   "total": 10,
-   "answered": 0,
-   "tag": "Max's Picks",
-   "status": "open",
-   "requested_at": "2026-10-27T15:39:15+07:00",
-   "added": "2026-10-27T15:39:33+07:00",
-   "note": "Machan Oct 27 ~3:30 ICT continue Household: Maple Play & Learning, Rainy-Day Kit Chiang Mai, Day Trips Chiang Mai. Agent=household. Schedule Setup already live — not rebuilt."
   },
   {
    "id": "fireside-music-deck-4",
@@ -7540,6 +7492,70 @@
    "added": "2026-10-27T15:49:13+07:00",
    "note": "Machan via UpKeep Develop Oct 27 ~3:45 PM ICT — fresh-start Member/Tech phone layout decks (look + function of existing sections).",
    "cleared_at": "2026-10-27T16:16:21+07:00"
+  },
+  {
+   "id": "household-schedule-week-sync-deck-b78018",
+   "name": "Schedule — Week & Sync",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/household-schedule-week-sync-deck-b78018/",
+   "total": 10,
+   "answered": 0,
+   "tag": "Max's Picks",
+   "status": "removed",
+   "requested_at": "2026-10-27T16:00:00+07:00",
+   "added": "2026-10-27T16:01:27+07:00",
+   "note": "Follow-up remakes from Oct 27 style-swipe submits (picks + notes).",
+   "removed_at": "2026-10-29T14:31:25+07:00",
+   "removed_from": "requested",
+   "board": "branding-djqmb410#picks",
+   "removed_by": "Max (one-click remove)"
+  },
+  {
+   "id": "household-rainy-day-fresh-outings-deck-4xomdy",
+   "name": "Rainy Day — Fresh Outings",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/household-rainy-day-fresh-outings-deck-4xomdy/",
+   "total": 10,
+   "answered": 0,
+   "tag": "Max's Picks",
+   "status": "removed",
+   "requested_at": "2026-10-27T16:00:00+07:00",
+   "added": "2026-10-27T16:01:27+07:00",
+   "note": "Follow-up remakes from Oct 27 style-swipe submits (picks + notes).",
+   "removed_at": "2026-10-29T14:31:25+07:00",
+   "removed_from": "requested",
+   "board": "branding-djqmb410#picks",
+   "removed_by": "Max (one-click remove)"
+  },
+  {
+   "id": "household-maple-play-learning-deck-52opn9",
+   "name": "Maple Play & Learning",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/household-maple-play-learning-deck-52opn9/",
+   "total": 10,
+   "answered": 0,
+   "tag": "Max's Picks",
+   "status": "removed",
+   "requested_at": "2026-10-27T15:39:15+07:00",
+   "added": "2026-10-27T15:39:33+07:00",
+   "note": "Machan Oct 27 ~3:30 ICT continue Household: Maple Play & Learning, Rainy-Day Kit Chiang Mai, Day Trips Chiang Mai. Agent=household. Schedule Setup already live — not rebuilt.",
+   "removed_at": "2026-10-29T14:31:25+07:00",
+   "removed_from": "requested",
+   "board": "branding-djqmb410#picks",
+   "removed_by": "Max (one-click remove)"
+  },
+  {
+   "id": "household-day-trips-chiang-mai-deck-x1qga4",
+   "name": "Day Trips — Chiang Mai",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/household-day-trips-chiang-mai-deck-x1qga4/",
+   "total": 10,
+   "answered": 0,
+   "tag": "Max's Picks",
+   "status": "removed",
+   "requested_at": "2026-10-27T15:39:15+07:00",
+   "added": "2026-10-27T15:39:33+07:00",
+   "note": "Machan Oct 27 ~3:30 ICT continue Household: Maple Play & Learning, Rainy-Day Kit Chiang Mai, Day Trips Chiang Mai. Agent=household. Schedule Setup already live — not rebuilt.",
+   "removed_at": "2026-10-29T14:31:25+07:00",
+   "removed_from": "requested",
+   "board": "branding-djqmb410#picks",
+   "removed_by": "Max (one-click remove)"
   }
  ],
  "requested_cleared": [
