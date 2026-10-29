@@ -1,0 +1,32 @@
+{
+  "category": "webinar-format",
+  "asset_paths": [
+    "/workspace/su-webinar-1029/gen/qabox.jpg",
+    "/workspace/su-webinar-1029/gen/qahand.jpg",
+    "/workspace/su-webinar-1029/gen/pollyes.jpg",
+    "/workspace/su-webinar-1029/gen/pollno.jpg",
+    "/workspace/su-webinar-1029/gen/regemails.jpg",
+    "/workspace/su-webinar-1029/gen/regtext.jpg",
+    "/workspace/su-webinar-1029/gen/pagebrand.jpg",
+    "/workspace/su-webinar-1029/gen/pageplain.jpg",
+    "/workspace/su-webinar-1029/gen/wallbrand.jpg",
+    "/workspace/su-webinar-1029/gen/wallplain.jpg",
+    "/workspace/su-webinar-1029/gen/lookbrand.jpg",
+    "/workspace/su-webinar-1029/gen/lookreal.jpg",
+    "/workspace/su-webinar-1029/gen/solo.jpg",
+    "/workspace/su-webinar-1029/gen/withtech.jpg",
+    "/workspace/su-webinar-1029/gen/demophone.jpg",
+    "/workspace/su-webinar-1029/gen/demoshare.jpg",
+    "/workspace/su-webinar-1029/gen/offerqr.jpg",
+    "/workspace/su-webinar-1029/gen/offerchat.jpg",
+    "/workspace/su-webinar-1029/gen/replayyes.jpg",
+    "/workspace/su-webinar-1029/gen/replayno.jpg",
+    "/workspace/su-webinar-1029/gen/len30.jpg",
+    "/workspace/su-webinar-1029/gen/len45.jpg",
+    "/workspace/su-webinar-1029/gen/timeeve.jpg",
+    "/workspace/su-webinar-1029/gen/timewknd.jpg"
+  ],
+  "ui_screenshots": false,
+  "bleed_mode": "flush-cream",
+  "title": "Founding Zoom Webinar Format Deck"
+}

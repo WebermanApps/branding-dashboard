@@ -1,0 +1,122 @@
+{
+  "c1": {
+    "A": {
+      "label": "Q&A Box",
+      "sha12": "fd1c8a916b2a"
+    },
+    "B": {
+      "label": "Raise Hand To Speak",
+      "sha12": "f79ef6152962"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Yes, Pop A Poll",
+      "sha12": "4832bfdad23e"
+    },
+    "B": {
+      "label": "No Poll, Just Talk",
+      "sha12": "334ee539fd95"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "Registration Plus Reminder Emails",
+      "sha12": "734abd276a4b"
+    },
+    "B": {
+      "label": "Plain Join Link By Text",
+      "sha12": "fedbcf113c19"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "Branded Page",
+      "sha12": "c7e5af4ae045"
+    },
+    "B": {
+      "label": "Default Plain Page",
+      "sha12": "41f3655587e0"
+    }
+  },
+  "c5": {
+    "A": {
+      "label": "Smart Upkeep Wallpaper",
+      "sha12": "e291fa789d4c"
+    },
+    "B": {
+      "label": "Plain Neutral Backdrop",
+      "sha12": "1ac75d253661"
+    }
+  },
+  "c6": {
+    "A": {
+      "label": "Chest-Up, Branded Background",
+      "sha12": "7748150dab0f"
+    },
+    "B": {
+      "label": "Wider Shot, Real Home Office",
+      "sha12": "460319a2ab7a"
+    }
+  },
+  "c7": {
+    "A": {
+      "label": "Max Solo",
+      "sha12": "0fbe2bc60b46"
+    },
+    "B": {
+      "label": "Max Plus A Tech In A Polo",
+      "sha12": "9f102ca58443"
+    }
+  },
+  "c8": {
+    "A": {
+      "label": "Real Phone Under A Camera",
+      "sha12": "442d47956d95"
+    },
+    "B": {
+      "label": "Screen Share",
+      "sha12": "f19c2fd8111c"
+    }
+  },
+  "c9": {
+    "A": {
+      "label": "Offer Slide With QR",
+      "sha12": "b37dd5947e0c"
+    },
+    "B": {
+      "label": "Link In Chat",
+      "sha12": "31fb40fc01e6"
+    }
+  },
+  "c10": {
+    "A": {
+      "label": "Replay Email To No-Shows",
+      "sha12": "c982a63efeb5"
+    },
+    "B": {
+      "label": "Live Only",
+      "sha12": "77d7e4c1e709"
+    }
+  },
+  "c11": {
+    "A": {
+      "label": "30 Minutes",
+      "sha12": "8364387b6048"
+    },
+    "B": {
+      "label": "45 Minutes",
+      "sha12": "5860891d603a"
+    }
+  },
+  "c12": {
+    "A": {
+      "label": "Weekday Evening",
+      "sha12": "e5c5f6cb340c"
+    },
+    "B": {
+      "label": "Weekend Late Morning",
+      "sha12": "7dc6c40a0e13"
+    }
+  }
+}
