@@ -1,0 +1,82 @@
+{
+  "c1": {
+    "A": {
+      "label": "Tri-Fold Brochure",
+      "sha12": "bbd2e0729abe"
+    },
+    "B": {
+      "label": "Single Stiff Handout Card",
+      "sha12": "9bb4a8c1033b"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Passport-Size Mini Booklet",
+      "sha12": "39eedfaf3f8e"
+    },
+    "B": {
+      "label": "Tri-Fold Opened Flat",
+      "sha12": "044c5b4af2c7"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "Three Plan Columns",
+      "sha12": "03a3faee3393"
+    },
+    "B": {
+      "label": "One Founding Plan Spotlight",
+      "sha12": "2f92c26faf09"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "Icon Checklist",
+      "sha12": "9abf3282067a"
+    },
+    "B": {
+      "label": "Photo Grid Of Real Jobs",
+      "sha12": "4381818661e0"
+    }
+  },
+  "c5": {
+    "A": {
+      "label": "Bold Terracotta Prepay Banner",
+      "sha12": "de30994c18d8"
+    },
+    "B": {
+      "label": "Small Founding Member Seal",
+      "sha12": "b8ce78c19354"
+    }
+  },
+  "c6": {
+    "A": {
+      "label": "Large QR On The Back Panel",
+      "sha12": "e47701da7e19"
+    },
+    "B": {
+      "label": "Small QR On The Front Cover",
+      "sha12": "6283276b6ac8"
+    }
+  },
+  "c7": {
+    "A": {
+      "label": "Uncoated Matte Cream Stock",
+      "sha12": "3abffc9a92b8"
+    },
+    "B": {
+      "label": "Soft-Touch With Spot Gloss Logo",
+      "sha12": "d4d90d2fe00b"
+    }
+  },
+  "c8": {
+    "A": {
+      "label": "Bright Home Photo Cover",
+      "sha12": "1fa41006cd82"
+    },
+    "B": {
+      "label": "Bold Typographic Cover",
+      "sha12": "1e0ee6e1bd36"
+    }
+  }
+}

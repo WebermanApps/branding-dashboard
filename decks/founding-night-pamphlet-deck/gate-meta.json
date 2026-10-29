@@ -1,0 +1,24 @@
+{
+  "category": "brand-print-swag",
+  "asset_paths": [
+    "/workspace/fn-handouts-1029/gen/pam-trifold.jpg",
+    "/workspace/fn-handouts-1029/gen/pam-single.jpg",
+    "/workspace/fn-handouts-1029/gen/pam-booklet.jpg",
+    "/workspace/fn-handouts-1029/gen/pam-trifold-open.jpg",
+    "/workspace/fn-handouts-1029/gen/pam-plans-three.jpg",
+    "/workspace/fn-handouts-1029/gen/pam-plan-one.jpg",
+    "/workspace/fn-handouts-1029/gen/pam-incl-icons.jpg",
+    "/workspace/fn-handouts-1029/gen/pam-incl-photos.jpg",
+    "/workspace/fn-handouts-1029/gen/pam-offer-banner.jpg",
+    "/workspace/fn-handouts-1029/gen/pam-offer-seal.jpg",
+    "/workspace/fn-handouts-1029/gen/pam-qr-back.jpg",
+    "/workspace/fn-handouts-1029/gen/pam-qr-front.jpg",
+    "/workspace/fn-handouts-1029/gen/pam-paper-matte.jpg",
+    "/workspace/fn-handouts-1029/gen/pam-paper-spot.jpg",
+    "/workspace/fn-handouts-1029/gen/pam-cover-photo.jpg",
+    "/workspace/fn-handouts-1029/gen/pam-cover-type.jpg"
+  ],
+  "ui_screenshots": false,
+  "bleed_mode": "flush-cream",
+  "title": "Founding Night Pamphlet Deck"
+}
