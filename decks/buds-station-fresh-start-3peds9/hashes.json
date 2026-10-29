@@ -1,0 +1,202 @@
+{
+  "c1": {
+    "A": {
+      "label": "Bright pop pink",
+      "sha12": "9bbd9ac1c83b"
+    },
+    "B": {
+      "label": "Soft pastel",
+      "sha12": "55c1199ced51"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Short metal tin",
+      "sha12": "848482e54e20"
+    },
+    "B": {
+      "label": "Clear glass jar",
+      "sha12": "5c0fc4bbf379"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "Pink body",
+      "sha12": "8008e8381edf"
+    },
+    "B": {
+      "label": "Blue body",
+      "sha12": "77a54b07061b"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "Lemon yellow accent",
+      "sha12": "0cb9bbe862c7"
+    },
+    "B": {
+      "label": "Hot pink accent",
+      "sha12": "07b5639c9a03"
+    }
+  },
+  "c5": {
+    "A": {
+      "label": "Big script wordmark",
+      "sha12": "e4d8116a0a85"
+    },
+    "B": {
+      "label": "Small and refined",
+      "sha12": "a33d48465b13"
+    }
+  },
+  "c6": {
+    "A": {
+      "label": "\"stay a while\"",
+      "sha12": "0c90d4315d08"
+    },
+    "B": {
+      "label": "\"Under the bodhi trees\"",
+      "sha12": "cc33c571534d"
+    }
+  },
+  "c7": {
+    "A": {
+      "label": "One hero leaf",
+      "sha12": "d87d74189f47"
+    },
+    "B": {
+      "label": "Scattered pattern",
+      "sha12": "fb55d6fbf457"
+    }
+  },
+  "c8": {
+    "A": {
+      "label": "Seven fine lines",
+      "sha12": "6600fbe5fbfb"
+    },
+    "B": {
+      "label": "Old-brick band",
+      "sha12": "a917105fec56"
+    }
+  },
+  "c9": {
+    "A": {
+      "label": "Tiny fuel pump icon",
+      "sha12": "17a0bd2fd7fc"
+    },
+    "B": {
+      "label": "Gauge dot on lid",
+      "sha12": "d46b888a91f4"
+    }
+  },
+  "c10": {
+    "A": {
+      "label": "Dog sticker on back",
+      "sha12": "35994b4b46fe"
+    },
+    "B": {
+      "label": "No mascot",
+      "sha12": "90c2e98e2c90"
+    }
+  },
+  "c11": {
+    "A": {
+      "label": "Crisp white label",
+      "sha12": "4fecf0b58a19"
+    },
+    "B": {
+      "label": "Warm cream label",
+      "sha12": "96ebd5de8498"
+    }
+  },
+  "c12": {
+    "A": {
+      "label": "Soft-touch matte",
+      "sha12": "1ad0ba969c1e"
+    },
+    "B": {
+      "label": "Glossy enamel",
+      "sha12": "0e27bc3463f8"
+    }
+  },
+  "c13": {
+    "A": {
+      "label": "Cowork table",
+      "sha12": "4bf3f7b1d0d6"
+    },
+    "B": {
+      "label": "Garden lounge",
+      "sha12": "a3c2e5bb486b"
+    }
+  },
+  "c14": {
+    "A": {
+      "label": "Iced tall glass",
+      "sha12": "44c90de7b6b0"
+    },
+    "B": {
+      "label": "Hot cup",
+      "sha12": "045b631aeab1"
+    }
+  },
+  "c15": {
+    "A": {
+      "label": "Pink sleeve",
+      "sha12": "fcb94ac02c5c"
+    },
+    "B": {
+      "label": "Blue sleeve",
+      "sha12": "6097c579db73"
+    }
+  },
+  "c16": {
+    "A": {
+      "label": "Canvas tote",
+      "sha12": "4bcf7810583c"
+    },
+    "B": {
+      "label": "Enamel pin set",
+      "sha12": "2ffcab696f4d"
+    }
+  },
+  "c17": {
+    "A": {
+      "label": "Trio of tins",
+      "sha12": "4eded5e57fd2"
+    },
+    "B": {
+      "label": "Single tin gift box",
+      "sha12": "0add2f34a165"
+    }
+  },
+  "c18": {
+    "A": {
+      "label": "Counter pyramid",
+      "sha12": "7ec339bef6dd"
+    },
+    "B": {
+      "label": "Wall shelf row",
+      "sha12": "4fd7250f0e7e"
+    }
+  },
+  "c19": {
+    "A": {
+      "label": "WellNest x Buds Station",
+      "sha12": "d07c0171a429"
+    },
+    "B": {
+      "label": "Buds Station leads",
+      "sha12": "f8f986e882fe"
+    }
+  },
+  "c20": {
+    "A": {
+      "label": "Bold pop",
+      "sha12": "1ae6c7a35d1e"
+    },
+    "B": {
+      "label": "Calm classy",
+      "sha12": "b046f1216805"
+    }
+  }
+}
