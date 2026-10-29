@@ -53,23 +53,6 @@
       "made": "2026-10-29"
     },
     {
-      "id": "smart-upkeep-van-qr-code-d2mb46",
-      "name": "Smart Upkeep Van QR Code",
-      "url": "https://webermanapps.github.io/branding-djqmb410/decks/smart-upkeep-van-qr-code-d2mb46/",
-      "total": 4,
-      "answered": 0,
-      "tag": "Max's Picks",
-      "status": "open",
-      "added": "2026-10-29T14:52:45+07:00",
-      "note": "Machan via UpKeep Develop Oct 29 2026 — QR code instead of phone (Van Wrap Final Details note): placement, driver side, size, style.",
-      "requested_at": "2026-10-29T14:47:00+07:00",
-      "pinned": true,
-      "new": true,
-      "blurb": "4 cards, ready now, with Notes",
-      "agent": "upkeep",
-      "made": "2026-10-29"
-    },
-    {
       "id": "smart-upkeep-van-wrap-final-details-rdi7aj",
       "name": "Smart Upkeep Van Wrap Final Details",
       "url": "https://webermanapps.github.io/branding-djqmb410/decks/smart-upkeep-van-wrap-final-details-rdi7aj/",
@@ -2054,6 +2037,16 @@
       "answered": 8,
       "status": "done",
       "agent": "branding"
+    },
+    {
+      "id": "smart-upkeep-van-qr-code-d2mb46",
+      "at": "2026-10-29T19:31:36+07:00",
+      "name": "Smart Upkeep Van QR Code",
+      "url": "https://webermanapps.github.io/branding-djqmb410/decks/smart-upkeep-van-qr-code-d2mb46/",
+      "total": 4,
+      "answered": 4,
+      "status": "done",
+      "agent": "upkeep"
     }
   ],
   "pinned": [
