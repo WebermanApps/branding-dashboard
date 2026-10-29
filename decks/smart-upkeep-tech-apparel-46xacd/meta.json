@@ -1,0 +1,28 @@
+{
+  "category": "brand-apparel",
+  "asset_paths": [
+    "/workspace/su-apparel-1029/assets/staged/apparel/back-large.jpg",
+    "/workspace/su-apparel-1029/assets/staged/apparel/back-small.jpg",
+    "/workspace/su-apparel-1029/assets/staged/apparel/bump-lag.jpg",
+    "/workspace/su-apparel-1029/assets/staged/apparel/bump-tc.jpg",
+    "/workspace/su-apparel-1029/assets/staged/apparel/hat-green.jpg",
+    "/workspace/su-apparel-1029/assets/staged/apparel/hat-white.jpg",
+    "/workspace/su-apparel-1029/assets/staged/apparel/layer-hoodie.jpg",
+    "/workspace/su-apparel-1029/assets/staged/apparel/layer-softshell.jpg",
+    "/workspace/su-apparel-1029/assets/staged/apparel/pants-charcoal.jpg",
+    "/workspace/su-apparel-1029/assets/staged/apparel/pants-stone.jpg",
+    "/workspace/su-apparel-1029/assets/staged/apparel/place-center.jpg",
+    "/workspace/su-apparel-1029/assets/staged/apparel/place-sleeve.jpg",
+    "/workspace/su-apparel-1029/assets/staged/apparel/polo-lagoon.jpg",
+    "/workspace/su-apparel-1029/assets/staged/apparel/polo-white.jpg",
+    "/workspace/su-apparel-1029/assets/staged/apparel/shirt-green.jpg",
+    "/workspace/su-apparel-1029/assets/staged/apparel/shirt-white.jpg",
+    "/workspace/su-apparel-1029/assets/staged/apparel/tech-embroid.jpg",
+    "/workspace/su-apparel-1029/assets/staged/apparel/tech-print.jpg",
+    "/workspace/su-apparel-1029/assets/staged/apparel/tip-lag.jpg",
+    "/workspace/su-apparel-1029/assets/staged/apparel/tip-tc.jpg"
+  ],
+  "ui_screenshots": false,
+  "bleed_mode": "flush-cream",
+  "title": "Smart Upkeep Tech Apparel"
+}

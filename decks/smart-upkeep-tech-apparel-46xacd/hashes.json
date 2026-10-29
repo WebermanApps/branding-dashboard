@@ -1,0 +1,102 @@
+{
+  "c1": {
+    "A": {
+      "label": "Crisp white polo",
+      "sha12": "1d1ee4664cf7"
+    },
+    "B": {
+      "label": "Lagoon blue polo",
+      "sha12": "b43fa7c74826"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "White work shirt",
+      "sha12": "8899822b363c"
+    },
+    "B": {
+      "label": "Jungle green work shirt",
+      "sha12": "d719de32d253"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "Large center chest",
+      "sha12": "83f34c4068a0"
+    },
+    "B": {
+      "label": "Left chest + sleeve",
+      "sha12": "c1259d3b308a"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "Raised embroidery",
+      "sha12": "85d98c1a0528"
+    },
+    "B": {
+      "label": "Flat heat print",
+      "sha12": "1608582bb5d1"
+    }
+  },
+  "c5": {
+    "A": {
+      "label": "Terracotta tipping",
+      "sha12": "1a4f9000ed73"
+    },
+    "B": {
+      "label": "Lagoon tipping",
+      "sha12": "c50517177e3f"
+    }
+  },
+  "c6": {
+    "A": {
+      "label": "Charcoal softshell",
+      "sha12": "9c2f3aed661a"
+    },
+    "B": {
+      "label": "Oatmeal zip hoodie",
+      "sha12": "489519d2a18f"
+    }
+  },
+  "c7": {
+    "A": {
+      "label": "Charcoal cargo pants",
+      "sha12": "d9d27031772a"
+    },
+    "B": {
+      "label": "Stone cargo pants",
+      "sha12": "ca2bb666f9c4"
+    }
+  },
+  "c8": {
+    "A": {
+      "label": "White ball cap",
+      "sha12": "f173ae60904b"
+    },
+    "B": {
+      "label": "Jungle green ball cap",
+      "sha12": "264da1a37fcf"
+    }
+  },
+  "c9": {
+    "A": {
+      "label": "Terracotta bump cap",
+      "sha12": "f1b7c5b310f9"
+    },
+    "B": {
+      "label": "Lagoon bump cap",
+      "sha12": "cab158f3bd41"
+    }
+  },
+  "c10": {
+    "A": {
+      "label": "Large back logo",
+      "sha12": "f7d111a00d78"
+    },
+    "B": {
+      "label": "Small yoke logo",
+      "sha12": "3158706f808d"
+    }
+  }
+}
