@@ -1,0 +1,32 @@
+{
+  "category": "brand-print",
+  "asset_paths": [
+    "/workspace/founding-night-1029/gen/flat.jpg",
+    "/workspace/founding-night-1029/gen/folded.jpg",
+    "/workspace/founding-night-1029/gen/postcard.jpg",
+    "/workspace/founding-night-1029/gen/letterpress.jpg",
+    "/workspace/founding-night-1029/gen/noliner.jpg",
+    "/workspace/founding-night-1029/gen/liner.jpg",
+    "/workspace/founding-night-1029/gen/cream.jpg",
+    "/workspace/founding-night-1029/gen/charcoal.jpg",
+    "/workspace/founding-night-1029/gen/terracotta.jpg",
+    "/workspace/founding-night-1029/gen/lagoon.jpg",
+    "/workspace/founding-night-1029/gen/fmnbig.jpg",
+    "/workspace/founding-night-1029/gen/invited.jpg",
+    "/workspace/founding-night-1029/gen/spots.jpg",
+    "/workspace/founding-night-1029/gen/spotsbadge.jpg",
+    "/workspace/founding-night-1029/gen/qrfront.jpg",
+    "/workspace/founding-night-1029/gen/qrback.jpg",
+    "/workspace/founding-night-1029/gen/note.jpg",
+    "/workspace/founding-night-1029/gen/nonote.jpg",
+    "/workspace/founding-night-1029/gen/logotop.jpg",
+    "/workspace/founding-night-1029/gen/logobottom.jpg",
+    "/workspace/founding-night-1029/gen/wax.jpg",
+    "/workspace/founding-night-1029/gen/sticker.jpg",
+    "/workspace/founding-night-1029/gen/homerecord.jpg",
+    "/workspace/founding-night-1029/gen/offer.jpg"
+  ],
+  "ui_screenshots": false,
+  "bleed_mode": "flush-cream",
+  "title": "Founding Night Invite Deck"
+}

@@ -1,0 +1,122 @@
+{
+  "c1": {
+    "A": {
+      "label": "Flat Single Card",
+      "sha12": "1d6b8bb1ce89"
+    },
+    "B": {
+      "label": "Folded Card That Opens",
+      "sha12": "309b99abda39"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Glossy Printed Postcard",
+      "sha12": "915cea903389"
+    },
+    "B": {
+      "label": "Cotton Letterpress Card",
+      "sha12": "2e60dfbe5a9e"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "Plain Cream Envelope",
+      "sha12": "28b3a61bc53a"
+    },
+    "B": {
+      "label": "Envelope With Brand Liner",
+      "sha12": "a73e693ca237"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "Warm Cream Paper",
+      "sha12": "a67c93884586"
+    },
+    "B": {
+      "label": "Deep Charcoal Paper",
+      "sha12": "2816f78b6952"
+    }
+  },
+  "c5": {
+    "A": {
+      "label": "Terracotta Accents",
+      "sha12": "26c3e53a309d"
+    },
+    "B": {
+      "label": "Lagoon Blue Accents",
+      "sha12": "b0c4e8c33666"
+    }
+  },
+  "c6": {
+    "A": {
+      "label": "Founding Members Night",
+      "sha12": "efdb6f947721"
+    },
+    "B": {
+      "label": "You're Invited",
+      "sha12": "f5992fa44007"
+    }
+  },
+  "c7": {
+    "A": {
+      "label": "25 Spots As The Headline",
+      "sha12": "5dfbebfdf056"
+    },
+    "B": {
+      "label": "Small 25 Spots Badge",
+      "sha12": "8ec9e2242fd9"
+    }
+  },
+  "c8": {
+    "A": {
+      "label": "Front Corner QR, Terracotta Frame",
+      "sha12": "9b246a0ddd22"
+    },
+    "B": {
+      "label": "Big Centered QR On The Back",
+      "sha12": "0003670fa6cc"
+    }
+  },
+  "c9": {
+    "A": {
+      "label": "Handwritten Note From Max",
+      "sha12": "80480f832f0e"
+    },
+    "B": {
+      "label": "Printed Invite Only",
+      "sha12": "6812e258d03d"
+    }
+  },
+  "c10": {
+    "A": {
+      "label": "Large Logo At The Top",
+      "sha12": "9da9372cfac6"
+    },
+    "B": {
+      "label": "Small Logo Sign-Off At The Bottom",
+      "sha12": "2cf14b5d304e"
+    }
+  },
+  "c11": {
+    "A": {
+      "label": "Terracotta Wax Seal",
+      "sha12": "75ef990d67d9"
+    },
+    "B": {
+      "label": "Round Logo Sticker Seal",
+      "sha12": "ca8b6d648355"
+    }
+  },
+  "c12": {
+    "A": {
+      "label": "Sample Home Record Insert",
+      "sha12": "a637355864b4"
+    },
+    "B": {
+      "label": "Founding Offer Teaser Insert",
+      "sha12": "af7bd020d128"
+    }
+  }
+}

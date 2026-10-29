@@ -2,6 +2,23 @@
   "agent": "branding",
   "decks": [
     {
+      "id": "founding-night-invite-deck",
+      "name": "Founding Night Invite Deck",
+      "url": "https://webermanapps.github.io/branding-djqmb410/decks/founding-night-invite-deck/",
+      "total": 12,
+      "answered": 0,
+      "tag": "Max's Picks",
+      "status": "open",
+      "added": "2026-10-29T22:16:00+07:00",
+      "note": "Machan Oct 29 2026 — mailed invite for Smart Upkeep Founding Members Night (Jan 2027, catered friends-and-family launch; goal 25 members, push 1-2 year prepay). 12 A/B cards: flat vs folded, postcard vs letterpress, envelope liner, cream vs charcoal, terracotta vs lagoon accents, headline wording, 25 Spots emphasis, QR placement, note from Max, logo placement, seal, insert. [Date]/[Venue] TBD.",
+      "requested_at": "2026-10-29T22:07:00+07:00",
+      "pinned": true,
+      "new": true,
+      "blurb": "12 cards, ready now, with Notes",
+      "agent": "branding",
+      "made": "2026-10-29"
+    },
+    {
       "id": "tech-work-shirt-directions-p51cs7",
       "name": "Tech Work Shirt Directions",
       "url": "https://webermanapps.github.io/branding-djqmb410/decks/tech-work-shirt-directions-p51cs7/",
@@ -557,7 +574,7 @@
       "done_at": "2026-10-28T14:35:24+07:00"
     }
   ],
-  "updated": "2026-10-29T21:53:07+07:00",
+  "updated": "2026-10-29T22:16:00+07:00",
   "done": [
     {
       "id": "tech-sneaker-and-boot-finalists-wjn8hn",
