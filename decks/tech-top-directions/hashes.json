@@ -1,0 +1,112 @@
+{
+  "c1": {
+    "A": {
+      "label": "Long-Sleeve White Henley",
+      "sha12": "c950e451a706"
+    },
+    "B": {
+      "label": "White Quarter-Zip Pullover",
+      "sha12": "5a79bd35dc8c"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Short-Sleeve Crew-Neck Tech Tee",
+      "sha12": "0fef148f9ddf"
+    },
+    "B": {
+      "label": "Long-Sleeve Performance Crew",
+      "sha12": "ae9fcc9e8de2"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "Long-Sleeve White Mock-Neck",
+      "sha12": "ea3906f2e4fd"
+    },
+    "B": {
+      "label": "Short-Sleeve White Zip Polo",
+      "sha12": "f5d934463cdc"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "Classic White Polo",
+      "sha12": "d153a72e02b5"
+    },
+    "B": {
+      "label": "Lightweight White Crewneck Sweatshirt",
+      "sha12": "8487a158f769"
+    }
+  },
+  "c5": {
+    "A": {
+      "label": "Plain White Baseball Cap",
+      "sha12": "5f2530a1a3a1"
+    },
+    "B": {
+      "label": "No Cap",
+      "sha12": "034ec301dc6d"
+    }
+  },
+  "c6": {
+    "A": {
+      "label": "Textured Cotton Pique Polo",
+      "sha12": "3e1b6cde3dc5"
+    },
+    "B": {
+      "label": "Smooth Performance Knit Polo",
+      "sha12": "bd510f2f61ca"
+    }
+  },
+  "c7": {
+    "A": {
+      "label": "Tucked In With Black Belt",
+      "sha12": "d7336364709b"
+    },
+    "B": {
+      "label": "Untucked, Straight Hem",
+      "sha12": "6eda3978df3c"
+    }
+  },
+  "c8": {
+    "A": {
+      "label": "Charcoal Work Pants",
+      "sha12": "cbe2700dc888"
+    },
+    "B": {
+      "label": "Stone Work Pants",
+      "sha12": "1f5fe9aa221a"
+    }
+  },
+  "c9": {
+    "A": {
+      "label": "Bright White",
+      "sha12": "2aeea213d8c4"
+    },
+    "B": {
+      "label": "Warm Stone",
+      "sha12": "361b72240c7b"
+    }
+  },
+  "c10": {
+    "A": {
+      "label": "Bright White",
+      "sha12": "d14898803fd0"
+    },
+    "B": {
+      "label": "Deep Lagoon",
+      "sha12": "6497fe691c7c"
+    }
+  },
+  "c11": {
+    "A": {
+      "label": "Short Sleeves",
+      "sha12": "4aff5f712cf9"
+    },
+    "B": {
+      "label": "Long Sleeves",
+      "sha12": "cd4a0fc81566"
+    }
+  }
+}

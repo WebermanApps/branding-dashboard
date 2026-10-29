@@ -1,0 +1,30 @@
+{
+  "category": "brand-apparel",
+  "asset_paths": [
+    "/workspace/su-top-1029/gen/henley.jpg",
+    "/workspace/su-top-1029/gen/qzip.jpg",
+    "/workspace/su-top-1029/gen/techtee.jpg",
+    "/workspace/su-top-1029/gen/lsperf.jpg",
+    "/workspace/su-top-1029/gen/mock.jpg",
+    "/workspace/su-top-1029/gen/zippolo.jpg",
+    "/workspace/su-top-1029/gen/polo.jpg",
+    "/workspace/su-top-1029/gen/sweat.jpg",
+    "/workspace/su-top-1029/gen/capyes.jpg",
+    "/workspace/su-top-1029/gen/capno.jpg",
+    "/workspace/su-top-1029/gen/pique.jpg",
+    "/workspace/su-top-1029/gen/smooth.jpg",
+    "/workspace/su-top-1029/gen/tucked.jpg",
+    "/workspace/su-top-1029/gen/untucked.jpg",
+    "/workspace/su-top-1029/gen/pantschar.jpg",
+    "/workspace/su-top-1029/gen/pantsstone.jpg",
+    "/workspace/su-top-1029/gen/colwhite.jpg",
+    "/workspace/su-top-1029/gen/colstone.jpg",
+    "/workspace/su-top-1029/gen/colwhite2.jpg",
+    "/workspace/su-top-1029/gen/collagoon.jpg",
+    "/workspace/su-top-1029/gen/slshort.jpg",
+    "/workspace/su-top-1029/gen/sllong.jpg"
+  ],
+  "ui_screenshots": false,
+  "bleed_mode": "flush-cream",
+  "title": "Tech Top Directions"
+}
