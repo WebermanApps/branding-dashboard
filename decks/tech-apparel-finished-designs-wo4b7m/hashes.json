@@ -1,0 +1,72 @@
+{
+  "c1": {
+    "A": {
+      "label": "Classic tipped white polo",
+      "sha12": "48ecdf0777f7"
+    },
+    "B": {
+      "label": "Collar-tip polo with side vents",
+      "sha12": "3dc0f2721961"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Clean lagoon polo",
+      "sha12": "128c39fd42e3"
+    },
+    "B": {
+      "label": "Lagoon polo with white trim",
+      "sha12": "fd394f3af2e6"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "Heavy twill chore shirt",
+      "sha12": "1d197744b9be"
+    },
+    "B": {
+      "label": "Ripstop field shirt",
+      "sha12": "e5d949970492"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "Stand-collar softshell",
+      "sha12": "3f82d7ffb806"
+    },
+    "B": {
+      "label": "Hooded softshell, terracotta zips",
+      "sha12": "d3e38bbf15f8"
+    }
+  },
+  "c5": {
+    "A": {
+      "label": "Plain oatmeal hoodie",
+      "sha12": "0a736eef6ef4"
+    },
+    "B": {
+      "label": "Hoodie with lagoon lining",
+      "sha12": "f2bc9b616f6f"
+    }
+  },
+  "c6": {
+    "A": {
+      "label": "Classic charcoal cargo",
+      "sha12": "fa51d66375c2"
+    },
+    "B": {
+      "label": "Reinforced charcoal cargo",
+      "sha12": "b9519caef2b0"
+    }
+  },
+  "c7": {
+    "A": {
+      "label": "Classic stone cargo",
+      "sha12": "e031d1ceda8f"
+    },
+    "B": {
+      "label": "Stone cargo, charcoal knees",
+      "sha12": "bfa5a0881518"
+    }
+  }
+}

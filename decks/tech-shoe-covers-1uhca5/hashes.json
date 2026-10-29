@@ -1,0 +1,82 @@
+{
+  "c1": {
+    "A": {
+      "label": "Disposable white",
+      "sha12": "e283d4dfbc7a"
+    },
+    "B": {
+      "label": "Reusable washable",
+      "sha12": "5fd1448086fb"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Lagoon UP print",
+      "sha12": "5a5807546107"
+    },
+    "B": {
+      "label": "Terracotta + charcoal UP",
+      "sha12": "03849cfba2c1"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "Anti-slip grip dots",
+      "sha12": "33c32896f401"
+    },
+    "B": {
+      "label": "Plain sole",
+      "sha12": "e8c62ed38ef4"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "White",
+      "sha12": "f4eca6bfded0"
+    },
+    "B": {
+      "label": "Lagoon blue",
+      "sha12": "d75cb89af40b"
+    }
+  },
+  "c5": {
+    "A": {
+      "label": "Low elastic ankle",
+      "sha12": "6ebc318c649d"
+    },
+    "B": {
+      "label": "Tall boot cover with ties",
+      "sha12": "4aeb62550dae"
+    }
+  },
+  "c6": {
+    "A": {
+      "label": "Step-in auto dispenser",
+      "sha12": "4e372955ac8b"
+    },
+    "B": {
+      "label": "Hand-pulled at the door",
+      "sha12": "5784291bb00d"
+    }
+  },
+  "c7": {
+    "A": {
+      "label": "Van door caddy",
+      "sha12": "f312d682fec0"
+    },
+    "B": {
+      "label": "Belt pouch with UP",
+      "sha12": "ce4d78054b3d"
+    }
+  },
+  "c8": {
+    "A": {
+      "label": "Waterproof CPE plastic",
+      "sha12": "c9989e3822fc"
+    },
+    "B": {
+      "label": "Breathable non-woven",
+      "sha12": "9b6efce8327b"
+    }
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "c1": {
+    "A": {
+      "label": "Medium front logo",
+      "sha12": "b75912f19afa"
+    },
+    "B": {
+      "label": "Large front logo",
+      "sha12": "8054eacbcec2"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Standard placement",
+      "sha12": "714c0f535d92"
+    },
+    "B": {
+      "label": "Slightly higher",
+      "sha12": "8030545d0dde"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "Fabric strap + brass buckle",
+      "sha12": "faceec5be343"
+    },
+    "B": {
+      "label": "Plastic snapback",
+      "sha12": "74acf2465be6"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "SMART UPKEEP wordmark",
+      "sha12": "1c33e840d4c3"
+    },
+    "B": {
+      "label": "Small lagoon roof chevron",
+      "sha12": "000ad3add943"
+    }
+  },
+  "c5": {
+    "A": {
+      "label": "Terracotta underbrim",
+      "sha12": "ab8c9b6f4722"
+    },
+    "B": {
+      "label": "Lagoon underbrim",
+      "sha12": "ce198d3c677a"
+    }
+  },
+  "c6": {
+    "A": {
+      "label": "Terracotta sandwich stripe",
+      "sha12": "130d1601fcfd"
+    },
+    "B": {
+      "label": "Lagoon side chevron",
+      "sha12": "e9dbb9b16ddc"
+    }
+  },
+  "c7": {
+    "A": {
+      "label": "Full-color raised embroidery",
+      "sha12": "4e757449e3c6"
+    },
+    "B": {
+      "label": "Tonal white 3D puff",
+      "sha12": "649dc6ddcb2c"
+    }
+  },
+  "c8": {
+    "A": {
+      "label": "Oatmeal beanie, woven patch",
+      "sha12": "6d4e443503ba"
+    },
+    "B": {
+      "label": "Charcoal beanie, embroidered",
+      "sha12": "78e62873b4ae"
+    }
+  }
+}

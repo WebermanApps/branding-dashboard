@@ -1,0 +1,24 @@
+{
+  "category": "brand-apparel",
+  "asset_paths": [
+    "/workspace/su-apparel-r3-1029/gen/sh/1a.jpg",
+    "/workspace/su-apparel-r3-1029/gen/sh/1b.jpg",
+    "/workspace/su-apparel-r3-1029/gen/sh/2a.jpg",
+    "/workspace/su-apparel-r3-1029/gen/sh/2b.jpg",
+    "/workspace/su-apparel-r3-1029/gen/sh/3a.jpg",
+    "/workspace/su-apparel-r3-1029/gen/sh/3b.jpg",
+    "/workspace/su-apparel-r3-1029/gen/sh/4a.jpg",
+    "/workspace/su-apparel-r3-1029/gen/sh/4b.jpg",
+    "/workspace/su-apparel-r3-1029/gen/sh/5a.jpg",
+    "/workspace/su-apparel-r3-1029/gen/sh/5b.jpg",
+    "/workspace/su-apparel-r3-1029/gen/sh/6a.jpg",
+    "/workspace/su-apparel-r3-1029/gen/sh/6b.jpg",
+    "/workspace/su-apparel-r3-1029/gen/sh/7a.jpg",
+    "/workspace/su-apparel-r3-1029/gen/sh/7b.jpg",
+    "/workspace/su-apparel-r3-1029/gen/sh/8a.jpg",
+    "/workspace/su-apparel-r3-1029/gen/sh/8b.jpg"
+  ],
+  "ui_screenshots": false,
+  "bleed_mode": "flush-cream",
+  "title": "Tech Work Shoes"
+}

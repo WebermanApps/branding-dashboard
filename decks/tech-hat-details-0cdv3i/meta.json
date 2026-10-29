@@ -1,0 +1,24 @@
+{
+  "category": "brand-apparel",
+  "asset_paths": [
+    "/workspace/su-apparel-r3-1029/gen/ht/1a.jpg",
+    "/workspace/su-apparel-r3-1029/gen/ht/1b.jpg",
+    "/workspace/su-apparel-r3-1029/gen/ht/2a.jpg",
+    "/workspace/su-apparel-r3-1029/gen/ht/2b.jpg",
+    "/workspace/su-apparel-r3-1029/gen/ht/3a.jpg",
+    "/workspace/su-apparel-r3-1029/gen/ht/3b.jpg",
+    "/workspace/su-apparel-r3-1029/gen/ht/4a.jpg",
+    "/workspace/su-apparel-r3-1029/gen/ht/4b.jpg",
+    "/workspace/su-apparel-r3-1029/gen/ht/5a.jpg",
+    "/workspace/su-apparel-r3-1029/gen/ht/5b.jpg",
+    "/workspace/su-apparel-r3-1029/gen/ht/6a.jpg",
+    "/workspace/su-apparel-r3-1029/gen/ht/6b.jpg",
+    "/workspace/su-apparel-r3-1029/gen/ht/7a.jpg",
+    "/workspace/su-apparel-r3-1029/gen/ht/7b.jpg",
+    "/workspace/su-apparel-r3-1029/gen/ht/8a.jpg",
+    "/workspace/su-apparel-r3-1029/gen/ht/8b.jpg"
+  ],
+  "ui_screenshots": false,
+  "bleed_mode": "flush-cream",
+  "title": "Tech Hat Details"
+}

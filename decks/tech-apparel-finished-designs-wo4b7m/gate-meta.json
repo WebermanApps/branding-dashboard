@@ -1,0 +1,22 @@
+{
+  "category": "brand-apparel",
+  "asset_paths": [
+    "/workspace/su-apparel-r3-1029/gen/fd/wpolo-a.jpg",
+    "/workspace/su-apparel-r3-1029/gen/fd/wpolo-b.jpg",
+    "/workspace/su-apparel-r3-1029/gen/fd/lpolo-a.jpg",
+    "/workspace/su-apparel-r3-1029/gen/fd/lpolo-b.jpg",
+    "/workspace/su-apparel-r3-1029/gen/fd/shirt-a.jpg",
+    "/workspace/su-apparel-r3-1029/gen/fd/shirt-b.jpg",
+    "/workspace/su-apparel-r3-1029/gen/fd/soft-a.jpg",
+    "/workspace/su-apparel-r3-1029/gen/fd/soft-b.jpg",
+    "/workspace/su-apparel-r3-1029/gen/fd/hood-a.jpg",
+    "/workspace/su-apparel-r3-1029/gen/fd/hood-b.jpg",
+    "/workspace/su-apparel-r3-1029/gen/fd/cpant-a.jpg",
+    "/workspace/su-apparel-r3-1029/gen/fd/cpant-b.jpg",
+    "/workspace/su-apparel-r3-1029/gen/fd/spant-a.jpg",
+    "/workspace/su-apparel-r3-1029/gen/fd/spant-b.jpg"
+  ],
+  "ui_screenshots": false,
+  "bleed_mode": "flush-cream",
+  "title": "Tech Apparel Finished Designs"
+}

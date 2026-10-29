@@ -1,0 +1,24 @@
+{
+  "category": "brand-apparel",
+  "asset_paths": [
+    "/workspace/su-apparel-r3-1029/gen/gl/1a.jpg",
+    "/workspace/su-apparel-r3-1029/gen/gl/1b.jpg",
+    "/workspace/su-apparel-r3-1029/gen/gl/2a.jpg",
+    "/workspace/su-apparel-r3-1029/gen/gl/2b.jpg",
+    "/workspace/su-apparel-r3-1029/gen/gl/3a.jpg",
+    "/workspace/su-apparel-r3-1029/gen/gl/3b.jpg",
+    "/workspace/su-apparel-r3-1029/gen/gl/4a.jpg",
+    "/workspace/su-apparel-r3-1029/gen/gl/4b.jpg",
+    "/workspace/su-apparel-r3-1029/gen/gl/5a.jpg",
+    "/workspace/su-apparel-r3-1029/gen/gl/5b.jpg",
+    "/workspace/su-apparel-r3-1029/gen/gl/6a.jpg",
+    "/workspace/su-apparel-r3-1029/gen/gl/6b.jpg",
+    "/workspace/su-apparel-r3-1029/gen/gl/7a.jpg",
+    "/workspace/su-apparel-r3-1029/gen/gl/7b.jpg",
+    "/workspace/su-apparel-r3-1029/gen/gl/8a.jpg",
+    "/workspace/su-apparel-r3-1029/gen/gl/8b.jpg"
+  ],
+  "ui_screenshots": false,
+  "bleed_mode": "flush-cream",
+  "title": "Tech Gloves"
+}

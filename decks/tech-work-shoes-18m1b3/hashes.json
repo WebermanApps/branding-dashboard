@@ -1,0 +1,82 @@
+{
+  "c1": {
+    "A": {
+      "label": "White leather sneaker",
+      "sha12": "d02b974ab380"
+    },
+    "B": {
+      "label": "Charcoal knit",
+      "sha12": "eec7f6cc0764"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Composite safety toe",
+      "sha12": "0cf42d60eaa4"
+    },
+    "B": {
+      "label": "Flexible soft toe",
+      "sha12": "fabdfc914f62"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "Terracotta heel tab",
+      "sha12": "0c7cf5ee26f9"
+    },
+    "B": {
+      "label": "Lagoon heel",
+      "sha12": "413d6933c13a"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "White sole",
+      "sha12": "4b46467c7b37"
+    },
+    "B": {
+      "label": "Gum sole",
+      "sha12": "ac0c0a18b7ca"
+    }
+  },
+  "c5": {
+    "A": {
+      "label": "Low-top",
+      "sha12": "9ed3bc3288a1"
+    },
+    "B": {
+      "label": "Mid boot",
+      "sha12": "26ec3089b692"
+    }
+  },
+  "c6": {
+    "A": {
+      "label": "Slip-on",
+      "sha12": "a18d6fb4c782"
+    },
+    "B": {
+      "label": "Lace-up",
+      "sha12": "555b4674cb61"
+    }
+  },
+  "c7": {
+    "A": {
+      "label": "Waterproof boots",
+      "sha12": "d76d94afe673"
+    },
+    "B": {
+      "label": "Stone suede boots",
+      "sha12": "838ce8ca5ac6"
+    }
+  },
+  "c8": {
+    "A": {
+      "label": "White laces",
+      "sha12": "3a4370dfdb97"
+    },
+    "B": {
+      "label": "Terracotta laces",
+      "sha12": "5188a50b48af"
+    }
+  }
+}
