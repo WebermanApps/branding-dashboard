@@ -1,0 +1,182 @@
+{
+  "c1": {
+    "A": {
+      "label": "Locked Pick, Keep This: Classic And Reinforced Charcoal Cargo",
+      "sha12": "788e22397fe2"
+    },
+    "B": {
+      "label": "Refinement: Reinforced With Terracotta Bar-Tacks",
+      "sha12": "993e114ee273"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Locked Pick, Keep This: Classic Stone Cargo",
+      "sha12": "2f1e4f0c79b5"
+    },
+    "B": {
+      "label": "Refinement: Stone With Charcoal Trim",
+      "sha12": "e8390011a3b6"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "Performance Polo, Collar Tip Only",
+      "sha12": "c2a96fbd931a"
+    },
+    "B": {
+      "label": "Classic Piqué, Double Tipping",
+      "sha12": "0e19a8b8db4e"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "Lagoon With Terracotta Tipping",
+      "sha12": "1e5a40c4cfaa"
+    },
+    "B": {
+      "label": "Clean Lagoon, No Tipping",
+      "sha12": "10a07f56dfbf"
+    }
+  },
+  "c5": {
+    "A": {
+      "label": "Charcoal Polo",
+      "sha12": "d8b79df581bd"
+    },
+    "B": {
+      "label": "Stone Grey Polo",
+      "sha12": "022d16eb055b"
+    }
+  },
+  "c6": {
+    "A": {
+      "label": "Oatmeal Polo",
+      "sha12": "439f87bed386"
+    },
+    "B": {
+      "label": "Terracotta Polo",
+      "sha12": "7e08ee4426a7"
+    }
+  },
+  "c7": {
+    "A": {
+      "label": "Crisp Poplin, No Pockets",
+      "sha12": "7b2a32acaa37"
+    },
+    "B": {
+      "label": "Utility Shirt, Sleeve Pocket",
+      "sha12": "86c04369124b"
+    }
+  },
+  "c8": {
+    "A": {
+      "label": "Locked Pick, Keep This: Plain Oatmeal Zip Hoodie",
+      "sha12": "0a736eef6ef4"
+    },
+    "B": {
+      "label": "Locked Pick, Keep This: Oatmeal With Lagoon Hood Lining",
+      "sha12": "99ae954f5ede"
+    }
+  },
+  "c9": {
+    "A": {
+      "label": "Charcoal Zip Hoodie",
+      "sha12": "1b3df7380e51"
+    },
+    "B": {
+      "label": "Deep Lagoon Zip Hoodie",
+      "sha12": "928d5416afd1"
+    }
+  },
+  "c10": {
+    "A": {
+      "label": "Locked Pick, Keep This: Stand-Collar Softshell, Terracotta Zips",
+      "sha12": "802a78b8993c"
+    },
+    "B": {
+      "label": "Locked Pick, Keep This: Hooded Softshell, Terracotta Zips",
+      "sha12": "6ac9ae596715"
+    }
+  },
+  "c11": {
+    "A": {
+      "label": "Locked Pick, Keep This: White Fitted Stretch Cap",
+      "sha12": "67bca3799324"
+    },
+    "B": {
+      "label": "Refinement: Add A Terracotta Button And Eyelets",
+      "sha12": "b378013b98e5"
+    }
+  },
+  "c12": {
+    "A": {
+      "label": "Charcoal Underbrim",
+      "sha12": "8381b5d34d85"
+    },
+    "B": {
+      "label": "Stone Underbrim",
+      "sha12": "14a562ad77be"
+    }
+  },
+  "c13": {
+    "A": {
+      "label": "Locked Pick, Keep This: Charcoal Beanie, Embroidered",
+      "sha12": "a155d5f54f89"
+    },
+    "B": {
+      "label": "Refinement: Add A Terracotta Cuff Stripe",
+      "sha12": "05bb57db3757"
+    }
+  },
+  "c14": {
+    "A": {
+      "label": "Small Logo At The Thumb Web",
+      "sha12": "4b2f6fdb8712"
+    },
+    "B": {
+      "label": "Logo Knit Into The Cuff",
+      "sha12": "ce9f3c6d373a"
+    }
+  },
+  "c15": {
+    "A": {
+      "label": "Locked Pick, Keep This: White UP Print Covers",
+      "sha12": "5ef23ce5667c"
+    },
+    "B": {
+      "label": "Refinement: Bigger Logo Plus Heel Pull Tab",
+      "sha12": "e1a7ffa4b1d7"
+    }
+  },
+  "c16": {
+    "A": {
+      "label": "White Leather Court Sneaker",
+      "sha12": "1169f5c6ff7e"
+    },
+    "B": {
+      "label": "Grey Mesh Runner",
+      "sha12": "943d58c0a2ef"
+    }
+  },
+  "c17": {
+    "A": {
+      "label": "Charcoal Lace-Up Boot",
+      "sha12": "47f45f131e5c"
+    },
+    "B": {
+      "label": "Black Chelsea Boot",
+      "sha12": "97b544581ff6"
+    }
+  },
+  "c18": {
+    "A": {
+      "label": "Stone Hiker Boot",
+      "sha12": "149427c35d7b"
+    },
+    "B": {
+      "label": "Duck Rain Boot",
+      "sha12": "a1186861de0c"
+    }
+  }
+}
