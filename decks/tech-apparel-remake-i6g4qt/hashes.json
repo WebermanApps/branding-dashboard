@@ -1,0 +1,52 @@
+{
+  "c1": {
+    "A": {
+      "label": "Performance Polo, Collar Tip Only",
+      "sha12": "7389d5d9a29f"
+    },
+    "B": {
+      "label": "Classic Piqué, Double Tipping",
+      "sha12": "5d9a527621c8"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Lagoon With Terracotta Tipping",
+      "sha12": "0290deadf66c"
+    },
+    "B": {
+      "label": "Clean Lagoon, No Tipping",
+      "sha12": "7e7539a24a2f"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "Crisp Poplin, No Pockets",
+      "sha12": "d0a32a0320d1"
+    },
+    "B": {
+      "label": "Band-Collar Tech Shirt, Sleeve Pocket",
+      "sha12": "593bdf976862"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "Small Logo At The Thumb Web",
+      "sha12": "4b2f6fdb8712"
+    },
+    "B": {
+      "label": "Logo Knit Into The Cuff",
+      "sha12": "ce9f3c6d373a"
+    }
+  },
+  "c5": {
+    "A": {
+      "label": "Charcoal Underbrim",
+      "sha12": "834232f37097"
+    },
+    "B": {
+      "label": "Stone Underbrim",
+      "sha12": "e9e3201dafef"
+    }
+  }
+}

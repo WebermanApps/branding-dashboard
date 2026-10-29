@@ -1,0 +1,18 @@
+{
+  "category": "brand-apparel",
+  "asset_paths": [
+    "/workspace/su-remake-1029/gen/wpolo-a.jpg",
+    "/workspace/su-remake-1029/gen/wpolo-b.jpg",
+    "/workspace/su-remake-1029/gen/lpolo-a.jpg",
+    "/workspace/su-remake-1029/gen/lpolo-b.jpg",
+    "/workspace/su-remake-1029/gen/shirt-a.jpg",
+    "/workspace/su-remake-1029/gen/shirt-b.jpg",
+    "/workspace/su-remake-1029/gen/glove-a.jpg",
+    "/workspace/su-remake-1029/gen/glove-b.jpg",
+    "/workspace/su-remake-1029/gen/hat-a.jpg",
+    "/workspace/su-remake-1029/gen/hat-b.jpg"
+  ],
+  "ui_screenshots": false,
+  "bleed_mode": "flush-cream",
+  "title": "Tech Apparel Remake"
+}
