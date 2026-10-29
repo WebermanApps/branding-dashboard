@@ -1,0 +1,14 @@
+{
+  "category": "vehicle-livery",
+  "asset_paths": [
+    "/workspace/su-van-wrap-r2-1029/staged/pass-slider.jpg",
+    "/workspace/su-van-wrap-r2-1029/staged/pass-rear.jpg",
+    "/workspace/su-van-wrap-r2-1029/staged/phone-big.jpg",
+    "/workspace/su-van-wrap-r2-1029/staged/phone-small.jpg",
+    "/workspace/su-van-wrap-r2-1029/staged/web-high.jpg",
+    "/workspace/su-van-wrap-r2-1029/staged/web-low.jpg"
+  ],
+  "ui_screenshots": false,
+  "bleed_mode": "flush-cream",
+  "title": "Smart Upkeep Van Wrap Final Details"
+}

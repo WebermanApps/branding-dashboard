@@ -1,0 +1,32 @@
+{
+  "c1": {
+    "A": {
+      "label": "Brand on the sliding door",
+      "sha12": "1aec9e382014"
+    },
+    "B": {
+      "label": "Brand on the rear fixed panel",
+      "sha12": "71b4ff9eafa8"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Big bold phone line",
+      "sha12": "2743e2f8c85c"
+    },
+    "B": {
+      "label": "Small discreet phone",
+      "sha12": "0cf39b79fc79"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "smartupkeep.ai up high",
+      "sha12": "17275c3be038"
+    },
+    "B": {
+      "label": "smartupkeep.ai down low",
+      "sha12": "6708e4fda3fb"
+    }
+  }
+}
