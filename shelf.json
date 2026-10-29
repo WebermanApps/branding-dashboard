@@ -2,13 +2,30 @@
  "agent": "branding",
  "decks": [
   {
+   "id": "tech-apparel-round-two-w5zikk",
+   "name": "Tech Apparel Round Two",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/tech-apparel-round-two-w5zikk/",
+   "total": 8,
+   "answered": 0,
+   "tag": "Max's Picks",
+   "status": "open",
+   "added": "2026-10-29T13:51:36+07:00",
+   "note": "Round two of Smart Upkeep Tech Apparel — seasonal outfit sets (hot/rainy/cool).",
+   "requested_at": "2026-10-29T13:42:00+07:00",
+   "pinned": true,
+   "new": true,
+   "blurb": "10 cards, ready now, with Notes",
+   "agent": "branding",
+   "made": "2026-10-29"
+  },
+  {
    "id": "smart-upkeep-van-wrap-deck-bycj1c",
    "name": "Smart Upkeep Van Wrap",
    "url": "https://webermanapps.github.io/branding-djqmb410/decks/smart-upkeep-van-wrap-deck-bycj1c/",
    "total": 10,
-   "answered": 0,
+   "answered": 10,
    "tag": "Max's Picks",
-   "status": "open",
+   "status": "done",
    "added": "2026-10-29T13:01:13+07:00",
    "note": "Machan via UpKeep Develop Oct 29 2026 — van wrap/livery finalize.",
    "requested_at": "2026-10-29T12:52:00+07:00",
@@ -16,16 +33,17 @@
    "new": true,
    "blurb": "10 cards, ready now, with Notes",
    "agent": "upkeep",
-   "made": "2026-10-29"
+   "made": "2026-10-29",
+   "done_at": "2026-10-29T13:27:59+07:00"
   },
   {
    "id": "smart-upkeep-tech-apparel-46xacd",
    "name": "Smart Upkeep Tech Apparel",
    "url": "https://webermanapps.github.io/branding-djqmb410/decks/smart-upkeep-tech-apparel-46xacd/",
    "total": 10,
-   "answered": 0,
+   "answered": 10,
    "tag": "Max's Picks",
-   "status": "open",
+   "status": "done",
    "added": "2026-10-29T12:59:58+07:00",
    "note": "Machan via UpKeep Develop Oct 29 2026 — finalize Smart Upkeep technician apparel",
    "requested_at": "2026-10-29T12:52:00+07:00",
@@ -33,7 +51,8 @@
    "new": true,
    "blurb": "10 cards, ready now, with Notes",
    "agent": "branding",
-   "made": "2026-10-29"
+   "made": "2026-10-29",
+   "done_at": "2026-10-29T13:31:04+07:00"
   },
   {
    "id": "command-center-shell-alternatives-deck-r8tml5",
@@ -417,7 +436,7 @@
    "done_at": "2026-10-28T14:35:24+07:00"
   }
  ],
- "updated": "2026-10-29T13:01:13+07:00",
+ "updated": "2026-10-29T13:51:36+07:00",
  "done": [
   {
    "id": "command-center-tools-equipment-tile-deck-9ilqo3",
@@ -1956,6 +1975,20 @@
    "name": "Command Center Ping Log Tile",
    "answered": 7,
    "total": 8
+  },
+  {
+   "id": "smart-upkeep-van-wrap-deck-bycj1c",
+   "at": "2026-10-29T13:27:59+07:00",
+   "name": "Smart Upkeep Van Wrap",
+   "answered": 10,
+   "total": 10
+  },
+  {
+   "id": "smart-upkeep-tech-apparel-46xacd",
+   "at": "2026-10-29T13:31:04+07:00",
+   "name": "Smart Upkeep Tech Apparel",
+   "answered": 10,
+   "total": 10
   }
  ],
  "pinned": [
@@ -1982,28 +2015,16 @@
  "queued_note": "Held back by the 5-deck cap (pinned + decks <= 5). Requested decks never count toward the cap and never show in the header shelf.",
  "requested": [
   {
-   "id": "smart-upkeep-van-wrap-deck-bycj1c",
-   "name": "Smart Upkeep Van Wrap",
-   "url": "https://webermanapps.github.io/branding-djqmb410/decks/smart-upkeep-van-wrap-deck-bycj1c/",
-   "total": 10,
+   "id": "tech-apparel-round-two-w5zikk",
+   "name": "Tech Apparel Round Two",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/tech-apparel-round-two-w5zikk/",
+   "total": 8,
    "answered": 0,
    "tag": "Max's Picks",
    "status": "open",
-   "requested_at": "2026-10-29T12:52:00+07:00",
-   "added": "2026-10-29T13:01:13+07:00",
-   "note": "Machan via UpKeep Develop Oct 29 2026 — finalize Smart Upkeep van wrap/livery (2024 Transit medium roof, ladder rack). Phone (555) 000-0000 placeholder."
-  },
-  {
-   "id": "smart-upkeep-tech-apparel-46xacd",
-   "name": "Smart Upkeep Tech Apparel",
-   "url": "https://webermanapps.github.io/branding-djqmb410/decks/smart-upkeep-tech-apparel-46xacd/",
-   "total": 10,
-   "answered": 0,
-   "tag": "Max's Picks",
-   "status": "open",
-   "requested_at": "2026-10-29T12:52:00+07:00",
-   "added": "2026-10-29T12:59:58+07:00",
-   "note": "Machan via UpKeep Develop Oct 29 2026 — finalize Smart Upkeep technician apparel"
+   "requested_at": "2026-10-29T13:42:00+07:00",
+   "added": "2026-10-29T13:51:36+07:00",
+   "note": "Round two of Smart Upkeep Tech Apparel (Machan swiped Oct 29 2026) — seasonal outfit sets: hot, rainy, cool; 2-3 outfits per season."
   },
   {
    "id": "command-center-light-dashboard-deck-bozbb8",
@@ -2292,6 +2313,32 @@
    "status": "open",
    "requested_at": "2026-10-17T21:07:54+07:00",
    "made": "2026-10-17"
+  },
+  {
+   "id": "smart-upkeep-van-wrap-deck-bycj1c",
+   "name": "Smart Upkeep Van Wrap",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/smart-upkeep-van-wrap-deck-bycj1c/",
+   "total": 10,
+   "answered": 10,
+   "tag": "Max's Picks",
+   "status": "done",
+   "requested_at": "2026-10-29T12:52:00+07:00",
+   "added": "2026-10-29T13:01:13+07:00",
+   "note": "Machan via UpKeep Develop Oct 29 2026 — finalize Smart Upkeep van wrap/livery (2024 Transit medium roof, ladder rack). Phone (555) 000-0000 placeholder.",
+   "done_at": "2026-10-29T13:27:59+07:00"
+  },
+  {
+   "id": "smart-upkeep-tech-apparel-46xacd",
+   "name": "Smart Upkeep Tech Apparel",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/smart-upkeep-tech-apparel-46xacd/",
+   "total": 10,
+   "answered": 10,
+   "tag": "Max's Picks",
+   "status": "done",
+   "requested_at": "2026-10-29T12:52:00+07:00",
+   "added": "2026-10-29T12:59:58+07:00",
+   "note": "Machan via UpKeep Develop Oct 29 2026 — finalize Smart Upkeep technician apparel",
+   "done_at": "2026-10-29T13:31:04+07:00"
   },
   {
    "id": "command-center-shell-alternatives-deck-r8tml5",

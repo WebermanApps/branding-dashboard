@@ -1,0 +1,82 @@
+{
+  "c1": {
+    "A": {
+      "label": "White polo + stone pants",
+      "sha12": "67ebff03b518"
+    },
+    "B": {
+      "label": "White polo + charcoal pants",
+      "sha12": "77996c71ded7"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Lagoon polo + charcoal pants",
+      "sha12": "c42e84cd1581"
+    },
+    "B": {
+      "label": "Lagoon polo + stone pants",
+      "sha12": "5a273210abde"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "Softshell · white polo · charcoal",
+      "sha12": "bab9ba240cfa"
+    },
+    "B": {
+      "label": "Softshell · lagoon polo · stone",
+      "sha12": "1e178612074a"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "Work shirt + charcoal pants",
+      "sha12": "12785c51a255"
+    },
+    "B": {
+      "label": "Work shirt + stone pants",
+      "sha12": "c9f981e554f5"
+    }
+  },
+  "c5": {
+    "A": {
+      "label": "Charcoal softshell",
+      "sha12": "36ef0d2a0d57"
+    },
+    "B": {
+      "label": "Oatmeal zip hoodie",
+      "sha12": "50e2a226f177"
+    }
+  },
+  "c6": {
+    "A": {
+      "label": "Hoodie + charcoal pants",
+      "sha12": "ecba7f0f4a2d"
+    },
+    "B": {
+      "label": "Hoodie + stone pants",
+      "sha12": "4993b4aba434"
+    }
+  },
+  "c7": {
+    "A": {
+      "label": "Work shirt + softshell + stone",
+      "sha12": "32b0ee25cd3b"
+    },
+    "B": {
+      "label": "Lagoon polo + hoodie + charcoal",
+      "sha12": "c0b215afeb9a"
+    }
+  },
+  "c8": {
+    "A": {
+      "label": "Add jungle green work shirt",
+      "sha12": "ac7638d6e853"
+    },
+    "B": {
+      "label": "Keep white work shirt only",
+      "sha12": "fb881cd7008e"
+    }
+  }
+}

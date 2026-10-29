@@ -1,0 +1,24 @@
+{
+  "category": "brand-apparel",
+  "asset_paths": [
+    "/workspace/upkeep-r2-1029/apparel/staged/c1a.jpg",
+    "/workspace/upkeep-r2-1029/apparel/staged/c1b.jpg",
+    "/workspace/upkeep-r2-1029/apparel/staged/c2a.jpg",
+    "/workspace/upkeep-r2-1029/apparel/staged/c2b.jpg",
+    "/workspace/upkeep-r2-1029/apparel/staged/c3a.jpg",
+    "/workspace/upkeep-r2-1029/apparel/staged/c3b.jpg",
+    "/workspace/upkeep-r2-1029/apparel/staged/c4a.jpg",
+    "/workspace/upkeep-r2-1029/apparel/staged/c4b.jpg",
+    "/workspace/upkeep-r2-1029/apparel/staged/c5a.jpg",
+    "/workspace/upkeep-r2-1029/apparel/staged/c5b.jpg",
+    "/workspace/upkeep-r2-1029/apparel/staged/c6a.jpg",
+    "/workspace/upkeep-r2-1029/apparel/staged/c6b.jpg",
+    "/workspace/upkeep-r2-1029/apparel/staged/c7a.jpg",
+    "/workspace/upkeep-r2-1029/apparel/staged/c7b.jpg",
+    "/workspace/upkeep-r2-1029/apparel/staged/c8a.jpg",
+    "/workspace/upkeep-r2-1029/apparel/staged/c8b.jpg"
+  ],
+  "ui_screenshots": false,
+  "bleed_mode": "flush-cream",
+  "title": "Tech Apparel Round Two"
+}
