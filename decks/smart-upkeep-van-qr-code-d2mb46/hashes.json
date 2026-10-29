@@ -1,0 +1,42 @@
+{
+  "c1": {
+    "A": {
+      "label": "QR on the rear doors",
+      "sha12": "c82c174e84a8"
+    },
+    "B": {
+      "label": "QR on the passenger rear panel",
+      "sha12": "2d168570ee32"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Add a QR on the driver side too",
+      "sha12": "cca5d1bb2cf9"
+    },
+    "B": {
+      "label": "Keep the driver side clean",
+      "sha12": "af1328872f2b"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "Small QR",
+      "sha12": "2873c5bf044b"
+    },
+    "B": {
+      "label": "Large QR",
+      "sha12": "20c9c2e6fbfd"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "Plain QR set low",
+      "sha12": "2666cf8fca7a"
+    },
+    "B": {
+      "label": "Terracotta frame + \"Scan to book\"",
+      "sha12": "9163cec78fd8"
+    }
+  }
+}

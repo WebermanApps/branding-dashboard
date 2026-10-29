@@ -1,0 +1,16 @@
+{
+  "category": "vehicle-livery",
+  "asset_paths": [
+    "/workspace/su-van-qr-1029/staged/qr-rear.jpg",
+    "/workspace/su-van-qr-1029/staged/qr-pass.jpg",
+    "/workspace/su-van-qr-1029/staged/qr-driver.jpg",
+    "/workspace/su-van-qr-1029/staged/qr-driver-clean.jpg",
+    "/workspace/su-van-qr-1029/staged/qr-rear-small.jpg",
+    "/workspace/su-van-qr-1029/staged/qr-rear-large.jpg",
+    "/workspace/su-van-qr-1029/staged/qr-pass-low.jpg",
+    "/workspace/su-van-qr-1029/staged/qr-pass-frame.jpg"
+  ],
+  "ui_screenshots": false,
+  "bleed_mode": "flush-cream",
+  "title": "Smart Upkeep Van QR Code"
+}
