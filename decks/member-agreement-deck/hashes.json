@@ -1,0 +1,122 @@
+{
+  "c1": {
+    "A": {
+      "label": "Monthly Rolling Membership",
+      "sha12": "4eec97f5086d"
+    },
+    "B": {
+      "label": "Annual 12-Month Membership",
+      "sha12": "4e5ebb7214fa"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Cancel Anytime, 30 Days' Notice",
+      "sha12": "50e7fd640e62"
+    },
+    "B": {
+      "label": "Cancel At Renewal, Early-Exit Fee",
+      "sha12": "b28d5cfba28a"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "Three Business Days (Draft Notice)",
+      "sha12": "4e389e83c31b"
+    },
+    "B": {
+      "label": "Three Days Plus 14-Day Satisfaction Window",
+      "sha12": "2be45437869d"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "Prorated Refund Of Unused Months",
+      "sha12": "7f01e44bbdd2"
+    },
+    "B": {
+      "label": "No Cash Refund, Credit Instead",
+      "sha12": "b1cc3f5babdd"
+    }
+  },
+  "c5": {
+    "A": {
+      "label": "Member Or Adult Present Every Visit",
+      "sha12": "30d00bc6bb57"
+    },
+    "B": {
+      "label": "Unattended Entry With Written Permission",
+      "sha12": "a33563491c74"
+    }
+  },
+  "c6": {
+    "A": {
+      "label": "Smart Upkeep Coded Lockbox",
+      "sha12": "a600c7a96bb5"
+    },
+    "B": {
+      "label": "Member Code Only, No Keys Held",
+      "sha12": "7759a54b0834"
+    }
+  },
+  "c7": {
+    "A": {
+      "label": "Capped At 12 Months Of Fees",
+      "sha12": "78f7085db4e4"
+    },
+    "B": {
+      "label": "Fixed Cap Per Incident",
+      "sha12": "47cda1993dc3"
+    }
+  },
+  "c8": {
+    "A": {
+      "label": "Stop Work, Make Safe, Call Right Away",
+      "sha12": "10b9cf9acfe0"
+    },
+    "B": {
+      "label": "Flag, Photograph, Refer To A Licensed Pro",
+      "sha12": "a4572d3861de"
+    }
+  },
+  "c9": {
+    "A": {
+      "label": "Card Autopay Only",
+      "sha12": "127d2f04cc97"
+    },
+    "B": {
+      "label": "Card Or Bank Autopay",
+      "sha12": "04195157f98d"
+    }
+  },
+  "c10": {
+    "A": {
+      "label": "30 Days' Written Notice",
+      "sha12": "5ac84c2dd75f"
+    },
+    "B": {
+      "label": "Only At Renewal, 60 Days' Notice",
+      "sha12": "2e00ed5e0576"
+    }
+  },
+  "c11": {
+    "A": {
+      "label": "Free Reschedule With 24 Hours' Notice",
+      "sha12": "61c31b3339ab"
+    },
+    "B": {
+      "label": "Missed-Visit Fee After One Free Miss",
+      "sha12": "e77d41976b86"
+    }
+  },
+  "c12": {
+    "A": {
+      "label": "Member's Home Record Only",
+      "sha12": "66c7fe2d15ff"
+    },
+    "B": {
+      "label": "Home Record Plus Anonymised Training",
+      "sha12": "27b46870c2e1"
+    }
+  }
+}

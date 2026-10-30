@@ -1,0 +1,32 @@
+{
+  "category": "text-choices",
+  "asset_paths": [
+    "/workspace/su-member-1030/gen/c1a.jpg",
+    "/workspace/su-member-1030/gen/c1b.jpg",
+    "/workspace/su-member-1030/gen/c2a.jpg",
+    "/workspace/su-member-1030/gen/c2b.jpg",
+    "/workspace/su-member-1030/gen/c3a.jpg",
+    "/workspace/su-member-1030/gen/c3b.jpg",
+    "/workspace/su-member-1030/gen/c4a.jpg",
+    "/workspace/su-member-1030/gen/c4b.jpg",
+    "/workspace/su-member-1030/gen/c5a.jpg",
+    "/workspace/su-member-1030/gen/c5b.jpg",
+    "/workspace/su-member-1030/gen/c6a.jpg",
+    "/workspace/su-member-1030/gen/c6b.jpg",
+    "/workspace/su-member-1030/gen/c7a.jpg",
+    "/workspace/su-member-1030/gen/c7b.jpg",
+    "/workspace/su-member-1030/gen/c8a.jpg",
+    "/workspace/su-member-1030/gen/c8b.jpg",
+    "/workspace/su-member-1030/gen/c9a.jpg",
+    "/workspace/su-member-1030/gen/c9b.jpg",
+    "/workspace/su-member-1030/gen/c10a.jpg",
+    "/workspace/su-member-1030/gen/c10b.jpg",
+    "/workspace/su-member-1030/gen/c11a.jpg",
+    "/workspace/su-member-1030/gen/c11b.jpg",
+    "/workspace/su-member-1030/gen/c12a.jpg",
+    "/workspace/su-member-1030/gen/c12b.jpg"
+  ],
+  "ui_screenshots": false,
+  "bleed_mode": "flush-cream",
+  "title": "Member Agreement Deck"
+}

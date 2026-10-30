@@ -2,6 +2,23 @@
  "agent": "branding",
  "decks": [
   {
+   "id": "member-agreement-deck",
+   "name": "Member Agreement Deck",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/member-agreement-deck/",
+   "total": 12,
+   "answered": 0,
+   "tag": "Max's Picks",
+   "status": "open",
+   "added": "2026-10-30T23:08:36+07:00",
+   "note": "Machan Oct 30 2026 — Smart Upkeep member agreement terms: term, cancellation, 3-day offline cancel window (from legal-docs draft), refunds, home access, lockbox, liability cap, safety escalation, autopay, price notice, missed visits, photos.",
+   "requested_at": "2026-10-30T23:08:36+07:00",
+   "pinned": true,
+   "new": true,
+   "blurb": "12 cards, ready now, with Notes",
+   "agent": "branding",
+   "made": "2026-10-30"
+  },
+  {
    "id": "employee-contract-deck",
    "name": "Employee Contract Deck",
    "url": "https://webermanapps.github.io/branding-djqmb410/decks/employee-contract-deck/",
@@ -608,7 +625,7 @@
    "done_at": "2026-10-28T14:35:24+07:00"
   }
  ],
- "updated": "2026-10-30T23:07:37+07:00",
+ "updated": "2026-10-30T23:08:36+07:00",
  "done": [
   {
    "id": "logo-placement-deck",
