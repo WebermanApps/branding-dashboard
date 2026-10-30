@@ -1,0 +1,16 @@
+{
+  "category": "brand-apparel",
+  "asset_paths": [
+    "/workspace/su-boots-1030/gen/car-black.jpg",
+    "/workspace/su-boots-1030/gen/car-brown.jpg",
+    "/workspace/su-boots-1030/gen/cin-black.jpg",
+    "/workspace/su-boots-1030/gen/cin-brown.jpg",
+    "/workspace/su-boots-1030/gen/sj-black.jpg",
+    "/workspace/su-boots-1030/gen/sj-brown.jpg",
+    "/workspace/su-boots-1030/gen/belt-black.jpg",
+    "/workspace/su-boots-1030/gen/belt-brown.jpg"
+  ],
+  "ui_screenshots": false,
+  "bleed_mode": "flush-cream",
+  "title": "Boots And Belt Deck"
+}

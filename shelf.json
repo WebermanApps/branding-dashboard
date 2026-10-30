@@ -2,6 +2,23 @@
  "agent": "branding",
  "decks": [
   {
+   "id": "boots-and-belt-deck",
+   "name": "Boots And Belt Deck",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/boots-and-belt-deck/",
+   "total": 4,
+   "answered": 0,
+   "tag": "Max's Picks",
+   "status": "open",
+   "added": "2026-10-30T14:49:02+07:00",
+   "note": "Machan Oct 30 2026 — Smart Upkeep boots and belt: black vs brown for Carhartt Wedge, KEEN Cincinnati, KEEN San Jose (soft toe, waterproof) and Main Street Forge Classic belt. Real product photos, prices and links.",
+   "requested_at": "2026-10-30T14:49:02+07:00",
+   "pinned": true,
+   "new": true,
+   "blurb": "4 cards, ready now, with Notes",
+   "agent": "branding",
+   "made": "2026-10-30"
+  },
+  {
    "id": "apparel-colors-deck",
    "name": "Apparel Colors Deck",
    "url": "https://webermanapps.github.io/branding-djqmb410/decks/apparel-colors-deck/",
@@ -591,7 +608,7 @@
    "done_at": "2026-10-28T14:35:24+07:00"
   }
  ],
- "updated": "2026-10-30T14:46:45+07:00",
+ "updated": "2026-10-30T14:49:02+07:00",
  "done": [
   {
    "id": "tech-top-directions",

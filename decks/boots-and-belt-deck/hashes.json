@@ -1,0 +1,42 @@
+{
+  "c1": {
+    "A": {
+      "label": "Black Oil Tanned (CMW6191)",
+      "sha12": "bdf0f8260b1c"
+    },
+    "B": {
+      "label": "Brown Oil Tanned (CMW6095)",
+      "sha12": "07af08193d57"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Black (Needs Photo, Not Offered)",
+      "sha12": "ceee1ab9f297"
+    },
+    "B": {
+      "label": "Belgian/Sandshell Brown (1023223)",
+      "sha12": "fb52a3fd6de9"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "Black (Needs Photo, Not Offered)",
+      "sha12": "55cadcbaa80e"
+    },
+    "B": {
+      "label": "Cascade Brown (1023203)",
+      "sha12": "94aba1d70f01"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "Midnight Black",
+      "sha12": "3a5eefaaed39"
+    },
+    "B": {
+      "label": "Whiskey Barrel Brown",
+      "sha12": "69667078d846"
+    }
+  }
+}
