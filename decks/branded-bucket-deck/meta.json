@@ -1,0 +1,26 @@
+{
+  "category": "brand-merch",
+  "asset_paths": [
+    "/workspace/bucket-deck-1030/gen/col_white.jpg",
+    "/workspace/bucket-deck-1030/gen/col_grey.jpg",
+    "/workspace/bucket-deck-1030/gen/col_black.jpg",
+    "/workspace/bucket-deck-1030/gen/col_charcoal.jpg",
+    "/workspace/bucket-deck-1030/gen/pl_front.jpg",
+    "/workspace/bucket-deck-1030/gen/pl_frontback.jpg",
+    "/workspace/bucket-deck-1030/gen/pl_frontback_grey.jpg",
+    "/workspace/bucket-deck-1030/gen/pl_wrap.jpg",
+    "/workspace/bucket-deck-1030/gen/sz_small.jpg",
+    "/workspace/bucket-deck-1030/gen/sz_large.jpg",
+    "/workspace/bucket-deck-1030/gen/col_white_full.jpg",
+    "/workspace/bucket-deck-1030/gen/lc_terra.jpg",
+    "/workspace/bucket-deck-1030/gen/lc_lagoon.jpg",
+    "/workspace/bucket-deck-1030/gen/dk_white.jpg",
+    "/workspace/bucket-deck-1030/gen/lid_on.jpg",
+    "/workspace/bucket-deck-1030/gen/lid_off.jpg",
+    "/workspace/bucket-deck-1030/gen/sup_c5g.jpg",
+    "/workspace/bucket-deck-1030/gen/sup_shur.jpg"
+  ],
+  "ui_screenshots": false,
+  "bleed_mode": "flush-cream",
+  "title": "Branded Bucket Deck"
+}

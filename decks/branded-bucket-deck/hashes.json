@@ -1,0 +1,92 @@
+{
+  "c1": {
+    "A": {
+      "label": "Bright White Buckets",
+      "sha12": "69c83e416265"
+    },
+    "B": {
+      "label": "Light Grey Buckets",
+      "sha12": "39f556113d7c"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Jet Black Buckets",
+      "sha12": "bfe1c738fbe9"
+    },
+    "B": {
+      "label": "Charcoal Buckets",
+      "sha12": "b0a97adb008e"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "Front Only",
+      "sha12": "0086fc896b50"
+    },
+    "B": {
+      "label": "Front + Back",
+      "sha12": "e60d8803cc24"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "Front + Back Logos",
+      "sha12": "a360086bbdad"
+    },
+    "B": {
+      "label": "Wraparound Repeat",
+      "sha12": "0bb6d8b1f9ca"
+    }
+  },
+  "c5": {
+    "A": {
+      "label": "Small Logo",
+      "sha12": "8e92e4dc2fd1"
+    },
+    "B": {
+      "label": "Large Logo",
+      "sha12": "980f5d92191b"
+    }
+  },
+  "c6": {
+    "A": {
+      "label": "Full-Colour Brand Logo",
+      "sha12": "a5b8bbbda628"
+    },
+    "B": {
+      "label": "One-Colour Terracotta",
+      "sha12": "b5aa035aa5df"
+    }
+  },
+  "c7": {
+    "A": {
+      "label": "One-Colour Lagoon",
+      "sha12": "c5c348a2db39"
+    },
+    "B": {
+      "label": "White Logo On Dark Buckets",
+      "sha12": "0d8dcf0cd600"
+    }
+  },
+  "c8": {
+    "A": {
+      "label": "With Lids",
+      "sha12": "b8b3b7ede264"
+    },
+    "B": {
+      "label": "No Lids",
+      "sha12": "49b953fe2f66"
+    }
+  },
+  "c9": {
+    "A": {
+      "label": "Custom5GallonBuckets.com — Min 12, Quote Only",
+      "sha12": "0a67ecfc8329"
+    },
+    "B": {
+      "label": "Shurhold — $24.98 Each, Min 36",
+      "sha12": "6c88c7d168c4"
+    }
+  }
+}
