@@ -1,0 +1,122 @@
+{
+  "c1": {
+    "A": {
+      "label": "W-2 Employee",
+      "sha12": "10758abbba86"
+    },
+    "B": {
+      "label": "1099 Independent Contractor",
+      "sha12": "59bd113e962c"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Hourly Pay With Overtime",
+      "sha12": "904555659cfb"
+    },
+    "B": {
+      "label": "Annual Salary",
+      "sha12": "fceb4cc7670d"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "Hourly Base Plus Per-Visit Bonus",
+      "sha12": "ad4cd97036b8"
+    },
+    "B": {
+      "label": "Straight Per-Visit Pay",
+      "sha12": "9cdf2ccd91c2"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "Fixed Weekdays, 8 AM To 5 PM",
+      "sha12": "f42f7791322e"
+    },
+    "B": {
+      "label": "Route-Based 40 Hours, Some Saturdays",
+      "sha12": "aa1ef86f8f5d"
+    }
+  },
+  "c5": {
+    "A": {
+      "label": "Company Van",
+      "sha12": "5bf47c988d40"
+    },
+    "B": {
+      "label": "Own Vehicle Plus Mileage",
+      "sha12": "f1f45a597dd3"
+    }
+  },
+  "c6": {
+    "A": {
+      "label": "Company Tools And Kit",
+      "sha12": "9262530f0d81"
+    },
+    "B": {
+      "label": "Own Tools Plus Tool Allowance",
+      "sha12": "91e0d28c8ae0"
+    }
+  },
+  "c7": {
+    "A": {
+      "label": "12-Month Non-Solicit",
+      "sha12": "9c3214a09d69"
+    },
+    "B": {
+      "label": "No Non-Solicit",
+      "sha12": "7910d50f2a92"
+    }
+  },
+  "c8": {
+    "A": {
+      "label": "12-Month, 25-Mile Non-Compete",
+      "sha12": "b20d70593329"
+    },
+    "B": {
+      "label": "No Non-Compete",
+      "sha12": "b7ff2d333c17"
+    }
+  },
+  "c9": {
+    "A": {
+      "label": "90-Day Trial Period",
+      "sha12": "1b98c95518f8"
+    },
+    "B": {
+      "label": "60-Day Trial Period",
+      "sha12": "e8c9ad8b550f"
+    }
+  },
+  "c10": {
+    "A": {
+      "label": "Sick Time Plus Holidays",
+      "sha12": "3f10f83b43d7"
+    },
+    "B": {
+      "label": "10 Vacation Days Plus Sick Time",
+      "sha12": "9950f6400160"
+    }
+  },
+  "c11": {
+    "A": {
+      "label": "Company Phone",
+      "sha12": "a1d908a2b350"
+    },
+    "B": {
+      "label": "Own Phone Plus Monthly Stipend",
+      "sha12": "af2f21a67672"
+    }
+  },
+  "c12": {
+    "A": {
+      "label": "Company Supplies And Replaces",
+      "sha12": "777057ad372f"
+    },
+    "B": {
+      "label": "Starter Kit Plus Yearly Allowance",
+      "sha12": "64f8d529650e"
+    }
+  }
+}
