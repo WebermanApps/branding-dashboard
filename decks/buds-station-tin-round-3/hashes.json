@@ -2,121 +2,121 @@
   "c1": {
     "A": {
       "label": "Sage With Linen Texture",
-      "sha12": "a345b07c105d"
+      "sha12": "944a7d37bacb"
     },
     "B": {
       "label": "Dusty Mauve With Linen Texture",
-      "sha12": "b16bc7084957"
+      "sha12": "62662910c899"
     }
   },
   "c2": {
     "A": {
       "label": "Slate Blue-Grey, Gold Moons",
-      "sha12": "03633d8ada82"
+      "sha12": "62391f521e36"
     },
     "B": {
       "label": "Warm Oatmeal, Gold Moons",
-      "sha12": "ee1a63b22892"
+      "sha12": "047d81f302d9"
     }
   },
   "c3": {
     "A": {
       "label": "Deep Teal",
-      "sha12": "2b66f31eb59d"
+      "sha12": "682746121242"
     },
     "B": {
       "label": "Deep Forest Green",
-      "sha12": "166d9f77c5b4"
+      "sha12": "10125abb51b6"
     }
   },
   "c4": {
     "A": {
       "label": "Cobalt Blue",
-      "sha12": "51ff32eeaad3"
+      "sha12": "be9602505170"
     },
     "B": {
       "label": "Midnight Navy",
-      "sha12": "72c0a07a4ff6"
+      "sha12": "9c253783dfc7"
     }
   },
   "c5": {
     "A": {
       "label": "Gold Moons And Stars On Sage",
-      "sha12": "f7735260a837"
+      "sha12": "c55f230b857e"
     },
     "B": {
       "label": "Tone-On-Tone Waves On Sage",
-      "sha12": "ecb17c7cdf47"
+      "sha12": "4b7000b76464"
     }
   },
   "c6": {
     "A": {
       "label": "Stripes On Sage",
-      "sha12": "616d748240fb"
+      "sha12": "e09a956f4417"
     },
     "B": {
       "label": "Stripes On Navy",
-      "sha12": "343b222c6777"
+      "sha12": "fe91a448cf30"
     }
   },
   "c7": {
     "A": {
       "label": "Botanicals On Aubergine",
-      "sha12": "bd78d6b59ee1"
+      "sha12": "18e34509305b"
     },
     "B": {
       "label": "Botanicals On Slate Blue",
-      "sha12": "c4380200ab84"
+      "sha12": "d555d4b25369"
     }
   },
   "c8": {
     "A": {
       "label": "Indigo To Plum",
-      "sha12": "1759106cbb7a"
+      "sha12": "89694d160777"
     },
     "B": {
       "label": "Navy To Teal",
-      "sha12": "c3086c33d80e"
+      "sha12": "163a3b894ca1"
     }
   },
   "c9": {
     "A": {
       "label": "Landscape Label, Gold Border (Teal)",
-      "sha12": "3000276d0b04"
+      "sha12": "64051bf9cc67"
     },
     "B": {
       "label": "No Label, Cream Logo On Tin (Forest)",
-      "sha12": "50bd2f0a4923"
+      "sha12": "15c0d04b341c"
     }
   },
   "c10": {
     "A": {
       "label": "Brushed Gold Rings",
-      "sha12": "38daa0446ff6"
+      "sha12": "d13150941f68"
     },
     "B": {
       "label": "Copper Rings",
-      "sha12": "b6147f37339c"
+      "sha12": "bc19a38b4abb"
     }
   },
   "c11": {
     "A": {
       "label": "Coral With Teal Blobs",
-      "sha12": "919748324c3e"
+      "sha12": "c23d4c0a88a9"
     },
     "B": {
       "label": "Pale Greige With Waves",
-      "sha12": "6d5487951368"
+      "sha12": "387ef15131d2"
     }
   },
   "c12": {
     "A": {
       "label": "Teal Top, Cream Bottom",
-      "sha12": "fd96e697b833"
+      "sha12": "2c186a0473d4"
     },
     "B": {
       "label": "Cobalt Top, Cream Bottom",
-      "sha12": "34d23f8f03d9"
+      "sha12": "6f1aa83d5b45"
     }
   }
 }
