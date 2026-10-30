@@ -1,0 +1,26 @@
+{
+  "category": "brand-apparel",
+  "asset_paths": [
+    "/workspace/su-apparel-more-1030/gen/ls-small.jpg",
+    "/workspace/su-apparel-more-1030/gen/ls-none.jpg",
+    "/workspace/su-apparel-more-1030/gen/rain-small.jpg",
+    "/workspace/su-apparel-more-1030/gen/rain-none.jpg",
+    "/workspace/su-apparel-more-1030/gen/vest-lime.jpg",
+    "/workspace/su-apparel-more-1030/gen/vest-orange.jpg",
+    "/workspace/su-apparel-more-1030/gen/vest-chest.jpg",
+    "/workspace/su-apparel-more-1030/gen/vest-back.jpg",
+    "/workspace/su-apparel-more-1030/gen/glove-logo.jpg",
+    "/workspace/su-apparel-more-1030/gen/glove-plain.jpg",
+    "/workspace/su-apparel-more-1030/gen/cap-char.jpg",
+    "/workspace/su-apparel-more-1030/gen/cap-white.jpg",
+    "/workspace/su-apparel-more-1030/gen/sj-keen.jpg",
+    "/workspace/su-apparel-more-1030/gen/sj-ww.jpg",
+    "/workspace/su-apparel-more-1030/gen/maxiflex.jpg",
+    "/workspace/su-apparel-more-1030/gen/crafter.jpg",
+    "/workspace/su-apparel-more-1030/gen/milw.jpg",
+    "/workspace/su-apparel-more-1030/gen/schwer.jpg"
+  ],
+  "ui_screenshots": false,
+  "bleed_mode": "flush-cream",
+  "title": "More Apparel Deck"
+}

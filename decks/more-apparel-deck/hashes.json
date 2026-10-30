@@ -1,0 +1,92 @@
+{
+  "c1": {
+    "A": {
+      "label": "Small Left-Chest Logo",
+      "sha12": "5b6f3fe5ba17"
+    },
+    "B": {
+      "label": "No Logo, Plain Long-Sleeve Crew",
+      "sha12": "7ec5a5932be4"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Small Left-Chest Logo Patch",
+      "sha12": "d4b860bd4b0c"
+    },
+    "B": {
+      "label": "No Logo, Plain Rain Jacket",
+      "sha12": "485549e27239"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "Fluorescent Lime Yellow",
+      "sha12": "9411a37039fa"
+    },
+    "B": {
+      "label": "Fluorescent Safety Orange",
+      "sha12": "bc4bc9e7eb46"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "Small Left-Chest Logo Patch",
+      "sha12": "3fa016cc8710"
+    },
+    "B": {
+      "label": "Large Back Logo Patch",
+      "sha12": "ee6cefe35511"
+    }
+  },
+  "c5": {
+    "A": {
+      "label": "Small Logo Patch On The Terracotta Cuff",
+      "sha12": "75d0c5966d4f"
+    },
+    "B": {
+      "label": "No Logo, Terracotta Cuff Only",
+      "sha12": "2e88714d4ddf"
+    }
+  },
+  "c6": {
+    "A": {
+      "label": "Charcoal Underbrim",
+      "sha12": "bcbede779edc"
+    },
+    "B": {
+      "label": "All-White Underbrim",
+      "sha12": "c36e052fc366"
+    }
+  },
+  "c7": {
+    "A": {
+      "label": "Cascade Brown, KEEN.com, $180.00",
+      "sha12": "c2b83cd15e8c"
+    },
+    "B": {
+      "label": "Cascade Brown/Black, Work World, $179.99",
+      "sha12": "8d4aa32fc16a"
+    }
+  },
+  "c8": {
+    "A": {
+      "label": "MaxiFlex Ultimate 34-874, $4.29 A Pair",
+      "sha12": "e2271cbc34f6"
+    },
+    "B": {
+      "label": "Glove Crafter Nitrile Knit, $14.99 For 6",
+      "sha12": "a3b3572df0d2"
+    }
+  },
+  "c9": {
+    "A": {
+      "label": "Milwaukee Cut Level A5, $23.36",
+      "sha12": "020c1d979fe7"
+    },
+    "B": {
+      "label": "Schwer Air-Skin AR5918 (A4), $9.09",
+      "sha12": "b9e3f6b146db"
+    }
+  }
+}
