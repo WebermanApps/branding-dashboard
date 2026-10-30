@@ -1,0 +1,82 @@
+{
+  "c1": {
+    "A": {
+      "label": "Muted Dusty Mauve With Tiny Stars",
+      "sha12": "30cdb315d793"
+    },
+    "B": {
+      "label": "Muted Sage With Tiny Stars",
+      "sha12": "3a30c0c4f5b4"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Slate Blue-Grey With Tiny Stars",
+      "sha12": "5fd80955d4fe"
+    },
+    "B": {
+      "label": "Warm Oatmeal Taupe With Tiny Stars",
+      "sha12": "287c5b3be7fd"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "Small Gold Moons And Stars",
+      "sha12": "dd46d45ccc33"
+    },
+    "B": {
+      "label": "Even Cream Polka Dots",
+      "sha12": "555a04041ad6"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "Soft Tone-On-Tone Horizontal Waves",
+      "sha12": "8e25f532a53c"
+    },
+    "B": {
+      "label": "Gas-Station Stripes Round The Lower Third",
+      "sha12": "809cf3372024"
+    }
+  },
+  "c5": {
+    "A": {
+      "label": "Deep Midnight Navy, High Contrast",
+      "sha12": "c056a5a81312"
+    },
+    "B": {
+      "label": "Pale Greige-Oat, Low Contrast",
+      "sha12": "22490f6c40e4"
+    }
+  },
+  "c6": {
+    "A": {
+      "label": "Rich Gold: Gold Lid And Rings",
+      "sha12": "e335031423bf"
+    },
+    "B": {
+      "label": "Gold Foil Logo Ring Only",
+      "sha12": "ee9ecbb4d8ae"
+    }
+  },
+  "c7": {
+    "A": {
+      "label": "Keep Baseline: Current Dog Size",
+      "sha12": "fcffeb7ea0f3"
+    },
+    "B": {
+      "label": "Smaller Dog, Lower In The Corner",
+      "sha12": "c032dd30ef6b"
+    }
+  },
+  "c8": {
+    "A": {
+      "label": "Fine Linen Texture All Over",
+      "sha12": "1079fd065066"
+    },
+    "B": {
+      "label": "Full-Width Cream Wrap Band",
+      "sha12": "11ffc74d947b"
+    }
+  }
+}

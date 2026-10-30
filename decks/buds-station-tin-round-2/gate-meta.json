@@ -1,0 +1,24 @@
+{
+  "category": "packaging",
+  "asset_paths": [
+    "/workspace/buds-tin-1029/round2/c01a.jpg",
+    "/workspace/buds-tin-1029/round2/c01b.jpg",
+    "/workspace/buds-tin-1029/round2/c02a.jpg",
+    "/workspace/buds-tin-1029/round2/c02b.jpg",
+    "/workspace/buds-tin-1029/round2/c04a.jpg",
+    "/workspace/buds-tin-1029/round2/c04b.jpg",
+    "/workspace/buds-tin-1029/round2/c05a.jpg",
+    "/workspace/buds-tin-1029/round2/c05b.jpg",
+    "/workspace/buds-tin-1029/round2/c10a.jpg",
+    "/workspace/buds-tin-1029/round2/c10b.jpg",
+    "/workspace/buds-tin-1029/round2/c06b.jpg",
+    "/workspace/buds-tin-1029/round2/c08b.jpg",
+    "/workspace/buds-tin-1029/round2/c07a.jpg",
+    "/workspace/buds-tin-1029/round2/c07b.jpg",
+    "/workspace/buds-tin-1029/round2/c03b.jpg",
+    "/workspace/buds-tin-1029/round2/c09b.jpg"
+  ],
+  "ui_screenshots": false,
+  "bleed_mode": "flush-cream",
+  "title": "WellNest x Buds Station Tin Round 2"
+}
