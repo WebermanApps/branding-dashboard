@@ -2,23 +2,6 @@
   "agent": "branding",
   "decks": [
     {
-      "id": "tech-top-directions",
-      "name": "Tech Top Directions",
-      "url": "https://webermanapps.github.io/branding-djqmb410/decks/tech-top-directions/",
-      "total": 11,
-      "answered": 0,
-      "tag": "Max's Picks",
-      "status": "open",
-      "added": "2026-10-29T22:38:28+07:00",
-      "note": "Machan Oct 29 2026 — replaces pulled Tech Work Shirt Directions. No button-up shirts (polo not required). Henley, quarter-zip, tech tee, long-sleeve crew, mock-neck, zip polo, classic polo, crewneck sweatshirt; colour (white/stone/lagoon) + sleeve detail cards. Polos small left-chest logo, others large center-chest.",
-      "requested_at": "2026-10-29T22:32:00+07:00",
-      "pinned": true,
-      "new": true,
-      "blurb": "11 cards, ready now, with Notes",
-      "agent": "branding",
-      "made": "2026-10-29"
-    },
-    {
       "id": "founding-night-gift-bag-deck",
       "name": "Founding Night Gift Bag Deck",
       "url": "https://webermanapps.github.io/branding-djqmb410/decks/founding-night-gift-bag-deck/",
@@ -559,6 +542,16 @@
   ],
   "updated": "2026-10-29T23:07:00+07:00",
   "done": [
+    {
+      "id": "tech-top-directions",
+      "at": "2026-10-29T23:20:00+07:00",
+      "name": "Tech Top Directions",
+      "url": "https://webermanapps.github.io/branding-djqmb410/decks/tech-top-directions/",
+      "total": 11,
+      "answered": 6,
+      "status": "done",
+      "agent": "branding"
+    },
     {
       "id": "farm-basket-product-line-names-deck",
       "at": "2026-10-29T10:24:10.082Z",
