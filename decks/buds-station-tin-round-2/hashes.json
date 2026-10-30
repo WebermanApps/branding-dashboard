@@ -78,5 +78,125 @@
       "label": "Full-Width Cream Wrap Band",
       "sha12": "11ffc74d947b"
     }
+  },
+  "c9": {
+    "A": {
+      "label": "Warm Terracotta",
+      "sha12": "88013a051d11"
+    },
+    "B": {
+      "label": "Cool Deep Teal",
+      "sha12": "29b578a6c5e4"
+    }
+  },
+  "c10": {
+    "A": {
+      "label": "Mustard Ochre",
+      "sha12": "62ef2ea13fce"
+    },
+    "B": {
+      "label": "Deep Forest Green",
+      "sha12": "fc74aa7832e1"
+    }
+  },
+  "c11": {
+    "A": {
+      "label": "Cobalt Blue",
+      "sha12": "a5e52d5e0b29"
+    },
+    "B": {
+      "label": "Burnt Orange",
+      "sha12": "239e15d9b82b"
+    }
+  },
+  "c12": {
+    "A": {
+      "label": "Horizontal: Rust Top, Cream Bottom",
+      "sha12": "3825b76985ee"
+    },
+    "B": {
+      "label": "Vertical: Rust Left, Cream Right",
+      "sha12": "79e3bcf007c8"
+    }
+  },
+  "c13": {
+    "A": {
+      "label": "Teal And Cream Checkerboard",
+      "sha12": "9cdd69198c63"
+    },
+    "B": {
+      "label": "Teal Sunburst Rays",
+      "sha12": "9832546fd57c"
+    }
+  },
+  "c14": {
+    "A": {
+      "label": "Art-Deco Gold Fan Scallops",
+      "sha12": "7f930bb0c11a"
+    },
+    "B": {
+      "label": "Cream Botanical Line Drawings",
+      "sha12": "9c20d65f320e"
+    }
+  },
+  "c15": {
+    "A": {
+      "label": "Centered Round Label",
+      "sha12": "87536839a019"
+    },
+    "B": {
+      "label": "Label Offset Left, Dog On The Right",
+      "sha12": "10b0107be574"
+    }
+  },
+  "c16": {
+    "A": {
+      "label": "Tall Arch Window",
+      "sha12": "7c595d3970a7"
+    },
+    "B": {
+      "label": "Landscape Rounded Rectangle, Gold Border",
+      "sha12": "324ac8da8982"
+    }
+  },
+  "c17": {
+    "A": {
+      "label": "Copper Rings",
+      "sha12": "2904fc28fabb"
+    },
+    "B": {
+      "label": "Tone-On-Tone Charcoal Rings, No Metal",
+      "sha12": "7cba148cc87d"
+    }
+  },
+  "c18": {
+    "A": {
+      "label": "Cream Label, Single-Tone Olive Logo",
+      "sha12": "50067626be5f"
+    },
+    "B": {
+      "label": "No Label: Cream Logo Printed On The Tin",
+      "sha12": "462d87c1ed38"
+    }
+  },
+  "c19": {
+    "A": {
+      "label": "70s Stripes On Cream",
+      "sha12": "129781de09e6"
+    },
+    "B": {
+      "label": "Coral With Teal And Coral Blobs",
+      "sha12": "72838379f292"
+    }
+  },
+  "c20": {
+    "A": {
+      "label": "Indigo-To-Plum Night Gradient",
+      "sha12": "4c34f1c253a7"
+    },
+    "B": {
+      "label": "Cream With Bauhaus Shapes, Slate Lid",
+      "sha12": "76f971ef8d88"
+    }
   }
 }
