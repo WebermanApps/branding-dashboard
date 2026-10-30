@@ -1,0 +1,20 @@
+{
+  "category": "brand-apparel",
+  "asset_paths": [
+    "/workspace/su-top-followup-1030/gen/qzip.jpg",
+    "/workspace/su-top-followup-1030/gen/zippolo.jpg",
+    "/workspace/su-top-followup-1030/gen/terra.jpg",
+    "/workspace/su-top-followup-1030/gen/allwhite.jpg",
+    "/workspace/su-top-followup-1030/gen/colwhite.jpg",
+    "/workspace/su-top-followup-1030/gen/threecol.jpg",
+    "/workspace/su-top-followup-1030/gen/pantschar.jpg",
+    "/workspace/su-top-followup-1030/gen/pantsboth.jpg",
+    "/workspace/su-top-followup-1030/gen/kit_tuck.jpg",
+    "/workspace/su-top-followup-1030/gen/kit_notuck.jpg",
+    "/workspace/su-top-followup-1030/gen/shortalong.jpg",
+    "/workspace/su-top-followup-1030/gen/lszippolo.jpg"
+  ],
+  "ui_screenshots": false,
+  "bleed_mode": "flush-cream",
+  "title": "Tech Top Follow-Up"
+}

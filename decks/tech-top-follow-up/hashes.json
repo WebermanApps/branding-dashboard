@@ -1,0 +1,62 @@
+{
+  "c1": {
+    "A": {
+      "label": "White Quarter-Zip",
+      "sha12": "4193f43576ca"
+    },
+    "B": {
+      "label": "Short-Sleeve White Zip Polo",
+      "sha12": "e1554fa9359d"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Keep Terracotta Tops",
+      "sha12": "063dc8a43f75"
+    },
+    "B": {
+      "label": "All White Tops",
+      "sha12": "78d9f29616f3"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "White Only",
+      "sha12": "084bba897e9b"
+    },
+    "B": {
+      "label": "Keep Stone And Lagoon Options Too",
+      "sha12": "b649112ddec9"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "Charcoal Only",
+      "sha12": "f9bb5a5b08b2"
+    },
+    "B": {
+      "label": "Charcoal And Stone Cargo",
+      "sha12": "226b30376ad3"
+    }
+  },
+  "c5": {
+    "A": {
+      "label": "Say \"Tucked Or Untucked, Either Is Fine\"",
+      "sha12": "18044de94a58"
+    },
+    "B": {
+      "label": "Say Nothing About Tucking",
+      "sha12": "d5c77ead768a"
+    }
+  },
+  "c6": {
+    "A": {
+      "label": "Short-Sleeve Zip Polo Alongside Long-Sleeve Tops",
+      "sha12": "79f0cf55d405"
+    },
+    "B": {
+      "label": "Long-Sleeve Zip Polo Only",
+      "sha12": "ef0f97f70898"
+    }
+  }
+}
