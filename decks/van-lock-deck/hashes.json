@@ -1,0 +1,102 @@
+{
+  "c1": {
+    "A": {
+      "label": "Spot Graphics On Crisp White",
+      "sha12": "95d6167fd230"
+    },
+    "B": {
+      "label": "Fuller Partial Wrap With Terracotta Sweep",
+      "sha12": "9f997d9401d2"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Crisp White Body, Factory Black Trim",
+      "sha12": "ae5a3559dbb4"
+    },
+    "B": {
+      "label": "All-White Body, Bumpers And Trim",
+      "sha12": "9338d8eb9009"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "Trim Logo Row (About 19 In Tall)",
+      "sha12": "6e4840e572e5"
+    },
+    "B": {
+      "label": "Bold Logo Row (About 29 In Tall)",
+      "sha12": "f12877c0753a"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "High, Near The Roofline",
+      "sha12": "fa1879ed7273"
+    },
+    "B": {
+      "label": "Mid-Panel, Just Above The Beltline",
+      "sha12": "cffcf0c4398f"
+    }
+  },
+  "c5": {
+    "A": {
+      "label": "QR Inside A House-Roof Badge",
+      "sha12": "ee7fb4872844"
+    },
+    "B": {
+      "label": "Medium QR In A Terracotta Frame",
+      "sha12": "9887106f662e"
+    }
+  },
+  "c6": {
+    "A": {
+      "label": "\"Scan To Book A Visit\"",
+      "sha12": "695f501e04c9"
+    },
+    "B": {
+      "label": "\"Scan For Home Care Plans\"",
+      "sha12": "7e8a1d788cc9"
+    }
+  },
+  "c7": {
+    "A": {
+      "label": "Big Logo Centred Across Both Doors",
+      "sha12": "dc1d37b640e1"
+    },
+    "B": {
+      "label": "Logo Left Door, QR And Web Right Door",
+      "sha12": "a2c0be7eaf78"
+    }
+  },
+  "c8": {
+    "A": {
+      "label": "\"Book Online · smartupkeep.ai\"",
+      "sha12": "4b5eb5f9ed37"
+    },
+    "B": {
+      "label": "\"smartupkeep.ai · Home Care Membership\"",
+      "sha12": "7b4b8d1f90da"
+    }
+  },
+  "c9": {
+    "A": {
+      "label": "\"Your Home, Looked After\"",
+      "sha12": "db5575be4e76"
+    },
+    "B": {
+      "label": "\"Home Care, On Schedule\"",
+      "sha12": "c8ebf57cd3e4"
+    }
+  },
+  "c10": {
+    "A": {
+      "label": "Plain Black Bumper",
+      "sha12": "089f7e407588"
+    },
+    "B": {
+      "label": "Terracotta Strip With smartupkeep.ai",
+      "sha12": "0351e017ad6a"
+    }
+  }
+}

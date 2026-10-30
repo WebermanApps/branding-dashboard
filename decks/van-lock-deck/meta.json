@@ -1,0 +1,28 @@
+{
+  "category": "vehicle-livery",
+  "asset_paths": [
+    "/workspace/su-swipe3-1030/staged/van/c1a.jpg",
+    "/workspace/su-swipe3-1030/staged/van/c1b.jpg",
+    "/workspace/su-swipe3-1030/staged/van/c2a.jpg",
+    "/workspace/su-swipe3-1030/staged/van/c2b.jpg",
+    "/workspace/su-swipe3-1030/staged/van/c3a.jpg",
+    "/workspace/su-swipe3-1030/staged/van/c3b.jpg",
+    "/workspace/su-swipe3-1030/staged/van/c4a.jpg",
+    "/workspace/su-swipe3-1030/staged/van/c4b.jpg",
+    "/workspace/su-swipe3-1030/staged/van/c5a.jpg",
+    "/workspace/su-swipe3-1030/staged/van/c5b.jpg",
+    "/workspace/su-swipe3-1030/staged/van/c6a.jpg",
+    "/workspace/su-swipe3-1030/staged/van/c6b.jpg",
+    "/workspace/su-swipe3-1030/staged/van/c7a.jpg",
+    "/workspace/su-swipe3-1030/staged/van/c7b.jpg",
+    "/workspace/su-swipe3-1030/staged/van/c8a.jpg",
+    "/workspace/su-swipe3-1030/staged/van/c8b.jpg",
+    "/workspace/su-swipe3-1030/staged/van/c9a.jpg",
+    "/workspace/su-swipe3-1030/staged/van/c9b.jpg",
+    "/workspace/su-swipe3-1030/staged/van/c10a.jpg",
+    "/workspace/su-swipe3-1030/staged/van/c10b.jpg"
+  ],
+  "ui_screenshots": false,
+  "bleed_mode": "flush-cream",
+  "title": "Van Lock Deck"
+}

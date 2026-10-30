@@ -1,0 +1,92 @@
+{
+  "c1": {
+    "A": {
+      "label": "Round Seal Sticker",
+      "sha12": "12aa53037d16"
+    },
+    "B": {
+      "label": "House-Shaped Die-Cut",
+      "sha12": "7773feaa2912"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Compact 2.5 In",
+      "sha12": "a3e88e8b4548"
+    },
+    "B": {
+      "label": "Large 4 In",
+      "sha12": "914db5852353"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "Cream-White With Terracotta Edge",
+      "sha12": "af0cf31ff0b2"
+    },
+    "B": {
+      "label": "Solid Terracotta, White Text",
+      "sha12": "a7c584294a8b"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "\"Scan For Service History\"",
+      "sha12": "c14b995e6c44"
+    },
+    "B": {
+      "label": "\"Scan For This Unit's Service Record\"",
+      "sha12": "4b2b98e6e37a"
+    }
+  },
+  "c5": {
+    "A": {
+      "label": "QR Only, No Write-In Lines",
+      "sha12": "11956ee6ac18"
+    },
+    "B": {
+      "label": "QR Plus Last And Next Service Lines",
+      "sha12": "2a64dd327868"
+    }
+  },
+  "c6": {
+    "A": {
+      "label": "Matte White Vinyl",
+      "sha12": "14c8e1e5b442"
+    },
+    "B": {
+      "label": "Brushed Metallic Foil",
+      "sha12": "1005902cd4f8"
+    }
+  },
+  "c7": {
+    "A": {
+      "label": "Eye Level On The Tank",
+      "sha12": "d3867dc86042"
+    },
+    "B": {
+      "label": "Beside The Gas Control Valve",
+      "sha12": "55df31d66c48"
+    }
+  },
+  "c8": {
+    "A": {
+      "label": "Lagoon Blue Ring",
+      "sha12": "07f223cd8a4d"
+    },
+    "B": {
+      "label": "Jungle Green Ring",
+      "sha12": "1da453d20cbd"
+    }
+  },
+  "c9": {
+    "A": {
+      "label": "Tall: QR On Top, Dates Below",
+      "sha12": "1feffae41b7a"
+    },
+    "B": {
+      "label": "Wide: QR Left, Dates Right",
+      "sha12": "1120409bb4af"
+    }
+  }
+}

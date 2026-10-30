@@ -1,0 +1,82 @@
+{
+  "c1": {
+    "A": {
+      "label": "Logo On Top, Message Centred Below",
+      "sha12": "a15e0068e25b"
+    },
+    "B": {
+      "label": "Logo Left, Message Right",
+      "sha12": "20b77004a545"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "White Face, Lagoon Base Band",
+      "sha12": "900346cda26e"
+    },
+    "B": {
+      "label": "Full Terracotta Face, White Lettering",
+      "sha12": "e3ff71af2101"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "\"Maintained By Smart Upkeep\"",
+      "sha12": "da981e735aea"
+    },
+    "B": {
+      "label": "\"Another Home Cared For By Smart Upkeep\"",
+      "sha12": "696e8dab744b"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "\"Looked After By Smart Upkeep\"",
+      "sha12": "f3938de9a20e"
+    },
+    "B": {
+      "label": "\"A Smart Upkeep Member Home\"",
+      "sha12": "4afec14dddd8"
+    }
+  },
+  "c5": {
+    "A": {
+      "label": "QR Plus smartupkeep.ai",
+      "sha12": "76d8ce62a006"
+    },
+    "B": {
+      "label": "No QR, Web Address Only",
+      "sha12": "c3e8cc1ce342"
+    }
+  },
+  "c6": {
+    "A": {
+      "label": "Standard (About 24 x 24 In)",
+      "sha12": "30bd09c05cce"
+    },
+    "B": {
+      "label": "Large (About 36 x 24 In)",
+      "sha12": "d8b21465e308"
+    }
+  },
+  "c7": {
+    "A": {
+      "label": "Wire H-Stake In The Lawn",
+      "sha12": "ca223f4e9a90"
+    },
+    "B": {
+      "label": "White Post With Hanging Panel",
+      "sha12": "adec4d5f8122"
+    }
+  },
+  "c8": {
+    "A": {
+      "label": "Terracotta Band",
+      "sha12": "31f6096d3c01"
+    },
+    "B": {
+      "label": "Jungle Green Band",
+      "sha12": "c4ac4fde2816"
+    }
+  }
+}
