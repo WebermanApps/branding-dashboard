@@ -1,0 +1,32 @@
+{
+  "category": "packaging",
+  "asset_paths": [
+    "/workspace/buds-tin-r3-1030/img/c01a.jpg",
+    "/workspace/buds-tin-r3-1030/img/c01b.jpg",
+    "/workspace/buds-tin-r3-1030/img/c02a.jpg",
+    "/workspace/buds-tin-r3-1030/img/c02b.jpg",
+    "/workspace/buds-tin-r3-1030/img/c03a.jpg",
+    "/workspace/buds-tin-r3-1030/img/c03b.jpg",
+    "/workspace/buds-tin-r3-1030/img/c04a.jpg",
+    "/workspace/buds-tin-r3-1030/img/c04b.jpg",
+    "/workspace/buds-tin-r3-1030/img/c05a.jpg",
+    "/workspace/buds-tin-r3-1030/img/c05b.jpg",
+    "/workspace/buds-tin-r3-1030/img/c06a.jpg",
+    "/workspace/buds-tin-r3-1030/img/c06b.jpg",
+    "/workspace/buds-tin-r3-1030/img/c07a.jpg",
+    "/workspace/buds-tin-r3-1030/img/c07b.jpg",
+    "/workspace/buds-tin-r3-1030/img/c08a.jpg",
+    "/workspace/buds-tin-r3-1030/img/c08b.jpg",
+    "/workspace/buds-tin-r3-1030/img/c09b.jpg",
+    "/workspace/buds-tin-r3-1030/img/c10b.jpg",
+    "/workspace/buds-tin-r3-1030/img/c11a.jpg",
+    "/workspace/buds-tin-r3-1030/img/c11b.jpg",
+    "/workspace/buds-tin-r3-1030/img/c12a.jpg",
+    "/workspace/buds-tin-r3-1030/img/c12b.jpg",
+    "/workspace/buds-tin-r3-1030/img/c14a.jpg",
+    "/workspace/buds-tin-r3-1030/img/c14b.jpg"
+  ],
+  "ui_screenshots": false,
+  "bleed_mode": "flush-cream",
+  "title": "WellNest x Buds Station Tin Round 3"
+}
