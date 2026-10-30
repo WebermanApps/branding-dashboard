@@ -1,0 +1,26 @@
+{
+  "category": "brand-apparel",
+  "asset_paths": [
+    "/workspace/su-logo-place-1030/gen/cap-yes.jpg",
+    "/workspace/su-logo-place-1030/gen/cap-no.jpg",
+    "/workspace/su-logo-place-1030/gen/polo-yes.jpg",
+    "/workspace/su-logo-place-1030/gen/polo-no.jpg",
+    "/workspace/su-logo-place-1030/gen/zippolo-yes.jpg",
+    "/workspace/su-logo-place-1030/gen/zippolo-no.jpg",
+    "/workspace/su-logo-place-1030/gen/tee-yes.jpg",
+    "/workspace/su-logo-place-1030/gen/tee-no.jpg",
+    "/workspace/su-logo-place-1030/gen/qzip-yes.jpg",
+    "/workspace/su-logo-place-1030/gen/qzip-no.jpg",
+    "/workspace/su-logo-place-1030/gen/ls-yes.jpg",
+    "/workspace/su-logo-place-1030/gen/ls-no.jpg",
+    "/workspace/su-logo-place-1030/gen/sweat-yes.jpg",
+    "/workspace/su-logo-place-1030/gen/sweat-no.jpg",
+    "/workspace/su-logo-place-1030/gen/beanie-yes.jpg",
+    "/workspace/su-logo-place-1030/gen/beanie-no.jpg",
+    "/workspace/su-logo-place-1030/gen/rain-yes.jpg",
+    "/workspace/su-logo-place-1030/gen/rain-no.jpg"
+  ],
+  "ui_screenshots": false,
+  "bleed_mode": "flush-cream",
+  "title": "Logo Placement Deck"
+}

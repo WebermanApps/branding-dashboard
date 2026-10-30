@@ -1,0 +1,92 @@
+{
+  "c1": {
+    "A": {
+      "label": "Logo On The Cap Front",
+      "sha12": "60cb3754a637"
+    },
+    "B": {
+      "label": "No Logo, Plain White Cap",
+      "sha12": "f3cd50494345"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Small Left-Chest Logo Plus Large Back Logo",
+      "sha12": "1b0493030e07"
+    },
+    "B": {
+      "label": "No Logo, Plain White Polo",
+      "sha12": "a19642b73c2b"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "Small Left-Chest Logo Only",
+      "sha12": "619c068d42fb"
+    },
+    "B": {
+      "label": "No Logo, Plain Zip Polo",
+      "sha12": "f3aaec02d0b8"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "Large Centre-Chest Logo",
+      "sha12": "b8619db039d1"
+    },
+    "B": {
+      "label": "No Logo, Plain White Tee",
+      "sha12": "f9f947fab509"
+    }
+  },
+  "c5": {
+    "A": {
+      "label": "Small Left-Chest Logo Only",
+      "sha12": "4d59aac10d41"
+    },
+    "B": {
+      "label": "No Logo, Plain Quarter-Zip",
+      "sha12": "2b272c81419e"
+    }
+  },
+  "c6": {
+    "A": {
+      "label": "Large Centre-Chest Logo",
+      "sha12": "7a9eb08b040d"
+    },
+    "B": {
+      "label": "No Logo, Plain Long-Sleeve Crew",
+      "sha12": "0ff00f209410"
+    }
+  },
+  "c7": {
+    "A": {
+      "label": "Small Left-Chest Logo Only",
+      "sha12": "d6111760c5b4"
+    },
+    "B": {
+      "label": "No Logo, Plain Crew Sweater",
+      "sha12": "27d98908ac4b"
+    }
+  },
+  "c8": {
+    "A": {
+      "label": "Logo Patch On The Cuff",
+      "sha12": "422cb8121b6e"
+    },
+    "B": {
+      "label": "No Logo, Stripe Only",
+      "sha12": "c0866625e245"
+    }
+  },
+  "c9": {
+    "A": {
+      "label": "Large Centre-Chest Logo Patch",
+      "sha12": "41054f65db7d"
+    },
+    "B": {
+      "label": "No Logo, Plain Rain Jacket",
+      "sha12": "788b3bcf25d4"
+    }
+  }
+}
