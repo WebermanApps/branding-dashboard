@@ -1,0 +1,20 @@
+{
+  "category": "brand-apparel",
+  "asset_paths": [
+    "/workspace/su-colors-1030/pdf/o-003.jpg",
+    "/workspace/su-colors-1030/pdf/o-002.jpg",
+    "/workspace/su-colors-1030/pdf/o-001.jpg",
+    "/workspace/su-colors-1030/pdf/o-000.jpg",
+    "/workspace/su-colors-1030/pdf/o-007.jpg",
+    "/workspace/su-colors-1030/pdf/o-008.jpg",
+    "/workspace/su-colors-1030/pdf/o-009.jpg",
+    "/workspace/su-colors-1030/gen/jacket-black.jpg",
+    "/workspace/su-colors-1030/pdf/o-013.jpg",
+    "/workspace/su-colors-1030/gen/beanie-plain.jpg",
+    "/workspace/su-colors-1030/pdf/o-015.jpg",
+    "/workspace/su-colors-1030/pdf/o-014.jpg"
+  ],
+  "ui_screenshots": false,
+  "bleed_mode": "flush-cream",
+  "title": "Apparel Colors Deck"
+}

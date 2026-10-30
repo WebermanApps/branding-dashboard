@@ -1,0 +1,62 @@
+{
+  "c1": {
+    "A": {
+      "label": "Keep Lagoon Polo With Terracotta Tipping",
+      "sha12": "1e5a40c4cfaa"
+    },
+    "B": {
+      "label": "White Polo, Neutral Outfit",
+      "sha12": "c2a96fbd931a"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Keep Stone Cargo With Charcoal Trim",
+      "sha12": "e8390011a3b6"
+    },
+    "B": {
+      "label": "Charcoal Cargo Only",
+      "sha12": "993e114ee273"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "Keep Oatmeal Zip Hoodie",
+      "sha12": "0a736eef6ef4"
+    },
+    "B": {
+      "label": "Charcoal Zip Hoodie Only",
+      "sha12": "1b3df7380e51"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "Keep Terracotta Zips",
+      "sha12": "802a78b8993c"
+    },
+    "B": {
+      "label": "Black Zips, All Charcoal",
+      "sha12": "cfc760131c19"
+    }
+  },
+  "c5": {
+    "A": {
+      "label": "Keep Terracotta Cuff Stripe",
+      "sha12": "05bb57db3757"
+    },
+    "B": {
+      "label": "Solid Charcoal, No Stripe",
+      "sha12": "85c9dd24975a"
+    }
+  },
+  "c6": {
+    "A": {
+      "label": "Keep Terracotta Knit Cuff",
+      "sha12": "ce9f3c6d373a"
+    },
+    "B": {
+      "label": "Charcoal And Black Only",
+      "sha12": "4e0d0dcb039e"
+    }
+  }
+}
