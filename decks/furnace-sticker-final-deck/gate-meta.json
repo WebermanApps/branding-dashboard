@@ -1,0 +1,10 @@
+{
+  "category": "equipment-stickers",
+  "asset_paths": [
+    "/workspace/su-look-1031/final/staged/stk/c1a.jpg",
+    "/workspace/su-look-1031/final/staged/stk/c1b.jpg"
+  ],
+  "ui_screenshots": false,
+  "bleed_mode": "flush-cream",
+  "title": "Furnace Sticker Final Deck"
+}

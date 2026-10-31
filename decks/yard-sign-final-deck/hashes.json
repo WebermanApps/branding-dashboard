@@ -1,0 +1,22 @@
+{
+  "c1": {
+    "A": {
+      "label": "\"Your Home, Looked After\"",
+      "sha12": "c23e3b0178b2"
+    },
+    "B": {
+      "label": "\"Comfort, Kept On Schedule\"",
+      "sha12": "3ea831b6811b"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "\"Serviced. Safe. Ready.\"",
+      "sha12": "4dfb2a13a993"
+    },
+    "B": {
+      "label": "\"Home Care That Shows Up\"",
+      "sha12": "c5dbb2b8f3f9"
+    }
+  }
+}

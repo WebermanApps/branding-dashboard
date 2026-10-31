@@ -1,0 +1,12 @@
+{
+  "category": "yard-signage",
+  "asset_paths": [
+    "/workspace/su-look-1031/final/staged/yard/c1a.jpg",
+    "/workspace/su-look-1031/final/staged/yard/c1b.jpg",
+    "/workspace/su-look-1031/final/staged/yard/c2a.jpg",
+    "/workspace/su-look-1031/final/staged/yard/c2b.jpg"
+  ],
+  "ui_screenshots": false,
+  "bleed_mode": "flush-cream",
+  "title": "Yard Sign Final Deck"
+}
