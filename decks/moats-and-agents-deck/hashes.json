@@ -1,0 +1,172 @@
+{
+  "c1": {
+    "A": {
+      "label": "Keep: Repair Cost Ledger",
+      "sha12": "6beb8ce5a585"
+    },
+    "B": {
+      "label": "Cut: Repair Cost Ledger",
+      "sha12": "8f122c0245bc"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Keep: Proof-Of-Care Discount",
+      "sha12": "12f0b9d22716"
+    },
+    "B": {
+      "label": "Cut: Proof-Of-Care Discount",
+      "sha12": "d9784d3c7cb2"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "Keep: Fix Now, Pay At Closing",
+      "sha12": "1f610a34afcd"
+    },
+    "B": {
+      "label": "Cut: Fix Now, Pay At Closing",
+      "sha12": "ef1a9c8b38db"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "Keep: Small Landlord Autopilot",
+      "sha12": "f093f123361c"
+    },
+    "B": {
+      "label": "Cut: Small Landlord Autopilot",
+      "sha12": "0d1afaa1290d"
+    }
+  },
+  "c5": {
+    "A": {
+      "label": "Keep: Agent Fleet Console",
+      "sha12": "4fd1ee5bb002"
+    },
+    "B": {
+      "label": "Cut: Agent Fleet Console",
+      "sha12": "a74d7149a62a"
+    }
+  },
+  "c6": {
+    "A": {
+      "label": "Keep: Back-Office Agent Staffing",
+      "sha12": "47e2d4585b1f"
+    },
+    "B": {
+      "label": "Cut: Back-Office Agent Staffing",
+      "sha12": "093204e6b756"
+    }
+  },
+  "c7": {
+    "A": {
+      "label": "Keep: Private AI Closet",
+      "sha12": "599f0d65d222"
+    },
+    "B": {
+      "label": "Cut: Private AI Closet",
+      "sha12": "e60fa2510849"
+    }
+  },
+  "c8": {
+    "A": {
+      "label": "Keep: Warranty Swap",
+      "sha12": "e7aaa7298558"
+    },
+    "B": {
+      "label": "Cut: Warranty Swap",
+      "sha12": "28ea6bdbd64e"
+    }
+  },
+  "c9": {
+    "A": {
+      "label": "Keep: Agent-Run SaaS Rollup",
+      "sha12": "953ef5e13b78"
+    },
+    "B": {
+      "label": "Cut: Agent-Run SaaS Rollup",
+      "sha12": "6bacb5b54ba9"
+    }
+  },
+  "c10": {
+    "A": {
+      "label": "Keep: Trade App Kit Store",
+      "sha12": "30ca8e7b002c"
+    },
+    "B": {
+      "label": "Cut: Trade App Kit Store",
+      "sha12": "22784f7ea76f"
+    }
+  },
+  "c11": {
+    "A": {
+      "label": "Repair Cost Ledger (Data)",
+      "sha12": "75990310dafe"
+    },
+    "B": {
+      "label": "Warranty Swap (Distribution)",
+      "sha12": "dfdedfea4eca"
+    }
+  },
+  "c12": {
+    "A": {
+      "label": "Proof-Of-Care Discount (Sell To Insurers)",
+      "sha12": "1620637f5131"
+    },
+    "B": {
+      "label": "Fix Now, Pay At Closing (Sell To Agents)",
+      "sha12": "258d6160d4c1"
+    }
+  },
+  "c13": {
+    "A": {
+      "label": "Private AI Closet (Hardware)",
+      "sha12": "d48113d4f7b3"
+    },
+    "B": {
+      "label": "Agent Fleet Console (Software)",
+      "sha12": "07b016585996"
+    }
+  },
+  "c14": {
+    "A": {
+      "label": "Trade App Kit Store (Build)",
+      "sha12": "8741aed44599"
+    },
+    "B": {
+      "label": "Agent-Run SaaS Rollup (Buy)",
+      "sha12": "b5c6a08f8270"
+    }
+  },
+  "c15": {
+    "A": {
+      "label": "Small Landlord Autopilot (Landlords)",
+      "sha12": "c5f7f6ab4e23"
+    },
+    "B": {
+      "label": "Back-Office Agent Staffing (Contractors)",
+      "sha12": "f9adda5f7c99"
+    }
+  },
+  "c16": {
+    "A": {
+      "label": "Home Passport (The Record Itself)",
+      "sha12": "3f1e45f77ad7"
+    },
+    "B": {
+      "label": "Proof-Of-Care Discount (Record Paid By Insurers)",
+      "sha12": "0a8759019f6a"
+    }
+  },
+  "c17": {
+    "A": {
+      "label": "Snap Estimate (The App)",
+      "sha12": "262620d4ff77"
+    },
+    "B": {
+      "label": "Repair Cost Ledger (The Data Moat)",
+      "sha12": "f7064834c873"
+    }
+  }
+}

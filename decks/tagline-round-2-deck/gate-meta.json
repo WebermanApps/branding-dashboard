@@ -1,0 +1,24 @@
+{
+  "category": "brand-copy",
+  "asset_paths": [
+    "/workspace/su-tagline2-1031/staged/t2/c1a.jpg",
+    "/workspace/su-tagline2-1031/staged/t2/c1b.jpg",
+    "/workspace/su-tagline2-1031/staged/t2/c2a.jpg",
+    "/workspace/su-tagline2-1031/staged/t2/c2b.jpg",
+    "/workspace/su-tagline2-1031/staged/t2/c3a.jpg",
+    "/workspace/su-tagline2-1031/staged/t2/c3b.jpg",
+    "/workspace/su-tagline2-1031/staged/t2/c4a.jpg",
+    "/workspace/su-tagline2-1031/staged/t2/c4b.jpg",
+    "/workspace/su-tagline2-1031/staged/t2/c5a.jpg",
+    "/workspace/su-tagline2-1031/staged/t2/c5b.jpg",
+    "/workspace/su-tagline2-1031/staged/t2/c6a.jpg",
+    "/workspace/su-tagline2-1031/staged/t2/c6b.jpg",
+    "/workspace/su-tagline2-1031/staged/t2/c7a.jpg",
+    "/workspace/su-tagline2-1031/staged/t2/c7b.jpg",
+    "/workspace/su-tagline2-1031/staged/t2/c8a.jpg",
+    "/workspace/su-tagline2-1031/staged/t2/c8b.jpg"
+  ],
+  "ui_screenshots": false,
+  "bleed_mode": "flush-cream",
+  "title": "Tagline Round 2 Deck"
+}

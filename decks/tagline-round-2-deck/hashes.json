@@ -1,0 +1,82 @@
+{
+  "c1": {
+    "A": {
+      "label": "Keep: Upkeep Without The To-Do List",
+      "sha12": "c4ec77971cf9"
+    },
+    "B": {
+      "label": "Cut: Upkeep Without The To-Do List",
+      "sha12": "6c0a1c4835d8"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "\"Your Home, Handled\"",
+      "sha12": "0fca58e6a6a2"
+    },
+    "B": {
+      "label": "\"One Less Thing To Worry About\"",
+      "sha12": "1762daceed48"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "\"Small Fixes Before Big Bills\"",
+      "sha12": "d2420a2a2d43"
+    },
+    "B": {
+      "label": "\"Stay Ahead Of Repairs\"",
+      "sha12": "9dbc93f0e944"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "\"Membership For Your House\"",
+      "sha12": "bc9a1ba08c59"
+    },
+    "B": {
+      "label": "\"A Plan For Your Whole House\"",
+      "sha12": "4efd3d2d29ef"
+    }
+  },
+  "c5": {
+    "A": {
+      "label": "As Kept: \"Every Fix, On The Record\"",
+      "sha12": "9fadb52be2bc"
+    },
+    "B": {
+      "label": "Variant: \"Every Visit, On The Record\"",
+      "sha12": "338f3eacfd9a"
+    }
+  },
+  "c6": {
+    "A": {
+      "label": "As Kept: \"Good Homes Need Regular Care\"",
+      "sha12": "abdefa4b4b9a"
+    },
+    "B": {
+      "label": "Variant: \"Good Homes Get Regular Care\"",
+      "sha12": "5211282c30cd"
+    }
+  },
+  "c7": {
+    "A": {
+      "label": "Keep \"Home Care, On Schedule\" On The Van",
+      "sha12": "67352f91aedf"
+    },
+    "B": {
+      "label": "Swap To \"Your Home, Handled\"",
+      "sha12": "ed3a64044b0e"
+    }
+  },
+  "c8": {
+    "A": {
+      "label": "\"Home Care, On Schedule\"",
+      "sha12": "fb93c9e517fb"
+    },
+    "B": {
+      "label": "\"A Plan For Your Whole House\"",
+      "sha12": "9037140a01e7"
+    }
+  }
+}
