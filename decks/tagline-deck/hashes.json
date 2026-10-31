@@ -1,0 +1,232 @@
+{
+  "c1": {
+    "A": {
+      "label": "Keep: Home Care, On Schedule",
+      "sha12": "e2f06ba8c12a"
+    },
+    "B": {
+      "label": "Cut: Home Care, On Schedule",
+      "sha12": "ae57c081eb13"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Keep: Rest Easy At Home",
+      "sha12": "2638d6b748e1"
+    },
+    "B": {
+      "label": "Cut: Rest Easy At Home",
+      "sha12": "dda018dc7a6b"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "Keep: One Less Thing To Worry About",
+      "sha12": "aff54cd4409d"
+    },
+    "B": {
+      "label": "Cut: One Less Thing To Worry About",
+      "sha12": "9f1e7f1ac4bb"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "Keep: Sleep Through The Storm",
+      "sha12": "de0b8160ff25"
+    },
+    "B": {
+      "label": "Cut: Sleep Through The Storm",
+      "sha12": "3daf1c366e96"
+    }
+  },
+  "c5": {
+    "A": {
+      "label": "Keep: Your Home, Handled",
+      "sha12": "c379d3c684fe"
+    },
+    "B": {
+      "label": "Cut: Your Home, Handled",
+      "sha12": "41b054583f2b"
+    }
+  },
+  "c6": {
+    "A": {
+      "label": "Keep: We Show Up Monthly",
+      "sha12": "eb9e64e497b9"
+    },
+    "B": {
+      "label": "Cut: We Show Up Monthly",
+      "sha12": "76699d30b5b7"
+    }
+  },
+  "c7": {
+    "A": {
+      "label": "Keep: Upkeep Without The To-Do List",
+      "sha12": "ad0cfe9e6386"
+    },
+    "B": {
+      "label": "Cut: Upkeep Without The To-Do List",
+      "sha12": "9209ecca5b50"
+    }
+  },
+  "c8": {
+    "A": {
+      "label": "Keep: The Fixing Comes To You",
+      "sha12": "8fb83042d744"
+    },
+    "B": {
+      "label": "Cut: The Fixing Comes To You",
+      "sha12": "593d60da916c"
+    }
+  },
+  "c9": {
+    "A": {
+      "label": "Keep: Membership For Your House",
+      "sha12": "2175bed660f0"
+    },
+    "B": {
+      "label": "Cut: Membership For Your House",
+      "sha12": "40080d4b8c2b"
+    }
+  },
+  "c10": {
+    "A": {
+      "label": "Keep: Your Home's Standing Appointment",
+      "sha12": "9dcbd49a063c"
+    },
+    "B": {
+      "label": "Cut: Your Home's Standing Appointment",
+      "sha12": "633b35ccd980"
+    }
+  },
+  "c11": {
+    "A": {
+      "label": "Keep: A Plan For Your Whole House",
+      "sha12": "ca241c0ef685"
+    },
+    "B": {
+      "label": "Cut: A Plan For Your Whole House",
+      "sha12": "9d3478f2c1f7"
+    }
+  },
+  "c12": {
+    "A": {
+      "label": "Keep: Every Fix, On The Record",
+      "sha12": "ba151e69966e"
+    },
+    "B": {
+      "label": "Cut: Every Fix, On The Record",
+      "sha12": "1692843ac9a7"
+    }
+  },
+  "c13": {
+    "A": {
+      "label": "Keep: Your Home's Memory, Kept",
+      "sha12": "163d32ac5c0c"
+    },
+    "B": {
+      "label": "Cut: Your Home's Memory, Kept",
+      "sha12": "68cf53f6c5fd"
+    }
+  },
+  "c14": {
+    "A": {
+      "label": "Keep: Know Your Home's Story",
+      "sha12": "4d7c9727f857"
+    },
+    "B": {
+      "label": "Cut: Know Your Home's Story",
+      "sha12": "a669a322e9e1"
+    }
+  },
+  "c15": {
+    "A": {
+      "label": "Keep: History Your Buyer Will Love",
+      "sha12": "d6d74ccc6c05"
+    },
+    "B": {
+      "label": "Cut: History Your Buyer Will Love",
+      "sha12": "50b392c5f7be"
+    }
+  },
+  "c16": {
+    "A": {
+      "label": "Keep: Metro Detroit's Home Crew",
+      "sha12": "19af3db466c1"
+    },
+    "B": {
+      "label": "Cut: Metro Detroit's Home Crew",
+      "sha12": "767e650589ef"
+    }
+  },
+  "c17": {
+    "A": {
+      "label": "Keep: Built For Michigan Winters",
+      "sha12": "8177260882a6"
+    },
+    "B": {
+      "label": "Cut: Built For Michigan Winters",
+      "sha12": "b8f8eece5dc7"
+    }
+  },
+  "c18": {
+    "A": {
+      "label": "Keep: Detroit Homes, Kept Right",
+      "sha12": "58616fc5990a"
+    },
+    "B": {
+      "label": "Cut: Detroit Homes, Kept Right",
+      "sha12": "27a6e704b103"
+    }
+  },
+  "c19": {
+    "A": {
+      "label": "Keep: From Ferndale To Farmington",
+      "sha12": "e1d0059d799a"
+    },
+    "B": {
+      "label": "Cut: From Ferndale To Farmington",
+      "sha12": "73524d18e9eb"
+    }
+  },
+  "c20": {
+    "A": {
+      "label": "Keep: Small Fixes Before Big Bills",
+      "sha12": "b496bbf2ac39"
+    },
+    "B": {
+      "label": "Cut: Small Fixes Before Big Bills",
+      "sha12": "27de87f4f16b"
+    }
+  },
+  "c21": {
+    "A": {
+      "label": "Keep: Ask Us Anything About Home",
+      "sha12": "2dd899bb879a"
+    },
+    "B": {
+      "label": "Cut: Ask Us Anything About Home",
+      "sha12": "cccfec4945c8"
+    }
+  },
+  "c22": {
+    "A": {
+      "label": "Keep: Stay Ahead Of Repairs",
+      "sha12": "9db457da1a06"
+    },
+    "B": {
+      "label": "Cut: Stay Ahead Of Repairs",
+      "sha12": "8c1382489fc9"
+    }
+  },
+  "c23": {
+    "A": {
+      "label": "Keep: Good Homes Need Regular Care",
+      "sha12": "257a87b0e445"
+    },
+    "B": {
+      "label": "Cut: Good Homes Need Regular Care",
+      "sha12": "e91f7d37779f"
+    }
+  }
+}
