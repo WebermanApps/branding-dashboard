@@ -1,0 +1,152 @@
+{
+  "c1": {
+    "A": {
+      "label": "Keep: Contractor Night Desk",
+      "sha12": "443371ccfc66"
+    },
+    "B": {
+      "label": "Cut: Contractor Night Desk",
+      "sha12": "f57ecff7d9ea"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Keep: Home Passport",
+      "sha12": "d880234e3ae8"
+    },
+    "B": {
+      "label": "Cut: Home Passport",
+      "sha12": "6f6735a0cbc6"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "Keep: Akiya Rebuild Desk",
+      "sha12": "372ee7313909"
+    },
+    "B": {
+      "label": "Cut: Akiya Rebuild Desk",
+      "sha12": "fc0981690dc6"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "Keep: Villa Watch Thailand",
+      "sha12": "46ddd5d3eea7"
+    },
+    "B": {
+      "label": "Cut: Villa Watch Thailand",
+      "sha12": "f5dbb3b170da"
+    }
+  },
+  "c5": {
+    "A": {
+      "label": "Keep: Agent Box",
+      "sha12": "8359227f1365"
+    },
+    "B": {
+      "label": "Cut: Agent Box",
+      "sha12": "dfaea8c9be72"
+    }
+  },
+  "c6": {
+    "A": {
+      "label": "Keep: Agent Crew Studio",
+      "sha12": "980dc2509784"
+    },
+    "B": {
+      "label": "Cut: Agent Crew Studio",
+      "sha12": "1b0e51821cc5"
+    }
+  },
+  "c7": {
+    "A": {
+      "label": "Keep: Snap Estimate",
+      "sha12": "0450dc796d7c"
+    },
+    "B": {
+      "label": "Cut: Snap Estimate",
+      "sha12": "95340d89842c"
+    }
+  },
+  "c8": {
+    "A": {
+      "label": "Keep: Turnover Inspector",
+      "sha12": "0c762f20e8ed"
+    },
+    "B": {
+      "label": "Cut: Turnover Inspector",
+      "sha12": "19ad8641e6d0"
+    }
+  },
+  "c9": {
+    "A": {
+      "label": "Keep: Jobsite Thai",
+      "sha12": "fcb6642a8d97"
+    },
+    "B": {
+      "label": "Cut: Jobsite Thai",
+      "sha12": "0952efb1e102"
+    }
+  },
+  "c10": {
+    "A": {
+      "label": "Keep: Membership Kit For Trades",
+      "sha12": "e0bf1c4277a7"
+    },
+    "B": {
+      "label": "Cut: Membership Kit For Trades",
+      "sha12": "4c839c33b64a"
+    }
+  },
+  "c11": {
+    "A": {
+      "label": "Home Passport (Data Moat)",
+      "sha12": "f8fc5b7a056d"
+    },
+    "B": {
+      "label": "Snap Estimate (Workflow Tool)",
+      "sha12": "0943641c9d59"
+    }
+  },
+  "c12": {
+    "A": {
+      "label": "Contractor Night Desk (Product)",
+      "sha12": "fbc1f0ad4480"
+    },
+    "B": {
+      "label": "Agent Crew Studio (Agency)",
+      "sha12": "08d8d37eb14b"
+    }
+  },
+  "c13": {
+    "A": {
+      "label": "Villa Watch Thailand (Thailand)",
+      "sha12": "404681fe1f4d"
+    },
+    "B": {
+      "label": "Akiya Rebuild Desk (Japan)",
+      "sha12": "63d1e11287cf"
+    }
+  },
+  "c14": {
+    "A": {
+      "label": "Agent Box (Hardware)",
+      "sha12": "fc7c70cf0bf6"
+    },
+    "B": {
+      "label": "Membership Kit For Trades (SaaS)",
+      "sha12": "041364a44c21"
+    }
+  },
+  "c15": {
+    "A": {
+      "label": "Jobsite Thai (Creator Business)",
+      "sha12": "693b36525df9"
+    },
+    "B": {
+      "label": "Turnover Inspector (Ops Business)",
+      "sha12": "f3823d4e8080"
+    }
+  }
+}
