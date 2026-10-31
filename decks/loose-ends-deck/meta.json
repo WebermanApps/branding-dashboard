@@ -1,0 +1,20 @@
+{
+  "category": "brand-mixed",
+  "asset_paths": [
+    "/workspace/su-loose-1031/staged/loose/c1a.jpg",
+    "/workspace/su-loose-1031/staged/loose/c1b.jpg",
+    "/workspace/su-loose-1031/staged/loose/c2a.jpg",
+    "/workspace/su-loose-1031/staged/loose/c2b.jpg",
+    "/workspace/su-loose-1031/staged/loose/c3a.jpg",
+    "/workspace/su-loose-1031/staged/loose/c3b.jpg",
+    "/workspace/su-loose-1031/staged/loose/c4a.jpg",
+    "/workspace/su-loose-1031/staged/loose/c4b.jpg",
+    "/workspace/su-loose-1031/staged/loose/c5a.jpg",
+    "/workspace/su-loose-1031/staged/loose/c5b.jpg",
+    "/workspace/su-loose-1031/staged/loose/c6a.jpg",
+    "/workspace/su-loose-1031/staged/loose/c6b.jpg"
+  ],
+  "ui_screenshots": false,
+  "bleed_mode": "flush-cream",
+  "title": "Loose Ends Deck"
+}

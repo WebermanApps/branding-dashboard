@@ -1,0 +1,62 @@
+{
+  "c1": {
+    "A": {
+      "label": "MaxiFlex Ultimate 34-874, $4.29 A Pair",
+      "sha12": "a97bb339518e"
+    },
+    "B": {
+      "label": "Glove Crafter Nitrile Knit, $14.99 For 6",
+      "sha12": "de21001335e7"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "High, Near The Roofline",
+      "sha12": "611661a7befd"
+    },
+    "B": {
+      "label": "Mid-Panel, Closer To Eye Level",
+      "sha12": "ac472483dc02"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "No Caption, QR Only",
+      "sha12": "b43a805dc728"
+    },
+    "B": {
+      "label": "\"Scan To Book\"",
+      "sha12": "3198f202be69"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "Upper Front Panel, Eye Level",
+      "sha12": "0982dee95073"
+    },
+    "B": {
+      "label": "Lower Corner Of The Front Panel",
+      "sha12": "8788283b5c6a"
+    }
+  },
+  "c5": {
+    "A": {
+      "label": "Tall: QR On Top, Dates Below",
+      "sha12": "f0c8330330e3"
+    },
+    "B": {
+      "label": "Wide: QR Left, Dates Right",
+      "sha12": "ab4aa3621b98"
+    }
+  },
+  "c6": {
+    "A": {
+      "label": "Terracotta Edge",
+      "sha12": "4e1c34024c55"
+    },
+    "B": {
+      "label": "No Coloured Edge",
+      "sha12": "d900d62b3849"
+    }
+  }
+}
