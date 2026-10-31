@@ -36,40 +36,6 @@
    "made": "2026-10-31"
   },
   {
-   "id": "yard-sign-final-deck",
-   "name": "Yard Sign Final Deck",
-   "url": "https://webermanapps.github.io/branding-djqmb410/decks/yard-sign-final-deck/",
-   "total": 2,
-   "answered": 0,
-   "tag": "Max's Picks",
-   "status": "open",
-   "added": "2026-10-31T10:54:31+07:00",
-   "note": "Machan Oct 31 2026 — Smart Upkeep yard sign final: tagline replaces \"Maintained By Smart Upkeep\" per note.",
-   "requested_at": "2026-10-31T10:54:31+07:00",
-   "pinned": true,
-   "new": true,
-   "blurb": "2 cards, ready now, with Notes",
-   "agent": "branding",
-   "made": "2026-10-31"
-  },
-  {
-   "id": "furnace-sticker-final-deck",
-   "name": "Furnace Sticker Final Deck",
-   "url": "https://webermanapps.github.io/branding-djqmb410/decks/furnace-sticker-final-deck/",
-   "total": 1,
-   "answered": 0,
-   "tag": "Max's Picks",
-   "status": "open",
-   "added": "2026-10-31T10:54:31+07:00",
-   "note": "Machan Oct 31 2026 — Smart Upkeep furnace sticker final: wordmark type (Machan Decides on confirm deck).",
-   "requested_at": "2026-10-31T10:54:31+07:00",
-   "pinned": true,
-   "new": true,
-   "blurb": "1 cards, ready now, with Notes",
-   "agent": "branding",
-   "made": "2026-10-31"
-  },
-  {
    "id": "employee-contract-deck",
    "name": "Employee Contract Deck",
    "url": "https://webermanapps.github.io/branding-djqmb410/decks/employee-contract-deck/",
@@ -117,23 +83,6 @@
    "pinned": true,
    "new": true,
    "blurb": "35 cards, ready now, with Notes",
-   "agent": "branding",
-   "made": "2026-10-30"
-  },
-  {
-   "id": "branded-bucket-deck",
-   "name": "Branded Bucket Deck",
-   "url": "https://webermanapps.github.io/branding-djqmb410/decks/branded-bucket-deck/",
-   "total": 9,
-   "answered": 0,
-   "tag": "Max's Picks",
-   "status": "open",
-   "added": "2026-10-30T14:43:00+07:00",
-   "note": "Machan Oct 30 2026 — Smart Upkeep branded 5-gal tech supply buckets (15 for storage unit): white vs grey, black vs charcoal, logo placement, front+back vs wrap, size, logo colour, lid, print supplier.",
-   "requested_at": "2026-10-30T14:43:00+07:00",
-   "pinned": true,
-   "new": true,
-   "blurb": "9 cards, ready now, with Notes",
    "agent": "branding",
    "made": "2026-10-30"
   },
@@ -223,24 +172,6 @@
    "made": "2026-10-29"
   },
   {
-   "id": "smart-upkeep-van-wrap-final-details-rdi7aj",
-   "name": "Smart Upkeep Van Wrap Final Details",
-   "url": "https://webermanapps.github.io/branding-djqmb410/decks/smart-upkeep-van-wrap-final-details-rdi7aj/",
-   "total": 3,
-   "answered": 3,
-   "tag": "Max's Picks",
-   "status": "done",
-   "added": "2026-10-29T14:41:38+07:00",
-   "note": "Machan via UpKeep Develop Oct 29 2026 — follow-up on the 3 Machan Decides van wrap cards (passenger side, phone size, web height). Phone (555) 000-0000 placeholder.",
-   "requested_at": "2026-10-29T14:37:00+07:00",
-   "pinned": true,
-   "new": true,
-   "blurb": "3 cards, ready now, with Notes",
-   "agent": "upkeep",
-   "made": "2026-10-29",
-   "done_at": "2026-10-29T14:46:38+07:00"
-  },
-  {
    "id": "tech-apparel-round-two-w5zikk",
    "name": "Tech Apparel Round Two",
    "url": "https://webermanapps.github.io/branding-djqmb410/decks/tech-apparel-round-two-w5zikk/",
@@ -257,42 +188,6 @@
    "agent": "branding",
    "made": "2026-10-29",
    "done_at": "2026-10-29T14:39:22+07:00"
-  },
-  {
-   "id": "smart-upkeep-van-wrap-deck-bycj1c",
-   "name": "Smart Upkeep Van Wrap",
-   "url": "https://webermanapps.github.io/branding-djqmb410/decks/smart-upkeep-van-wrap-deck-bycj1c/",
-   "total": 10,
-   "answered": 10,
-   "tag": "Max's Picks",
-   "status": "done",
-   "added": "2026-10-29T13:01:13+07:00",
-   "note": "Machan via UpKeep Develop Oct 29 2026 — van wrap/livery finalize.",
-   "requested_at": "2026-10-29T12:52:00+07:00",
-   "pinned": true,
-   "new": true,
-   "blurb": "10 cards, ready now, with Notes",
-   "agent": "upkeep",
-   "made": "2026-10-29",
-   "done_at": "2026-10-29T13:27:59+07:00"
-  },
-  {
-   "id": "smart-upkeep-tech-apparel-46xacd",
-   "name": "Smart Upkeep Tech Apparel",
-   "url": "https://webermanapps.github.io/branding-djqmb410/decks/smart-upkeep-tech-apparel-46xacd/",
-   "total": 10,
-   "answered": 10,
-   "tag": "Max's Picks",
-   "status": "done",
-   "added": "2026-10-29T12:59:58+07:00",
-   "note": "Machan via UpKeep Develop Oct 29 2026 — finalize Smart Upkeep technician apparel",
-   "requested_at": "2026-10-29T12:52:00+07:00",
-   "pinned": true,
-   "new": true,
-   "blurb": "10 cards, ready now, with Notes",
-   "agent": "branding",
-   "made": "2026-10-29",
-   "done_at": "2026-10-29T13:31:04+07:00"
   },
   {
    "id": "command-center-shell-alternatives-deck-r8tml5",
@@ -676,8 +571,74 @@
    "done_at": "2026-10-28T14:35:24+07:00"
   }
  ],
- "updated": "2026-10-31T13:26:01+07:00",
+ "updated": "2026-10-31T13:27:05+07:00",
  "done": [
+  {
+   "id": "smart-upkeep-van-wrap-final-details-rdi7aj",
+   "at": "2026-10-31T13:25:53+07:00",
+   "done_at": "2026-10-31T13:25:53+07:00",
+   "name": "Smart Upkeep Van Wrap Final Details",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/smart-upkeep-van-wrap-final-details-rdi7aj/",
+   "total": 3,
+   "answered": 3,
+   "status": "done",
+   "agent": "upkeep"
+  },
+  {
+   "id": "smart-upkeep-van-wrap-deck-bycj1c",
+   "at": "2026-10-31T13:25:35+07:00",
+   "done_at": "2026-10-31T13:25:35+07:00",
+   "name": "Smart Upkeep Van Wrap",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/smart-upkeep-van-wrap-deck-bycj1c/",
+   "total": 10,
+   "answered": 10,
+   "status": "done",
+   "agent": "upkeep"
+  },
+  {
+   "id": "smart-upkeep-tech-apparel-46xacd",
+   "at": "2026-10-31T13:26:03+07:00",
+   "done_at": "2026-10-31T13:26:03+07:00",
+   "name": "Smart Upkeep Tech Apparel",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/smart-upkeep-tech-apparel-46xacd/",
+   "total": 10,
+   "answered": 10,
+   "status": "done",
+   "agent": "branding"
+  },
+  {
+   "id": "yard-sign-final-deck",
+   "at": "2026-10-31T13:24:14+07:00",
+   "done_at": "2026-10-31T13:24:14+07:00",
+   "name": "Yard Sign Final Deck",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/yard-sign-final-deck/",
+   "total": 2,
+   "answered": 2,
+   "status": "done",
+   "agent": "branding"
+  },
+  {
+   "id": "furnace-sticker-final-deck",
+   "at": "2026-10-31T13:23:49+07:00",
+   "done_at": "2026-10-31T13:23:49+07:00",
+   "name": "Furnace Sticker Final Deck",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/furnace-sticker-final-deck/",
+   "total": 1,
+   "answered": 1,
+   "status": "done",
+   "agent": "branding"
+  },
+  {
+   "id": "branded-bucket-deck",
+   "at": "2026-10-31T13:25:22+07:00",
+   "done_at": "2026-10-31T13:25:22+07:00",
+   "name": "Branded Bucket Deck",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/branded-bucket-deck/",
+   "total": 9,
+   "answered": 9,
+   "status": "done",
+   "agent": "branding"
+  },
   {
    "id": "loose-ends-deck",
    "at": "2026-10-31T09:21:08+07:00",
@@ -2437,32 +2398,11 @@
    "total": 8
   },
   {
-   "id": "smart-upkeep-van-wrap-deck-bycj1c",
-   "at": "2026-10-29T13:27:59+07:00",
-   "name": "Smart Upkeep Van Wrap",
-   "answered": 10,
-   "total": 10
-  },
-  {
-   "id": "smart-upkeep-tech-apparel-46xacd",
-   "at": "2026-10-29T13:31:04+07:00",
-   "name": "Smart Upkeep Tech Apparel",
-   "answered": 10,
-   "total": 10
-  },
-  {
    "id": "tech-apparel-round-two-w5zikk",
    "at": "2026-10-29T14:39:22+07:00",
    "name": "Tech Apparel Round Two",
    "answered": 8,
    "total": 8
-  },
-  {
-   "id": "smart-upkeep-van-wrap-final-details-rdi7aj",
-   "at": "2026-10-29T14:46:38+07:00",
-   "name": "Smart Upkeep Van Wrap Final Details",
-   "answered": 3,
-   "total": 3
   },
   {
    "id": "tech-apparel-finished-designs-wo4b7m",
