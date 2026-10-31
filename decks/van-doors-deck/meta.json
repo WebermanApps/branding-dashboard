@@ -1,0 +1,14 @@
+{
+  "category": "vehicle-livery",
+  "asset_paths": [
+    "/workspace/van-doors-1031/staged/doors/c1a.jpg",
+    "/workspace/van-doors-1031/staged/doors/c1b.jpg",
+    "/workspace/van-doors-1031/staged/doors/c2a.jpg",
+    "/workspace/van-doors-1031/staged/doors/c2b.jpg",
+    "/workspace/van-doors-1031/staged/doors/c3a.jpg",
+    "/workspace/van-doors-1031/staged/doors/c3b.jpg"
+  ],
+  "ui_screenshots": false,
+  "bleed_mode": "flush-cream",
+  "title": "Van Doors Deck"
+}

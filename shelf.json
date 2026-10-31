@@ -2,6 +2,23 @@
  "agent": "branding",
  "decks": [
   {
+   "id": "van-doors-deck",
+   "name": "Van Doors Deck",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/van-doors-deck/",
+   "total": 3,
+   "answered": 0,
+   "tag": "Max's Picks",
+   "status": "open",
+   "added": "2026-10-31T22:00:00+07:00",
+   "note": "Machan Oct 31 2026 — van rear-door conflict: Van Lock version (sweep, logo left door, QR right door) vs re-sent Oct 29 version (beltline, big logo spanning both doors). Rear, side, overall.",
+   "requested_at": "2026-10-31T22:00:00+07:00",
+   "pinned": true,
+   "new": true,
+   "blurb": "3 cards, ready now, with Notes",
+   "agent": "branding",
+   "made": "2026-10-31"
+  },
+  {
    "id": "tagline-round-2-deck",
    "name": "Tagline Round 2 Deck",
    "url": "https://webermanapps.github.io/branding-djqmb410/decks/tagline-round-2-deck/",
@@ -571,7 +588,7 @@
    "done_at": "2026-10-28T14:35:24+07:00"
   }
  ],
- "updated": "2026-10-31T13:27:05+07:00",
+ "updated": "2026-10-31T22:00:00+07:00",
  "done": [
   {
    "id": "smart-upkeep-van-wrap-final-details-rdi7aj",

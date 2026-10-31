@@ -1,0 +1,32 @@
+{
+  "c1": {
+    "A": {
+      "label": "A: Logo Left Door, QR Right Door",
+      "sha12": "f43b399258f5"
+    },
+    "B": {
+      "label": "B: Big Logo Spanning Both Doors",
+      "sha12": "c22e2d979a3c"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "A: Fuller Wrap, Terracotta Sweep",
+      "sha12": "e19a4984d846"
+    },
+    "B": {
+      "label": "B: Thin Terracotta Beltline",
+      "sha12": "92e0897e75b8"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "A: Van Lock Version Overall",
+      "sha12": "ad486c6ea286"
+    },
+    "B": {
+      "label": "B: Oct 29 Version Overall",
+      "sha12": "833db1c0c97c"
+    }
+  }
+}
