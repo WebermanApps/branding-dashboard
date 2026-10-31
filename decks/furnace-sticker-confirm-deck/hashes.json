@@ -1,0 +1,62 @@
+{
+  "c1": {
+    "A": {
+      "label": "Full Design, QR In A Terracotta Frame",
+      "sha12": "015d8c1835fd"
+    },
+    "B": {
+      "label": "Full Design, House-UP Mark Inside The QR",
+      "sha12": "7374cc734fec"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Bold Edge Plus Inner Line",
+      "sha12": "692ee02247a1"
+    },
+    "B": {
+      "label": "Thin Keyline",
+      "sha12": "48ccebda11f3"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "Keep Last And Next Service Lines",
+      "sha12": "769baa1e40d2"
+    },
+    "B": {
+      "label": "Service Dates Only, Three Lines",
+      "sha12": "7fa303c6cf3b"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "Add The Terracotta Roof Cap",
+      "sha12": "b2471ed48450"
+    },
+    "B": {
+      "label": "Add Small Service Icons",
+      "sha12": "ec5996d5a366"
+    }
+  },
+  "c5": {
+    "A": {
+      "label": "Hind Wordmark, All One Type",
+      "sha12": "ab70569befea"
+    },
+    "B": {
+      "label": "Khand Wordmark, Hind Wording",
+      "sha12": "b0e88fcbf509"
+    }
+  },
+  "c6": {
+    "A": {
+      "label": "3 In Wide",
+      "sha12": "c3f1a6da74a6"
+    },
+    "B": {
+      "label": "3.8 In Wide",
+      "sha12": "1e9dce5b9a2b"
+    }
+  }
+}

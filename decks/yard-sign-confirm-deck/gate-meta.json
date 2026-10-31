@@ -1,0 +1,20 @@
+{
+  "category": "yard-signage",
+  "asset_paths": [
+    "/workspace/su-look-1031/confirm/staged/yard/c1a.jpg",
+    "/workspace/su-look-1031/confirm/staged/yard/c1b.jpg",
+    "/workspace/su-look-1031/confirm/staged/yard/c2a.jpg",
+    "/workspace/su-look-1031/confirm/staged/yard/c2b.jpg",
+    "/workspace/su-look-1031/confirm/staged/yard/c3a.jpg",
+    "/workspace/su-look-1031/confirm/staged/yard/c3b.jpg",
+    "/workspace/su-look-1031/confirm/staged/yard/c4a.jpg",
+    "/workspace/su-look-1031/confirm/staged/yard/c4b.jpg",
+    "/workspace/su-look-1031/confirm/staged/yard/c5a.jpg",
+    "/workspace/su-look-1031/confirm/staged/yard/c5b.jpg",
+    "/workspace/su-look-1031/confirm/staged/yard/c6a.jpg",
+    "/workspace/su-look-1031/confirm/staged/yard/c6b.jpg"
+  ],
+  "ui_screenshots": false,
+  "bleed_mode": "flush-cream",
+  "title": "Yard Sign Confirm Deck"
+}

@@ -1,0 +1,62 @@
+{
+  "c1": {
+    "A": {
+      "label": "Large QR",
+      "sha12": "e4867ab3d836"
+    },
+    "B": {
+      "label": "Extra-Large QR",
+      "sha12": "8dc364a06368"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Keep Slim Bands, Smaller Web Text",
+      "sha12": "c9b42f94cec8"
+    },
+    "B": {
+      "label": "Slightly Deeper Lagoon Band",
+      "sha12": "270234dd2558"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "Hero Logo Stays Full Size",
+      "sha12": "2498a4765375"
+    },
+    "B": {
+      "label": "Logo A Step Smaller",
+      "sha12": "c987ad7fc0d2"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "Light Lead-In, Bold Name",
+      "sha12": "045acdb910fb"
+    },
+    "B": {
+      "label": "Even Bold Lines",
+      "sha12": "b682f3801ebb"
+    }
+  },
+  "c5": {
+    "A": {
+      "label": "Classic, No Extra Accent",
+      "sha12": "bf0783cb10fc"
+    },
+    "B": {
+      "label": "Thin Terracotta Keyline Border",
+      "sha12": "ebf54544eaf3"
+    }
+  },
+  "c6": {
+    "A": {
+      "label": "\"Scan For Plans\"",
+      "sha12": "7ab736dda47a"
+    },
+    "B": {
+      "label": "\"Scan To Book\"",
+      "sha12": "a9a8770f8685"
+    }
+  }
+}
