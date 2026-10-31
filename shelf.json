@@ -2,6 +2,40 @@
  "agent": "branding",
  "decks": [
   {
+   "id": "yard-sign-look-deck",
+   "name": "Yard Sign Look Deck",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/yard-sign-look-deck/",
+   "total": 8,
+   "answered": 0,
+   "tag": "Max's Picks",
+   "status": "open",
+   "added": "2026-10-31T09:58:31+07:00",
+   "note": "Machan Oct 31 2026 — Smart Upkeep yard sign look: typeface, band proportions, logo scale, QR treatment, web placement, message line, message weight, bolder ideas. Locked specs kept.",
+   "requested_at": "2026-10-31T09:58:31+07:00",
+   "pinned": true,
+   "new": true,
+   "blurb": "8 cards, ready now, with Notes",
+   "agent": "branding",
+   "made": "2026-10-31"
+  },
+  {
+   "id": "furnace-sticker-look-deck",
+   "name": "Furnace Sticker Look Deck",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/furnace-sticker-look-deck/",
+   "total": 8,
+   "answered": 0,
+   "tag": "Max's Picks",
+   "status": "open",
+   "added": "2026-10-31T09:58:31+07:00",
+   "note": "Machan Oct 31 2026 — Smart Upkeep furnace sticker look: typeface, logo treatment, date style, date colour, roof detail, edge weight, QR treatment, bolder ideas. Locked specs kept.",
+   "requested_at": "2026-10-31T09:58:31+07:00",
+   "pinned": true,
+   "new": true,
+   "blurb": "8 cards, ready now, with Notes",
+   "agent": "branding",
+   "made": "2026-10-31"
+  },
+  {
    "id": "loose-ends-deck",
    "name": "Loose Ends Deck",
    "url": "https://webermanapps.github.io/branding-djqmb410/decks/loose-ends-deck/",
@@ -625,7 +659,7 @@
    "done_at": "2026-10-28T14:35:24+07:00"
   }
  ],
- "updated": "2026-10-31T09:03:14+07:00",
+ "updated": "2026-10-31T09:58:31+07:00",
  "done": [
   {
    "id": "furnace-sticker-design-deck",

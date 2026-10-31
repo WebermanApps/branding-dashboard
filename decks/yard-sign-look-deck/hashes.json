@@ -1,0 +1,82 @@
+{
+  "c1": {
+    "A": {
+      "label": "Khand, Condensed",
+      "sha12": "88a591114fa0"
+    },
+    "B": {
+      "label": "Hind, Rounder",
+      "sha12": "1bb55bf5c8f4"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Slim Bands",
+      "sha12": "5ab388202de6"
+    },
+    "B": {
+      "label": "Deep Bands",
+      "sha12": "816393fc0d45"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "Modest Logo, Bigger Message",
+      "sha12": "884e26eae126"
+    },
+    "B": {
+      "label": "Hero Logo",
+      "sha12": "509b2e0e5ba8"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "Plain QR",
+      "sha12": "a34024347f1c"
+    },
+    "B": {
+      "label": "QR In A Lagoon Frame",
+      "sha12": "b26ed478b095"
+    }
+  },
+  "c5": {
+    "A": {
+      "label": "Beside The QR",
+      "sha12": "42c568428d92"
+    },
+    "B": {
+      "label": "Reversed Out In The Lagoon Band",
+      "sha12": "89f528c791fd"
+    }
+  },
+  "c6": {
+    "A": {
+      "label": "\"Maintained By Smart Upkeep\"",
+      "sha12": "3a6d2ba26eb4"
+    },
+    "B": {
+      "label": "\"A Smart Upkeep Member Home\"",
+      "sha12": "b4fbef121b06"
+    }
+  },
+  "c7": {
+    "A": {
+      "label": "Light Lead-In, Bold Name",
+      "sha12": "c1471edf7ec5"
+    },
+    "B": {
+      "label": "Even Bold Lines",
+      "sha12": "337446685580"
+    }
+  },
+  "c8": {
+    "A": {
+      "label": "QR Built Into A House Roof",
+      "sha12": "d8cade9d2e93"
+    },
+    "B": {
+      "label": "Hero Logo, Deep Bands, Rounded Type",
+      "sha12": "9fdca1afa463"
+    }
+  }
+}

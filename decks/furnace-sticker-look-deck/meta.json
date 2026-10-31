@@ -1,0 +1,24 @@
+{
+  "category": "equipment-stickers",
+  "asset_paths": [
+    "/workspace/su-look-1031/staged/stk/c1a.jpg",
+    "/workspace/su-look-1031/staged/stk/c1b.jpg",
+    "/workspace/su-look-1031/staged/stk/c2a.jpg",
+    "/workspace/su-look-1031/staged/stk/c2b.jpg",
+    "/workspace/su-look-1031/staged/stk/c3a.jpg",
+    "/workspace/su-look-1031/staged/stk/c3b.jpg",
+    "/workspace/su-look-1031/staged/stk/c4a.jpg",
+    "/workspace/su-look-1031/staged/stk/c4b.jpg",
+    "/workspace/su-look-1031/staged/stk/c5a.jpg",
+    "/workspace/su-look-1031/staged/stk/c5b.jpg",
+    "/workspace/su-look-1031/staged/stk/c6a.jpg",
+    "/workspace/su-look-1031/staged/stk/c6b.jpg",
+    "/workspace/su-look-1031/staged/stk/c7a.jpg",
+    "/workspace/su-look-1031/staged/stk/c7b.jpg",
+    "/workspace/su-look-1031/staged/stk/c8a.jpg",
+    "/workspace/su-look-1031/staged/stk/c8b.jpg"
+  ],
+  "ui_screenshots": false,
+  "bleed_mode": "flush-cream",
+  "title": "Furnace Sticker Look Deck"
+}

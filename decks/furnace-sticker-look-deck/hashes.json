@@ -1,0 +1,82 @@
+{
+  "c1": {
+    "A": {
+      "label": "Khand, Tall And Condensed",
+      "sha12": "711719a30e9a"
+    },
+    "B": {
+      "label": "Hind, Rounder And Friendlier",
+      "sha12": "38ae3a6d88e8"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "House-UP Mark Only",
+      "sha12": "b3d84d1aa169"
+    },
+    "B": {
+      "label": "Mark Plus \"Smart Upkeep\" Wordmark",
+      "sha12": "9da6c6273875"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "Write-In Underlines",
+      "sha12": "908f81519f9a"
+    },
+    "B": {
+      "label": "Two Side-By-Side Boxes",
+      "sha12": "2138a48e63c3"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "Plain Ink Lines, Thin Edge",
+      "sha12": "ffdcf9d96019"
+    },
+    "B": {
+      "label": "Lagoon And Jungle Label Pills",
+      "sha12": "b59f2711cd44"
+    }
+  },
+  "c5": {
+    "A": {
+      "label": "Plain Gable Roof",
+      "sha12": "ae250df82001"
+    },
+    "B": {
+      "label": "Gable With Chimney Notch",
+      "sha12": "1064ae0c7112"
+    }
+  },
+  "c6": {
+    "A": {
+      "label": "Thin Keyline",
+      "sha12": "701bdeb964be"
+    },
+    "B": {
+      "label": "Bold Edge Plus Inner Line",
+      "sha12": "4ffcac40a010"
+    }
+  },
+  "c7": {
+    "A": {
+      "label": "QR In A Terracotta Frame",
+      "sha12": "4e29aaa1b209"
+    },
+    "B": {
+      "label": "House-UP Mark Inside The QR",
+      "sha12": "7db62d64e130"
+    }
+  },
+  "c8": {
+    "A": {
+      "label": "Terracotta Roof Cap With Wordmark",
+      "sha12": "37c761ea383a"
+    },
+    "B": {
+      "label": "Service Icons And Month Tick Grid",
+      "sha12": "80e8b59d0c78"
+    }
+  }
+}
