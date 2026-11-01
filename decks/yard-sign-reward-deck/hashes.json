@@ -1,0 +1,62 @@
+{
+  "c1": {
+    "A": {
+      "label": "A Free Month",
+      "sha12": "193e9fefc1a1"
+    },
+    "B": {
+      "label": "A Free Furnace Filter",
+      "sha12": "99d3ff2d37f6"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "A Priority Booking Slot",
+      "sha12": "0320a0a431c4"
+    },
+    "B": {
+      "label": "A Free Gutter Check",
+      "sha12": "82c0ebe834b3"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "On Install",
+      "sha12": "c5ccebef1afb"
+    },
+    "B": {
+      "label": "After 30 Days",
+      "sha12": "2b84174cf209"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "30 Days",
+      "sha12": "5747e13d9368"
+    },
+    "B": {
+      "label": "60 Days",
+      "sha12": "935dbbd91174"
+    }
+  },
+  "c5": {
+    "A": {
+      "label": "Rewards Stack",
+      "sha12": "ef816886a7d3"
+    },
+    "B": {
+      "label": "One Or The Other",
+      "sha12": "14854cdfe457"
+    }
+  },
+  "c6": {
+    "A": {
+      "label": "Ask At The Visit",
+      "sha12": "c512f510a632"
+    },
+    "B": {
+      "label": "Invite In Visit Report",
+      "sha12": "e2991676c59b"
+    }
+  }
+}

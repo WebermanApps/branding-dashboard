@@ -1,0 +1,20 @@
+{
+  "category": "yard-signage",
+  "asset_paths": [
+    "/workspace/su-mkt-1101/staged/ys/c1a.jpg",
+    "/workspace/su-mkt-1101/staged/ys/c1b.jpg",
+    "/workspace/su-mkt-1101/staged/ys/c2a.jpg",
+    "/workspace/su-mkt-1101/staged/ys/c2b.jpg",
+    "/workspace/su-mkt-1101/staged/ys/c3a.jpg",
+    "/workspace/su-mkt-1101/staged/ys/c3b.jpg",
+    "/workspace/su-mkt-1101/staged/ys/c4a.jpg",
+    "/workspace/su-mkt-1101/staged/ys/c4b.jpg",
+    "/workspace/su-mkt-1101/staged/ys/c5a.jpg",
+    "/workspace/su-mkt-1101/staged/ys/c5b.jpg",
+    "/workspace/su-mkt-1101/staged/ys/c6a.jpg",
+    "/workspace/su-mkt-1101/staged/ys/c6b.jpg"
+  ],
+  "ui_screenshots": false,
+  "bleed_mode": "flush-cream",
+  "title": "Yard Sign Reward Deck"
+}
