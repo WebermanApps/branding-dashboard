@@ -1,0 +1,52 @@
+{
+  "c1": {
+    "A": {
+      "label": "Founding Rate, Locked For Life",
+      "sha12": "226d9d01a4ec"
+    },
+    "B": {
+      "label": "First Month Free",
+      "sha12": "01349573330a"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "A Free Month For You And Your Neighbor",
+      "sha12": "b7a2a6192071"
+    },
+    "B": {
+      "label": "A Free Seasonal Tune-Up Per Referral",
+      "sha12": "6f6f97b7f3fb"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "Be One Of The First 100 Homes",
+      "sha12": "91129fe6fa8f"
+    },
+    "B": {
+      "label": "First Pick Of Visit Times",
+      "sha12": "2ebbfa66c80a"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "Live Founding Members Webinar",
+      "sha12": "adfc894801ec"
+    },
+    "B": {
+      "label": "Recorded Webinar, Watch Anytime",
+      "sha12": "e3c0b2524beb"
+    }
+  },
+  "c5": {
+    "A": {
+      "label": "Round Terracotta Seal",
+      "sha12": "a74c8b201f51"
+    },
+    "B": {
+      "label": "Lagoon Ribbon Tag",
+      "sha12": "04011e271a2c"
+    }
+  }
+}

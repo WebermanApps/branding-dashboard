@@ -1,0 +1,18 @@
+{
+  "category": "offer-marketing",
+  "asset_paths": [
+    "/workspace/su-six-1101/staged/fm/c1a.jpg",
+    "/workspace/su-six-1101/staged/fm/c1b.jpg",
+    "/workspace/su-six-1101/staged/fm/c2a.jpg",
+    "/workspace/su-six-1101/staged/fm/c2b.jpg",
+    "/workspace/su-six-1101/staged/fm/c3a.jpg",
+    "/workspace/su-six-1101/staged/fm/c3b.jpg",
+    "/workspace/su-six-1101/staged/fm/c4a.jpg",
+    "/workspace/su-six-1101/staged/fm/c4b.jpg",
+    "/workspace/su-six-1101/staged/fm/c5a.jpg",
+    "/workspace/su-six-1101/staged/fm/c5b.jpg"
+  ],
+  "ui_screenshots": false,
+  "bleed_mode": "flush-cream",
+  "title": "Founding Member Offer Deck"
+}
