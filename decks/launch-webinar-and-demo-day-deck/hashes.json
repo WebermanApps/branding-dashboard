@@ -1,0 +1,62 @@
+{
+  "c1": {
+    "A": {
+      "label": "30 Minutes",
+      "sha12": "538f53f699d6"
+    },
+    "B": {
+      "label": "45 Minutes",
+      "sha12": "64877281bfa4"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Weekday Evening",
+      "sha12": "774707dda63b"
+    },
+    "B": {
+      "label": "Saturday Morning",
+      "sha12": "962cc519b07b"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "Van Pop-Up",
+      "sha12": "999e57f099e1"
+    },
+    "B": {
+      "label": "Member Home Open House",
+      "sha12": "2ed86eb16768"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "Quick 15-Minute Check",
+      "sha12": "983d7410a71e"
+    },
+    "B": {
+      "label": "Full Booked Check",
+      "sha12": "9895e34be64b"
+    }
+  },
+  "c5": {
+    "A": {
+      "label": "Spot Held 48 Hours",
+      "sha12": "72eb1564456e"
+    },
+    "B": {
+      "label": "First Pick Of Checks",
+      "sha12": "3032d8f0e70b"
+    }
+  },
+  "c6": {
+    "A": {
+      "label": "Email The Waitlist",
+      "sha12": "d8cedae888e1"
+    },
+    "B": {
+      "label": "Door Hanger Invite",
+      "sha12": "b3135d7c246f"
+    }
+  }
+}
