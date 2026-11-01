@@ -1,0 +1,182 @@
+{
+  "c1": {
+    "A": {
+      "label": "Keep: Free Home Check Door-Knocking",
+      "sha12": "6ee40d3ea063"
+    },
+    "B": {
+      "label": "Cut: Free Home Check Door-Knocking",
+      "sha12": "8a49a6d39eb9"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Keep: Yard Sign Plus Battery Swap",
+      "sha12": "88e230e603a4"
+    },
+    "B": {
+      "label": "Cut: Yard Sign Plus Battery Swap",
+      "sha12": "463f4f683899"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "Keep: Refer-A-Neighbor Months",
+      "sha12": "c68683e397aa"
+    },
+    "B": {
+      "label": "Cut: Refer-A-Neighbor Months",
+      "sha12": "1d9e41100b7d"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "Keep: Early-Signer Email List",
+      "sha12": "033b1e742e40"
+    },
+    "B": {
+      "label": "Cut: Early-Signer Email List",
+      "sha12": "c401abe62df7"
+    }
+  },
+  "c5": {
+    "A": {
+      "label": "Keep: Founding Members Launch Webinar",
+      "sha12": "9d2c4db1a216"
+    },
+    "B": {
+      "label": "Cut: Founding Members Launch Webinar",
+      "sha12": "3a082ad618af"
+    }
+  },
+  "c6": {
+    "A": {
+      "label": "Keep: Nextdoor Posts",
+      "sha12": "306e04420e89"
+    },
+    "B": {
+      "label": "Cut: Nextdoor Posts",
+      "sha12": "5a23ba9d1de8"
+    }
+  },
+  "c7": {
+    "A": {
+      "label": "Keep: Realtor And Inspector Partners",
+      "sha12": "7a1831d6e844"
+    },
+    "B": {
+      "label": "Cut: Realtor And Inspector Partners",
+      "sha12": "5aac5544ccd4"
+    }
+  },
+  "c8": {
+    "A": {
+      "label": "Keep: New-Homeowner Mailer",
+      "sha12": "0d63c028326e"
+    },
+    "B": {
+      "label": "Cut: New-Homeowner Mailer",
+      "sha12": "d69309f6c985"
+    }
+  },
+  "c9": {
+    "A": {
+      "label": "Keep: HOA Newsletter Features",
+      "sha12": "2c3a80d5fa44"
+    },
+    "B": {
+      "label": "Cut: HOA Newsletter Features",
+      "sha12": "bad6d8f64a2c"
+    }
+  },
+  "c10": {
+    "A": {
+      "label": "Keep: Van QR Campaign",
+      "sha12": "77beb850c111"
+    },
+    "B": {
+      "label": "Cut: Van QR Campaign",
+      "sha12": "082ceeb69438"
+    }
+  },
+  "c11": {
+    "A": {
+      "label": "Keep: QR Fridge Magnet",
+      "sha12": "b26427b2dab9"
+    },
+    "B": {
+      "label": "Cut: QR Fridge Magnet",
+      "sha12": "939bc3a09867"
+    }
+  },
+  "c12": {
+    "A": {
+      "label": "Keep: Seasonal Checklist Giveaway",
+      "sha12": "3c11b8fa51b1"
+    },
+    "B": {
+      "label": "Cut: Seasonal Checklist Giveaway",
+      "sha12": "9494c35a4ca2"
+    }
+  },
+  "c13": {
+    "A": {
+      "label": "Keep: Local Facebook Groups",
+      "sha12": "10bc7a0f903e"
+    },
+    "B": {
+      "label": "Cut: Local Facebook Groups",
+      "sha12": "5923fc2d3be2"
+    }
+  },
+  "c14": {
+    "A": {
+      "label": "Keep: Google Business Profile",
+      "sha12": "115a7e62fd95"
+    },
+    "B": {
+      "label": "Cut: Google Business Profile",
+      "sha12": "f297234dfc6a"
+    }
+  },
+  "c15": {
+    "A": {
+      "label": "Keep: Short Tech-Visit Videos",
+      "sha12": "c6933d238c15"
+    },
+    "B": {
+      "label": "Cut: Short Tech-Visit Videos",
+      "sha12": "5d2941078cf6"
+    }
+  },
+  "c16": {
+    "A": {
+      "label": "Keep: Before And After Posts",
+      "sha12": "f4c489143cb6"
+    },
+    "B": {
+      "label": "Cut: Before And After Posts",
+      "sha12": "bf8f9f81127e"
+    }
+  },
+  "c17": {
+    "A": {
+      "label": "Keep: Free Furnace Sticker Install",
+      "sha12": "58d548ed230d"
+    },
+    "B": {
+      "label": "Cut: Free Furnace Sticker Install",
+      "sha12": "7c3c5996f327"
+    }
+  },
+  "c18": {
+    "A": {
+      "label": "Keep: Builder-License Credibility",
+      "sha12": "2786df97e2f2"
+    },
+    "B": {
+      "label": "Cut: Builder-License Credibility",
+      "sha12": "9d999ffc2d66"
+    }
+  }
+}
