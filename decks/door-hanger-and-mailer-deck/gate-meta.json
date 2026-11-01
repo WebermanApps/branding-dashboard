@@ -1,0 +1,18 @@
+{
+  "category": "print-collateral",
+  "asset_paths": [
+    "/workspace/su-six-1101/staged/dh/c1a.jpg",
+    "/workspace/su-six-1101/staged/dh/c1b.jpg",
+    "/workspace/su-six-1101/staged/dh/c2a.jpg",
+    "/workspace/su-six-1101/staged/dh/c2b.jpg",
+    "/workspace/su-six-1101/staged/dh/c3a.jpg",
+    "/workspace/su-six-1101/staged/dh/c3b.jpg",
+    "/workspace/su-six-1101/staged/dh/c4a.jpg",
+    "/workspace/su-six-1101/staged/dh/c4b.jpg",
+    "/workspace/su-six-1101/staged/dh/c5a.jpg",
+    "/workspace/su-six-1101/staged/dh/c5b.jpg"
+  ],
+  "ui_screenshots": false,
+  "bleed_mode": "flush-cream",
+  "title": "Door Hanger And Mailer Deck"
+}

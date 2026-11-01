@@ -1,0 +1,52 @@
+{
+  "c1": {
+    "A": {
+      "label": "Logo Top, QR Bottom",
+      "sha12": "a64c8281de41"
+    },
+    "B": {
+      "label": "Tagline Top, Logo Bottom",
+      "sha12": "a0926514bbb0"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Sorry We Missed You Checklist",
+      "sha12": "2c81e0358fda"
+    },
+    "B": {
+      "label": "What We Look After List",
+      "sha12": "77d3f32b7001"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "Terracotta Band",
+      "sha12": "4af91b1a44d8"
+    },
+    "B": {
+      "label": "Lagoon Band",
+      "sha12": "826bbdb859a0"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "Branded Van Photo",
+      "sha12": "5e75418404be"
+    },
+    "B": {
+      "label": "Front Yard Photo",
+      "sha12": "7896a1444838"
+    }
+  },
+  "c5": {
+    "A": {
+      "label": "Short Hello Plus QR",
+      "sha12": "0883a622a7cf"
+    },
+    "B": {
+      "label": "Big QR, Free Home Check",
+      "sha12": "115db2abafce"
+    }
+  }
+}
