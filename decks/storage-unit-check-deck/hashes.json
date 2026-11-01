@@ -1,352 +1,82 @@
 {
   "c1": {
     "A": {
-      "label": "Keep, Qty 2",
-      "sha12": "7da91ed818f6"
+      "label": "Keep: Floor Protection And Marking",
+      "sha12": "c8abe590a514"
     },
     "B": {
-      "label": "Adjust Qty",
-      "sha12": "efbcd175ac56"
+      "label": "Cut Or Trim: Floor Protection And Marking",
+      "sha12": "e20a14a118ce"
     }
   },
   "c2": {
     "A": {
-      "label": "Keep, Qty 2",
-      "sha12": "259459146cb4"
+      "label": "Keep: Power",
+      "sha12": "06feceda4df1"
     },
     "B": {
-      "label": "Adjust Qty",
-      "sha12": "799ae3bb85a0"
+      "label": "Cut Or Trim: Power",
+      "sha12": "0dd58afa0115"
     }
   },
   "c3": {
     "A": {
-      "label": "Keep, Qty 1",
-      "sha12": "68ab2808b521"
+      "label": "Keep: Safety",
+      "sha12": "a28dae4a67b2"
     },
     "B": {
-      "label": "Adjust Qty",
-      "sha12": "149712fdcb35"
+      "label": "Cut Or Trim: Safety",
+      "sha12": "5507afe94aa3"
     }
   },
   "c4": {
     "A": {
-      "label": "Keep, Qty 2",
-      "sha12": "42bcee0512c1"
+      "label": "Keep: Bags",
+      "sha12": "217db8a63ed2"
     },
     "B": {
-      "label": "Adjust Qty",
-      "sha12": "ded01250eeb4"
+      "label": "Cut Or Trim: Bags",
+      "sha12": "826314275659"
     }
   },
   "c5": {
     "A": {
-      "label": "Keep, Qty 1",
-      "sha12": "649fc4672d87"
+      "label": "Keep: Cleaning",
+      "sha12": "c8b129862ba9"
     },
     "B": {
-      "label": "Adjust Qty",
-      "sha12": "7bb28dae5bc4"
+      "label": "Cut Or Trim: Cleaning",
+      "sha12": "97a4cb88e8ae"
     }
   },
   "c6": {
     "A": {
-      "label": "Keep, Qty 1",
-      "sha12": "3b7a6b236d36"
+      "label": "Keep: Hardware And Tape",
+      "sha12": "bcec94320df2"
     },
     "B": {
-      "label": "Adjust Qty",
-      "sha12": "54d0925b161d"
+      "label": "Cut Or Trim: Hardware And Tape",
+      "sha12": "78308a3c59da"
     }
   },
   "c7": {
     "A": {
-      "label": "Keep, Qty 1",
-      "sha12": "fb2328d4edc4"
+      "label": "Keep: Smoke Detector Batteries",
+      "sha12": "e60febcc3546"
     },
     "B": {
-      "label": "Adjust Qty",
-      "sha12": "33f63705449d"
+      "label": "Cut Or Trim: Smoke Detector Batteries",
+      "sha12": "443c4f262d5f"
     }
   },
   "c8": {
     "A": {
-      "label": "Keep, Qty 2",
-      "sha12": "49e1a26c7faf"
+      "label": "Keep: HVAC Filters",
+      "sha12": "fd32b4aecab6"
     },
     "B": {
-      "label": "Adjust Qty",
-      "sha12": "b406ceac54fc"
-    }
-  },
-  "c9": {
-    "A": {
-      "label": "Keep, Qty 2",
-      "sha12": "eaf6152da279"
-    },
-    "B": {
-      "label": "Adjust Qty",
-      "sha12": "7732bb714fd5"
-    }
-  },
-  "c10": {
-    "A": {
-      "label": "Keep, Qty 4",
-      "sha12": "531832141baf"
-    },
-    "B": {
-      "label": "Adjust Qty",
-      "sha12": "c39e035759d0"
-    }
-  },
-  "c11": {
-    "A": {
-      "label": "Keep, Qty 5",
-      "sha12": "09b98423ea0d"
-    },
-    "B": {
-      "label": "Adjust Qty",
-      "sha12": "2da504e0f7f0"
-    }
-  },
-  "c12": {
-    "A": {
-      "label": "Keep, Qty 5",
-      "sha12": "4550c1c1a6b8"
-    },
-    "B": {
-      "label": "Adjust Qty",
-      "sha12": "6ed2762f97c9"
-    }
-  },
-  "c13": {
-    "A": {
-      "label": "Keep, Qty 4",
-      "sha12": "c3064e935258"
-    },
-    "B": {
-      "label": "Adjust Qty",
-      "sha12": "158e7d5f2a45"
-    }
-  },
-  "c14": {
-    "A": {
-      "label": "Keep, Qty 2",
-      "sha12": "f6bcfaad99c6"
-    },
-    "B": {
-      "label": "Adjust Qty",
-      "sha12": "720b99d32203"
-    }
-  },
-  "c15": {
-    "A": {
-      "label": "Keep, Qty 1",
-      "sha12": "7e5fcf289da7"
-    },
-    "B": {
-      "label": "Adjust Qty",
-      "sha12": "6208621b2cdc"
-    }
-  },
-  "c16": {
-    "A": {
-      "label": "Keep, Qty 1",
-      "sha12": "5c6a3f45fdc0"
-    },
-    "B": {
-      "label": "Adjust Qty",
-      "sha12": "42f950d28b0f"
-    }
-  },
-  "c17": {
-    "A": {
-      "label": "Keep, Qty 1",
-      "sha12": "9e35df4e8928"
-    },
-    "B": {
-      "label": "Adjust Qty",
-      "sha12": "03aa8a0ecbed"
-    }
-  },
-  "c18": {
-    "A": {
-      "label": "Keep, Qty 1",
-      "sha12": "1d8607428351"
-    },
-    "B": {
-      "label": "Adjust Qty",
-      "sha12": "8d2ca0287f9c"
-    }
-  },
-  "c19": {
-    "A": {
-      "label": "Keep, Qty 1",
-      "sha12": "c87e03d9320a"
-    },
-    "B": {
-      "label": "Adjust Qty",
-      "sha12": "37b79e2f8b81"
-    }
-  },
-  "c20": {
-    "A": {
-      "label": "Keep, Qty 1",
-      "sha12": "aece06f65fc5"
-    },
-    "B": {
-      "label": "Adjust Qty",
-      "sha12": "35f4e14153dd"
-    }
-  },
-  "c21": {
-    "A": {
-      "label": "Keep, Qty 2",
-      "sha12": "0eb8393f002b"
-    },
-    "B": {
-      "label": "Adjust Qty",
-      "sha12": "360485414640"
-    }
-  },
-  "c22": {
-    "A": {
-      "label": "Keep, Qty 2",
-      "sha12": "570f31d139cf"
-    },
-    "B": {
-      "label": "Adjust Qty",
-      "sha12": "9c10ebebaf52"
-    }
-  },
-  "c23": {
-    "A": {
-      "label": "Keep, Qty 3",
-      "sha12": "ed472ccc9bd6"
-    },
-    "B": {
-      "label": "Adjust Qty",
-      "sha12": "c3d53e22e2f9"
-    }
-  },
-  "c24": {
-    "A": {
-      "label": "Keep, Qty 3",
-      "sha12": "0dc42c14a044"
-    },
-    "B": {
-      "label": "Adjust Qty",
-      "sha12": "aaf601bdd351"
-    }
-  },
-  "c25": {
-    "A": {
-      "label": "Keep, Qty 3",
-      "sha12": "55e140cf7b7e"
-    },
-    "B": {
-      "label": "Adjust Qty",
-      "sha12": "95ffd5f24607"
-    }
-  },
-  "c26": {
-    "A": {
-      "label": "Keep, Qty 20",
-      "sha12": "b6ab130b1119"
-    },
-    "B": {
-      "label": "Adjust Qty",
-      "sha12": "5772d5adfb0b"
-    }
-  },
-  "c27": {
-    "A": {
-      "label": "Keep, Qty 20",
-      "sha12": "5ed800beb584"
-    },
-    "B": {
-      "label": "Adjust Qty",
-      "sha12": "4b681a463a6f"
-    }
-  },
-  "c28": {
-    "A": {
-      "label": "Keep, Qty 20",
-      "sha12": "a016f12df792"
-    },
-    "B": {
-      "label": "Adjust Qty",
-      "sha12": "5b06f19789a9"
-    }
-  },
-  "c29": {
-    "A": {
-      "label": "Keep, Qty 20",
-      "sha12": "921be642b43d"
-    },
-    "B": {
-      "label": "Adjust Qty",
-      "sha12": "2aceeb5c6c1f"
-    }
-  },
-  "c30": {
-    "A": {
-      "label": "Keep, Qty 20",
-      "sha12": "5d3a93ef0383"
-    },
-    "B": {
-      "label": "Adjust Qty",
-      "sha12": "85f96dd04920"
-    }
-  },
-  "c31": {
-    "A": {
-      "label": "Keep, Qty 10",
-      "sha12": "de6428510f5a"
-    },
-    "B": {
-      "label": "Adjust Qty",
-      "sha12": "1b21ca0b7509"
-    }
-  },
-  "c32": {
-    "A": {
-      "label": "Keep, Qty 10",
-      "sha12": "54390dc4532a"
-    },
-    "B": {
-      "label": "Adjust Qty",
-      "sha12": "88f9e03d9991"
-    }
-  },
-  "c33": {
-    "A": {
-      "label": "Keep, Qty 10",
-      "sha12": "1fc059c8ec8b"
-    },
-    "B": {
-      "label": "Adjust Qty",
-      "sha12": "ce14e4db117f"
-    }
-  },
-  "c34": {
-    "A": {
-      "label": "Keep, Qty 10",
-      "sha12": "74e059208ef6"
-    },
-    "B": {
-      "label": "Adjust Qty",
-      "sha12": "6c50cd5b0e52"
-    }
-  },
-  "c35": {
-    "A": {
-      "label": "Keep, Qty 10",
-      "sha12": "4cb43a33408e"
-    },
-    "B": {
-      "label": "Adjust Qty",
-      "sha12": "992a57911e74"
+      "label": "Cut Or Trim: HVAC Filters",
+      "sha12": "5c9b02e177ce"
     }
   }
 }

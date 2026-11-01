@@ -1,122 +1,72 @@
 {
   "c1": {
     "A": {
-      "label": "W-2 Employee",
-      "sha12": "10758abbba86"
+      "label": "Hourly With Overtime",
+      "sha12": "773a6ce4f25e"
     },
     "B": {
-      "label": "1099 Independent Contractor",
-      "sha12": "59bd113e962c"
+      "label": "Salary Plus Visit Bonus",
+      "sha12": "9a97d82413dc"
     }
   },
   "c2": {
     "A": {
-      "label": "Hourly Pay With Overtime",
-      "sha12": "904555659cfb"
+      "label": "Five Days, Mon To Fri",
+      "sha12": "b06fbe911636"
     },
     "B": {
-      "label": "Annual Salary",
-      "sha12": "fceb4cc7670d"
+      "label": "Four 10-Hour Days",
+      "sha12": "39920de1af52"
     }
   },
   "c3": {
     "A": {
-      "label": "Hourly Base Plus Per-Visit Bonus",
-      "sha12": "ad4cd97036b8"
+      "label": "Take-Home Van",
+      "sha12": "8f414168c265"
     },
     "B": {
-      "label": "Straight Per-Visit Pay",
-      "sha12": "9cdf2ccd91c2"
+      "label": "Van Stays At The Shop",
+      "sha12": "e4c3d7a93c3f"
     }
   },
   "c4": {
     "A": {
-      "label": "Fixed Weekdays, 8 AM To 5 PM",
-      "sha12": "f42f7791322e"
+      "label": "Never For Personal Use",
+      "sha12": "cfef845ac9c7"
     },
     "B": {
-      "label": "Route-Based 40 Hours, Some Saturdays",
-      "sha12": "aa1ef86f8f5d"
+      "label": "Commute And Short Errands",
+      "sha12": "bb608b50a7c0"
     }
   },
   "c5": {
     "A": {
-      "label": "Company Van",
-      "sha12": "5bf47c988d40"
+      "label": "12 Months, Members And Staff",
+      "sha12": "e634aeec7ca2"
     },
     "B": {
-      "label": "Own Vehicle Plus Mileage",
-      "sha12": "f1f45a597dd3"
+      "label": "6 Months, Members Only",
+      "sha12": "72b61e7bbeae"
     }
   },
   "c6": {
     "A": {
-      "label": "Company Tools And Kit",
-      "sha12": "9262530f0d81"
+      "label": "90 Days",
+      "sha12": "b72b146ad127"
     },
     "B": {
-      "label": "Own Tools Plus Tool Allowance",
-      "sha12": "91e0d28c8ae0"
+      "label": "60 Days",
+      "sha12": "b5e5b5bce529"
     }
   },
   "c7": {
     "A": {
-      "label": "12-Month Non-Solicit",
-      "sha12": "9c3214a09d69"
+      "label": "Full Rate From Day One",
+      "sha12": "bfbed82ac7ee"
     },
     "B": {
-      "label": "No Non-Solicit",
-      "sha12": "7910d50f2a92"
-    }
-  },
-  "c8": {
-    "A": {
-      "label": "12-Month, 25-Mile Non-Compete",
-      "sha12": "b20d70593329"
-    },
-    "B": {
-      "label": "No Non-Compete",
-      "sha12": "b7ff2d333c17"
-    }
-  },
-  "c9": {
-    "A": {
-      "label": "90-Day Trial Period",
-      "sha12": "1b98c95518f8"
-    },
-    "B": {
-      "label": "60-Day Trial Period",
-      "sha12": "e8c9ad8b550f"
-    }
-  },
-  "c10": {
-    "A": {
-      "label": "Sick Time Plus Holidays",
-      "sha12": "3f10f83b43d7"
-    },
-    "B": {
-      "label": "10 Vacation Days Plus Sick Time",
-      "sha12": "9950f6400160"
-    }
-  },
-  "c11": {
-    "A": {
-      "label": "Company Phone",
-      "sha12": "a1d908a2b350"
-    },
-    "B": {
-      "label": "Own Phone Plus Monthly Stipend",
-      "sha12": "af2f21a67672"
-    }
-  },
-  "c12": {
-    "A": {
-      "label": "Company Supplies And Replaces",
-      "sha12": "777057ad372f"
-    },
-    "B": {
-      "label": "Starter Kit Plus Yearly Allowance",
-      "sha12": "64f8d529650e"
+      "label": "Step Up After Probation",
+      "sha12": "39397a5d5426"
     }
   }
 }

@@ -1,0 +1,72 @@
+{
+  "c1": {
+    "A": {
+      "label": "Full Refund Before The First Visit",
+      "sha12": "e0731675ea40"
+    },
+    "B": {
+      "label": "Credit-Only From Day One",
+      "sha12": "22dc1c8824ac"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "One Plain Clause",
+      "sha12": "caf8f9d61bdd"
+    },
+    "B": {
+      "label": "Two Separate Clauses",
+      "sha12": "b7af69e62ac3"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "Free Opt-In Lockbox",
+      "sha12": "5f8d2c6facc0"
+    },
+    "B": {
+      "label": "Paid Opt-In Add-On",
+      "sha12": "9db9760a4bb4"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "Member Sets The Code",
+      "sha12": "f5fa7a2c179a"
+    },
+    "B": {
+      "label": "Code Changed After Each Visit",
+      "sha12": "514ed6915016"
+    }
+  },
+  "c5": {
+    "A": {
+      "label": "Removed At Cancellation",
+      "sha12": "d96168e88511"
+    },
+    "B": {
+      "label": "Member Keeps It",
+      "sha12": "b573a5c96cd1"
+    }
+  },
+  "c6": {
+    "A": {
+      "label": "Flat Fee To Autopay",
+      "sha12": "64e5525223f9"
+    },
+    "B": {
+      "label": "Visit Counted As Used",
+      "sha12": "3ecac2507f0a"
+    }
+  },
+  "c7": {
+    "A": {
+      "label": "One Free Miss Per Year",
+      "sha12": "0815368adaec"
+    },
+    "B": {
+      "label": "One Free Miss Ever",
+      "sha12": "38a9a402837f"
+    }
+  }
+}

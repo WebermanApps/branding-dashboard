@@ -1,0 +1,16 @@
+{
+  "category": "brand-mixed",
+  "asset_paths": [
+    "/workspace/su-five-1101/staged/branded-bucket-supplier-deck/c1a.jpg",
+    "/workspace/su-five-1101/staged/branded-bucket-supplier-deck/c1b.jpg",
+    "/workspace/su-five-1101/staged/branded-bucket-supplier-deck/c2a.jpg",
+    "/workspace/su-five-1101/staged/branded-bucket-supplier-deck/c2b.jpg",
+    "/workspace/su-five-1101/staged/branded-bucket-supplier-deck/c3a.jpg",
+    "/workspace/su-five-1101/staged/branded-bucket-supplier-deck/c3b.jpg",
+    "/workspace/su-five-1101/staged/branded-bucket-supplier-deck/c4a.jpg",
+    "/workspace/su-five-1101/staged/branded-bucket-supplier-deck/c4b.jpg"
+  ],
+  "ui_screenshots": false,
+  "bleed_mode": "flush-cream",
+  "title": "Branded Bucket Supplier Deck"
+}

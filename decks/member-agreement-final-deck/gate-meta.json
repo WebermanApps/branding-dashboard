@@ -1,0 +1,22 @@
+{
+  "category": "brand-mixed",
+  "asset_paths": [
+    "/workspace/su-five-1101/staged/member-agreement-final-deck/c1a.jpg",
+    "/workspace/su-five-1101/staged/member-agreement-final-deck/c1b.jpg",
+    "/workspace/su-five-1101/staged/member-agreement-final-deck/c2a.jpg",
+    "/workspace/su-five-1101/staged/member-agreement-final-deck/c2b.jpg",
+    "/workspace/su-five-1101/staged/member-agreement-final-deck/c3a.jpg",
+    "/workspace/su-five-1101/staged/member-agreement-final-deck/c3b.jpg",
+    "/workspace/su-five-1101/staged/member-agreement-final-deck/c4a.jpg",
+    "/workspace/su-five-1101/staged/member-agreement-final-deck/c4b.jpg",
+    "/workspace/su-five-1101/staged/member-agreement-final-deck/c5a.jpg",
+    "/workspace/su-five-1101/staged/member-agreement-final-deck/c5b.jpg",
+    "/workspace/su-five-1101/staged/member-agreement-final-deck/c6a.jpg",
+    "/workspace/su-five-1101/staged/member-agreement-final-deck/c6b.jpg",
+    "/workspace/su-five-1101/staged/member-agreement-final-deck/c7a.jpg",
+    "/workspace/su-five-1101/staged/member-agreement-final-deck/c7b.jpg"
+  ],
+  "ui_screenshots": false,
+  "bleed_mode": "flush-cream",
+  "title": "Member Agreement Final Deck"
+}

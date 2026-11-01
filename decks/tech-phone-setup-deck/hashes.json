@@ -1,0 +1,42 @@
+{
+  "c1": {
+    "A": {
+      "label": "iPhone 17e, $699",
+      "sha12": "789407c16ce8"
+    },
+    "B": {
+      "label": "iPhone 17, $929",
+      "sha12": "e9fd7931a6dd"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Visible, $25 A Month",
+      "sha12": "2bdb7bfda585"
+    },
+    "B": {
+      "label": "Visible+, $35 A Month",
+      "sha12": "e05ecd3293e1"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "White Case, Full-Colour Logo",
+      "sha12": "dfc54a96fdef"
+    },
+    "B": {
+      "label": "Terracotta Case, White Logo",
+      "sha12": "3eb6ba217dd6"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "Logo Only",
+      "sha12": "632baa4dcd8b"
+    },
+    "B": {
+      "label": "Logo Plus smartupkeep.ai",
+      "sha12": "1633443f616e"
+    }
+  }
+}

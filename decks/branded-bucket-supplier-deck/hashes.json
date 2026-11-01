@@ -1,0 +1,42 @@
+{
+  "c1": {
+    "A": {
+      "label": "Custom5GallonBuckets",
+      "sha12": "ee8647c08301"
+    },
+    "B": {
+      "label": "Shurhold",
+      "sha12": "11d99f231bd0"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "About 15 Now",
+      "sha12": "5da36c3c92cf"
+    },
+    "B": {
+      "label": "One Run Of 36",
+      "sha12": "c786e7928044"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "Digital Proof Only",
+      "sha12": "cada84c28579"
+    },
+    "B": {
+      "label": "One Sample Bucket First",
+      "sha12": "77169e4fc5da"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "Request The Quote Now",
+      "sha12": "9e96eefd5a0c"
+    },
+    "B": {
+      "label": "Skip The Quote, Go Shurhold",
+      "sha12": "d93fc88b2c22"
+    }
+  }
+}
