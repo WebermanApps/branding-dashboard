@@ -1,0 +1,18 @@
+{
+  "category": "marketing-ideas",
+  "asset_paths": [
+    "/workspace/su-mkt-1101/staged/part/c1a.jpg",
+    "/workspace/su-mkt-1101/staged/part/c1b.jpg",
+    "/workspace/su-mkt-1101/staged/part/c2a.jpg",
+    "/workspace/su-mkt-1101/staged/part/c2b.jpg",
+    "/workspace/su-mkt-1101/staged/part/c3a.jpg",
+    "/workspace/su-mkt-1101/staged/part/c3b.jpg",
+    "/workspace/su-mkt-1101/staged/part/c4a.jpg",
+    "/workspace/su-mkt-1101/staged/part/c4b.jpg",
+    "/workspace/su-mkt-1101/staged/part/c5a.jpg",
+    "/workspace/su-mkt-1101/staged/part/c5b.jpg"
+  ],
+  "ui_screenshots": false,
+  "bleed_mode": "flush-cream",
+  "title": "Local Partnerships Deck"
+}

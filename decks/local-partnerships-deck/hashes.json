@@ -1,0 +1,52 @@
+{
+  "c1": {
+    "A": {
+      "label": "Realtors First",
+      "sha12": "b004cd8c1a7b"
+    },
+    "B": {
+      "label": "Home Inspectors First",
+      "sha12": "226388a21760"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "First Month Free Card",
+      "sha12": "3fdfc258953d"
+    },
+    "B": {
+      "label": "Free Home Check Voucher",
+      "sha12": "6b9063d43805"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "Printed Leave-Behind",
+      "sha12": "683a2bed6749"
+    },
+    "B": {
+      "label": "QR In Report PDF",
+      "sha12": "9f8c9fcaca35"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "Closing Packet Insert",
+      "sha12": "f96987dcce36"
+    },
+    "B": {
+      "label": "Welcome Email",
+      "sha12": "f655eec0acd1"
+    }
+  },
+  "c5": {
+    "A": {
+      "label": "Referral Fee",
+      "sha12": "4c8846caf126"
+    },
+    "B": {
+      "label": "Co-Branded Marketing",
+      "sha12": "011f3d402274"
+    }
+  }
+}
