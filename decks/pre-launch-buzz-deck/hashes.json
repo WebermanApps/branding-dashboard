@@ -1,0 +1,62 @@
+{
+  "c1": {
+    "A": {
+      "label": "\"Join The Waitlist\"",
+      "sha12": "8a783c0ce568"
+    },
+    "B": {
+      "label": "\"Reserve Your Founding Spot\"",
+      "sha12": "1b51a1c3c453"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Mystery Van Teaser",
+      "sha12": "ecca05454057"
+    },
+    "B": {
+      "label": "Clear Feature Teaser",
+      "sha12": "50b3eace5c2f"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "Days To Launch",
+      "sha12": "7383deff0a40"
+    },
+    "B": {
+      "label": "Founding Spots Left",
+      "sha12": "cb02f65a868c"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "Two Weeks",
+      "sha12": "591ec04c7ddb"
+    },
+    "B": {
+      "label": "Thirty Days",
+      "sha12": "bb423486b97b"
+    }
+  },
+  "c5": {
+    "A": {
+      "label": "Nextdoor First",
+      "sha12": "570faaefc168"
+    },
+    "B": {
+      "label": "Instagram First",
+      "sha12": "f0eedec52b4f"
+    }
+  },
+  "c6": {
+    "A": {
+      "label": "Welcome Email",
+      "sha12": "4aef7ee73be2"
+    },
+    "B": {
+      "label": "Share Page With Referral",
+      "sha12": "ba4d343ec7e2"
+    }
+  }
+}
