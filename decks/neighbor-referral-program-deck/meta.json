@@ -1,0 +1,20 @@
+{
+  "category": "offer-marketing",
+  "asset_paths": [
+    "/workspace/su-mkt-1101/staged/ref/c1a.jpg",
+    "/workspace/su-mkt-1101/staged/ref/c1b.jpg",
+    "/workspace/su-mkt-1101/staged/ref/c2a.jpg",
+    "/workspace/su-mkt-1101/staged/ref/c2b.jpg",
+    "/workspace/su-mkt-1101/staged/ref/c3a.jpg",
+    "/workspace/su-mkt-1101/staged/ref/c3b.jpg",
+    "/workspace/su-mkt-1101/staged/ref/c4a.jpg",
+    "/workspace/su-mkt-1101/staged/ref/c4b.jpg",
+    "/workspace/su-mkt-1101/staged/ref/c5a.jpg",
+    "/workspace/su-mkt-1101/staged/ref/c5b.jpg",
+    "/workspace/su-mkt-1101/staged/ref/c6a.jpg",
+    "/workspace/su-mkt-1101/staged/ref/c6b.jpg"
+  ],
+  "ui_screenshots": false,
+  "bleed_mode": "flush-cream",
+  "title": "Neighbor Referral Program Deck"
+}

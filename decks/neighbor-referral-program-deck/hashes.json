@@ -1,0 +1,62 @@
+{
+  "c1": {
+    "A": {
+      "label": "\"You Both Get A Free Month\"",
+      "sha12": "b22d18161ffe"
+    },
+    "B": {
+      "label": "\"Give A Month, Get A Month\"",
+      "sha12": "283f7249ccb9"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Personal Code",
+      "sha12": "c1eafe5472de"
+    },
+    "B": {
+      "label": "Personal QR",
+      "sha12": "6a1668f6f4cb"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "Left At The Visit",
+      "sha12": "f8b9064848bf"
+    },
+    "B": {
+      "label": "Share Link In App",
+      "sha12": "6cd99506ce7a"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "\"Ask Me\" Rider",
+      "sha12": "2006e1df1a36"
+    },
+    "B": {
+      "label": "Referral QR On The Sign",
+      "sha12": "26f8e35014ed"
+    }
+  },
+  "c5": {
+    "A": {
+      "label": "Note On Visit Report",
+      "sha12": "2b8ecaa4aba9"
+    },
+    "B": {
+      "label": "Public Shout-Out (Opt-In)",
+      "sha12": "7f928a22475d"
+    }
+  },
+  "c6": {
+    "A": {
+      "label": "Unlimited",
+      "sha12": "396a9d27e1a2"
+    },
+    "B": {
+      "label": "Up To Three A Year",
+      "sha12": "c4a19cee0e5f"
+    }
+  }
+}
