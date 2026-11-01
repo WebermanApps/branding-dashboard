@@ -1,0 +1,18 @@
+{
+  "category": "print-collateral",
+  "asset_paths": [
+    "/workspace/su-six-1101/staged/bc/c1a.jpg",
+    "/workspace/su-six-1101/staged/bc/c1b.jpg",
+    "/workspace/su-six-1101/staged/bc/c2a.jpg",
+    "/workspace/su-six-1101/staged/bc/c2b.jpg",
+    "/workspace/su-six-1101/staged/bc/c3a.jpg",
+    "/workspace/su-six-1101/staged/bc/c3b.jpg",
+    "/workspace/su-six-1101/staged/bc/c4a.jpg",
+    "/workspace/su-six-1101/staged/bc/c4b.jpg",
+    "/workspace/su-six-1101/staged/bc/c5a.jpg",
+    "/workspace/su-six-1101/staged/bc/c5b.jpg"
+  ],
+  "ui_screenshots": false,
+  "bleed_mode": "flush-cream",
+  "title": "Business Card Deck"
+}

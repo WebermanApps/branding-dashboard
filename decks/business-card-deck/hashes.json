@@ -1,0 +1,52 @@
+{
+  "c1": {
+    "A": {
+      "label": "Centered Logo, Name Below",
+      "sha12": "f73b802c37c7"
+    },
+    "B": {
+      "label": "Logo Left, Details Right",
+      "sha12": "a99e82c2eaa9"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Big QR, Tagline Only",
+      "sha12": "6bf0dda58e3e"
+    },
+    "B": {
+      "label": "QR Plus Three Benefits",
+      "sha12": "d1178d21d678"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "\"One Less Thing To Worry About\"",
+      "sha12": "768a6660f9c1"
+    },
+    "B": {
+      "label": "\"Membership For Your House\"",
+      "sha12": "33c3f57e3501"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "Terracotta Band",
+      "sha12": "77fe53eebfb2"
+    },
+    "B": {
+      "label": "Lagoon Band",
+      "sha12": "2f454adb5f9d"
+    }
+  },
+  "c5": {
+    "A": {
+      "label": "Landscape 3.5 x 2 In",
+      "sha12": "c49bb800cf3f"
+    },
+    "B": {
+      "label": "Portrait 2 x 3.5 In",
+      "sha12": "f71c078f4dba"
+    }
+  }
+}
