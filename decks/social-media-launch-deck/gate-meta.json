@@ -1,0 +1,22 @@
+{
+  "category": "social-posts",
+  "asset_paths": [
+    "/workspace/su-mkt-1101/staged/social/c1a.jpg",
+    "/workspace/su-mkt-1101/staged/social/c1b.jpg",
+    "/workspace/su-mkt-1101/staged/social/c2a.jpg",
+    "/workspace/su-mkt-1101/staged/social/c2b.jpg",
+    "/workspace/su-mkt-1101/staged/social/c3a.jpg",
+    "/workspace/su-mkt-1101/staged/social/c3b.jpg",
+    "/workspace/su-mkt-1101/staged/social/c4a.jpg",
+    "/workspace/su-mkt-1101/staged/social/c4b.jpg",
+    "/workspace/su-mkt-1101/staged/social/c5a.jpg",
+    "/workspace/su-mkt-1101/staged/social/c5b.jpg",
+    "/workspace/su-mkt-1101/staged/social/c6a.jpg",
+    "/workspace/su-mkt-1101/staged/social/c6b.jpg",
+    "/workspace/su-mkt-1101/staged/social/c7a.jpg",
+    "/workspace/su-mkt-1101/staged/social/c7b.jpg"
+  ],
+  "ui_screenshots": false,
+  "bleed_mode": "flush-cream",
+  "title": "Social Media Launch Deck"
+}

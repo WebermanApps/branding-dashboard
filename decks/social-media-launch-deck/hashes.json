@@ -1,0 +1,72 @@
+{
+  "c1": {
+    "A": {
+      "label": "Facebook + Instagram",
+      "sha12": "29f96197fd87"
+    },
+    "B": {
+      "label": "Nextdoor First",
+      "sha12": "d19d05a8f0bd"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "YouTube Shorts",
+      "sha12": "a4df88fe12b8"
+    },
+    "B": {
+      "label": "Instagram Reels",
+      "sha12": "f5d63d58bd08"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "Carousel",
+      "sha12": "01ed9723120a"
+    },
+    "B": {
+      "label": "Single Post",
+      "sha12": "216af4571c6c"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "Three A Week",
+      "sha12": "17d72248cadb"
+    },
+    "B": {
+      "label": "Daily",
+      "sha12": "3172e1885f0b"
+    }
+  },
+  "c5": {
+    "A": {
+      "label": "Tech Tips",
+      "sha12": "c5a947e41f8d"
+    },
+    "B": {
+      "label": "Home Record Demos",
+      "sha12": "308a4f9584ae"
+    }
+  },
+  "c6": {
+    "A": {
+      "label": "Seasonal Checklists",
+      "sha12": "018b56f6db31"
+    },
+    "B": {
+      "label": "Van And Visit Stories",
+      "sha12": "475c857de7f7"
+    }
+  },
+  "c7": {
+    "A": {
+      "label": "Theme Days",
+      "sha12": "cfbcbb670d26"
+    },
+    "B": {
+      "label": "One Pillar Per Week",
+      "sha12": "0f91151c7fd4"
+    }
+  }
+}
