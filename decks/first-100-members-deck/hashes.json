@@ -1,0 +1,62 @@
+{
+  "c1": {
+    "A": {
+      "label": "Live Spots-Left Counter",
+      "sha12": "8f0337ca363d"
+    },
+    "B": {
+      "label": "Numbered Founding Homes",
+      "sha12": "8dc17b8f7933"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "100 Total",
+      "sha12": "f7c349499e1a"
+    },
+    "B": {
+      "label": "25 Per Neighborhood",
+      "sha12": "63ce3183bb32"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "Hard Deadline",
+      "sha12": "1a2999383f5a"
+    },
+    "B": {
+      "label": "Closes When Full",
+      "sha12": "8244d89f41ae"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "Plus First Pick Of Times",
+      "sha12": "0c2f751564c4"
+    },
+    "B": {
+      "label": "Plus A Free Furnace Filter",
+      "sha12": "5c3d63a34191"
+    }
+  },
+  "c5": {
+    "A": {
+      "label": "Round Terracotta Seal",
+      "sha12": "c2c37a0bec00"
+    },
+    "B": {
+      "label": "Lagoon Ribbon Tag",
+      "sha12": "036804700e94"
+    }
+  },
+  "c6": {
+    "A": {
+      "label": "App And Reports Only",
+      "sha12": "634e9519723c"
+    },
+    "B": {
+      "label": "Add A Window Decal",
+      "sha12": "c2a6783fbcaa"
+    }
+  }
+}

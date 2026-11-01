@@ -1,0 +1,20 @@
+{
+  "category": "offer-marketing",
+  "asset_paths": [
+    "/workspace/su-mkt-1101/staged/f100/c1a.jpg",
+    "/workspace/su-mkt-1101/staged/f100/c1b.jpg",
+    "/workspace/su-mkt-1101/staged/f100/c2a.jpg",
+    "/workspace/su-mkt-1101/staged/f100/c2b.jpg",
+    "/workspace/su-mkt-1101/staged/f100/c3a.jpg",
+    "/workspace/su-mkt-1101/staged/f100/c3b.jpg",
+    "/workspace/su-mkt-1101/staged/f100/c4a.jpg",
+    "/workspace/su-mkt-1101/staged/f100/c4b.jpg",
+    "/workspace/su-mkt-1101/staged/f100/c5a.jpg",
+    "/workspace/su-mkt-1101/staged/f100/c5b.jpg",
+    "/workspace/su-mkt-1101/staged/f100/c6a.jpg",
+    "/workspace/su-mkt-1101/staged/f100/c6b.jpg"
+  ],
+  "ui_screenshots": false,
+  "bleed_mode": "flush-cream",
+  "title": "First 100 Members Deck"
+}
