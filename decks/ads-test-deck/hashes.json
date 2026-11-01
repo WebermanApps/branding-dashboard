@@ -1,0 +1,62 @@
+{
+  "c1": {
+    "A": {
+      "label": "Facebook",
+      "sha12": "bd754ff34a44"
+    },
+    "B": {
+      "label": "Nextdoor",
+      "sha12": "bfde71c9cce2"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Google Local",
+      "sha12": "0d51f99c0f8f"
+    },
+    "B": {
+      "label": "Facebook Only",
+      "sha12": "d45956da7b69"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "$300 A Month",
+      "sha12": "1d13217ed2b9"
+    },
+    "B": {
+      "label": "$600 A Month",
+      "sha12": "2a93ced07f2e"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "Even Split",
+      "sha12": "470ef821a088"
+    },
+    "B": {
+      "label": "Weighted To Google",
+      "sha12": "38bdd08f7ce5"
+    }
+  },
+  "c5": {
+    "A": {
+      "label": "First Month Free",
+      "sha12": "1026beb63e38"
+    },
+    "B": {
+      "label": "First 100 Homes",
+      "sha12": "23e535658a63"
+    }
+  },
+  "c6": {
+    "A": {
+      "label": "Two Weeks",
+      "sha12": "53c977e3452e"
+    },
+    "B": {
+      "label": "Four Weeks",
+      "sha12": "01350e6dfa05"
+    }
+  }
+}

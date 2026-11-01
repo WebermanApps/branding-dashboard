@@ -1,0 +1,20 @@
+{
+  "category": "marketing-ideas",
+  "asset_paths": [
+    "/workspace/su-mkt-1101/staged/ads/c1a.jpg",
+    "/workspace/su-mkt-1101/staged/ads/c1b.jpg",
+    "/workspace/su-mkt-1101/staged/ads/c2a.jpg",
+    "/workspace/su-mkt-1101/staged/ads/c2b.jpg",
+    "/workspace/su-mkt-1101/staged/ads/c3a.jpg",
+    "/workspace/su-mkt-1101/staged/ads/c3b.jpg",
+    "/workspace/su-mkt-1101/staged/ads/c4a.jpg",
+    "/workspace/su-mkt-1101/staged/ads/c4b.jpg",
+    "/workspace/su-mkt-1101/staged/ads/c5a.jpg",
+    "/workspace/su-mkt-1101/staged/ads/c5b.jpg",
+    "/workspace/su-mkt-1101/staged/ads/c6a.jpg",
+    "/workspace/su-mkt-1101/staged/ads/c6b.jpg"
+  ],
+  "ui_screenshots": false,
+  "bleed_mode": "flush-cream",
+  "title": "Ads Test Deck"
+}
