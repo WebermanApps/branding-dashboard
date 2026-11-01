@@ -1,0 +1,18 @@
+{
+  "category": "social-posts",
+  "asset_paths": [
+    "/workspace/su-six-1101/staged/sl/c1a.jpg",
+    "/workspace/su-six-1101/staged/sl/c1b.jpg",
+    "/workspace/su-six-1101/staged/sl/c2a.jpg",
+    "/workspace/su-six-1101/staged/sl/c2b.jpg",
+    "/workspace/su-six-1101/staged/sl/c3a.jpg",
+    "/workspace/su-six-1101/staged/sl/c3b.jpg",
+    "/workspace/su-six-1101/staged/sl/c4a.jpg",
+    "/workspace/su-six-1101/staged/sl/c4b.jpg",
+    "/workspace/su-six-1101/staged/sl/c5a.jpg",
+    "/workspace/su-six-1101/staged/sl/c5b.jpg"
+  ],
+  "ui_screenshots": false,
+  "bleed_mode": "flush-cream",
+  "title": "Social Launch Posts Deck"
+}

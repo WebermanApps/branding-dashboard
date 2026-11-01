@@ -1,0 +1,52 @@
+{
+  "c1": {
+    "A": {
+      "label": "Big Tagline On White",
+      "sha12": "86f1889f9bc8"
+    },
+    "B": {
+      "label": "Van Photo Cover",
+      "sha12": "f9eb00e092c6"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Problem, Plan, Join Story",
+      "sha12": "279956e3cd55"
+    },
+    "B": {
+      "label": "What We Check List",
+      "sha12": "688d6e51c285"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "Terracotta Headers",
+      "sha12": "af8409831281"
+    },
+    "B": {
+      "label": "Lagoon Headers",
+      "sha12": "f831f38c9033"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "QR And smartupkeep.ai",
+      "sha12": "6e0268e23ad3"
+    },
+    "B": {
+      "label": "\"Link In Bio\" With Logo",
+      "sha12": "f6c584b27699"
+    }
+  },
+  "c5": {
+    "A": {
+      "label": "Square 1:1",
+      "sha12": "89d0a1924264"
+    },
+    "B": {
+      "label": "Tall 4:5",
+      "sha12": "0c4165dde6c0"
+    }
+  }
+}
