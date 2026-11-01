@@ -1,0 +1,82 @@
+{
+  "c1": {
+    "A": {
+      "label": "By Zip Code",
+      "sha12": "2f76f42de731"
+    },
+    "B": {
+      "label": "Radius Around Members",
+      "sha12": "e840ac227c1c"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Homes 20+ Years Old",
+      "sha12": "876ee2fcc231"
+    },
+    "B": {
+      "label": "Any Age",
+      "sha12": "5d247650699e"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "EDDM Every Door",
+      "sha12": "cba025ddabcf"
+    },
+    "B": {
+      "label": "Targeted Homeowner List",
+      "sha12": "5f8f33e49216"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "Three Drops",
+      "sha12": "4b5484a1ba72"
+    },
+    "B": {
+      "label": "One Drop",
+      "sha12": "6cc3960a188a"
+    }
+  },
+  "c5": {
+    "A": {
+      "label": "\"First Month Free\" Leads",
+      "sha12": "3cd43550d783"
+    },
+    "B": {
+      "label": "\"First 100 Homes\" Leads",
+      "sha12": "b3819cd58449"
+    }
+  },
+  "c6": {
+    "A": {
+      "label": "Printed End Date",
+      "sha12": "e5df1647d843"
+    },
+    "B": {
+      "label": "\"While Spots Last\"",
+      "sha12": "858abeaacf0a"
+    }
+  },
+  "c7": {
+    "A": {
+      "label": "Before The Cold",
+      "sha12": "59b176e730aa"
+    },
+    "B": {
+      "label": "Right After The Cold",
+      "sha12": "4be82b7455b8"
+    }
+  },
+  "c8": {
+    "A": {
+      "label": "Midweek",
+      "sha12": "4763340de543"
+    },
+    "B": {
+      "label": "Saturday",
+      "sha12": "60e8b8cd9120"
+    }
+  }
+}

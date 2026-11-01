@@ -1,0 +1,24 @@
+{
+  "category": "print-collateral",
+  "asset_paths": [
+    "/workspace/su-mkt-1101/staged/mail/c1a.jpg",
+    "/workspace/su-mkt-1101/staged/mail/c1b.jpg",
+    "/workspace/su-mkt-1101/staged/mail/c2a.jpg",
+    "/workspace/su-mkt-1101/staged/mail/c2b.jpg",
+    "/workspace/su-mkt-1101/staged/mail/c3a.jpg",
+    "/workspace/su-mkt-1101/staged/mail/c3b.jpg",
+    "/workspace/su-mkt-1101/staged/mail/c4a.jpg",
+    "/workspace/su-mkt-1101/staged/mail/c4b.jpg",
+    "/workspace/su-mkt-1101/staged/mail/c5a.jpg",
+    "/workspace/su-mkt-1101/staged/mail/c5b.jpg",
+    "/workspace/su-mkt-1101/staged/mail/c6a.jpg",
+    "/workspace/su-mkt-1101/staged/mail/c6b.jpg",
+    "/workspace/su-mkt-1101/staged/mail/c7a.jpg",
+    "/workspace/su-mkt-1101/staged/mail/c7b.jpg",
+    "/workspace/su-mkt-1101/staged/mail/c8a.jpg",
+    "/workspace/su-mkt-1101/staged/mail/c8b.jpg"
+  ],
+  "ui_screenshots": false,
+  "bleed_mode": "flush-cream",
+  "title": "Mailer Targeting And Timing Deck"
+}
