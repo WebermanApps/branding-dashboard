@@ -1,0 +1,62 @@
+{
+  "c1": {
+    "A": {
+      "label": "Furnace Push",
+      "sha12": "a310cd3b87b1"
+    },
+    "B": {
+      "label": "Frozen Pipe Prevention",
+      "sha12": "b8f7ec13f3c1"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Spring Gutters",
+      "sha12": "3769b3bb476b"
+    },
+    "B": {
+      "label": "Sump Pump Check",
+      "sha12": "cb45929cfe12"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "AC Check",
+      "sha12": "e456d8269cf2"
+    },
+    "B": {
+      "label": "Dryer Vent And Alarms",
+      "sha12": "bb3a45fff0d0"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "Water Heater Flush",
+      "sha12": "93ee9b68dee2"
+    },
+    "B": {
+      "label": "Fall Checklist",
+      "sha12": "fa901ea226b9"
+    }
+  },
+  "c5": {
+    "A": {
+      "label": "Winter Launch",
+      "sha12": "005b9248ad6f"
+    },
+    "B": {
+      "label": "Spring Launch",
+      "sha12": "e0e3349cece6"
+    }
+  },
+  "c6": {
+    "A": {
+      "label": "Four Weeks",
+      "sha12": "72888fae7282"
+    },
+    "B": {
+      "label": "Six Weeks",
+      "sha12": "2d6adcba3ade"
+    }
+  }
+}

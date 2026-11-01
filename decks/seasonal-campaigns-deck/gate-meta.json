@@ -1,0 +1,20 @@
+{
+  "category": "marketing-ideas",
+  "asset_paths": [
+    "/workspace/su-mkt-1101/staged/season/c1a.jpg",
+    "/workspace/su-mkt-1101/staged/season/c1b.jpg",
+    "/workspace/su-mkt-1101/staged/season/c2a.jpg",
+    "/workspace/su-mkt-1101/staged/season/c2b.jpg",
+    "/workspace/su-mkt-1101/staged/season/c3a.jpg",
+    "/workspace/su-mkt-1101/staged/season/c3b.jpg",
+    "/workspace/su-mkt-1101/staged/season/c4a.jpg",
+    "/workspace/su-mkt-1101/staged/season/c4b.jpg",
+    "/workspace/su-mkt-1101/staged/season/c5a.jpg",
+    "/workspace/su-mkt-1101/staged/season/c5b.jpg",
+    "/workspace/su-mkt-1101/staged/season/c6a.jpg",
+    "/workspace/su-mkt-1101/staged/season/c6b.jpg"
+  ],
+  "ui_screenshots": false,
+  "bleed_mode": "flush-cream",
+  "title": "Seasonal Campaigns Deck"
+}
