@@ -1,0 +1,52 @@
+{
+  "c1": {
+    "A": {
+      "label": "Photo First",
+      "sha12": "811cbe954396"
+    },
+    "B": {
+      "label": "Checklist Summary First",
+      "sha12": "60fbae72037f"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Before And After Slider",
+      "sha12": "b1ce940fc66f"
+    },
+    "B": {
+      "label": "Photo Grid",
+      "sha12": "9c369ba39f3a"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "Simple Green Ticks",
+      "sha12": "618bd5b7b752"
+    },
+    "B": {
+      "label": "Status Chips",
+      "sha12": "22cd645be099"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "Typed Note Card",
+      "sha12": "975efb9b6b8e"
+    },
+    "B": {
+      "label": "Handwritten-Style Note",
+      "sha12": "1fd300397660"
+    }
+  },
+  "c5": {
+    "A": {
+      "label": "Card At The Bottom",
+      "sha12": "7a32ee4d6f79"
+    },
+    "B": {
+      "label": "Sticky Bottom Bar",
+      "sha12": "0102e08b3bb7"
+    }
+  }
+}

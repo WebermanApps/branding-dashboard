@@ -1,0 +1,18 @@
+{
+  "category": "app-ui",
+  "asset_paths": [
+    "/workspace/su-six-1101/staged/vr/c1a.jpg",
+    "/workspace/su-six-1101/staged/vr/c1b.jpg",
+    "/workspace/su-six-1101/staged/vr/c2a.jpg",
+    "/workspace/su-six-1101/staged/vr/c2b.jpg",
+    "/workspace/su-six-1101/staged/vr/c3a.jpg",
+    "/workspace/su-six-1101/staged/vr/c3b.jpg",
+    "/workspace/su-six-1101/staged/vr/c4a.jpg",
+    "/workspace/su-six-1101/staged/vr/c4b.jpg",
+    "/workspace/su-six-1101/staged/vr/c5a.jpg",
+    "/workspace/su-six-1101/staged/vr/c5b.jpg"
+  ],
+  "ui_screenshots": false,
+  "bleed_mode": "flush-cream",
+  "title": "Visit Report Look Deck"
+}
