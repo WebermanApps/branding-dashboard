@@ -1,0 +1,52 @@
+{
+  "c1": {
+    "A": {
+      "label": "\"Home Care, On Schedule\" + Free Month",
+      "sha12": "eff9d6810d2d"
+    },
+    "B": {
+      "label": "\"Your Home, Looked After\" + First 100",
+      "sha12": "211870f65b87"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Email Only",
+      "sha12": "f46ee3a02c68"
+    },
+    "B": {
+      "label": "Name, Email, Zip",
+      "sha12": "f15a025ab116"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "In The Hero",
+      "sha12": "586e9cf1e11b"
+    },
+    "B": {
+      "label": "Sticky Bottom Bar",
+      "sha12": "065c730656bd"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "Licensed And Insured",
+      "sha12": "8fcd0be698ec"
+    },
+    "B": {
+      "label": "Background-Checked Techs",
+      "sha12": "f7e9e1054cbd"
+    }
+  },
+  "c5": {
+    "A": {
+      "label": "Founding Counter",
+      "sha12": "f55afa8fe23b"
+    },
+    "B": {
+      "label": "Member Quotes",
+      "sha12": "8bb3a81fa23e"
+    }
+  }
+}
